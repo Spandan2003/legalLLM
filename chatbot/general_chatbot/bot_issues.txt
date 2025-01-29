@@ -1,0 +1,123 @@
+SPANDAN - edaakhil login issue
+AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+
+Human: I had purchased a Flexi ticket through IRCTC for an Indigo flight. Due to certain reasons, I had to change the date of the flight and I was allowed to do so. Later, I had to change the date of flight again, but I was not allowed and proceeded to cancel the ticket. But a message popped that I cannot cancel as I have booked it through an agent IRCTC and only it could cancel on behalf of me. When I go to IRCTC bookings, it does not show me the changed flight date and now I cannot cancel it even there as already 3 days have passed from the flight date as shown in the IRCTC app. I am left with no option but to lose my money without any refund. What can I do?
+
+AI: Thank you for sharing your concern with me. I'm here to help you with your consumer grievance.
+
+To better understand your situation, can you please tell me more about what you mean by "certain reasons" that led to the first change in the flight date? Was it due to any unforeseen circumstances or was it a personal preference change?
+
+Human:  I have only changed the date once
+
+AI: So, you initially changed the flight date once, and then you wanted to change it again, but the system didn't allow you to do so. As a result, you proceeded to cancel the ticket, but the system didn't permit you to do so because it was booked through an agent (IRCTC). Now, you're unable to cancel the ticket and are worried about losing your money.
+
+Can you please tell me more about the message you received when you tried to cancel the ticket? Was it a specific error message or a notification from IRCTC?
+
+Human: : So, the ticket date was initially 1.10.2024. I modified it to 1.11.2024 on 24.09.2024. Later, I wanted it to change the date to 17.10.2024 but it refused. So I tried to cancel it on 5.10.2024. Indigo website showed I cannot cancel and this must be done through IRCTC App. IRCTC App still shows date of flight as 1.10.2024 and since date has already passed I cannot cancel it.
+
+AI: Thank you for providing more details about your situation. It seems like there's a discrepancy between the flight date shown in the IRCTC App and the actual date you had modified it to.
+
+Since you're unable to cancel the ticket through the IRCTC App, I would recommend reaching out to IRCTC's customer support directly. You can try contacting them through their website, phone, or email to explain your situation and request their assistance in cancelling the ticket.
+
+Additionally, you may want to consider filing a complaint with the National Consumer Helpline (1800-11-4000) or through the UMANG App, as they can guide you on the next steps to take and provide assistance in resolving your issue.
+
+Before we proceed further, do you want me to help you draft a complaint letter or notice to IRCTC, or would you like to try contacting them directly first?
+
+Human: Yes draft me a sample message or mail that I can use as a template
+
+AI: Here's a sample email template you can use as a reference:
+
+Subject: Request for Ticket Cancellation and Refund for Flight [Ticket Number]
+
+Dear IRCTC Customer Support Team,
+
+I am writing to request your assistance with cancelling my flight ticket, which was booked through your platform. The details of the ticket are as follows:
+
+* Ticket Number: [Insert Ticket Number]
+* Flight Date: Initially booked for 1.10.2024, modified to 1.11.2024 on 24.09.2024, and then attempted to be modified to 17.10.2024 (but was refused)
+* Date of attempted cancellation: 5.10.2024
+
+Unfortunately, the IRCTC App shows the original flight date of 1.10.2024, which has already passed. I am unable to cancel the ticket through the App due to this discrepancy.
+
+I request your assistance in cancelling the ticket and processing a refund for the same. Please let me know the next steps to take and any additional documentation required from my end.
+
+My booking reference number is [Insert Booking Reference Number, if available]. I have attached a copy of my ticket for your reference.
+
+Thank you for your prompt attention to this matter. I look forward to hearing from you soon.
+
+Sincerely,
+[Your Name]
+
+Please note that you should replace the brackets with your actual ticket number, booking reference number, and your name. Also, make sure to attach a copy of your ticket to the email.
+
+Before sending the email, I would recommend saving a copy of the email and any attachments for your records.
+
+Is there anything else I can help you with?
+
+Human: If I want to file a complaint, against whom should I file?
+
+AI: Based on the information you provided, it seems that you have a grievance against IRCTC, the airline (Indigo), and possibly the agent who booked the ticket on behalf of IRCTC.
+
+For a complaint against IRCTC, you can file it with the National Consumer Helpline (1800-11-4000) or through the UMANG App. You can also approach the State Consumer Dispute Redressal Commission (SDRC) or the District Consumer Dispute Redressal Forum (DCDF) in your state.
+
+If you want to file a complaint against the airline (Indigo), you can contact their customer service directly and try to resolve the issue. If you're not satisfied with their response, you can file a complaint with the Directorate General of Civil Aviation (DGCA) or the National Consumer Helpline.
+
+As for the agent who booked the ticket on behalf of IRCTC, you can file a complaint with IRCTC's customer service and also consider filing a complaint with the State Consumer Dispute Redressal Commission (SDRC) or the District Consumer Dispute Redressal Forum (DCDF) in your state.
+
+Here's a rough outline of the steps you can take:
+
+1. File a complaint with IRCTC's customer service
+2. File a complaint with the National Consumer Helpline (1800-11-4000) or through the UMANG App
+3. Consider filing a complaint with the State Consumer Dispute Redressal Commission (SDRC) or the District Consumer Dispute Redressal Forum (DCDF) in your state
+4. If you're not satisfied with the response, consider filing a complaint with the Directorate General of Civil Aviation (DGCA) or the National Consumer Helpline.
+
+Please note that you may need to provide documentation and evidence to support your complaint, and the process may vary depending on the jurisdiction and the specific circumstances of your case.
+
+Do you want me to help you draft a complaint letter or notice to file with any of these authorities?
+
+Human: I reside in Kolkata and the ticket price was of 8500. Where to file the complaint?
+
+AI: As you reside in Kolkata, you can file a complaint with the West Bengal State Consumer Dispute Redressal Commission (WBCDRC) or the District Consumer Dispute Redressal Forum (DCDF) in Kolkata.
+
+Here are the details:
+
+1. West Bengal State Consumer Dispute Redressal Commission (WBCDRC):
+	* Address: 1, Ashutosh Mukherjee Road, Kolkata - 700 013
+	* Phone: 033-2237-0475
+	* Email: [wbcdrc@kolkata.nic.in](mailto:wbcdrc@kolkata.nic.in)
+2. District Consumer Dispute Redressal Forum (DCDF) in Kolkata:
+	* Address: 2, B.B.D. Bagh, Kolkata - 700 001
+	* Phone: 033-2236-1444
+
+You can also file a complaint with the National Consumer Helpline (1800-11-4000) or through the UMANG App, as I mentioned earlier.
+
+Since the ticket price is Rs. 8,500, the jurisdiction for filing a complaint would be the District Consumer Dispute Redressal Forum (DCDF) in Kolkata, as the amount is within the jurisdictional limit of Rs. 1 crore.
+
+Before filing a complaint, you may want to try to resolve the issue with IRCTC's customer service or the airline (Indigo) first. If you're not satisfied with their response, you can proceed with filing a complaint with the DCDF or WBCDRC.
+
+Do you want me to help you draft a complaint letter or notice to file with the DCDF or WBCDRC?
+
+Human: How to do so by e daakhil?
+
+AI: You can file a complaint through the e-daakhil portal, which is an online platform provided by the Ministry of Consumer Affairs, Government of India. Here's a step-by-step guide to help you file a complaint through e-daakhil:
+
+1. Visit the e-daakhil portal: [http://edaakhil.nic.in/](http://edaakhil.nic.in/)
+2. Click on "File a Complaint" and select the type of complaint (in this case, it would be "Consumer Complaint").
+3. Fill in the required details:
+	* Your name and address
+	* The name and address of the opposing party (IRCTC, Indigo, or the agent)
+	* A brief description of the complaint
+	* The amount involved (Rs. 8,500)
+	* The jurisdiction (Kolkata)
+4. Upload the required documents:
+	* A copy of your ticket
+	* Any other relevant documents that support your complaint
+5. Review and submit the complaint
+6. You will receive an acknowledgement number and a unique complaint ID
+7. You can track the status of your complaint through the e-daakhil portal
+
+Please note that you will need to register on the e-daakhil portal first if you haven't already done so. You can register by clicking on the "Register" button on the top right corner of the page.
+
+Before filing a complaint through e-daakhil, make sure you have all the necessary documents and information ready. If you need help with the process, you can contact the e-daakhil helpline at 1800-11-4000 or 011-2336-4444.
+
+Do you want me to help you draft a complaint letter or notice to file through e-daakhil?

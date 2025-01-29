@@ -1,0 +1,221 @@
+Human: I purchased an oven, but within a few months, it stopped working. The seller neither fixed the issue nor replaced the product. What do I do now?
+
+Bot: Thank you for sharing your concern. I'm here to help you with your consumer grievance.
+
+To better understand your issue, can you please tell me what led to the oven stopping working? Was it due to a manufacturing defect, or was it caused by any other reason?
+
+Human: I purchased a microwave oven on 04/02/2022. Within a few weeks, it stopped working, well within the warranty period. The technician from the seller’s company informed that a few parts would have to be replaced, and that it would be done in about a week as the parts were not in stock. Many days went by, but the new parts never arrived.
+
+Bot: It seems like the seller is not taking responsibility for the repair or replacement of the oven despite the warranty period. This is a clear case of a defective product and the seller's failure to honor their warranty.
+
+Considering the incident occurred on 04/02/2022, the statute of limitations for filing a complaint is 2 years. Since today's date is 26/09/2024, you still have time to take action.
+
+Can you please provide me with the contact information of the seller, including their name, phone number, and address, if you have it? This will help me better understand the situation and provide you with further guidance.
+
+Human: It stopped working on 15/03/2022
+
+Bot: The incident occurred on 15/03/2022. You mentioned that the oven was still under warranty at that time. Since you purchased the oven on 04/02/2022, it's well within the 2-year time frame for filing a consumer complaint. 
+
+You also mentioned that the seller's technician was supposed to replace the parts, but it didn't happen. Did the seller refuse to entertain any further requests or did they simply not follow up on the repair?
+
+Human: Rs 10,000
+
+Bot: You mentioned that the seller's technician informed you that a few parts would have to be replaced, but they never arrived. Did you contact the seller again after the initial communication from the technician, and if so, what was their response?
+
+Human: When I contacted the service center, I was told the matter would be taken up with higher authorities and that it would be resolved soon, but I never heard from them after that.
+
+Bot: It seems like the seller's service center is not taking adequate action to resolve the issue. You have the option to file a complaint with the National Consumer Helpline (1800-11-4000) or through the UMANG App for immediate assistance.
+
+Before we proceed with that, would you like me to draft a legal notice to the seller, outlining the issue and seeking a replacement or refund for the defective oven?
+
+Human: Yes, I did. Sent emails but received no favourable response.
+
+Bot: It seems like the seller's service center has not been responsive to your issue. As the incident occurred within the warranty period, you may be eligible for a replacement or refund. Would you like me to guide you on drafting a legal notice to the seller to resolve this issue?
+
+Human: Yes, sent a legal notice on 23/04/2022 (23rd February, 2022) whereby the opposite party was asked to replace the defective components, or refund the purchase cost of the product, and also pay Rs 15,000/- as compensation, but received no response.
+
+Bot: Since you sent the legal notice on 23/04/2022, which is within the 2-year time frame, you are still eligible to pursue legal action. However, considering the notice was sent on 23/04/2022 but the incident occurred on 15/03/2022, we should consider the date of the incident for the purpose of filing a complaint. Since today's date is 26/09/2024, you have time to file a complaint.
+
+Would you like to proceed with drafting a complaint or would you like to explore other options?
+
+Human: A complaint.
+
+Bot: You can file a complaint before the District Commission, as the value of the goods paid as consideration does not exceed one crore rupees. You can approach the District Commission under section 34 of the Consumer Protection Act, 2019.
+
+Before filing a complaint, I can help you draft a Memorandum of Parties and Affidavit. Would you like me to assist you in drafting these documents?
+
+Human: I live in the city of Cosmos
+
+Bot: I couldn't find any information about a city called "Cosmos". Could you please provide the name of the state or district where you reside? This will help me provide you with the correct location-based helpline number for your area.
+
+Human: I want to file a complaint
+
+Bot: To file a complaint, you can approach the District Consumer Dispute Redressal Forum (DCDRF) in Cosmos. The value of the goods or services paid as consideration does not exceed one crore rupees, so you can file a complaint before the District Commission. You can download the complaint form from the National Consumer Helpline website (consumerhelpline.gov.in) or obtain it from the District Commission's office. Please fill out the form and submit it along with the required documents and fees. What else would you like help with?
+
+Human: Yes, it would be really helpful if you share a template that I could use for reference
+
+Bot: Here's a basic template for a consumer complaint:
+
+**MEMORANDUM OF PARTIES**
+
+1.  **Name of the Complainant:**  [Your Name]
+2.  **Address of the Complainant:**  [Your Address]
+3.  **Name of the Opposite Party:**  [Name of the Seller]
+4.  **Address of the Opposite Party:**  [Address of the Seller]
+
+**FACTS OF THE CASE**
+
+*   The complainant purchased a microwave oven from the opposite party on 04/02/2022 for Rs 10,000.
+*   The microwave oven stopped working on 15/03/2022.
+*   The complainant requested the opposite party to replace the defective components or refund the purchase cost of the product, along with compensation of Rs 15,000, but received no response.
+
+**RELIEF**
+
+The complainant seeks the following relief:
+
+1.  Replacement of the defective components or refund of the purchase cost of the product.
+2.  Compensation of Rs 15,000 for the mental agony and harassment caused by the opposite party.
+
+**ALLEGATIONS**
+
+The complainant alleges that the opposite party has failed to fulfill their obligations under the Consumer Protection Act, 2019, and has caused the complainant to suffer a loss of Rs 10,000, along with mental agony and harassment.
+
+**PRAYER**
+
+The complainant prays that the opposite party be directed to replace the defective components or refund the purchase cost of the product, along with compensation of Rs 15,000, and that the opposite party be punished for their failure to comply with the Consumer Protection Act, 2019.
+
+**VERIFICATION**
+
+I, [Your Name], do hereby verify that the contents of this complaint are true to the best of my knowledge and belief. I am the complainant in this case and I have the necessary authority to file this complaint.
+
+**PLACE**
+
+[Your City/City]
+[Date]
+
+Please note that this is a basic template, and you should modify it according to your specific situation. Also, ensure that you attach all the required documents, such as the original bill/invoice, warranty card, photograph of the product received, copy of emails sent to the opposite party, and original legal notice.
+
+Additionally, you can use the E-Daakhil portal to file your complaint, and the portal will guide you through the process. If you need any further assistance, feel free to ask.
+
+Human: I am Bruno, and my age is 45. I work as a graphic designer. My residential address is 56/879, 4th street, Sunset Avenue, Cosmos- 32. my contact info is Bruno1888@gmail.com, 9234567891 Name: ABC Appliances Private Limited Address: 2nd Cross Street, Jeevan Nagar, Cosmos-60 aestheticszz@gmail.com
+
+Bot: Here's a sample template for a consumer complaint that you can use as a reference:
+
+**Memorandum of Parties**
+
+To,
+
+The Hon'ble President, Cosmos District Consumer Disputes Redressal Forum
+
+Subject: Consumer Complaint against ABC Appliances Private Limited
+
+**Complainant**
+
+1. Name: Bruno
+2. Age: 45 years
+3. Occupation: Graphic Designer
+4. Address: 56/879, 4th Street, Sunset Avenue, Cosmos-32
+5. Contact Information: Bruno1888@gmail.com, 9234567891
+
+**Opposite Party**
+
+1. Name: ABC Appliances Private Limited
+2. Address: 2nd Cross Street, Jeevan Nagar, Cosmos-60
+3. Contact Information: aestheticszz@gmail.com
+
+**Case Details**
+
+1. Date of Purchase: 04/02/2022
+2. Product: Microwave Oven
+3. Price: Rs 10,000/-
+4. Description of the dispute: The microwave oven stopped working within a few weeks of purchase, despite being within the warranty period. The seller's service center informed that some parts needed to be replaced, but they never arrived, and the issue was never resolved.
+
+**Relief Sought**
+
+1. Replacement of the defective parts or refund of the purchase price
+2. Compensation of Rs 15,000/- for the inconvenience caused
+
+**Statement of Facts**
+
+1. I purchased the microwave oven from ABC Appliances Private Limited on 04/02/2022.
+2. The oven stopped working on 15/03/2022.
+3. I contacted the seller's service center, and they informed that some parts needed to be replaced.
+4. Despite repeated follow-ups, the parts were never delivered, and the issue was never resolved.
+5. I sent a legal notice to the seller on 23/04/2022, but they failed to respond.
+
+**Documents Attached**
+
+1. Original bill/invoice
+2. Warranty card
+3. Photograph of the product
+4. Copy of emails sent to the opposite party
+5. Original legal notice
+
+Please note that this is just a sample template, and you should modify it according to your specific case and requirements. Also, ensure that you attach all the necessary documents and evidence to support your complaint.
+
+Now, I can help you draft a notice to the opposite party. Would you like me to do that?
+
+Human: Replace the component or refund the purchase cost of the product, and also pay Rs 15,000/- as compensation
+
+Bot: Here's a draft of the complaint that you can use as a reference:
+
+**IN THE DISTRICT CONSUMER DISPUTES REDRESSAL FORUM, COSMOS**
+
+**COMPLAINT NO. _______________________**
+
+**IN THE MATTER OF**
+
+**BRUNO, AGED 45 YEARS, RESIDING AT 56/879, 4TH STREET, SUNSET AVENUE, COSMOS-32, (hereinafter referred to as the "Complainant")
+
+**VERSUS**
+
+**ABC APPLIANCES PRIVATE LIMITED, A COMPANY DULY INCORPORATED UNDER THE COMPANIES ACT, 2013, HAVING ITS REGISTERED OFFICE AT 2ND CROSS STREET, JEEVAN NAGAR, COSMOS-60, (hereinafter referred to as the "Opposite Party")
+
+**COMPLAINT**
+
+1. The Complainant states that he purchased a Microwave Oven from the Opposite Party on 04/02/2022 for a consideration of Rs. 10,000/-.
+
+2. The Complainant alleges that the Microwave Oven stopped working within a few weeks of purchase, i.e. on 15/03/2022, despite being within the warranty period.
+
+3. The Complainant approached the service centre of the Opposite Party, who informed him that a few parts needed to be replaced and that it would be done within a week. However, despite numerous follow-ups, the parts were never replaced and the Complainant was not informed of the status of his complaint.
+
+4. The Complainant sent a legal notice to the Opposite Party on 23/04/2022, demanding replacement of the defective components or refund of the purchase cost of the product, and also payment of Rs. 15,000/- as compensation. However, the Opposite Party has failed to respond to the notice.
+
+5. The Complainant has been put to a great deal of inconvenience and financial loss due to the Opposite Party's negligence and lack of response.
+
+**RELIEF**
+
+The Complainant prays that this Hon'ble Forum may be pleased to:
+
+a. Direct the Opposite Party to replace the defective components of the Microwave Oven or refund the purchase cost of the product, whichever is feasible.
+
+b. Direct the Opposite Party to pay a compensation of Rs. 15,000/- to the Complainant for the inconvenience and financial loss suffered by him.
+
+c. Pass such further orders as this Hon'ble Forum may deem fit and proper in the circumstances of the case.
+
+**VERIFICATION**
+
+I, Bruno, hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+**AFFIDAVIT**
+
+I, Bruno, do hereby solemnly affirm and declare that the contents of the complaint are true and correct to the best of my knowledge and belief.
+
+**PLACE**
+
+Cosmos
+
+**DATE**
+
+26/09/2024
+
+Please note that this is just a draft and you should modify it according to your needs and requirements. Also, you may need to attach supporting documents such as the bill, warranty card, photographs of the product, and emails sent to the Opposite Party.
+
+Human: Thanks
+
+Bot: You're welcome. Is there anything else I can help you with?
+
+Human: No, thanks
+
+Bot: You're welcome. If you have any more consumer-related issues or need further assistance, feel free to reach out to me anytime. You can also contact the National Consumer Helpline at 1800-11-4000 for immediate assistance.
+

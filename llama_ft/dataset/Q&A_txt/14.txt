@@ -1,0 +1,60 @@
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User: I have issues with my SB Account. Can you help me resolve it.
+Chatbot: Certainly. Could you please provide me with further details 
+User: I've had an SB Account with the State Bank of India, Dondaparthi Branch for many years. Recently, Mr. Sharma, a Senior Associate of the bank,  advised me to open fixed deposits to receive better benefits. Trusting his advice and my faith in the bank, I handed over three cheques, each drawn for Rs. 7,00,000, to Mr. Sharma to have deposits made in the names of my three children.
+Chatbot: And what happened after you handed over the cheques to Mr. Sharma?
+User:  Unfortunately, I did not receive any fixed deposit certificates as expected. Despite my repeated requests and visits to Mr. Sharma, he kept postponing the issuance of the certificates, stating that they were still under process. However, I later discovered that Rs. 3441 each was being credited to my account from 28/11/2017 onwards against an annuity pension scheme, which I never agreed to or signed up for.
+Chatbot: That sounds like a concerning situation. Did you raise your concerns with the Manager or anyone else at the bank?
+User:  Yes, I approached the Branch Manager in February 2018 and informed them that I never requested or agreed to any policies. I also mentioned that even if policies were issued, I never received any documents related to them. I explained that had I been served with the documents, I would have been able to cancel the policies within the free look period.
+Chatbot: Have you received any response from the opposite parties regarding your complaints?
+User:  Unfortunately, despite sending several reminders between 01/10/2019 and 24/07/2021, the opposite parties did not address my concerns or take any action. Finally, on 07/02/2020, they rejected my request to cancel the policies.
+Chatbot: I see. It seems like the opposite parties have not been responsive to your grievances. Could you please mention what is the remedy that you are seeking for.
+User: I would like to seek a refund of Rs.21,00,000/- for the three policies and credit the same into my SB account No. 32906316511, Rs. 3,00,000/- as compensation for mental agony and Rs.20,000/- for costs
+Chatbot: Based on the above information provided you could file a complaint before the District Consumer Disputes Redressal Commission, or you could also contact the respective Consumer Helpline Number where you can talk to an agent and address your grievance.
+
+User: Could you provide me the helpline number
+Chatbot: To be specific, there is a National and State Consumer Helpline Number. Which number do you want me to provide you with.
+User:  Provide me with both the Helpline Number.
+Chatbot: Could you please mention which state you reside in.
+User:  Andhra Pradesh
+Chatbot: Please find the National Consumer Helpline number- 1800-11-4000 and the State Consumer Helpline number- 1800-425-0082 / 1800-425-2977.
+User: How do I proceed, if I have to file a complaint.
+Chatbot: You could file a complaint before the respective District Consumer Disputes Redressal Commission. However, I need further details to assist you. Could you please mention your details like your name, father’s name/ husband's name, age and address.
+User: Saragadam hanumantha rao s/o Late S.J.Naidu, aged 75 years, residing at Flat No.404, 4th floor, Vivek Towers, Narsimhanagar, Beside Rythu Bazar, Akkayyapalem, Visakhapatnam
+Chatbot: Could you please provide details of the insurance company, like its full name, address of office of both Head office and branch office if any, and any authorized person you know about.
+User: The Chief Manager, State Bank of India,Dondaparthi Branch, Mani Residency, Opp: Srikanya Theatre, Visakhapatnam-530016. The Branch Manager/Authorized Signatory, SBI Life Insurance Company Ltd., No.12-1, Near Green Park Hotel, Waltair Main Road, Visakhapatnam-530002. The Regional Director, SBI Life Insurance Company Ltd, 4th floor, D. No. 40-1-52/6, KP Towers, MG Road, Vijayawada-520010. The Managing Director, SBI Life Insurance Company Ltd., 8th Level, Seawoods Grand Central, Tower-2, Plot No.R-1, Sector-40, Seawoods, Nerul Node, Navi Mumbai-400706
+Chatbot: Thank you for providing the details. As per the above mentioned details you could file the complaint before the District Consumer Disputes Redressal Commission of Visakhapatnam. Here is a detailed guideline to file a complaint online in the E-Dakhil Portal.
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter Rs.24,20,000 in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of the service center in the Opposite party name section. Select the state and district of the registered address.
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+The complainant, holding SB Account No. 32906316511 with the 1st opposite party for years, followed advice from Mr. Sharma, a Senior Associate, to deposit three cheques of Rs. 7,00,000 each for better benefits without specifying bearer's names. He expected fixed deposit certificates but didn't receive them. Instead, Rs. 3441 each started crediting to his account from 28/11/2017 for an annuity pension scheme, which he never opted for. Despite informing the 2nd Opposite Party in February 2018, and multiple reminders till 24/07/2021, they failed to cancel the policies, allegedly exploiting the complainant's old age for personal gain, prompting the complaint for deficient service.
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+Chatbot: Would you like me to generate the complaint for you ? 
+User:  Yes, please.
+
+Chatbot: Sure you can download the complaint here. Once downloaded, review and sign the complaint. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+User:  Yes, Please. It would be really helpful 
+
+Chatbot:  Sure. Here is a draft Affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+User: No, that's all for now. Thanks.
+
+Chatbot: You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+
+
+
+

@@ -1,0 +1,60 @@
+
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you. 
+
+User: Hello. I need help regarding an insurance claim that has been rejected. My husband unfortunately passed away last year in a tractor accident and I'm unable to get the insurance settlement from the company.  
+
+Chatbot: I'm sorry to hear about your husband. Let's discuss this in detail so I can understand the full situation and provide you the best assistance. Could you confirm your name, age, full address and occupation? 
+
+User: Sure, my name is Jalakanti Radha, age 43 years, occupation agriculture. I reside at House No. 2-42, Chikkepally Village, Pangal Mandal, Wanaparthy District, Mahabubnagar, Telangana - 509120.
+
+Chatbot: Thank you for providing your details. You mentioned your husband passed away in a tractor accident. Can you please describe it in detail?
+
+User: The incident happened on 19th February 2021. My husband Jalakanti Madhu used to go for agricultural soil digging and transport work on his tractorOn 19th February evening around 5:30pm, my husband Madhu was digging and loading soil on the tractor at Bhakoni Thippa. During this work, the tractor accidentally slipped and fell over him. He came under the tractor and died on the spot due to the accident. We informed the local Pangal police station about the incident. They registered an FIR under section 304A IPC and did the inquest,  postmortem and other procedural formalities. 
+Chatbot: Can you specify the details of the insurance policy, like policy number, validity period, accidental cover and with whom were you insured?
+
+User: My husband had taken an insurance policy from ICICI Lombard General Insurance. The policy number is 3008/195832894/00 which was valid from 3rd March 2020 to 2nd March 2021. It included a personal accident cover of ₹15 lakhs for the owner-driver of the tractor. 
+
+Chatbot: what step did you take once you realised that the accident was covered under insurance?
+User: Immediately after the incident I informed ICICI Lombard by calling them and also submitted the claim forms. I followed up continuously after that also. The company kept delaying and did not settle the claim. Initially on 15th June 2022 they replied that the claim will be processed but after that no response even after multiple follow-ups. It has been over a year now but I'm yet to receive any claim settlement.
+
+Chatbot: That is concerning. You can send a legal notice to the ICICI Lombard. May I draft a legal notice  for you?
+
+User: Yes, kindly draft legal notice for me.
+
+Chatbot: Please share the address details of the insurance company, you have already given your address details may I use the same or should I change. 
+
+User: May address is the same. The address of the insurance company is:ICICI Lombard General Insurance Co. Ltd., 2nd Floor, Shop No. 1-7,   18-20, Lumbini Jewel Mall,   Road No. 2, Banjara Hills,Hyderabad, Telangana – 500034.
+
+Chatbot: Here is the legal notice. Kindly put  your signature on the notice before sending it to the opposite party. In case you get any problem in the above process or have any doubt, I would suggest you contact the state consumer helpline at 1800-425-00333 Call centre Assistants are available between 9-30 AM to 6-00 PM on all working days of Government of Telangana or you can call the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need? Or you can also file a consumer complaint in district or  state consumer commission if you do not do any redressal from the above mechanism. 
+
+User:  Kindly draft the complaint as I might not get the desired redressal through the notice. 
+
+Chatbot: As the opposite party resides in Hyderabad, the complainant can file the suit in Hyderabad and Mahabubnagar? Which place do you prefer?
+
+User: I prefer to file the complaint at Mahabubnagar. 
+
+The Chatbot: Thank you. On the basis of the information that you have given me, I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+Aggrieved Consumer- Yes, it will be great if you can do that as well.
+The Chatbot: You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+Aggrieved Consumer: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+The Chatbot: You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Telangana as the State and Mahaboob nagar as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+“The complainant asserts that ICICI Lombard General Insurance Co. Ltd. failed to honour a legitimate personal accident claim of Rs.15,00,000 for her deceased husband, who met with a fatal accident while operating an insured tractor. Despite timely intimation, document submission, and follow-ups, the Opposite Party remains unresponsive, causing severe mental agony and financial hardship. The complaint seeks the Consumer Disputes Redressal Commission's intervention to compel the Opposite Party to settle the claim, provide compensation for emotional distress, and cover litigation costs. The complainant opts out of mediation, emphasising the need for a court proceeding in Mahabubnagar.”
+
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+Aggrieved Consumer: Got it. I will not agree for mediation.
+The Chatbot: In that case, the consumer court in Mahabubnagar has to proceed with the case.Aggrieved Consumer:No. Thank you very much for the assistance!
+The Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.In case you get any problem in the above process or have any doubt, I would suggest you contact the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+Aggrieved Consumer:No. Thank you very much for the assistance!
+The Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.
+

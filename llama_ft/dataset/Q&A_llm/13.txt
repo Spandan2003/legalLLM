@@ -1,0 +1,58 @@
+<s><INST> I want to file a complaint against the hospital for their poor services. Guide me
+</INST> Certainly. Could you please elaborate what is the issue that you faced with hospital services.
+</s> <s><INST> On May 6, 2019, I was involved in a serious auto accident where a lorry collided with the auto I was traveling in. As a result, I sustained multiple injuries, including a post-operative fracture to my left femur. I was immediately transported to Usha Prime Multi Speciality Hospital for treatment.
+</INST> And what treatment did you receive at the hospital?
+</s> <s><INST>  I underwent several medical procedures and treatments at the hospital, incurring medical expenses totaling Rs. 79,000. However, I believe there were deficiencies in the services provided by the hospital and the attending consultant, Dr. K. Raja Sagar.
+</INST> Can you elaborate on these deficiencies in service?
+</s> <s><INST>  Yes, despite the severity of my injuries, the hospital issued a wound certificate indicating that my injuries were "simple in nature" rather than "grievous." This discrepancy in the documentation could have significant implications for any legal proceedings related to the accident.
+</INST> I see. And did you attempt to address these issues with the hospital and Dr. Raja Sagar directly?
+</s> <s><INST>  Yes, I issued a legal notice to both the hospital and Dr. Raja Sagar on July 23, 2019, outlining my concerns and requesting appropriate action. Unfortunately, they responded with a notice of their own on July 30, 2019, without addressing the issues raised in my notice.
+</INST> Do you have the copies of the legal notices and any other relevant documentation related to your treatment at the hospital?
+</s> <s><INST>  Yes, I have copies of all the correspondence, including the legal notices and medical records. 
+</INST> Thank you for providing me with all this information. Could you please mention what is the remedy that you are looking for.
+</s> <s><INST> I would like to seek a compensation of Rs.18,00,000 with an interest @ 9 % p.a. And Rs.30,000 for the mental agony and Rs.10,000 for the costs.
+</INST> Based on the above information provided you could file a complaint before the District Consumer Disputes Redressal Commission, or you could also contact the respective State Consumer Helpline Number where you can talk to an agent and address your grievance.
+
+</s> <s><INST> Could you provide me the helpline number
+</INST> To be specific, there is a National and State Consumer Helpline Number. Which number do you want me to provide you with.
+</s> <s><INST>  Provide me with both the Helpline Number.
+</INST> Could you please mention which state you reside in.
+</s> <s><INST>  Andhra Pradesh
+</INST> Please find the National Consumer Helpline number- 1800-11-4000 and the State Consumer Helpline number- 1800-425-0082 / 1800-425-2977.
+</s> <s><INST> How do I proceed, if I have to file a complaint.
+</INST> You could file a complaint before the respective District Consumer Disputes Redressal Commission. However, I need further details to assist you. Could you please mention your details like your name, father’s name/ husband's name, age and address.
+</s> <s><INST> Chandaka Govinda s/o Atchi Babu, aged 18 years, residing at Tegada Village, Kasimkota Mandal, Visakhapatnam
+</INST> Could you please provide details of the hospital, like its full name, address of office of both Head office and branch office if any, and any authorized person you know about.
+</s> <s><INST> Usha Prime Multi Speciality Hospital, A division of Chilukuri HealthCare Pvt.Ltd. They have a General Manager. I think he is the authorized person. Anakapalli, Visakhapatnam. The details of the doctor are- Dr. K. Raja Sagar, MLC Consultant, Usha Prime Multi Speciality Hospital, Anakapalli, Visakhapatnam
+</INST> Thank you for providing the details. As per the above mentioned details you could file the complaint before the District Consumer Disputes Redressal Commission of Visakhapatnam. Here is a detailed guideline to file a complaint online in the E-Dakhil Portal.
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter Rs.1840000 in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of the service center in the Opposite party name section. Select the state and district of the registered address.
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+The complainant was involved in an accident on 06/05/2019 while traveling in an auto, which was hit by a lorry. Sustaining severe injuries, the complainant was admitted to the 1st opposite party's hospital, incurring medical expenses totaling Rs. 79,000. Despite the emergency admission certificate indicating a serious fracture, the hospital issued a wound certificate labeling the injuries as "simple," highlighting a deficiency in service. Despite a legal notice dated 23/07/2019, the opposite parties responded with a notice on 30/07/2019 instead of addressing the issue. Seeking justice, the complainant has approached this commission.
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+</INST> Would you like me to generate the complaint for you ? 
+</s> <s><INST>  Yes, please.
+
+</INST> Sure you can download the complaint here. Once downloaded, review and sign the complaint. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+</s> <s><INST>  Yes, Please. It would be really helpful 
+
+</INST>  Sure. Here is a draft Affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+</s> <s><INST> No, that's all for now. Thanks.
+
+</INST> You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+</s>

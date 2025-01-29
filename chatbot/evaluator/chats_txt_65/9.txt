@@ -1,0 +1,233 @@
+Human: I've been facing a lot of trouble with a parcel I sent to my husband in Mexico.
+
+Bot: I'm sorry to hear that you're facing trouble with your parcel. Thank you for sharing this with me. 
+
+Can you please tell me what led to the issue with your parcel? Was it delayed, lost, or damaged during transit?
+
+Human: I packed all the items my husband requested and went to International Couriers Services Shipping World Wide on 10th June 2021. They informed me that the parcel would be sent through Jet Dart Express Couriers, who have branches abroad.
+
+Bot: It seems like the issue started on June 10, 2021. As per the Consumer Protection Act, the time limit to file a complaint is 2 years from the date of the incident. Since it has been more than 2 years, please be aware that you might face challenges in filing a complaint. However, I can still guide you through the process.
+
+Can you tell me more about the status of the parcel? Has it been delivered to your husband, or is it still in transit or lost?
+
+Human: Yes, I arranged for an invoice as requested by International Couriers Services on 12th August 2021, and submitted it to them on 13th August 2021. They assured me that the parcel would reach my husband on time and issued a receipt for Rs.7,900, fixing the delivery date as 23rd October 2021.
+
+Bot: That's concerning that the parcel didn't reach your husband on time. Can you please tell me the current date when you're speaking to me? This will help me understand the timeline of the issue.
+
+Human: Unfortunately, the parcel was never delivered to my husband. Despite being sent two months before the scheduled delivery date, it never reached him. I tried contacting Jet Dart Express Couriers, but their helpline numbers were always busy.
+
+Bot: That's concerning.  Did you try contacting International Couriers Services again to report the issue and ask for their assistance in tracking the parcel or getting a refund?
+
+Human: I issued a legal notice to both International Couriers Services and Jet Dart Express Couriers on 9th February 2022, but they didn't respond. That's why I've decided to file  a complaint.
+
+Bot: It's been over 2 years since the incident occurred. Unfortunately, the Consumer Protection Act, 2019 has a 2-year time limit for filing a complaint. However, considering the circumstances, I would advise you to consult with a lawyer or a consumer rights expert to explore your options. If you're still willing to pursue the matter, we can proceed with drafting a complaint or a legal notice.
+
+Can you please tell me what kind of relief are you seeking from International Couriers Services and Jet Dart Express Couriers?
+
+Human: Could you provide me the helpline number
+
+Bot: You can contact the National Consumer Helpline at 1800-11-4000 for immediate assistance with your consumer grievance. They can guide you on the next steps to take and provide you with the necessary support.
+
+Additionally, you can also file a complaint through the UMANG App or the e-daakhil portal. If you need help with filing a complaint or drafting a legal notice, I'd be happy to assist you.
+
+Also, considering that the incident occurred on 23rd October 2021, you have exceeded the 2-year time limit for filing a complaint. However, you can still approach the Consumer Forum or the District Consumer Dispute Redressal Forum, but you may need to provide a valid reason for the delay.
+
+Is there anything else I can help you with?
+
+Human: Provide me with both the Helpline Number.
+
+Bot: You can contact the National Consumer Helpline at 1800-11-4000 or 1915. Additionally, you can also reach out to your state's consumer helpline. If you need the state-specific number, please let me know your state and I can provide it to you.
+
+Also, considering that the incident occurred on 23rd October 2021 and you issued a legal notice on 9th February 2022, please note that the Consumer Protection Act has a 2-year time limit for filing a complaint. Since more than 2 years have passed since the incident, you might need to check if you can still file a complaint.
+
+Human: Andhra Pradesh
+
+Bot: The National Consumer Helpline Number is 1800-11-4000. For Andhra Pradesh, the State Consumer Helpline Number is 1800-180-2229.
+
+Human: I would still like to proceed with filing a complaint. Can you provide me with the process.
+
+Bot: To file a complaint, you can follow these steps:
+
+1.  First, you can try to resolve the issue with the service provider, International Couriers Services and Jet Dart Express Couriers, by approaching their customer care or customer service department.
+
+2.  If the issue is not resolved, you can file a complaint with the National Consumer Helpline (NCH) at 1800-11-4000. You can also file a complaint through their online portal at consumerhelpline.gov.in.
+
+3.  You can also file a complaint with the State Consumer Dispute Redressal Commission (SCDRC) of Andhra Pradesh, which is the appropriate consumer forum for your state.
+
+To draft a complaint, I would need more information. Could you please provide me with the following details?
+
+- The cause of the issue (if not clear)
+- The time of incident (if it's more than 2 years old, I'll need to inform you about the statute of limitations)
+- Information about the opposing parties (International Couriers Services and Jet Dart Express Couriers)
+- The desired relief (what you want to achieve through this complaint)
+
+Once I have this information, I can guide you through the process of drafting a complaint and filing it with the appropriate consumer forum.
+
+Human: Yes, please.
+
+Bot: Here is a draft of the complaint based on the information you provided:
+
+**Case Details**
+
+* Case Type: Consumer Complaint
+* State: Andhra Pradesh
+* District: Visakhapatnam
+* Claim Amount: Rs. 7,900
+* Complainant's Name: [Your Name]
+* Complainant's Address: [Your Address]
+* Opposite Party's Name: International Couriers Services and Jet Dart Express Couriers
+* Opposite Party's Address: [Their Address]
+
+**Complaint**
+
+I, [Your Name], resident of [Your Address], do hereby file this complaint against International Couriers Services and Jet Dart Express Couriers for their failure to deliver a parcel that I had entrusted to them on 10th June 2021 for delivery to my husband in Mexico.
+
+The parcel was to be delivered on or before 23rd October 2021, but despite the payment of Rs. 7,900, it was not delivered. I have tried contacting Jet Dart Express Couriers, but their helpline numbers were always busy. I issued a legal notice on 9th February 2022, but they did not respond.
+
+The delay in delivery has caused significant inconvenience to me and my husband. I request the Hon'ble Consumer Forum to take necessary action against International Couriers Services and Jet Dart Express Couriers for their failure to deliver the parcel and to provide a suitable compensation for the loss and inconvenience suffered by me.
+
+**Documents Attached**
+
+* Index
+* Complaint
+* Memo of Parties
+* Affidavit
+* Copy of Legal Notice dated 9th February 2022
+* Any other relevant documents
+
+Please note that this is just a draft and you may need to modify it as per your specific requirements. Also, you will need to attach the supporting documents and pay the required fee to file the complaint.
+
+Would you like me to help you with anything else?
+
+Human: Sure, Gorle Dhanalakshmi, Gorle Ramesh Murthy, 32 years, D. No. 12-47-10, Indira Colony, Gajuwaka, Visakhapatnam
+
+Bot: Here is the draft complaint:
+
+**MEMORANDUM OF PARTIES**
+
+To,
+The District Consumer Disputes Redressal Forum,
+Visakhapatnam.
+
+1. The complainant,
+Gorle Dhanalakshmi,
+D/o. Gorle Ramesh Murthy,
+Age: 32 years,
+D.No. 12-47-10,
+Indira Colony, Gajuwaka,
+Visakhapatnam.
+
+2. Opposite Party,
+International Couriers Services,
+Through its Branch Manager,
+Visakhapatnam.
+
+3. Opposite Party,
+Jet Dart Express Couriers,
+Through its Branch Manager,
+Visakhapatnam.
+
+**COMPLAINT**
+
+The complainant, Gorle Dhanalakshmi, submits the following complaint against the opposite parties:
+
+1. The complainant arranged to send items to her husband in Mexico via International Couriers Services, directed through Jet Dart Express Couriers.
+2. Despite assurances and payment of Rs.7,900, the parcel was not delivered by the promised date of 23/10/2021.
+3. Attempts to contact Jet Dart Express were futile.
+4. The delay caused significant inconvenience.
+5. Legal notice issued on 09/02/2022 received no response.
+
+**RELIEF SOUGHT**
+
+The complainant seeks redress for the failure of the courier services to deliver the parcel and address the grievances.
+
+**RELIEFS SOUGHT**
+
+The complainant seeks the following reliefs:
+
+1. To direct the opposite parties to deliver the parcel to the complainant's husband in Mexico.
+2. To pay a compensation of Rs. 7,900 to the complainant.
+3. To pay a compensation of Rs. 10,000 for the mental agony and harassment caused to the complainant.
+
+**VERIFICATION**
+
+I, Gorle Dhanalakshmi, do hereby verify that the contents of the complaint are true to the best of my knowledge and belief.
+
+**PLACE**
+Visakhapatnam
+**DATE**
+26/09/2024
+
+Please note that this is just a draft and you may need to modify it according to your specific requirements. Also, please ensure that you attach all the necessary documents and evidence to support your complaint.
+
+Before submitting the complaint, please ensure that you have paid the required fee and verified all the details.
+
+Human: It does not have any branch office. International Couriers Services Shipping World Wide, Authorized Signatory Ponaganti Satyanarayana, Aged 45 years, D.No. 7-16-85, Behind Lenskart, Gajuwaka Main Road, Old Gajuwaka, Visakhapatnam. Courier company- Jet Dart Express Couriers, H. No. 10/A, MIGH, B.K. Guda, Opposite to Venkateswara Temple, S.R.Nagar, Hyderabad, Telangana-500038.
+
+Bot: Based on the information you provided, here is a draft complaint:
+
+IN THE CONSUMER DISPUTES REDRESSAL FORUM
+
+AT VISAKHAPATNAM
+
+BEFORE THE DISTRICT CONSUMER DISPUTES REDRESSAL FORUM, VISAKHAPATNAM
+
+CASE NO. _______________________
+
+COMPLAINT PETITION UNDER SECTION 12 OF THE CONSUMER PROTECTION ACT, 1986
+
+Gorle Dhanalakshmi,
+D/o. Gorle Ramesh Murthy,
+Age 32 years,
+Residing at D.No. 12-47-10, Indira Colony, Gajuwaka, Visakhapatnam.
+
+Pursuant to the Consumer Protection Act, 1986, the complainant above-named files this complaint against the opposite parties as mentioned below.
+
+OPPOSITE PARTIES:
+
+1. International Couriers Services Shipping World Wide,
+Authorized Signatory Ponaganti Satyanarayana,
+Aged 45 years,
+D.No. 7-16-85, Behind Lenskart, Gajuwaka Main Road, Old Gajuwaka, Visakhapatnam.
+
+2. Jet Dart Express Couriers,
+H. No. 10/A, MIGH, B.K. Guda, Opposite to Venkateswara Temple, S.R.Nagar, Hyderabad, Telangana-500038.
+
+COMPLAINT:
+
+The complainant had arranged to send items to her husband in Mexico via International Couriers Services, directed through Jet Dart Express Couriers. Despite assurances and payment of Rs.7,900, the parcel was not delivered by the promised date of 23/10/2021. Attempts to contact Jet Dart Express were futile. The delay caused significant inconvenience. Legal notice issued on 09/02/2022 received no response.
+
+RELIEF SOUGHT:
+
+The complainant seeks redress for the failure of the courier services to deliver the parcel and address the grievances.
+
+RELIEF:
+
+The complainant prays that this Hon'ble Forum may be pleased to pass an order directing the opposite parties to deliver the parcel to the complainant's husband in Mexico and to pay a sum of Rs. 7,900 (Rupees Seven Thousand Nine Hundred only) as compensation for the delay and inconvenience caused.
+
+Verification:
+
+I, Gorle Dhanalakshmi, do hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+IN WITNESS WHEREOF, I have hereunto set my hand at Visakhapatnam this 26th day of July 2024.
+
+Signature of the Complainant: _______________________
+
+Affidavit:
+
+I, Gorle Dhanalakshmi, do hereby solemnly affirm and declare that the contents of the above complaint are true to the best of my knowledge and belief.
+
+IN WITNESS WHEREOF, I have hereunto set my hand at Visakhapatnam this 26th day of July 2024.
+
+Signature of the Complainant: _______________________
+
+Please review and confirm if you want me to proceed with filing the complaint.
+
+Human: Yes, Please. It would be really helpful
+
+Bot: Here is the affidavit. AFFIDAVIT IN THE COURT OF THE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION NO.  VISAKHAPATNAM: AP  IN THE MATTER OF: Gorle Dhanalakshmi w/o Gorle Ramesh Murthy, aged 32 years D. No. 12-47-10, Indira Colony, Gajuwaka, Visakhapatnam  … COMPLAINANT Sworn in the presence of:  I, Gorle Dhanalakshmi w/o Gorle Ramesh Murthy, aged 32 years, residing at D. No. 12-47-10, Indira Colony, Gajuwaka, Visakhapatnam, do solemnly affirm and state as under: 1. I am the wife of G. Ramesh Murthy who is working in Mexico. 2. I am the person who arranged to send the items to my husband. 3. I have read and understood the contents of the above complaint. 4. The facts stated in the above complaint are true to the best of my knowledge. 5. I have not misrepresented any facts nor have tried to hide any information in my above complaint. 6. I have not been paid or promised to be paid any amount by the opposite parties in consideration of this complaint. 7. I have not been influenced by any person to file this complaint. 8. I am not a party to any other litigation pending before any other Forum. 9. I have not filed any other complaint in respect of the same cause of action in any other Forum. 10. I am competent to swear this affidavit and I am not a minor. 11. I have placed my signature below on this affidavit at the request of my husband. IN WITNESS WHEREOF, I have hereunto set my hand this the day of 2024. Signature of the complainant
+
+Human: No, that's all for now. Thanks.
+
+Bot: You're welcome. If you have any further questions or need any assistance in the future, don't hesitate to reach out.
+

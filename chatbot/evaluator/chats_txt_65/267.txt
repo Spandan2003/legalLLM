@@ -1,0 +1,268 @@
+Human: Hi, I had paid a photographer an advance for video and photography services for my son's marriage reception, but when I cancelled he did not refund the advance.
+
+Bot: Thank you for sharing your concern with me. To better understand your issue, can you please tell me what led to the cancellation of the photography services? Was it due to any issues with the photographer or was it a mutual decision?
+
+Human: I paid the advance of Rs. 15,000 to Mr. Shah through cheque no. 129998 dated 01/08/2018.
+
+Bot: Since the incident occurred on 01/08/2018, the statute of limitations for filing a consumer complaint is 2 years. As today's date is 26/09/2024, you are well within the time limit. 
+
+Can you please tell me what efforts have you made so far to get your advance refunded from Mr. Shah?
+
+Human: I informed him in October 2018 and requested a refund. He replied on Whatsapp with “no problem” but he never gave the money back
+
+Bot: It seems like Mr. Shah has not returned your advance despite acknowledging your request for a refund. As the incident occurred in 2018, it's been more than 6 years. However, considering the Consumer Protection Act, 2019 has a 2-year statute of limitations for filing a complaint, you might still have time to pursue the matter.
+
+Can you please tell me more about Mr. Shah - his contact details, address, or any other relevant information about him?
+
+Human: I have a copy of the cancelled cheque as evidence of payment. I also have copies of WhatsApp messages and emails where I requested a refund after cancellation. Additionally, I sent a registered post letter to him on 13/08/2019 demanding the refund.
+
+Bot: It seems you have a good record of your attempts to get a refund. Since the incident occurred in 2018 and you sent a registered post letter in 2019, it's almost 6 years ago. Unfortunately, the statute of limitations for consumer complaints in India is 2 years from the date of the incident. However, since you've made attempts to get a refund and have evidence, you can still try to recover your money through a consumer complaint.
+
+Considering your desired relief is a refund of the advance amount, would you like to draft a legal notice to Mr. Shah to request the refund, or would you like to explore other options like filing a consumer complaint?
+
+Human: What is that?
+
+Bot: Mediation is a process where a neutral third-party helps you and the photographer, Mr. Shah, to resolve the dispute amicably. It's a less formal and less costly way to resolve the issue, and it can help you get your refund without going to court.
+
+If you're interested in mediation, I can guide you through the process. However, if you're not satisfied with the outcome of mediation, we can explore other options, such as filing a complaint with the consumer forum.
+
+Would you like to know more about mediation or would you like to proceed with filing a complaint?
+
+Human: What are my other options?
+
+Bot: You have several options. You can draft a legal notice to Mr. Shah, asking him to return the refund amount within a specified time frame. If he doesn't respond or return the amount, you can file a complaint with the Consumer Forum (District Consumer Dispute Redressal Forum) under the Consumer Protection Act, 2019. The complaint can be filed within the statutory time limit of 2 years from the date of the incident. Since your incident occurred on 01/08/2018, you have already exceeded the 2-year time limit. However, I would advise you to consult a consumer rights lawyer to discuss your options and determine the best course of action.
+
+Human: How do I go directly to court?
+
+Bot: If you want to go directly to court, you can file a complaint in the Consumer Court. The court that has jurisdiction to hear your case depends on the amount involved. Since you paid Rs. 15,000, you can file a complaint in the District Consumer Dispute Redressal Forum (DCDRF) in Gujarat. You will need to draft a complaint petition, which I can help you with, and file it in the court. You will also need to serve a notice to the opposite party, Mr. Shah, and he will have to respond to the notice. If he doesn't respond, the court will proceed with your complaint.
+
+Human: Yes. Draft a legal notice for me.
+
+Bot: Here's a draft notice:
+
+**NOTICE**
+
+To,
+
+Mr. Shah,
+[His Address]
+
+Subject: Demand for Refund of Rs. 15,000/- paid for services not rendered.
+
+Dear Mr. Shah,
+
+You are hereby notified that we, [Your Name], had entered into an agreement with you for providing video and photography services for our son's marriage reception. We paid an advance of Rs. 15,000/- to you through cheque no. 129998 dated 01/08/2018.
+
+However, we cancelled the services in October 2018 and requested a refund. Despite your acknowledgement of the cancellation through WhatsApp, you have failed to refund the said amount.
+
+We have also sent a registered post letter to you on 13/08/2019, demanding the refund. Despite this, you have not made any payment towards the refund.
+
+We hereby demand that you refund the amount of Rs. 15,000/- within 15 days from the receipt of this notice. If we do not receive the refund within this timeframe, we will be forced to take further action to recover the amount.
+
+Please acknowledge receipt of this notice.
+
+Sincerely,
+
+[Your Name]
+
+You can modify this draft as per your needs and requirements. Please note that this is a sample and it's recommended to consult a lawyer before sending the notice. Also, please ensure that you have all the necessary documents and evidence to support your claim.
+
+Also, please note that you have 2 years from the date of incident to file a case in the consumer court. As your incident is from 2018, you have already exceeded the time limit. However, you can still file a complaint before the consumer court and explain the reasons for the delay.
+
+Human: My name is Dr. V.K. Agrawal, and I live at 3A Deepika Society No.01, Nr. Water Tank, Karelibaug, Vadodara - 390022. The opposite party is Mr. Vishal Shah, B-304, Keshav Residency, Nr. Jayratna Char Rasta, Resides Reliance Petrol Pump, Vadodara-390001.
+
+Bot: Here's a draft of the legal notice:
+
+**NOTICE**
+
+To,
+Mr. Vishal Shah
+B-304, Keshav Residency
+Nr. Jayratna Char Rasta, Resides Reliance Petrol Pump
+Vadodara-390001
+
+Subject: Recovery of Refund of Rs. 15,000/- and Compensation
+
+Dear Mr. Shah,
+
+Re: Advance payment for video and photography services for my son's marriage reception
+
+This is to bring to your notice that on 01/08/2018, I paid an advance of Rs. 15,000/- to you through cheque no. 129998 towards the payment for video and photography services for my son's marriage reception. However, when I cancelled the services in October 2018, you failed to refund the said amount despite my repeated requests.
+
+I had also sent a registered post letter on 13/08/2019 demanding the refund, but I have not received any response from you. I am left with no choice but to take legal action to recover the refund of Rs. 15,000/- and compensation for the harassment caused to me.
+
+You are hereby required to refund the said amount of Rs. 15,000/- within 15 days from the date of receipt of this notice. Failure to do so will lead to further action under the Consumer Protection Act, 1986.
+
+You are also required to pay a compensation of Rs. 5,000/- for the harassment and mental agony caused to me.
+
+Please acknowledge receipt of this notice and confirm your intention to refund the amount within the stipulated time.
+
+Sd/-
+Dr. V.K. Agrawal
+3A Deepika Society No.01, Nr. Water Tank, Karelibaug,
+Vadodara - 390022
+
+Date: [Today's Date: 2024-09-26]
+
+Please note that this is just a draft and you should consult a lawyer before sending the notice. Also, please make sure to send the notice through registered post with acknowledgment due to get proof of delivery.
+
+Do you want to make any changes or proceed with sending the notice?
+
+Human: Yes. I want a refund of Rs. 15,000/- towards the advance paid by me with interest @ 18% per annum till realisation and Rs. 10,000/- towards mental agony and harassment.
+
+Bot: Here's a draft of the notice:
+
+**NOTICE**
+
+To,
+Mr. Vishal Shah
+B-304, Keshav Residency,
+Nr. Jayratna Char Rasta,
+Resides Reliance Petrol Pump,
+Vadodara-390001
+
+Subject: Demand for Refund of Advance Amount and Compensation
+
+Dear Mr. Shah,
+
+Re: Advance Payment for Photography and Videography Services for Dr. V.K. Agrawal's Son's Marriage Reception
+
+This is to inform you that we had paid an advance of Rs. 15,000/- towards photography and videography services for Dr. V.K. Agrawal's son's marriage reception vide cheque No. 129998 dated 01/08/2018. However, we cancelled the services and requested a refund, but despite your assurance, you have failed to refund the same.
+
+We hereby demand that you refund the said amount of Rs. 15,000/- with interest @ 18% per annum till realisation. We also claim Rs. 10,000/- as compensation for the mental agony and harassment caused to us due to your failure to refund the amount.
+
+You are hereby required to refund the said amount within 15 days from the date of receipt of this notice. If the amount is not refunded within the stipulated time, we shall be constrained to approach the Consumer Forum for redressal.
+
+Please acknowledge receipt of this notice.
+
+Sd/-
+Dr. V.K. Agrawal
+3A Deepika Society No.01, Nr. Water Tank,
+Karelibaug, Vadodara - 390022
+
+Date: [Current Date]
+
+Please note that this is a draft and you should consult a lawyer before sending the notice. Also, please ensure that you have a copy of this notice and keep it for your records.
+
+Do you want me to proceed with anything else?
+
+Human: I will send it physically.
+
+Bot: Here's a draft of the legal notice:
+
+**NOTICE**
+
+**TO**
+
+Mr. Vishal Shah,
+B-304, Keshav Residency,
+Nr. Jayratna Char Rasta,
+Resides Reliance Petrol Pump,
+Vadodara-390001.
+
+**FROM**
+
+Dr. V.K. Agrawal,
+3A Deepika Society No.01,
+Nr. Water Tank,
+Karelibaug,
+Vadodara - 390022.
+
+**SUBJECT**
+
+Demand for Refund of Rs. 15,000/- with Interest and Compensation for Mental Agony and Harassment.
+
+Dear Mr. Vishal Shah,
+
+Re: Advance payment for Video and Photography Services for my son's marriage reception.
+
+This is to bring to your notice that I had paid an advance of Rs. 15,000/- to you through cheque no. 129998 dated 01/08/2018 for video and photography services for my son's marriage reception. However, I cancelled the services in October 2018 and requested a refund. Despite your assurance of refund via WhatsApp, you have failed to return the said amount.
+
+I hereby demand a refund of the said amount of Rs. 15,000/- with interest @ 18% per annum till realisation. Additionally, I claim Rs. 10,000/- as compensation for the mental agony and harassment caused to me due to your actions.
+
+You are required to refund the said amount within 30 days from the receipt of this notice. If I do not receive the refund within the stipulated time, I shall be constrained to initiate legal proceedings against you.
+
+Please acknowledge receipt of this notice and confirm the refund amount and date of payment.
+
+Yours faithfully,
+
+Dr. V.K. Agrawal
+
+Please note that this is a sample draft and you may need to modify it according to your specific needs. Also, please ensure that you serve the notice to Mr. Vishal Shah personally or through a reliable courier service to establish proof of service.
+
+Do you want me to help with anything else?
+
+Human: Yes.
+
+Bot: You can now send the notice to Mr. Vishal Shah at the address mentioned in the notice. Please note that the notice is a formal communication, and it's essential to keep a record of the notice and its dispatch.
+
+If you don't receive a satisfactory response or a response at all within 15 days, you can proceed with filing a complaint before the consumer forum.
+
+Additionally, you can also contact the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance. If you need help with filing the complaint or require further guidance, feel free to ask.
+
+Is there anything else I can assist you with?
+
+Human: Yes
+
+Bot: The District Consumer Disputes Redressal Forum (DCDRF) for Vadodara has jurisdiction over cases with a value of up to Rs. 1 crore. Since your claim is for Rs. 25,000 (refund + interest + compensation), you can file the case at the District Consumer Disputes Redressal Forum, Vadodara. 
+
+You can also contact the National Consumer Helpline at 1800-11-4000 for immediate assistance. They can guide you through the process of filing a complaint.
+
+Human: Okay
+
+Bot: To draft a complaint for you, I would need some more information. Please provide me with the following details:
+
+1.  The date when you received the notice from Mr. Shah (if any).
+2.  The details of your son's marriage reception where the services were to be provided.
+3.  A copy of the receipt for the payment of Rs. 15,000/-.
+4.  A copy of the WhatsApp messages, emails, and the registered post letter that you sent to Mr. Shah requesting a refund.
+5.  Any other relevant documents that you may have.
+
+Once I have these details, I can draft a pre-filled complaint that you can use to file your case at the Vadodara Consumer Forum.
+
+Also, please note that you can file the complaint online through the e-daakhil portal or through the National Consumer Helpline (1800-11-4000).
+
+Human: Rs. 5,000/-.
+
+Bot: I've drafted the complaint form for you. You can use this as a template to file your complaint before the Consumer Disputes Redressal Forum, Vadodara. 
+
+ Complainant Details: 
+ Name: Dr. V.K. Agrawal
+ Address: 3A Deepika Society No.01, Nr. Water Tank, Karelibaug, Vadodara- 390022
+
+Opposite Party Details:
+ Name: Mr. Vishal Shah
+ Address: B-304, Keshav Residency, Nr. Jayratna Char Rasta, Resides Reliance Petrol Pump, Vadodara-390001
+
+Details of the complaint:
+ Complainant paid Rs. 15,000/- as an advance for video/photography services for his son's marriage reception to the opposite party on 1st August 2018. However, the complainant cancelled the services in October 2018, and despite multiple reminders, the opposite party has failed to refund the amount.
+
+ Relief Sought:
+ The complainant seeks a refund of Rs. 15,000/- along with interest @ 18% per annum from 01/08/2019 till realisation and Rs. 10,000/- as compensation for mental agony and harassment. The complainant also seeks Rs. 5,000/- as compensation for legal expenses.
+
+ Annexures: 
+1. Copy of the cancelled cheque
+2. WhatsApp messages and emails exchanged with the opposite party
+3. Registered post letter dated 13/08/2019 demanding a refund
+4. Notice dated [current date] demanding a refund and compensation
+
+You can file this complaint at the Consumer Disputes Redressal Forum, Vadodara. The address is:
+Consumer Disputes Redressal Forum, Vadodara,
+Gujarat.
+
+Please note that you should attach all the annexures and submit the complaint in person or through a lawyer at the forum.
+
+Human: Yes please
+
+Bot: You can access the pre-filled Affidavit and Memorandum of Parties. Please fill in the details that have been left blank, such as your signature and date. The affidavit is a sworn statement, and you will need to sign it in front of a notary public. The Memorandum of Parties is a document that lists the details of the parties involved in the case. 
+
+AFFIDAVIT IN THE COURT OF THE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION, VADODARA I, Dr. V.K. Agrawal, son of Shri V.K. Agrawal, resident of 3A Deepika Society No.01, Nr. Water Tank, Karelibaug, Vadodara- 390022, do hereby solemnly affirm and declare as under: 1. I am the complainant in the above-mentioned complaint. 2. I have not misrepresented any facts nor have tried to hide any information in my above complaint. 3. All the facts mentioned herein are true to the best of my knowledge. 4. I have not filed any other complaint in any other forum or court having the same cause of action. 5. I have not received any other relief in this matter from any other forum or court. 6. I have attached all the relevant documents in support of my complaint. 7. I am not aware of any other legal proceedings pending in any other court or forum against the opposite party. 8. I am not aware of any other legal proceedings pending in any other court or forum against the opposite party. 9. I have not received any other relief in this matter from any other forum or court. 10. I am aware of the jurisdiction of this Hon'ble Commission to try and entertain this complaint.  I, Dr. V.K. Agrawal, do hereby declare that the contents of the above affidavit are true to the best of my knowledge and belief. IN WITNESS WHEREOF, I have hereunto set my hand and seal this 26th day of September, 2024. Signature of the Complainant VERIFICATION I, Dr. V.K. Agrawal, resident of Deepika Society, Karelibaug, Vadodara hereby declare that I have not misrepresented any facts nor have tried to hide any information in my above affidavit. All the facts mentioned herein are true to the best of my knowledge.  Name & signature of the complainant MEMORANDUM OF PARTIES IN THE COURT OF THE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION, VADODARA BETWEEN: Jagrut Nagrik (A Voluntary Consumer Association) Through their Managing Trustee P.V. Moorjani, Opp: LBS Vidhyalay, Nr. Prerna School, Sangam Karelibaug Rd.,Vadodara. Dr. V.K. Agrawal 3A Deepika Society No.01, Nr. Water Tank, Karelibaug, Vadodara- 390022.  Complainant Vs. Mr. Vishal Shah B-304, Keshav Residency, Nr. Jayratna Char Rasta, Resides Reliance Petrol Pump, Vadodara-390001.  Opposite Party  PLACE: VADODARA DATED: _______________
+
+Human: Yes
+
+Bot: You can now file your complaint on the E-daakhil portal. The National Consumer Helpline is available for immediate assistance. You can call them at 1800-11-4000. If you need help with a location-based helpline number, please let me know. Is there anything else I can help you with?
+
+Human: Got it. Thank you
+
+Bot: You're welcome. If you have any other consumer-related issues or need further assistance, feel free to ask. You can also contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance. Is there anything else I can help you with?
+

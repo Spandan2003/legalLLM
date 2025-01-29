@@ -1,0 +1,95 @@
+<s><INST> Hi . I need help with filing a consumer complaint against a chit fund operator who has not paid me my due amount. 
+
+</INST> Okay, Could you please start by telling me your name and some basic details about yourself?
+
+</s> <s><INST> Sure. My name is A. Balavardhan Reddy, son of A. Ram Reddy. I am 35 years old and work as a private employee. I reside at House Number 1-21, Yellareddypalle village, Koilkonda mandal, Mahabubnagar district.
+
+</INST> Thank you for providing those details Mr. Balavardhan Reddy. Now, can you please explain to me in detail  about the chit fund issue you are facing? 
+
+</s> <s><INST> The chit fund operator is an individual named S. Govardhan Reddy, son of Narayan Reddy. He is around 53 years old and runs this business in Mahabubnagar district. He currently resides in Hyderabad after shifting from his native place. Actually, Govardhan Reddy and I are distant relatives. When he started this chit fund scheme in Mahabubnagar in 2015, he approached me and requested that I join as a chit member since he knew me. It is an unregistered chit fund operation.
+
+</INST> What was the total chit value you opted for and what were the terms regarding duration, instalments, commission etc?
+
+</s> <s><INST> I joined the chit fund in October 2015 when it commenced. The total chit value I opted for was Rs 5,00,000. It was scheduled to run for 25 months, so my monthly subscription amount was Rs 20,000. As per the terms, 5% commission would be deducted from the chit amount. 
+
+</INST> Were any written documents or agreements executed between you and Mr. Govardhan Reddy regarding this chit fund? 
+
+</s> <s><INST> No, nothing in writing was made. Everything was on trust and verbal agreement since we knew each other. But he did issue receipts in my name for all the monthly payments I made. 
+
+</INST> Okay, the receipts will help prove your case. For how long did you continue paying the monthly subscriptions? When did you stop?
+
+</s> <s><INST> I paid the Rs 20,000 every month diligently for the entire duration of 25 months till October 2017 when the chit fund cycle was supposed to end. I was the last member in this chit.
+
+</INST> What happened after you completed all the 25 month payments? Did you receive your chit amount from Mr. Govardhan Reddy? 
+
+</s> <s><INST> No, that is the issue. After I paid the entire amount, I approached him multiple times asking to pay me my chit amount of Rs 4,75,000 (after deducting his 5% commission). But he kept delaying and postponing on some pretext or the other.
+
+</INST> I understand. Can you please elaborate what excuses he gave for not paying your amount and how many months this went on?
+</s> <s><INST> He first said he has to manage finances for his daughter's wedding. Then over the next 2 years, he gave some reason or the other - financial constraints, bank delays, etc. In total, he did not pay me for almost 3 years after the chit fund ended. I approached him many times from November 2017 to August 2020 for my chit amount.
+
+</INST> That is a very long delay. What finally transpired in August 2020 after 3 years of chasing him? Were you able to recover your hard earned money?
+
+</s> <s><INST> In August 2020, I pressured him a lot and he finally agreed to execute a promissory note. He gave this written promise that he will pay the chit amount of Rs 4,75,000 along with interest at 24% per annum from November 2017 till August 2020. The total amount he promised in the promissory note was Rs 7,50,000.
+
+</INST> Okay, so you have this promissory note from August 2020. Further what happened.
+
+</s> <s><INST> As per the note, he said he will pay me in 3 months, but 3 months passed and he kept dodging. This continued for another few months despite my regular follow-ups. Finally in December 2020 he stopped responding to me. I lost hope of recovering my money. I have now decided to take legal recourse by filing a formal complaint against him with your assistance.
+
+</INST> I will certainly help you file an effective consumer complaint. Before that, do you have the promissory note given by Mr. Govardhan Reddy in August 2020? And the receipts of your 25 monthly payments? This will be important evidence.
+
+</s> <s><INST> Yes I have both. I have kept them safely ready. 
+
+</INST> Wonderful, that documentation will make your case very strong. Can you confirm that this entire chit fund business of Mr. Govardhan Reddy is unregistered and informal? There are no company documents?
+
+</s> <s><INST> Yes, absolutely. It is an unregistered, informal business. There are no company registration papers or anything like that. Just my receipts and his note. 
+
+</INST> Have you sent any legal notice to the opposite party? If not, I would  recommend you send one legal notice to the opposite party. 
+
+</s> <s><INST> I have not sent any legal notice to the opposite party. Kindly, draft a legal notice and the consumer complaint. 
+
+</INST> Here is the legal notice that you can send to the opposite party. Remember to put your signature before you send it in hard copy and put e-signature in case you are sending the soft copy. In case you get any problem in the above process or have any doubt, I would suggest you contact the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+
+</s> <s><INST></s> <s><INST> Thank you. But what if the legal notice does not get me any remedy. Then I will need to file a consumer complaint. 
+
+</INST> Yes, then you may file a consumer complaint. Do you want me to draft a complaint?
+
+</s> <s><INST> Yes, Kindly draft a consumer complaint.
+
+</INST> Sure, I would draft the complaint. But for this I need some additional information, like name of the parties, your name and the name of the opposite party, age, occupation, address based on that I would also recommend a jurisdiction in which the complaint can be filed.
+
+</s> <s><INST> Use of address as, A. Balavardhan Reddy  S/o A. Ram Reddy,  Aged 35 years,  
+Occ: Private Employee R/o H.No.1-21, Yellareddypalle Village,  Koilkonda Mandal, Mahabubnagar District and the other party’s address as S. Govaradhan Reddy S/o Narayan Reddy,   Aged 53 years,   Occ: Business R/o Suraram Village, Koilkonda Mandal,   Mahabubnagar District, presently residing at: Code No.13, H.No.3-3-5/81/C/1/C, 
+Srinagar Colony, Ramanthapur, Hyderabad.
+
+</INST> Based on the information provided you can file a consumer complaint at the District Consumer Dispute Redressal Commission at Mahabubnagar and Hyderabad. 
+
+</s> <s><INST> I would  like to file a complaint in Mahabubnagar.
+
+</INST>  Could you please tell what relief you expect from the court, for deficiency in service on the part of the opposite party. 
+
+</s> <s><INST> In terms of remedy I would like to have a compensation amount of Rs.4,75,000/- covered under the chit fund along with the interest and Rs.2,00,000/- towards compensation for mental agony and Rs. 50,000 as cost of the complaint.
+
+</INST> Thank you. On the basis of the documents that you have given me, I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+
+</s> <s><INST> Yes, it will be great if you can do that as well.
+</INST> You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+</s> <s><INST> Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+</INST> You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Telangana as the State and Mahaboob nagar as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+“The complaint filed is about the complainant involved in a chit business with the opposite party who failed to pay the chit amount of Rs. 4,75,000 with a 5% commission deduction, despite regular monthly contributions and a subsequent Promissory Note in August 2020. The complaint cites unfair trade practices, financial loss, and mental agony due to the Opposite Party's refusal to honour the commitment. The Complainant seeks the Consumer Disputes Redressal Commission to direct payment of the chit amount with interest, compensation for mental harassment, and additional costs..
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+</s> <s><INST> Got it. I will not agree for mediation.
+</INST> In that case, the consumer court in Mahabubnagar has to proceed with the case. 
+</s> <s><INST> Got it. Thank you very much!
+</INST> You are welcome. Feel free to raise further queries anytime. Best wishes.
+</s>

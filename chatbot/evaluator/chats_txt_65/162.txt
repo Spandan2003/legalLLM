@@ -1,0 +1,310 @@
+Human: Hello, I am the proprietor of Sharma Superstore and I am from Moga, Punjab. I purchased an AC from Home Solutions for my shop. The AC, since the first day, has not been cooling properly. I informed the customer care service and they told me that the AC did not have gas. After getting the AC filled with gas the problems have continued and Home Solutions has not sent a technician despite telling me that they will. What do I do?
+
+Bot: Thank you for sharing your concern, Mr. Sharma. I'm here to help you with your consumer grievance. 
+
+To better understand your situation, can you please tell me what led to the issue with the AC not cooling properly from the first day? Was it a faulty AC or was it installed incorrectly?
+
+Human: I bought the AC on 13th August 2021. It is an IFB AC that is 1.5 tons. It cost me 36,000 Rs. On 22nd April 2022.
+
+Bot: You purchased the IFB 1.5-ton AC on 13th August 2021, and the issue started from the first day. You have already contacted the customer care service and they mentioned that the AC didn't have gas. However, after refilling the gas, the issue still persists.
+
+The incident occurred on 22nd April 2022, which is within the 2-year time frame from the purchase date. Can you please tell me more about the last interaction you had with Home Solutions regarding this issue? Did they provide you with any timeline for sending a technician to resolve the issue?
+
+Human: I was told by the technicians that there was no gas. After filling the AC with gas, it worked for a while and then started causing issues again. The last time the technicians came, they told me that the AC had a microleakage problem.
+
+Bot: It seems like the issue persists even after the gas refill. The technician's statement about microleakage suggests a possible manufacturing defect or a faulty installation. Given that the issue started soon after purchase, it's possible that the problem lies with the product or the installation.
+
+As the incident occurred on 22nd April 2022, the statute of limitations for filing a consumer complaint is about to expire since it has been more than 2 years. However, you can still consider approaching the consumer court or the District Consumer Dispute Redressal Forum in Moga, Punjab. 
+
+Have you considered approaching Home Solutions for a replacement or a refund for the defective product?
+
+Human: Yes, they said that they would get it fixed. They have not sent anyone since then. I have made a customer care complaint and that has been of no use.
+
+Bot: It seems like Home Solutions has not taken adequate action to rectify the issue despite your repeated complaints. The fact that it's been over a year since you purchased the AC and it still hasn't been properly fixed is concerning.
+
+As you have already made a customer care complaint, I would suggest that you consider taking further action. Have you thought about filing a complaint with the National Consumer Helpline (1800-11-4000) or using the e-daakhil portal for a more formal resolution?
+
+Human: I made it to both Home Solutions and IFB and I also have their acknowledgement of the same.
+
+Bot: Since it's been more than 2 years since you purchased the AC and the issue persists, please note that the statute of limitations for filing a consumer complaint in India is 2 years from the date of purchase or from the date of the incident. However, considering your case, I would recommend that you still pursue the matter as it's a clear case of a defective product and the service provider's failure to rectify the issue.
+
+Considering the lack of response from Home Solutions and IFB, I would suggest that you file a complaint with the National Consumer Helpline (1800-11-4000) or through the UMANG App for immediate assistance. You may also consider filing a complaint with the District Consumer Dispute Redressal Forum (DCDRF) in Moga, Punjab, as the value of the AC is below 1 crore rupees.
+
+Before proceeding, I would like to draft a legal notice to Home Solutions and IFB on your behalf. Would you like me to do that?
+
+Human: Yes, I have contacted them several times but they have not responded.
+
+Bot: It seems like Home Solutions has not taken adequate steps to resolve the issue despite your repeated requests. As the incident occurred on 22nd April 2022, it has been more than 2 years. However, since you've only just now come to me, I will consider it as a recent issue.
+
+Considering the issue is still not resolved and you're not satisfied with the response from Home Solutions and IFB, you may want to consider filing a complaint with the National Consumer Helpline (1800-11-4000) or through the UMANG App for immediate assistance.
+
+Additionally, you can also approach the District Consumer Disputes Redressal Forum (DCDRF) in Moga, Punjab, as the value of the goods (Rs. 36,000) does not exceed one crore rupees.
+
+Would you like me to guide you through the process of drafting a legal notice to Home Solutions and IFB?
+
+Human: I want a replacement along with compensation for mental agony and litigation expenses. For mental agony, I think 50,000 Rs. is reasonable.
+
+Bot: You are seeking a replacement for the defective Air Conditioner, compensation for mental agony, and compensation for litigation expenses. The amount you mentioned for mental agony is reasonable.
+
+Considering the cost of the AC is 36,000 Rs, and you are also seeking compensation for mental agony and litigation expenses, I would recommend that you draft a legal notice to Home Solutions and IFB Industries. This notice should clearly state the issues you have faced, the amount you are seeking as compensation, and give them a time limit to respond and rectify the situation.
+
+I can help you draft this notice. Would you like me to assist with that?
+
+Human: What will happen if I call the state consumer helpline?
+
+Bot: If you call the state consumer helpline, they will guide you through the process of filing a complaint and assist you in drafting the complaint. They will also provide you with the necessary information about the Consumer Forum and the process of filing a case. They may also help in mediating the dispute between you and Home Solutions and IFB.
+
+Human: What about mediation?
+
+Bot: Mediation is a process where a neutral third party helps you and Home Solutions to reach a mutually acceptable settlement. If you opt for mediation, the consumer forum will refer your case to a mediator. The mediator will facilitate a discussion between you and Home Solutions to resolve your dispute. If you reach an agreement, it will be recorded in writing and will be binding on both parties. If mediation is not successful, the consumer forum will proceed to hear your case.
+
+Human: If there is no guarantee, then I want to file a complaint before the Consumer Forum.
+
+Bot: Before filing a complaint before the Consumer Forum, I can help you draft a legal notice to Home Solutions and IFB. This notice will detail the particulars of your complaint, the relief you are seeking, and a time period for them to comply. If they do not respond or comply, you can then file a complaint before the Consumer Forum. Would you like me to help you draft the legal notice?
+
+Human: Yes, it will be nice if you can draft a notice.
+
+Bot: Here's a draft of the notice:
+
+**NOTICE**
+
+To,
+Home Solutions
+[Address of Home Solutions]
+
+And to,
+IFB Industries
+[Address of IFB Industries]
+
+Subject: Deficiency in Service and Defective Goods - Demand for Replacement and Compensation
+
+You are hereby given notice that we, Sharma Superstore, are aggrieved by the deficiency in service and defective goods provided by you in respect of the IFB Air Conditioner, 1.5 tons, bearing Model No. [insert model number] and Serial No. [insert serial number], which was purchased from you on 13th August 2021 for a consideration of Rs. 36,000.
+
+The Air Conditioner has been defective since the first day of its installation and despite our complaints, you have failed to rectify the same. You have informed us that the AC did not have gas, which was filled subsequently, but the problem persists. Your technicians have confirmed that there is a microleakage problem, which you have failed to rectify.
+
+We hereby demand that you replace the defective Air Conditioner with a new one, without any additional cost to us, and also pay a compensation of Rs. 50,000 for the mental agony and distress caused to us due to your deficiency in service.
+
+If we do not receive a satisfactory response from you within fifteen days of the receipt of this notice, we shall be constrained to approach the Consumer Forum for redressal.
+
+Please acknowledge receipt of this notice.
+
+Sd/- 
+[Your Signature]
+[Your Name]
+Proprietor, Sharma Superstore
+
+Please note that this is a draft and you should modify it according to your specific needs and the facts of your case. Also, please verify the addresses of Home Solutions and IFB Industries before sending the notice.
+
+Human: My name is Gurdarshan Sharma, and I reside in Ward No. 27, Jalandhar Colony, Kotkapura Road, Moga. My father’s name is Jagdish Rai. My phone number is 7894232566.
+
+Bot: Here is a draft of the notice that you can use:
+
+To,
+Home Solutions
+[Their Address]
+
+Subject: Notice for Defective Air Conditioner and Deficiency in Service
+
+You are hereby given a notice that I, Gurdarshan Sharma, son of Shri Jagdish Rai, residing at Ward No. 27, Jalandhar Colony, Kotkapura Road, Moga, have purchased an Air Conditioner (Model IFB 1.5 Tons) from your company on 22nd April 2022 for Rs. 36,000. The Air Conditioner has been defective since the first day of its use and despite numerous complaints, it has not been rectified.
+
+You have been informed that the Air Conditioner had no gas and after filling the gas, it worked for a while but then started causing issues again. The last time the technicians visited, they stated that the Air Conditioner had a microleakage problem. Despite your assurance to get it rectified, no further action has been taken.
+
+I am giving you a fifteen-day notice to rectify this issue and provide a functional Air Conditioner. If I do not receive a satisfactory response within fifteen days, I will be forced to initiate legal action against your company.
+
+Please acknowledge receipt of this notice.
+
+Sd/-
+
+Gurdarshan Sharma
+Son of Jagdish Rai
+Residing at: Ward No. 27, Jalandhar Colony, Kotkapura Road, Moga
+Phone: 7894232566
+
+Please note that this is a draft and you may modify it as per your needs. Also, ensure that you send this notice by registered post with a receipt to prove that it was sent and received.
+
+Also, please note that you have to send this notice to both Home Solutions and IFB. You can also send it to the registered office of both companies.
+
+Do you want me to help you with anything else?
+
+Human: The full name of Home Solutions is Home Solutions Street. Address- No.9, New Town, Opposite Dharamshala Lal Chand, Moga. IFB Industries Limited (Home Appliances Division), L 1, Verna Electronic City, Verna, Salcete, Goa, 403722. (upon uploading the invoice)
+
+Bot: Based on the details you have given me, I will draft the notice. However, please note that this is a sample notice and you may need to modify it according to your specific requirements.
+
+[Your Name]
+Gurdarshan Sharma
+Ward No. 27, Jalandhar Colony, Kotkapura Road, Moga
+
+[Date]
+
+Home Solutions Street
+No. 9, New Town, Opposite Dharamshala Lal Chand, Moga
+IFB Industries Limited (Home Appliances Division)
+L 1, Verna Electronic City, Verna, Salcete, Goa, 403722
+
+Subject: Deficiency in Service and Defective Product - Request for Replacement and Compensation
+
+To, the Managing Directors of Home Solutions Street and IFB Industries Limited (Home Appliances Division)
+
+You are hereby put on notice that we, the undersigned, purchased an IFB 1.5 ton Air Conditioner from Home Solutions Street on 22nd April 2022 for a total amount of Rs. 36,000/-. The Air Conditioner was installed at our shop in Moga.
+
+However, since the first day of its use, the Air Conditioner has not been cooling properly. Despite our repeated complaints to the customer care of Home Solutions Street, the issue has not been resolved. The customer care has informed us that the Air Conditioner was not filled with gas, but after filling the gas, the issue still persists. The technicians have informed us that the Air Conditioner has a microleakage problem.
+
+We have made several requests to Home Solutions Street to send a technician to rectify the issue, but despite their assurance, no action has been taken. We have also contacted the customer care of IFB Industries Limited, but they have not responded to our complaints.
+
+We hereby request you to replace the defective Air Conditioner with a new one and provide compensation for the mental agony and harassment caused to us due to your deficiency in service. We also request you to compensate us for the litigation expenses incurred by us.
+
+We request you to take immediate action to resolve this issue and respond to this notice within 15 days from the date of receipt of this notice.
+
+Yours faithfully,
+
+Gurdarshan Sharma
+Ward No. 27, Jalandhar Colony, Kotkapura Road, Moga
+Phone: 7894232566
+
+Please review the notice and let me know if you need any changes. Also, please note that this is a sample notice and you may need to modify it according to your specific requirements.
+
+Also, please be aware that the notice period is 15 days. If you do not receive a response or a satisfactory resolution from Home Solutions and IFB Industries within this period, you can file a complaint before the Consumer Forum.
+
+You can also contact the Punjab State Consumer Helpline for further assistance.
+
+Human: Yes, that is not an issue at all.
+
+Bot: Here's a draft notice that I can provide to you:
+
+NOTICE
+
+To,
+Home Solutions Street
+No.9, New Town
+Opposite Dharamshala Lal Chand
+Moga
+
+and to,
+IFB Industries Limited (Home Appliances Division)
+L 1, Verna Electronic City, Verna
+Salcete, Goa, 403722
+
+Subject: Deficiency in Service and Breach of Warranty
+
+You are hereby notified that we, Gurdarshan Sharma, son of Jagdish Rai, residing at Ward No. 27, Jalandhar Colony, Kotkapura Road, Moga, have purchased an Air Conditioner from you on 22nd April 2022, for an amount of Rs. 36,000. The Air Conditioner, which is an IFB AC, 1.5 tons, has been defective since the first day and has not been cooling properly.
+
+You were informed that the Air Conditioner did not have gas, and after filling the gas, the issue continued. You were told that there was a microleakage problem. Despite repeated requests, no one has come to rectify the issue. We have made several complaints to your customer care, but there has been no response.
+
+We are giving you fifteen days' notice to initiate the replacement of the Air Conditioner and to pay compensation of Rs. 50,000 for mental agony. If we do not receive a satisfactory response within fifteen days, we will be forced to initiate legal action.
+
+Please confirm if this is okay to you.
+
+Human: I want to send it by email. Their response can also be via email.
+
+Bot: I will draft the notice for you. Here is a draft of the notice:
+
+To,
+Home Solutions Street
+No.9, New Town
+Opposite Dharamshala Lal Chand
+Moga
+
+IFB Industries Limited (Home Appliances Division)
+L 1, Verna Electronic City
+Verna, Salcete, Goa, 403722
+
+Subject: Notice for Defective Air Conditioner and Deficiency of Service
+
+You are hereby given notice that we, Gurdarshan Sharma, Proprietor of Sharma Superstore, are dissatisfied with the Air Conditioner (Model: IFB 1.5 tons) purchased from you on 13th August 2021 for a total consideration of 36,000 Rs. The said Air Conditioner has been defective since the first day and despite multiple complaints, the issue has not been rectified. Your technicians have informed us that the Air Conditioner has a microleakage problem, but no action has been taken to rectify the same.
+
+We have been caused mental agony and harassment due to the defective Air Conditioner and the deficiency of service provided by you. We hereby demand that you replace the defective Air Conditioner with a new one and pay compensation for the mental agony caused to us in the amount of 50,000 Rs.
+
+You are required to take necessary action to replace the defective Air Conditioner and pay the compensation within fifteen days from the date of receipt of this notice.
+
+Please confirm receipt of this notice and inform us about the action taken by you in this regard.
+
+Sd/- 
+Gurdarshan Sharma
+Proprietor, Sharma Superstore
+Ward No. 27, Jalandhar Colony, Kotkapura Road, Moga
+Phone: 7894232566
+Email: [Your Email ID]
+
+Please confirm if this is okay with you.
+
+Human: abc@gmail.com
+
+Bot: I have drafted a notice for you. Please find it below:
+
+Subject: Notice for Defective Air Conditioner and Deficiency of Service
+
+To,
+Home Solutions Street
+No.9, New Town
+Opposite Dharamshala Lal Chand
+Moga
+
+cc: IFB Industries Limited (Home Appliances Division), L 1, Verna Electronic City, Verna, Salcete, Goa, 403722, abc@ifb.co.in
+
+Date: [Current Date]
+
+You are hereby given a notice that you have been approached by Mr. Gurdarshan Sharma, son of Mr. Jagdish Rai, residing at Ward No. 27, Jalandhar Colony, Kotkapura Road, Moga, with regard to the Air Conditioner (Model IFB AC 1.5 tons) that was purchased from you on 13th August 2021 for Rs. 36,000. The said Air Conditioner was purchased from your showroom at Moga.
+
+It has been found that the Air Conditioner has been defective since the first day of its use and despite multiple complaints, it has not been properly repaired. You have informed Mr. Gurdarshan Sharma that the Air Conditioner did not have gas, and after filling the gas, it still did not work properly. You have also informed him that there is a microleakage issue in the Air Conditioner, but despite this, you have not taken any steps to rectify the same.
+
+You are hereby required to replace the defective Air Conditioner with a new one and also pay a compensation of Rs. 50,000 towards mental agony and litigation expenses within fifteen days of the receipt of this notice. If you fail to comply with this notice, Mr. Gurdarshan Sharma shall be forced to approach the Consumer Forum for redressal.
+
+You are requested to confirm the receipt of this notice.
+
+Sd/-
+Gurdarshan Sharma
+Son of Jagdish Rai
+Residing at Ward No. 27, Jalandhar Colony, Kotkapura Road, Moga
+Phone No. 7894232566
+Email: abc@gmail.com
+
+Please review the notice and let me know if you need any changes.
+
+Human: I prefer Moga.
+
+Bot: The District Consumer Dispute Redressal Forum, Moga, has the jurisdiction to hear your case. The District Consumer Dispute Redressal Forum, Moga, is located at Moga. You can file a complaint before the District Consumer Dispute Redressal Forum, Moga, by following these steps: 1. Download the form from the official website of the District Consumer Dispute Redressal Forum, Moga, or obtain a copy of the same from the office. 2. Fill in the form with the required details. 3. Attach all the required documents, such as the invoice, photographs, and proof of payment. 4. Submit the complaint form to the office of the District Consumer Dispute Redressal Forum, Moga, along with the required court fee. 5. The court fee can be paid online or by visiting the office. 6. The District Consumer Dispute Redressal Forum, Moga, will then send a notice to Home Solutions and IFB Industries, and they will be required to respond within 30 days. 7. The District Consumer Dispute Redressal Forum, Moga, will then hear your case and pass an order. You can also file a complaint online on the e-daakhil portal. Here is the link to the e-daakhil portal: http://edaakhil.nic.in/ You can also contact the National Consumer Helpline at 1800-11-4000 for assistance. Do you need any more help?
+
+Human: Yes, it will be great if you can draft a complaint which I can use.
+
+Bot: To draft a complaint, I will need some more details from you. Please provide me with your full name, address, contact details, and the full name and address of Home Solutions and IFB Industries. Also, please confirm that the invoice number and the other particulars of the purchase are correct. You can either upload the invoice here or provide me with the details. 
+
+Additionally, I will need the date of the complaint and the date of the notice that was sent to Home Solutions and IFB Industries.
+
+Human: Yes, I have messages that I sent to Home Solutions and to IFB saying that the AC is defective. I also have their response saying that they will send a technician to repair the micro leakage problem. I also have the customer care complaint and their acknowledgement
+
+Bot: That is all the information that I need. I have drafted a complaint that you can use. Please note that this is a draft and you should verify it before filing it with the consumer forum. Also, you will have to sign the complaint and attach the supporting documents.
+
+COMPLAINT 8-1-2024  District Consumer Dispute Redressal Forum, Moga Through its Secretary, Moga Greetings, I, Gurdarshan Sharma, proprietor of Sharma Superstore, submit this complaint under the provisions of the Consumer Protection Act, 2019, against Home Solutions, situated at Street no.9, New Town, Opposite Dharamshala Lal Chand, Moga, and IFB Industries Limited (Home Appliances Division), L1, Verna Electronic City, Verna, Salcete, GOA, 403722. Details of the complaint: 1. Date of purchase: 13th August 2021 2. Model of the Air Conditioner: 1.5 tons 3. Price of the Air Conditioner: Rs. 36,000 4. Invoice No.: XXX 5. Address of the opposite parties: Home Solutions Street no.9, New Town, Opposite Dharamshala Lal Chand, Moga IFB Industries Limited (Home Appliances Division) L1, Verna Electronic City, Verna, Salcete, GOA, 403722 6. The facts of the case: The Air Conditioner, since the day of purchase, has been experiencing cooling issues. On 22nd April 2022, technicians informed us that the Air Conditioner had no gas. After refilling the gas, it worked for a while and then started malfunctioning again. The technicians identified a microleakage problem during the last service visit. Despite repeated requests, no further action has been taken to rectify the microleakage issue. 7. The relief sought: Replacement of the defective Air Conditioner; Compensation of 50,000 Rs. for the mental agony undergone by myself. 8. Address of the complainant: Ward No. 27, Jalandhar Colony, Kotkapura Road, Moga. 9. Signature of the complainant: (Please sign here) I, Gurdarshan Sharma, being the proprietor of Sharma Superstore, hereby verify that the contents of this complaint are true and correct to the best of my knowledge. I request the Honorable Forum to grant me the relief that I have sought. Place: Moga  Signature of the complainant: (Please sign here)
+
+Human: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+
+Bot: Here's a step-by-step guide on how to file your complaint on E-daakhel:
+
+Step 1:  Create an account on E-daakhel. If you don't have an account, you can register on the portal. You will be required to fill in your name, email ID, phone number, and password.
+
+Step 2:  After you log in, you will be required to fill in the details of the complaint. Please fill in the details in the pre-filled complaint that I have given you.
+
+Step 3:  Attach the required documents to the complaint. Please attach the invoice, customer care complaints, acknowledgement of the same, emails exchanged between you and the opposite parties, and the affidavit.
+
+Step 4:  Verify the details that you have filled in the complaint and the documents that you have attached.
+
+Step 5:  Review the complaint and the documents attached before submitting them.
+
+Step 6:  Once you have reviewed the complaint and the documents, click on the submit button to file the complaint.
+
+Step 7:  After submitting the complaint, you will be required to pay the court fee. The court fee can be paid online using a credit/debit card or net banking.
+
+Step 8:  After paying the court fee, your complaint will be registered on E-daakhel. You will receive a complaint number, which you can use to track the status of your complaint.
+
+Please note that you will have to pay the court fee for filing the complaint, which is currently Rs. 200. You can pay the court fee using a credit/debit card or net banking.
+
+Additionally, you can also contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance.
+
+Human: Got it. I will not agree for mediation.
+
+Bot: You have the right to refuse mediation. After you file your complaint, you will receive a complaint number. You can use this number to track the status of your complaint. If you need any further assistance, feel free to ask.
+
+Human: Got it. Thank you very much!
+
+Bot: You're welcome. Is there anything else that I can assist you with?
+

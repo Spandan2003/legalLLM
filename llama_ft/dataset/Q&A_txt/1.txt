@@ -1,0 +1,81 @@
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User: Hi, I have an issue with my insurance policy. How do I resolve it?
+Chatbot: Could you please elaborate what the issue is.
+User:  On Monday, in the morning hours, I loaded the paddy bags and dry paddy grass onto my vehicle and was traveling back to my village Gudivada. On the way accidentally the electric wires touched the load on the said vehicle and caught fire. Immediately I reported the matter to the Station Fire Officer, A.P. State Disaster Response and Service Department, Fire Station, Vizianagaram, but by then the said load and vehicle got completely burnt during the accident. Subsequently I reported the incident in the police station and got the FIR registered. When I claimed for the insurance the Insurance company refused it.
+Chatbot: Could you mention the reason why the Insurance company refused the claim.
+User: The company mentioned that the vehicle was overloaded and the seating capacity is two, however there were three people sitting in the vehicle.
+Chatbot: Could you mention the amount of loss that has incurred to you, the value of goods, the value of the vehicle
+User: The Estimation of repair for the Vehicle is Rs. 5,75,762. The goods lost were worth Rs.10,000.
+Chatbot: What is the remedy that you are looking for.
+User: I would like to seek the damages caused to the vehicle i.e Rs.5,85,762/- and goods i.e Rs.10,000/- carried, Rs.3,60,000/- towards loss of earnings from the date of the accident to till date and 2,00,000/- towards Compensation
+Chatbot: In the present case you can send a legal notice or file a complaint against the Insurance company before the respective District Consumer Disputes Redressal Commission Or you could also contact the respective State Consumer Helpline Number where you can talk to an agent and address your grievance or you could also approach the Insurance Ombudsman under the Insurance Regulatory Development Authority. 
+Please note that any complainant, whose complaint on the same subject matter is or was before a Court/User Forum or an Arbitrator cannot approach an Insurance Ombudsman.
+User: How do I approach an Insurance Ombudsman
+Chatbot: I am sorry. I could only assist you with any form of grievance redressal mechanism with regards to consumer law only.  
+User: Could you provide the state consumer helpline number to me.
+Chatbot: Could you please mention which state you reside in.
+User: Andhra Pradesh
+Chatbot: Please find the State Consumer Helpline number- 1800-425-0082 / 1800-425-2977
+User: Should I hire a lawyer to send a notice or Can I only send the notice?
+Chatbot: Hiring a lawyer would be suggested, but is not necessary. You can draft and send the notice. Do you want me to draft a notice for you?
+User: Yes
+Chatbot: Here is the Notice.
+User: Is there any other way I can resolve this issue?  
+Chatbot: Yes. You can file a complaint before the respective Consumer Disputes Redressal Commision and seek compensation. 
+User: How do I file a complaint
+Chatbot: Do you want me to draft a complaint for you?
+User: Yes. 
+Chatbot: Could you please provide your details for drafting the complaint, specifically details such as name, father’s name, age, occupation, address.
+User: Name-Nammi Venkata Rao, Father’s name- Ramulu (Late), Age- 47 years, Address- D. No 9-40-22, Nammivanipeta, Chittivalasa Post, Bheemunipatnam Mandal, Visakhapatnam District- 531162, Occupation- transport of goods
+Chatbot: Could you please provide the details of the Insurance company, specifically, if it has a branch, the branch address, the branch manager name/who is the authorized person who represents the branch.
+User: The insurance company where I took the insurance is Cholamandalam MS General Insurance Company Limited which is situated in Vijayawada. I do not know if it is the main or branch office.
+Chatbot: Alright. You could look up for the details in the insurance policy documents you have. Please provide the details of the insurance company, its address and the branch office details and its address.
+User: Sure. The Cholamandalam MS General Insurance Company Limited, registered and Head Office, 2nd Floor, Dare House, 2 NSC Bose Road, Chennai-600001, Tamil Nadu. Branch office: The Cholamandalam MS General Insurance Company Limited, Branch Office, H.No 40-1-48/1, 2nd Floor, Beside Centro, Opp Airtel Office, Near DV Manor Hotel, MG Road, Vijayawada-520010, Krishna (Dist), Andhra Pradesh. Branch office: Cholamandalam MS General Insurance Company Limited, D. No 26-1-19, Opp MSR High Tech, Bus Stand Kambala Peta, Rajahmundry- 533103, East Godavari Dist, Andhra Pradesh
+Chatbot: With respect to filing consumer complaint the appropriate District User Disputes Redressal Commission are Visakhapatnam, Vijayawada, Rajahmundry, Chennai. Please mention where you would like to file the complaint.
+User: I stay in Visakhapatnam, so I would like to file the complaint at Visakhapatnam.
+Chatbot: could you mention the timeline of the events
+User: The accident occurred on 20/02/2020. The FIR was registered on 22/02/2020. The insurance company refused the claim through a letter dated 03/04/2020. 
+Chatbot: Could you mention the details of the vehicle insured and the details of the insurance policy such as the type, policy number, period and details as such
+User:  The insurance is for my vehicle TATA Ace bearing Registration No AP 31 TP 4183. I have insured the vehicle under the package named Goods Carrying Vehicle for a sum of Rs. 3,20,000. The period of Insurance is from 26/10/2019 to 25/10/2020. The Policy Number  is 3379/02530876/000/00. As per the Certificate of Registration of the said vehicle the seating capacity is 2.
+Chatbot: Could you please provide the details of the goods carried, the capacity of the vehicle and the number of passengers traveling in the vehicle
+User: the capacity of the vehicle was about 900 kgs. The goods carried weighed 620 kgs, four paddy bags (each about 80kgs i.e, a total of about 320kgs) and paddy dry grass (about 300 kgs) which is well within the capacity of the said vehicle. Also I was traveling alone in the vehicle.
+Chatbot: You have mentioned earlier that you have got an FIR registered. Could you provide the details of it.
+User: FIR/ Crime No.29/2000 dated 22/02/2020. 
+Chatbot: Could you please mention the list of documents you have submitted for the claim of insurance.
+User: FIR copy, Fire Attendance Certificate , M.V. Inspector’s Report, Photographs of the Accident, Insurance Policy issued by the opposite parties, Complainant’s Vehicle Registration Certificate, Driving License of the Complainant, Aadhar Card and Estimate of Damages. 
+Chatbot: Thank you for providing these details. Please keep the above mentioned documents safely as they are to be submitted as evidence. You could file a complaint in the E- Dakhil Portal, which is exclusively to file complaints for consumer disputes.
+User: How do I file a complaint in this portal.
+Chatbot: Here is a step by step guideline for you to file a complaint in the E-Dakhil portal
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter Rs.585762 in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of the Insurance company in the Opposite party name section. Select the state and district of the registered address. 
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+I have insured it with the company named Cholamandalam MS General Insurance company. I have insured the vehicle under the package named Goods Carrying Vehicle for a sum of Rs. 3,20,000. The period of Insurance is from 26/10/2019 to 25/10/2020.  On Monday, in the morning hours, I loaded the paddy bags and dry paddy grass onto my vehicle and was traveling back to my village Gudivada. On the way accidentally the electric wires touched the load on the said vehicle and caught fire. Immediately I reported the matter to the Station Fire Officer, A.P. State Disaster Response and Service Department, Fire Station, Vizianagaram. But the said load and vehicle got completely burnt during the accident. Subsequently I reported the incident in the police station and got the FIR registered. When I claimed for the insurance the Insurance company refused it.
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+Chatbot: Would you like me to generate the complaint for you ? 
+
+User: Yes, please.
+
+Chatbot: Here is a complaint. Once downloaded, review and sign the complaint. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+
+User: Yes, Please. It would be really helpful 
+
+Chatbot:  Sure. Here is a draft affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+
+User: No, that's all for now. Thanks.
+
+Chatbot: You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+

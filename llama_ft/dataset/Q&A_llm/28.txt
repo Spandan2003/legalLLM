@@ -1,0 +1,72 @@
+<s><INST> My Samsung LED TV broke in the checked- in baggage at the airport.
+
+</INST> Okay Mr. Murugesan, before we begin discussing the specifics of your case, I'd like to get some background information. What do you do for a living? This helps provide context when drafting the complaint.
+
+</s> <s><INST> I'm a professional cricket player and represent the Tamil Nadu Ranji cricket team in domestic tournaments. 
+
+</INST> Can you please explain to me, in your own words, what is the complaint about?
+
+</s> <s><INST> On January 29, 2017 I was returning from Saudi Arabia to Trichy, India via a connecting flight in Mumbai. When I landed in Mumbai around 6am and went to collect my checked-in baggage for the connecting flight, I found my suitcase was damaged and open. To my shock, the Samsung LED TV I had carefully packed in the baggage was completely smashed and broken. 
+
+</INST> Can you please tell me, what did you do after discovering the damage? 
+
+</s> <s><INST> Well, after seeing the damage, I immediately approached the Jet Airways staff present in the baggage area in Mumbai. I reported the damage to them. The staff gave me a baggage damage report with the file number BOM9W55305 as proof of my complaint. They assured me they would investigate and resolve the matter and that I would be compensated with either a new TV or equivalent cash when I reached Trichy. 
+
+</INST> what happened when you arrived in Trichy - were you provided any compensation as assured?
+
+</s> <s><INST> No, unfortunately not. When I reached Trichy airport, Jet Airways did not provide any replacement TV or cash compensation, even though they had promised to do so in Mumbai. 
+
+</INST> Apologies you had to face that additional stress. Can you please tell me if you followed up with Jet Airways subsequently regarding compensation? 
+
+</s> <s><INST> Yes, I did follow up multiple times. On February 10, 2017 I emailed Jet Airways customer care informing them about the baggage damage and lack of compensation. They responded saying they would address my query in 24 hours, but never did. After waiting patiently for over 2 months, I sent Jet Airways a legal notice on April 3, 2017 demanding compensation. 
+
+</INST> Did Jet Airways respond to your legal notice and offer a resolution?
+
+</s> <s><INST> They sent a very late reply to my notice on May 5, 2017. In their reply they asked for documents like my ticket and boarding pass which I had already provided earlier.
+
+</INST> I appreciate you sharing all those details. Just to confirm, do you have copies of the supporting documents like damage report, legal notice, Jet Airways' reply etc which can be attached as evidence to the complaint?
+
+</s> <s><INST> Yes, I have all the relevant documents and can provide copies - the damage report, TV cash memo, flight and excess baggage tickets, email correspondence, legal notice and Jet's reply. I can share these as exhibits to support the complaint.
+
+</INST> That is very helpful. Those documents will strengthen your case. A few more questions - what compensation amount are you seeking through the consumer complaint?
+
+</s> <s><INST> I would like to seek Rs. 50,000 as compensation for the damaged TV, Rs. 30,000 for mental harassment, Rs. 10,000 for deficiency in service and Rs. 10,000 as litigation charges.
+
+</INST> Got it. And lastly, can you please confirm your full residential address for the complaint drafting? Also, which consumer court do you want to file the complaint in, based on whose jurisdiction?
+
+</s> <s><INST> My full address is - M. Murugesan, S/o Muniyandi, D.No.4/150, Ayyanarpuram, Chinthamani Road, Madurai District. 
+
+</INST> As you reside in Madurai, the consumer complaint can be filed in the District Consumer Disputes Redressal Commission, Madurai, you can also file it in Trichy and Mumbai where the opposite party office is located. Where would you like to file the complaint?
+
+</s> <s><INST> I would like to file a complaint in Madurai.
+
+</INST> Kindly upload all the documents that you feel can be helpful to draft the complaint. Also I suggest you send one more legal  notice to the opposite party and then proceed with complaint. Would you like me to draft a notice?
+
+</s> <s><INST> Yes, Kindly draft the complaint and notice.  I have uploaded the documents.
+
+</INST> Thank you. On the basis of the documents that you have given me, I have drafted a pre-filled notice that you can access here and the complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+
+</s> <s><INST> Yes, it will be great if you can do that as well.
+</INST> You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+</s> <s><INST> Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+</INST> You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Tamil Nadu as the State and Madurai as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+“The complainant, a cricket player and Jet Airways customer, experienced damage to his suitcase and Samsung LED TV during a flight in January 2017. Despite assurances from Jet Airways staff for compensation, the promised resolution was not provided upon reaching Trichy Airport. After unsuccessful attempts to resolve the issue through customer care, the complainant sent a legal notice, receiving a delayed response denying responsibility. Allegations include deficient service, unfair trade practices, and intentional delays by Jet Airways, causing distress to the complainant. .”
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+</s> <s><INST> Got it. I will not agree for mediation.
+</INST> In that case, the consumer court in Madurai has to proceed with the case.. If you have further questions or need more guidance later, don't hesitate to reach out. In case you get any problem in the above process or have any doubt, I would suggest you contact the state consumer helpline at 044-28592828 Call centre Assistants are available between 9-30 AM to 6-00 PM on all working days of Government of Tamil Nadu or you can call the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+
+</s> <s><INST> No
+</INST> It was great to assist you!
+
+</s>

@@ -1,0 +1,97 @@
+Human: Hi, I'm Mohammed Jahangir. I need help filing a consumer complaint regarding an issue I'm facing related to a property.
+
+Bot: Thank you for sharing your concern, Mr. Jahangir. I'd be happy to assist you with filing a consumer complaint. Can you please tell me what led to this issue with the property? Was it something specific that happened recently or is it a long-standing problem?
+
+Human: Sure. Here's the background - I had purchased a residential plot in Mahabubnagar back in 2009. It was Plot No. 73, total area 150 square yards, located at Sy Nos. 260, 263 and 264 at Christianpally Sivar. This plot was registered in my wife's name, Shaheda Begum. After purchasing the plot, I constructed a house on it using my retirement benefits. Since the plot was in my wife's name, I got the house constructed in her name too.
+
+Bot: It seems like you've provided a detailed background of your situation. To help you further, can you please tell me what led to the issue you're facing now with this plot? Was it a problem with the plot itself, the construction, or something else?
+
+Human: The house that I constructed on the plot was allotted a municipal door number - 14-4-154/3 by the local authorities. My wife Shaheda Begum unfortunately passed away in 2015. After her death, I was left as the legal heir of the house along with our son and 6 daughters. But when I approached the municipal authorities to get the house mutated to my name as legal heir, I found that the house was already mutated to my son's name without my knowledge and consent.
+
+Bot: That's a serious issue. It seems like there's been a dispute over the ownership of the house. Can you please tell me when you first discovered that the house was mutated to your son's name, and was it more than 2 years ago?
+
+Human: It turned out my son had submitted a fabricated gift deed to the municipal authorities, falsely stating that my wife had gifted the house to him before her death. This was completely false - my wife never made any such gift deed. It was forged by my son to illegally transfer the property.
+
+Bot: That's a serious issue. Did you or your son approach the municipal authorities or the court after you found out about the forged gift deed and the mutation in your son's name?
+
+Human: I immediately approached the municipal authorities and pointed out the fabrication. I gave them my wife's death certificate and my legal heir certificate proving the mutation was done illegally. I followed up with them multiple times through written and oral complaints.But they didn't take  any action.
+
+Bot: It seems like the municipal authorities are not taking your complaint seriously. This is unacceptable. Did you try to contact any higher authorities or take any further action after this?
+
+Human: Please go ahead and draft the notice. I'll be able to review it and provide any additional inputs needed.  Chatot: Could you please send your address and the address of the opposite parties.  My address is the same as already stated, S/o Mohammad Abdul Aziz, aged 69 years, H.No.14-4-154/3, Occupation: Retired govt employee, Shivashakthinagar,  Mahabubnagar town and district and the opposite parties address is 1. The Commissioner, Town Municipality, Mahabubnagar and 2.  Mohammad Mathin, S/o Mohammad Jahangir, aged 38 years, Occupation: Business, H.No.4-1-154/3, Shiva Shakthi Nagar, Mahabubnagar town and district.
+
+Bot: I cannot provide you with the address of the opposite parties. If you need to draft a legal notice, I can guide you on the content.
+
+Human: Thank you. But what if the legal notice does not get me any remedy.
+
+Bot: If the legal notice doesn't yield any results, you can proceed with filing a consumer complaint in the District Consumer Dispute Redressal Forum (DCDRF) or the State Consumer Dispute Redressal Commission (SCDRF), depending on the value of the dispute.
+
+Human: I would like to ask for cancellation of the transfer of property and recognise the complainant as a legal heir of Smt. Shaheda Begum and ask for appropriate compensation for mental agony and hardship suffered by the Complainant.
+
+Bot: You may approach the District Consumer Dispute Redressal Forum (DCDRF) under Section 34 of the Consumer Protection Act, 2019. Since the value of the property is less than one crore rupees, the District Forum has jurisdiction to hear your case. You can file a complaint with the District Forum, providing details of the property, the forged gift deed, and the harm suffered by you due to the illegal transfer of the property. The District Forum will then conduct a hearing and pass an order in your favor, if they find that the transfer was indeed illegal and caused harm to you.
+
+Additionally, you may also consider approaching the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance and guidance on the process of filing a complaint.
+
+Is there anything else you would like help with?
+
+Human: I have following proof to ascertain my claim, like, proof of construction of the house - this could include building permit records, property tax receipts etc. showing the house was constructed by you on the plot after purchase., Allotment letter from municipal authorities assigning door number 14-4-154/3 to the newly constructed house, legal heir certificate, mutation records from 2020 showing the property was mutated in your son's name, copy of the alleged fabricated gift deed, all written complaints made by you to the municipal authorities in 2020, death certificate of your wife Shaheda Begum
+
+Bot: You have a good amount of evidence to support your claim. Now, I would like to inform you that the complaint needs to be filed on the e-Daakhil portal. I can guide you through the process. Would you like me to provide you with the details of the documents required to be uploaded on the portal and the step-by-step process of filing the complaint?
+
+Human: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+
+Bot: Here is a step-by-step guide on how to file your complaint on E-daakhil:
+
+**Step 1: Create an account on E-daakhil**
+
+1. Go to the E-daakhil portal: https://edaakhil.nic.in/
+2. Click on "Register" and fill in the required details to create a new account.
+3. Verify your email address by clicking on the link sent to your registered email.
+
+**Step 2: Login to your account**
+
+1. Go to the E-daakhil portal and login with your credentials.
+2. Click on "File a New Case" from the Filing dropdown menu.
+3. Select "Consumer Complaint" as the case type.
+
+**Step 3: Fill in the complaint details**
+
+1. Enter the details of the opposite party, including their name, address, and contact details.
+2. Enter the details of the complainant, including your name, address, and contact details.
+3. Enter the details of the case, including the cause of action, the amount of loss incurred, and the relief sought.
+
+**Step 4: Attach supporting documents**
+
+1. Upload the scanned copies of the supporting documents, including the affidavit, Memorandum of Parties, and other relevant documents.
+2. Ensure that all documents are signed and notarized.
+
+**Step 5: Pay the filing fee**
+
+1. The filing fee for a consumer complaint is Rs. 200.
+2. You can pay the fee online using a credit/debit card or net banking.
+
+**Step 6: Submit the complaint**
+
+1. Once you have filled in all the details and attached the supporting documents, click on "Submit" to file your complaint.
+2. You will receive an acknowledgement receipt with a unique case number.
+
+**Step 7: Print the complaint**
+
+1. Take a printout of the complaint and supporting documents.
+2. Sign the complaint and attach the supporting documents.
+
+**Step 8: File the complaint with the District Consumer Disputes Redressal Commission**
+
+1. Take the printed complaint and supporting documents to the District Consumer Disputes Redressal Commission.
+2. Submit the complaint and supporting documents to the Commission.
+
+That's it! You have successfully filed your consumer complaint on E-daakhil. Please note that you may need to follow additional steps or procedures as required by the Commission.
+
+Human: Got it. I will not agree for mediation.
+
+Bot: You can opt out of mediation and proceed with the regular hearing. After submitting the complaint, you will be assigned a complaint number, and you will receive a confirmation email from E-daakhil. The complaint will then be sent to the District Consumer Disputes Redressal Commission for further action. You can track the status of your complaint on the E-daakhil portal. The Commission may send a notice to the opposite party, and they will be required to respond within the stipulated time. If the opposite party fails to respond or does not appear before the Commission, the Commission may pass an ex parte order in your favor. If the opposite party responds, the Commission will schedule a hearing, and you will be required to appear before the Commission to present your case. The Commission will then pass an order, which may be in your favor or against you. If the order is in your favor, the opposite party will be required to comply with the order. If you are not satisfied with the order, you can appeal to the State Commission or the National Commission. Do you have any other questions about the process?
+
+Human: No. Thank you very much for the assistance!
+
+Bot: You're welcome. If you have any other consumer-related issues or need further assistance, don't hesitate to reach out.
+

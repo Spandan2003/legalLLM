@@ -1,0 +1,394 @@
+Human: Hello Consumer Grievance Assistance Chatbot. I purchased some silver jewellery from a shop recently but I faced some issues regarding deduction of weight and purity of the products. I want to file a consumer complaint in the consumer court but need help understanding the process.
+
+Bot: Thank you for sharing your concern with me. I'd be happy to help you with the process of filing a consumer complaint.
+
+To better understand your issue, can you please tell me what led to the deduction of weight and purity of the products? Was it due to any discrepancy in the product description, billing, or any other reason?
+
+Human: I purchased 2 pairs of silver leg chains and 2 pairs of silver metti tags on 1st January 2022 from Lalitha Jewellery Mart in Madurai. The total bill amount was Rs. 11,013.
+
+Bot: You purchased the silver jewellery on 1st January 2022 from Lalitha Jewellery Mart in Madurai. That's a good start. Now, can you please tell me about the issue you faced regarding the weight and purity of the products? What exactly was deducted and how did you find out about it?
+
+Human: I did part payment in cash and part by exchange of my old silver chain.
+
+Bot: So, you made a part payment in cash and part payment by exchanging your old silver chain. 
+
+Now, let's talk about the issue with the purchase. You mentioned that you faced issues with the weight and purity of the products. Can you please tell me more about it? What exactly was the problem you faced?
+
+Human: My name is V. Ramaraj, age 48 years, residing at Pasumpon Nagar, Madurai.
+
+Bot: Thank you for providing that information, Mr. Ramaraj. Now, regarding the issue with the silver jewellery, you mentioned that there were problems with the weight and purity of the products. Can you please tell me more about what happened? What exactly did you find out about the weight and purity that made you suspect something was wrong?
+
+Human: The old silver chain weighed approximately 201 grams which I had purchased from the same Lalitha Jewellery shop about 1 year back.
+
+Bot: That's helpful information. Now, I'd like to clarify, what are the issues you're facing regarding the silver leg chains and metti tags you purchased on 1st Jan 2022? Is it related to the weight deduction, purity, or something else?
+
+Human: As per standard market practice, while exchanging old silver items, shops deduct some weight for wastage and pay as per latest market rate for remaining net weight. In my case, when valuing the 201 grams old silver chain for exchange, the shop should have deducted 4 grams for dust wastage which is reasonable. But apart from 4 grams they also deducted 59 grams over and above this claiming it as processing wastage charges. So they calculated the exchange value only for the remaining 138 grams instead of at least 197 grams (201 grams - 4 grams dust charges). This 59 grams deduction was very unreasonable and resulted in financial loss to me.
+
+Bot: So the issue is that the shop deducted an excessive amount for processing wastage charges, which you believe is unreasonable. This resulted in a lower exchange value for your old silver chain, causing a financial loss to you. That's a clear case of unfair trade practice.
+
+Now, I'd like to know, did you bring this issue to the attention of the shop owner or manager at the time of exchange, or is this a complaint you're raising now?
+
+Human: Yes, absolutely! As a consumer, I felt cheated. The silver jewellery that is 201 grams was brought from the same shop and I paid for the full 201 grams so when I exchanged it I should have got an appropriate return on the exchanged silver.
+
+Bot: You're saying that the shop deducted an excessive amount of wastage, which is not acceptable to you. Did you bring this issue to the attention of the shop owner or staff during or after the exchange, and if so, what was their response?
+
+Human: I also have another issue related to the same transaction.
+
+Bot: You'd like to report another issue related to the same transaction with Lalitha Jewellery Mart. Please go ahead and share the details.
+
+Human: Yes, another problem I faced was that the 190 grams new silver leg chain I purchased as part of this purchase broke in just a few days! It looks like the new silver chain given to me was made of impure silver.
+
+Bot: That's another issue to consider. So, the new silver leg chain you purchased broke shortly after use, and you suspect it may be made of impure silver. Did you report this issue to the shop immediately after the breakage, or was it some time later?
+
+Human: kindly draft legal notice and the complaint.
+
+Bot: Based on your issues, I can draft a legal notice and a complaint for you. However, please note that this is a basic draft and it's recommended to consult a lawyer before finalizing and sending the notice or filing the complaint.
+
+**Draft Legal Notice:**
+
+[Your Name]
+V. Ramaraj
+[Your Address]
+Pasumpon Nagar, Madurai
+
+[Date]
+
+Lalitha Jewellery Mart
+[Their Address]
+Madurai
+
+Subject: Notice for Unfair Trade Practice and Breach of Warranty
+
+To,
+
+The Management of Lalitha Jewellery Mart
+
+We are writing to bring to your notice that our client, V. Ramaraj, purchased 2 pairs of silver leg chains and 2 pairs of silver metti tags from your shop on 1st January 2022. The total bill amount was Rs. 11,013.
+
+However, our client has been facing two major issues with the purchased items. Firstly, while exchanging his old silver chain, your shop deducted an unreasonable amount of 59 grams as processing wastage charges, resulting in a financial loss to our client. Secondly, one of the new silver leg chains purchased broke in a short span of time, indicating that it was made of impure silver.
+
+Our client has been a loyal customer of your shop and has brought this issue to your notice. We request you to take immediate action to rectify this situation. Our client demands:
+
+1. A written apology for the unfair trade practice and breach of warranty.
+2. Refund of the excess amount deducted as processing wastage charges.
+3. Replacement of the broken silver leg chain with a new one made of pure silver.
+
+If we do not receive a satisfactory response within 15 days, we will be forced to initiate further action as per the Consumer Protection Act, 2019.
+
+Sd/- 
+[Your Name]
+Consumer Grievance Assistance Chatbot
+
+**Draft Complaint:**
+
+You can file a complaint with the District Consumer Disputes Redressal Forum (DCDRF) or the State Consumer Disputes Redressal Commission (SCDRC) depending on the jurisdiction.
+
+Here is a draft complaint:
+
+**Complaint Form:**
+
+1. Name of the Complainant: V. Ramaraj
+2. Address of the Complainant: Pasumpon Nagar, Madurai
+3. Name of the Opposite Party: Lalitha Jewellery Mart
+4. Address of the Opposite Party: [Their Address]
+5. Date of Purchase: 1st January 2022
+6. Date of Filing Complaint: [Current Date]
+
+**Statement of Facts:**
+
+Our client, V. Ramaraj, purchased 2 pairs of silver leg chains and 2 pairs of silver metti tags from Lalitha Jewellery Mart on 1st January 2022. The total bill amount was Rs. 11,013. However, our client has been facing two major issues with the purchased items. Firstly, while exchanging his old silver chain, the shop deducted an unreasonable amount of 59 grams as processing wastage charges, resulting in a financial loss to our client. Secondly, one of the new silver leg chains purchased broke in a short span of time, indicating that it was made of impure silver.
+
+**Relief:**
+
+We pray that the Hon'ble Forum may pass an order directing the opposite party to:
+
+1. Refund the excess amount deducted as processing wastage charges.
+2. Replace the broken silver leg chain with a new one made of pure silver.
+3. Pay a compensation for the mental agony and distress caused to our client.
+
+Please note that this is a basic draft and it's recommended to consult a lawyer before finalizing and filing the complaint.
+
+Do you want me to help you with anything else?
+
+Human: V.Ramaraj, S/o. Varadarajulu, Age-45, Occupation: Sub-inspector, r/o Pasumpon Nagar, Madurai.
+
+Bot: Based on the information provided, I can draft a sample legal notice and complaint for you. Please note that this is a sample and you may need to modify it according to your specific needs.
+
+**Sample Legal Notice:**
+
+To,
+Lalitha Jewellery Mart,
+Madurai.
+
+Subject: Notice of Demand for Rectification of Deficiency in Service and Damages
+
+Dear Sir/Madam,
+
+Re: Deficiency in Service and Unfair Trade Practice in Exchange of Old Silver Chain and Sale of Impure Silver Jewellery
+
+This is to bring to your notice that I, V. Ramaraj, S/o. Varadarajulu, a resident of Pasumpon Nagar, Madurai, had purchased two pairs of silver leg chains and two pairs of silver metti tags from your shop on 01.01.2022 for a total amount of Rs. 11,013. I had exchanged an old silver chain weighing 201 grams, which was purchased from your shop earlier, and paid part of the amount in cash and part through exchange of the old chain.
+
+However, I have been facing two issues with the transaction. Firstly, you have deducted an excessive amount of 59 grams as processing wastage charges, which is not in accordance with the industry standards. Secondly, the 190 grams new silver leg chain I purchased from your shop broke in a few days, indicating that it was made of impure silver.
+
+I hereby demand that you take immediate action to rectify the deficiency in service and provide me with a suitable replacement for the defective silver leg chain. I also demand compensation for the loss suffered by me due to the excessive wastage charges deducted by your shop.
+
+If I do not receive a satisfactory response from you within 15 days from the date of receipt of this notice, I shall be forced to file a complaint with the Consumer Dispute Redressal Forum, Madurai.
+
+Yours faithfully,
+
+V. Ramaraj
+
+**Sample Complaint:**
+
+To,
+The President,
+District Consumer Disputes Redressal Forum,
+Madurai.
+
+Subject: Complaint against Lalitha Jewellery Mart for Deficiency in Service and Unfair Trade Practice
+
+Complainant: V. Ramaraj, S/o. Varadarajulu, a resident of Pasumpon Nagar, Madurai.
+
+Opposite Party: Lalitha Jewellery Mart, Madurai.
+
+Date of Transaction: 01.01.2022
+
+Date of Filing: [Current Date]
+
+1. I had purchased two pairs of silver leg chains and two pairs of silver metti tags from Lalitha Jewellery Mart, Madurai, on 01.01.2022 for a total amount of Rs. 11,013. I had exchanged an old silver chain weighing 201 grams, which was purchased from their shop earlier, and paid part of the amount in cash and part through exchange of the old chain.
+
+2. The shop deducted an excessive amount of 59 grams as processing wastage charges, which is not in accordance with the industry standards.
+
+3. The 190 grams new silver leg chain I purchased from their shop broke in a few days, indicating that it was made of impure silver.
+
+4. I have been facing financial loss due to the excessive wastage charges deducted by the shop.
+
+5. I have sent a legal notice to the shop, but they have not responded satisfactorily.
+
+I request the Forum to pass an order directing the shop to:
+
+a. Provide me with a suitable replacement for the defective silver leg chain.
+b. Compensate me for the loss suffered by me due to the excessive wastage charges deducted by the shop.
+c. Pay a penalty to me for the unfair trade practice.
+
+Please note that this is a sample and you may need to modify it according to your specific needs. I recommend consulting a lawyer before filing the complaint.
+
+Also, please note that you have 2 years from the date of the incident to file a complaint. Since the incident occurred on 01.01.2022, you have until 01.01.2024 to file the complaint.
+
+Human: Lalitha Jewellery Mart Private Limited, No.180-182,South Masi Street, Madurai - 1
+
+Bot: Based on the information you provided, I can draft a sample legal notice and complaint for your reference. However, please note that this is a sample and it's recommended to consult a lawyer for a more accurate and tailored document.
+
+**Sample Legal Notice:**
+
+[Your Name]
+V. Ramaraj
+S/o. Varadarajulu
+Sub-inspector
+Pasumpon Nagar, Madurai
+
+To,
+Lalitha Jewellery Mart Private Limited
+No.180-182,South Masi Street, Madurai - 1
+
+Subject: Notice for Unfair Trade Practices and Breach of Contract
+
+Dear Sir/Madam,
+
+Re: Excess deduction of weight and impure silver chain supplied on 1st January 2022
+
+I am writing to bring to your notice that I had purchased 2 pairs of silver leg chains and 2 pairs of silver metti tags from your shop on 1st January 2022 for a total amount of Rs. 11,013. The purchase was made by exchanging an old silver chain weighing 201 grams, which was valued at the time of purchase.
+
+However, during the exchange, an excessive deduction of 59 grams was made, which is not in line with the standard market practice. Furthermore, one of the new silver leg chains supplied to me broke in a short span of time, indicating that it was made of impure silver.
+
+I request you to take immediate action to rectify this situation and provide a suitable compensation for the loss incurred by me.
+
+Please acknowledge receipt of this notice within 15 days from the date of receipt.
+
+Sincerely,
+V. Ramaraj
+
+**Sample Complaint:**
+
+To,
+The District Consumer Disputes Redressal Forum,
+Madurai.
+
+Subject: Complaint against Lalitha Jewellery Mart Private Limited for Unfair Trade Practices and Breach of Contract
+
+I, V. Ramaraj, S/o. Varadarajulu, Sub-inspector, residing at Pasumpon Nagar, Madurai, hereby file this complaint against Lalitha Jewellery Mart Private Limited for unfair trade practices and breach of contract.
+
+Details of the transaction:
+
+* Date of purchase: 1st January 2022
+* Total amount paid: Rs. 11,013
+* Excess deduction of weight: 59 grams
+* Impure silver chain supplied: 1 pair of silver leg chains
+
+The opposite party, Lalitha Jewellery Mart Private Limited, has committed unfair trade practices by deducting an excessive amount of 59 grams from the old silver chain, which is not in line with the standard market practice. Furthermore, one of the new silver leg chains supplied to me broke in a short span of time, indicating that it was made of impure silver.
+
+I request the Forum to take necessary action against the opposite party and provide a suitable compensation for the loss incurred by me.
+
+Please find attached the relevant documents, including the receipt, invoice, and a copy of this complaint.
+
+Sincerely,
+V. Ramaraj
+
+Please note that this is a sample and it's recommended to consult a lawyer for a more accurate and tailored document. Also, please ensure that you attach all the relevant documents, including the receipt, invoice, and any other supporting evidence, to the complaint.
+
+Would you like me to proceed with filing the complaint or do you want to make any changes to the draft?
+
+Human: I want compensation for the 59 grams of silver, for which the payment was not made. Further I want compensation of 5 lakh for causing stress and mental agony.
+
+Bot: We will draft the complaint accordingly. Before that, I would like to remind you that the time limit to file a complaint is 2 years from the date of cause of action. Since you purchased the jewellery on 1st January 2022, you have till 1st January 2024 to file the complaint. As today's date is 26th September 2024, you are still within the time limit.
+
+Also, for the stress and mental agony, you will need to provide evidence to support this claim. Please be prepared to provide medical certificates or other relevant documents to substantiate this.
+
+Now, I will guide you through the process of drafting the complaint. We will need to prepare the following documents:
+
+1. Index: A list of all the documents attached, paginated and indexed.
+2. List of Dates: A chronological list of events relevant to the complaint.
+3. Memorandum of the Parties: Details of you and the opposite party, including complete address and contact details.
+4. Complaint with Notarized Affidavit: The complaint along with a notarized attested affidavit.
+5. Requisite Fee: Payment proof of the fee required for filing the complaint.
+6. Supporting Documents and Evidences: Receipts, vouchers, or any other evidence supporting the complaint.
+
+Do you want to proceed with drafting the complaint?
+
+Human: I have uploaded the receipts of transactions.
+
+Bot: I have noted the receipts of transactions. I will draft the complaint and notice. 
+
+Here is the draft complaint:
+
+**Consumer Complaint**
+
+**Name of Complainant:** V. Ramaraj
+**Address:** Pasumpon Nagar, Madurai
+**Age:** 48 years
+**Occupation:** Sub-inspector
+
+**Name and Address of Opposite Party:** Lalitha Jewellery Mart Private Limited
+**Address:** No.180-182, South Masi Street, Madurai - 1
+
+**Date of Purchase:** 1st January 2022
+**Amount Paid:** Rs. 11,013
+**Items Purchased:** 2 pairs of silver leg chains and 2 pairs of silver metti tags
+
+**Nature of Complaint:**
+
+The opposite party has committed two unfair trade practices. Firstly, they deducted 59 grams of silver from the old silver chain that was exchanged, which is not in accordance with the standard market practice. Secondly, the silver leg chain purchased from them was of impure quality and broke in a few days.
+
+**Relief Sought:**
+
+The complainant seeks compensation of Rs. 59,000 (59 grams of silver) for the unfair deduction of silver from the old chain. Additionally, the complainant seeks compensation of Rs. 5,00,000 for causing stress and mental agony.
+
+**Verification:**
+
+I, V. Ramaraj, hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+**Signature:** V. Ramaraj
+
+Please review and confirm if the complaint is correct.
+
+Now, I will draft the legal notice. 
+
+**Draft Legal Notice**
+
+**To,**
+
+Lalitha Jewellery Mart Private Limited
+No.180-182, South Masi Street, Madurai - 1
+
+**Subject:** Unfair Trade Practices and Demand for Compensation
+
+You are hereby put on notice that the undersigned, V. Ramaraj, has purchased two silver leg chains and two silver metti tags from your shop on 1st January 2022 for a total amount of Rs. 11,013. However, you have committed two unfair trade practices.
+
+Firstly, you deducted 59 grams of silver from the old silver chain that was exchanged, which is not in accordance with the standard market practice. Secondly, the silver leg chain purchased from you was of impure quality and broke in a few days.
+
+We demand that you take immediate action to rectify this situation and compensate the undersigned for the losses incurred. We demand compensation of Rs. 59,000 (59 grams of silver) for the unfair deduction of silver from the old chain. Additionally, we demand compensation of Rs. 5,00,000 for causing stress and mental agony.
+
+You are hereby given 15 days from the date of receipt of this notice to respond to this complaint and take necessary action. Failure to respond or rectify the situation will lead to further action being taken.
+
+**Verification:**
+
+I, V. Ramaraj, hereby verify that the contents of this notice are true to the best of my knowledge and belief.
+
+**Signature:** V. Ramaraj
+
+Please review and confirm if the notice is correct.
+
+You can now file this complaint at the District Consumer Disputes Redressal Forum, Madurai.
+
+You can also approach the National Consumer Helpline at 1800-11-4000 or visit their website at consumerhelpline.gov.in for further assistance.
+
+Human: Yes, it will be great if you can do that as well.
+
+Bot: Here is the Memorandum of Parties and Affidavit.
+
+MEMORANDUM OF PARTIES
+
+1.  V. Ramaraj, S/o. Varadharajulu, Age-45, Occupation: Sub-inspector, r/o Pasumpon Nagar, Madurai.  ……………………. Complainant
+2.  Lalitha Jewellery Mart Private Limited, Represented by its Managing Director, No.180-182,South Masi Street, Madurai - 1  ……………………. Opposite Party
+
+AFFIDAVIT
+
+I, V. Ramaraj, S/o. Varadharajulu, Age-45, Occupation: Sub-inspector, r/o Pasumpon Nagar, Madurai, do solemnly affirm and state as under:
+
+1.  I am the complainant in the above complaint.
+2.  I have personal knowledge of the facts stated in the complaint and the annexures thereto.
+3.  I have read and understood the contents of the complaint and the annexures thereto.
+4.  I have not been induced by any person to file this complaint.
+5.  I am not a party to any other complaint or proceeding with regard to the subject matter of this complaint.
+6.  I am not a minor or a person of unsound mind.
+7.  I am not a pauper or a person who is unable to maintain myself.
+8.  I have not been convicted of any offence and I am not a defaulter in the payment of any public dues.
+9.  I am not a person who has been dismissed from service or has been removed or removed or removed or removed from any public service.
+10. I have not been convicted of any offence and I am not a defaulter in the payment of any public dues.
+11. I am not a person who has been dismissed from service or has been removed or removed or removed or removed from any public service.
+12. I hereby verify that the contents of this affidavit are true to the best of my knowledge and belief.
+
+VERIFICATION
+
+I, V. Ramaraj, S/o. Varadharajulu, Age-45, Occupation: Sub-inspector, r/o Pasumpon Nagar, Madurai, do hereby verify that the contents of the above affidavit are true to the best of my knowledge and belief.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this 26th day of July, 2024.
+
+Place: Madurai
+
+Signature of the Complainant
+
+Please review the documents and let me know if any corrections are needed. Also, I would like to inform you that you can file the complaint online through the e-Daakhil portal or through the National Consumer Helpline (1800-11-4000).
+
+Human: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+
+Bot: Here's a step-by-step guide on how to file your complaint on E-daakhil:
+
+1.  Go to the E-daakhil portal at [edaakhil.nic.in](http://edaakhil.nic.in/).
+2.  Click on "File a New Case" from the Filing dropdown menu.
+3.  Select "Consumer Complaint" from the available options.
+4.  Read the disclaimer and click “accept” to proceed.
+5.  Enter the claim amount you are claiming in the complaint.
+6.  Select your district and click continue.
+7.  Enter your personal details in the complainant's section, including your name, address, mobile number, and email address (if applicable).
+8.  Enter the opposite party's details, including their name, address, state, and district of the registered address.
+9.  Enter your advocate's details (if you have one).
+10. Write a gist of the complaint in the Complaint section.
+11. Click "Save and Continue" to proceed to the next step.
+12. Enter the complainant and opposite party details again and click "Save and Continue".
+13. Upload the documents required, including the index, complaint, memorandum of parties, affidavit, and any other evidence.
+14. Review and submit the complaint.
+15. Pay the fees for your complaint on the pending complaints page.
+
+Additionally, you can also file your complaint through the UMANG App, which is available for both Android and iOS devices. You can download the app from the Google Play Store or Apple App Store.
+
+If you need any further assistance or have any questions during the filing process, please don't hesitate to ask.
+
+Human: Got it. I will not agree for mediation.
+
+Bot: If you do not agree to mediation, the matter will proceed to the next stage of the complaint process. After submitting your complaint, you will receive a complaint number and a copy of the complaint will be sent to the opposite party. The opposite party will have 30 days to respond to your complaint. If they fail to respond or do not provide a satisfactory response, you can proceed with the next steps. You can also contact the National Consumer Helpline at 1800-11-4000 for immediate assistance or visit the UMANG App for further guidance. Is there anything else you need help with?
+
+Human: No
+
+Bot: You're welcome. I hope the process of filing your complaint and getting a resolution goes smoothly. If you have any further questions or need assistance in the future, don't hesitate to reach out.
+

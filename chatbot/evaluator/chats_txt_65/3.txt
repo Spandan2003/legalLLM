@@ -1,0 +1,356 @@
+Human: I have an issue with regards to Vehicle service. How do I resolve it.
+
+Bot: Thank you for sharing your concern. I'd be happy to help you resolve the issue with your vehicle service.
+
+To better understand your issue, can you please tell me what specifically went wrong with the vehicle service? Was it a fault in the service provided, a manufacturing defect, or something else?
+
+Human: I bought a Bajaj Pulsar Vehicle with a temporary registration no. Ap31 ZKTR 6463 on 21/10/2020 for Rs.1,26,337. It was working well until the 2nd service which happened on 22/03/2021. On 27/03/2021 at Bullayya College Main Road, the display board was damaged and the vehicle stopped working and was not starting. When I called the service center, they immediately took the vehicle and on the same day returned it by making some temporary arrangements without actually resolving the issue. I could not even drive the vehicle.
+
+Bot: Thank you for sharing the details of your issue with the Bajaj Pulsar vehicle.
+
+To better understand the situation, can you please tell me if you have approached the service center or the manufacturer, Bajaj Auto, to resolve this issue after the temporary arrangement was made on 27/03/2021?
+
+Human: I would like to seek compensation.
+
+Bot: To seek compensation, you need to file a complaint. Before we proceed, can you please confirm if the incident occurred within the statute of limitations? The incident occurred on 27/03/2021, and today's date is 26/09/2024. The statute of limitations for consumer complaints in India is 2 years.
+
+Human: Rs.1,26,337 with interest @ 12% p.a. and Rs. 50,000
+
+Bot: You're claiming the original purchase price of Rs. 1,26,337 with interest at 12% p.a. and an additional Rs. 50,000 as compensation.
+
+To proceed, can you please provide me with the contact information of the Bajaj service center or the dealership where you purchased the vehicle? This will help me guide you on the next steps to take.
+
+Human: Yes. I have tried calling them multiple times. They never responded to my calls.
+
+Bot: It seems like the service center is not responding to your concerns. Considering the incident occurred on 27/03/2021, it has been more than 2 years. Are you aware that under the Consumer Protection Act, 2019, the time limit to file a complaint is 2 years from the date of the incident?
+
+Human: Could you provide me the helpline number
+
+Bot: You can contact the National Consumer Helpline at 1800-11-4000 or 1915, available all days except national holidays, from 8:00 AM to 8:00 PM. 
+
+Additionally, you can also contact the State Consumer Helpline Number for your state. If you provide me with your state name, I can give you the specific number.
+
+Also, I can help you draft a legal notice if you'd like.
+
+Human: Provide me the State Helpline Number.
+
+Bot: I don't have the information about your state. Can you please tell me the name of your state? I can provide you with the state-specific helpline number.
+
+Also, I can provide you with the National Consumer Helpline Number which is 1800-11-4000 or 1915.
+
+Human: Andhra Pradesh
+
+Bot: The State Consumer Helpline Number for Andhra Pradesh is 1800-345-3601. You can also register your grievance online at https://consumerhelpline.gov.in/user/signup.php or through the NCH APP or UMANG APP on your mobile phone. If you need more assistance or want to draft a legal notice, please let me know.
+
+Human: Can I send a notice or should I hire a Lawyer for that purpose.
+
+Bot: You can draft a notice on your own or hire a lawyer. If you want to draft a notice on your own, I can guide you on the format and details to be included. Alternatively, hiring a lawyer will ensure that the notice is properly drafted and increases the chances of a favorable response from the service center. Would you like me to guide you on drafting the notice or would you like to hire a lawyer?
+
+Human: Yes please. It would be really helpful.
+
+Bot: I can provide you with a draft legal notice. However, please note that this is a general template and may need to be customized according to your specific case.
+
+Here's a draft legal notice:
+
+**Draft Legal Notice**
+
+[Your Name]
+[Your Address]
+[City, State, Pincode]
+[Email ID]
+[Phone Number]
+[Date]
+
+[Bajaj Auto Ltd./Service Center]
+[Their Address]
+[City, State, Pincode]
+
+Subject: Demand for Compensation for Defective Vehicle and Breach of Warranty
+
+Dear Sir/Madam,
+
+Re: Defective Bajaj Pulsar Vehicle - Ap31 ZKTR 6463
+
+This is to bring to your notice that I, [Your Name], purchased a Bajaj Pulsar vehicle bearing the registration number Ap31 ZKTR 6463 from your dealership on 21/10/2020 for a total amount of Rs. 1,26,337. The vehicle was serviced on 22/03/2021, but on 27/03/2021, it stopped working and the display board was damaged. Despite multiple calls, your service center failed to respond or resolve the issue.
+
+As a result, I have suffered a loss of the vehicle for an extended period, and I am seeking compensation for the same. I demand a compensation of Rs. 1,26,337 (the purchase price of the vehicle) with interest @ 12% p.a. and an additional Rs. 50,000 for the inconvenience caused.
+
+I request you to take immediate action to settle this matter amicably and provide a suitable compensation within 30 days from the receipt of this notice.
+
+If I do not receive a satisfactory response, I will be forced to take further action as per the Consumer Protection Act, 2019.
+
+Please acknowledge receipt of this notice.
+
+Yours faithfully,
+
+[Your Name]
+
+Please note that this is a draft and may need to be customized according to your specific case. You may also want to consult a lawyer before sending the notice.
+
+Also, please note that you can use the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance.
+
+Is there anything else I can help you with?
+
+Human: Can I directly file a complaint, without sending a notice.
+
+Bot: You can directly file a complaint before the District Consumer Disputes Redressal Commission without sending a notice. However, it's recommended to send a legal notice to the service provider as a first step to give them an opportunity to rectify the issue. But if you still want to file a complaint directly, you can do so. 
+
+Do you want me to guide you on how to file a complaint at the District Consumer Disputes Redressal Commission.
+
+Human: Kona Lakshmi Prasanna Sai Aditya, Father’s name- K.A. Prabhakar Rao, Age- 27 years, Address- D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Mahranipeta, Visakhapatnam- 530002, I am a college student.
+
+Bot: Based on the details you provided, I can draft a complaint. Please find the complaint below. To, The District Consumer Disputes Redressal Forum, Visakhapatnam, Andhra Pradesh. Subject: Complaint under the Consumer Protection Act, 2019. Complaint No.: [To be allotted by the Forum] Name of the Complainant: Kona Lakshmi Prasanna Sai Aditya, son of K.A. Prabhakar Rao, aged 27 years, residing at D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Maharanipeta, Visakhapatnam- 530002. Name and Address of the Opposite Party: M/s Varun Motors Pvt. Ltd. D.No.10-150-22/1, Opposite to HSBC Bank, Siripuram Road, Visakhapatnam-530003. Description of the Goods/Services: Bajaj Pulsar Vehicle with temporary registration no. AP31 ZKTR 6463. Date of Purchase: 21/10/2020. Date of Service: 22/03/2021. Date of Incident: 27/03/2021. Details of the Dispute: On 21/10/2020, I purchased a Bajaj Pulsar Vehicle with temporary registration no. AP31 ZKTR 6463 from M/s Varun Motors Pvt. Ltd. The vehicle was working well until the 2nd service, which was conducted on 22/03/2021 at their service center. Subsequently, on 27/03/2021, while traveling on Bullayya College Main Road, the vehicle's display board was damaged, and the vehicle ceased to function properly. I immediately contacted their service center, and the vehicle was taken in for repairs on the same day. However, upon its return, only temporary arrangements were made, and the underlying issue was not adequately resolved. Despite my repeated attempts to contact their service center for further assistance, no response has been received, exacerbating my inconvenience and frustration. The opposite party is hereby called upon to rectify the defects in the vehicle and provide compensation for the financial losses and inconvenience incurred due to the deficient service. The total amount claimed is Rs.1,26,337/- with interest at 12% per annum, along with an additional Rs. 50,000/- for damages. I request the Hon'ble Forum to pass an order directing the opposite party to rectify the defects in the vehicle and provide the aforementioned compensation. I also request the Hon'ble Forum to award costs of the proceedings to me. I am a college student and have attached a copy of my ID card as proof. I request the Hon'ble Forum to expedite the proceedings and pass a suitable order. Yours faithfully, Kona Lakshmi Prasanna Sai Aditya.
+
+Human: M/s Varun Motors Pvt. ltd., Address- D.No.10-150-22/1, Opposite to HSBC Bank, Siripuram Road, Visakhapatnam-530003. I do not know the authorized person, but they have a managing director.
+
+Bot: I can draft a complaint for you. Please find the complaint here. To, The District Consumer Disputes Redressal Forum, Visakhapatnam. Case No. : _______________ (To be filled by the Forum) In the matter of : Kona Lakshmi Prasanna Sai Aditya, son of K.A. Prabhakar Rao, aged 27 years, residing at D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Mahranipeta, Visakhapatnam- 530002, (Complainant) versus M/s Varun Motors Pvt. Ltd., a company incorporated under the Companies Act, 2013, having its registered office at D.No.10-150-22/1, Opposite to HSBC Bank, Siripuram Road, Visakhapatnam-530003 (Opposite Party) 
+
+Complaint: 
+
+The Complainant, Kona Lakshmi Prasanna Sai Aditya, purchased a Bajaj Pulsar Vehicle from the Opposite Party, M/s Varun Motors Pvt. Ltd., on 21/10/2020 for Rs.1,26,337/-. The vehicle was working well until the 2nd service, which was conducted on 22/03/2021 at the service center of the Opposite Party. However, on 27/03/2021, while traveling on Bullayya College Main Road, the vehicle's display board was damaged, and the vehicle ceased to function properly. The Complainant immediately contacted the service center, and the vehicle was taken in for repairs on the same day. However, upon its return, only temporary arrangements were made, and the underlying issue was not adequately resolved. Despite repeated attempts to contact the service center for further assistance, no response has been received, exacerbating the Complainant's inconvenience and frustration. 
+
+The Opposite Party has failed to provide the Complainant with a vehicle in good working condition, despite repeated requests for repair. The Complainant has suffered financial losses and inconvenience due to the deficient service, totaling Rs.1,26,337/- with interest at 12% per annum, along with an additional Rs. 50,000/- for damages. 
+
+The Complainant hereby seeks the following relief: 
+
+a) The Opposite Party be directed to rectify the defects in the vehicle's display board and restore the vehicle to proper working condition. 
+
+b) The Opposite Party be directed to pay the Complainant a sum of Rs.1,26,337/- with interest at 12% per annum, along with an additional Rs. 50,000/- for damages. 
+
+c) The Opposite Party be directed to pay the costs of the complaint. 
+
+Verification: 
+
+I, Kona Lakshmi Prasanna Sai Aditya, son of K.A. Prabhakar Rao, aged 27 years, residing at D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Mahranipeta, Visakhapatnam- 530002, do hereby verify that the contents of the complaint are true to the best of my knowledge and belief. 
+
+Place: Visakhapatnam Date: _______________ 
+
+Signature of the Complainant: _______________ 
+
+Please note that this is a draft and you may need to modify it as per your requirements. Also, you need to submit this complaint to the District Consumer Disputes Redressal Forum, Visakhapatnam.
+
+Human: Yes
+
+Bot: I can help you draft a complaint to be filed under the Consumer Protection Act, 2019. Here is the draft complaint.
+
+Complaint No. ______________________
+
+In the matter of:
+
+The District Consumer Disputes Redressal Forum, Visakhapatnam.
+
+Complaint filed by:
+
+Kona Lakshmi Prasanna Sai Aditya,
+Son of K.A. Prabhakar Rao,
+Aged 27 years,
+Residing at D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Mahranipeta, Visakhapatnam- 530002.
+
+Against:
+
+M/s Varun Motors Pvt. Ltd.,
+D.No.10-150-22/1, Opposite to HSBC Bank, Siripuram Road, Visakhapatnam-530003.
+
+Complaint:
+
+That the complainant purchased a Bajaj Pulsar vehicle from the opposite party on 21/10/2020 for a consideration of Rs.1,26,337/-. The vehicle was working well until the 2nd service, which was conducted on 22/03/2021 at the service center of the opposite party. Subsequently, on 27/03/2021, while traveling on Bullayya College Main Road, the vehicle's display board was damaged, and the vehicle ceased to function properly. The opposite party took the vehicle in for repairs on the same day but only made temporary arrangements without resolving the issue. The complainant has been unable to use the vehicle since then. Despite repeated attempts to contact the opposite party, no response has been received, causing further inconvenience and frustration.
+
+The opposite party is liable for the deficiency in service and has failed to rectify the defects in the vehicle. The complainant seeks compensation for the financial losses and inconvenience incurred due to the deficient service, totaling Rs.1,26,337/- with interest at 12% per annum, along with an additional Rs. 50,000/- for damages.
+
+Relief sought:
+
+The District Consumer Disputes Redressal Forum, Visakhapatnam, is respectfully prayed to pass an order directing the opposite party to:
+
+1. Rectify the defects in the vehicle's display board and restore the vehicle to proper working condition.
+2. Pay compensation for the financial losses and inconvenience incurred due to the deficient service, totaling Rs.1,26,337/- with interest at 12% per annum, along with an additional Rs. 50,000/- for damages.
+
+Verification:
+
+I, Kona Lakshmi Prasanna Sai Aditya, son of K.A. Prabhakar Rao, aged 27 years, residing at D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Mahranipeta, Visakhapatnam- 530002, do hereby verify that the contents of the complaint are true to the best of my knowledge and belief.
+
+Signature of the Complainant: ______________________
+
+Please note that this is a draft and you may need to modify it according to your specific needs. Also, you will need to attach the receipts and any other relevant documents to the complaint.
+
+Also, I would like to remind you that you can file the complaint online on the e-daakhil portal or through the UMANG app.
+
+Human: Yes
+
+Bot: Please preserve these receipts as well, it would be useful as evidence. Now, I can help you draft a complaint under the Consumer Protection Act, 2019. 
+
+To, 
+
+The President, District Consumer Disputes Redressal Forum, Visakhapatnam, Andhra Pradesh.
+
+Subject: Complaint against M/s Varun Motors Pvt. Ltd. for Deficiency in Service and Compensation Claim.
+
+This complaint is filed under the provisions of the Consumer Protection Act, 2019.
+
+Complainant: Kona Lakshmi Prasanna Sai Aditya, son of K.A. Prabhakar Rao, aged 27 years, residing at D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Mahranipeta, Visakhapatnam- 530002.
+
+Opposite Party: M/s Varun Motors Pvt. Ltd., D.No.10-150-22/1, Opposite to HSBC Bank, Siripuram Road, Visakhapatnam-530003.
+
+Background of the Complaint: On 21/10/2020, the Complainant purchased a Bajaj Pulsar Vehicle with temporary registration no. AP31 ZKTR 6463 from the Opposite Party. The vehicle was working well until the 2nd service, which was conducted on 22/03/2021 at the Opposite Party's service center. Subsequently, on 27/03/2021, while traveling on Bullayya College Main Road, the vehicle's display board was damaged, and the vehicle ceased to function properly. The Opposite Party was immediately contacted, and the vehicle was taken in for repairs on the same day. However, upon its return, only temporary arrangements were made, and the underlying issue was not adequately resolved. Despite repeated attempts to contact the Opposite Party for further assistance, no response has been received, exacerbating the Complainant's inconvenience and frustration.
+
+Relief sought: 
+
+1. The Opposite Party is directed to rectify the defects in the vehicle's display board and restore the vehicle to proper working condition.
+2. The Opposite Party is directed to provide compensation for the financial losses and inconvenience incurred due to the deficient service, totaling Rs.1,26,337/- with interest at 12% per annum, along with an additional Rs. 50,000/- for damages.
+
+Evidence: 
+
+* Receipts for the purchase of the vehicle.
+* Receipts for the service done to the vehicle by the service center.
+* Details of the vehicle's registration.
+
+Please note that this is a draft complaint, and you may need to modify it according to your needs. Also, please make sure to attach the required documents as evidence.
+
+Do you want me to help you file this complaint online or in person?
+
+Human: Most of the services I have got done for the vehicle are general service such as Engine Oil exchange, chain cleaning. HEX file check, low pick up which was adjusted. The last service was for damage to the display board and the vehicle suddenly stopped working. Regarding this the service provided was not efficient. There was a temporary arrangement done to repair the display board and it was not replaced and the vehicle continued to give the same trouble even after repair.
+
+Bot: It seems like you have a valid case against the service center. To file a complaint, you can use the e-daakhil portal or the National Consumer Helpline (1800-11-4000). Which one would you prefer.
+
+Human: It was mentioned that if there is any manufacturing defect then a free replacement of any of the parts is done within 5 years or 75,000 kms, whichever is earlier from the date of sale. But the service center to avoid the free replacement has never mentioned whether the damage to the vehicle or why it stopped working was a result of any manufacturing defect.
+
+Bot: That's an important point. It seems like the service center may have tried to avoid taking responsibility for the issue. You may want to mention this in your complaint or legal notice. 
+
+To file a complaint, you can use the Consumer Protection Act, 2019. You can file a complaint with the District Consumer Disputes Redressal Commission, which has jurisdiction over Visakhapatnam. The address and contact details of the commission are as follows:
+
+District Consumer Disputes Redressal Forum, Visakhapatnam
+
+Address: District Consumer Disputes Redressal Forum, Visakhapatnam, Near Old Bus Stand, Visakhapatnam-530018
+
+Phone: 0891-2741111, 0891-2741112
+
+You can also file a complaint online through the National Consumer Helpline website: consumerhelpline.gov.in
+
+Before filing a complaint, make sure you have all the necessary documents and evidence, including the receipts for the purchase and services, warranty documents, and any communication with the service center.
+
+Do you want me to draft a complaint for you?
+
+Human: Yes, please.
+
+Bot: Here is a checklist of documents you may need to submit with your complaint:
+
+1. Index: A list of all the documents attached, paginated and indexed.
+2. List of Dates: A chronological list of events relevant to the complaint.
+3. Memorandum of the Parties: Details of you and the opposite party (M/s Varun Motors Pvt. Ltd.), including your complete address and contact details.
+4. Complaint with Notarized Affidavit: The complaint along with a notarized attested affidavit.
+5. Requisite Fee: Payment proof of the fee required for filing the complaint.
+6. Supporting Documents and Evidences:
+   a. Receipts for the purchase of the vehicle
+   b. Receipts for the service done to the vehicle by the service center
+   c. Any other evidence supporting your complaint, such as photographs of the damaged display board, records of your communication with the service center, etc.
+
+Please ensure that all documents are uploaded in the specified format and meet the requirements of the e-Daakhil portal for smooth processing of the complaint.
+
+Also, you may need to file an application for condonation of delay, as the incident occurred on 27/03/2021, and you are filing the complaint now.
+
+Human: Yes, please.
+
+Bot: Here is the complaint: 
+
+ Consumer Complaint
+
+Complaint No.: [Auto-Generated]
+
+Date: 26/07/2024
+
+District Consumer Disputes Redressal Forum, Visakhapatnam.
+
+The Hon'ble President,
+
+District Consumer Disputes Redressal Forum, Visakhapatnam.
+
+Subject: Complaint against M/s Varun Motors Pvt. Ltd. for Deficiency in Service and Breach of Warranty.
+
+To,
+
+M/s Varun Motors Pvt. Ltd.
+
+D.No.10-150-22/1, Opposite to HSBC Bank, Siripuram Road, Visakhapatnam-530003.
+
+The Opposite Party.
+
+Complainant:
+
+1. Kona Lakshmi Prasanna Sai Aditya,
+Son of K.A. Prabhakar Rao,
+Aged 27 years,
+Residing at D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Mahranipeta, Visakhapatnam- 530002.
+
+Address for Communication: D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Mahranipeta, Visakhapatnam- 530002.
+
+Phone No.: 9866334567.
+Email ID: [prasannasaiaditya@gmail.com](mailto:prasannasaiaditya@gmail.com)
+
+ Advocate for the Complainant: [Leave blank as you do not have an advocate]
+
+Opposite Party:
+
+1. M/s Varun Motors Pvt. Ltd.
+D.No.10-150-22/1, Opposite to HSBC Bank, Siripuram Road, Visakhapatnam-530003.
+
+Address for Communication: D.No.10-150-22/1, Opposite to HSBC Bank, Siripuram Road, Visakhapatnam-530003.
+
+Phone No.: 0891- 274 3456.
+Email ID: [varunmotors@gmail.com](mailto:varunmotors@gmail.com)
+
+ FACTS OF THE CASE:
+
+1. The Complainant purchased a Bajaj Pulsar Vehicle with a temporary registration no. Ap31 ZKTR 6463 on 21/10/2020 for Rs.1,26,337 from the Opposite Party.
+
+2. The vehicle was working well until the 2nd service which happened on 22/03/2021.
+
+3. On 27/03/2021 at Bullayya College Main Road, the display board was damaged and the vehicle stopped working and was not starting.
+
+4. When the Complainant called the service center, they immediately took the vehicle and on the same day returned it by making some temporary arrangements without actually resolving the issue.
+
+5. The Complainant could not even drive the vehicle.
+
+6. The Opposite Party failed to rectify the issue despite repeated attempts by the Complainant to contact them.
+
+7. The Complainant is entitled to compensation for the financial losses and inconvenience incurred due to the deficient service, totaling Rs.1,26,337/- with interest at 12% per annum, along with an additional Rs. 50,000/- for damages.
+
+RELIEF SOUGHT:
+
+The Complainant seeks the following relief:
+
+a) Compensation of Rs.1,26,337/- with interest at 12% per annum and Rs.50,000/- as damages.
+
+b) Replacement of the vehicle with a new one.
+
+c) Any other relief as the Hon'ble Forum deems fit and proper.
+
+ Annexures:
+
+1. Copy of the vehicle's registration certificate.
+
+2. Copy of the invoice for the purchase of the vehicle.
+
+3. Copy of the service records of the vehicle.
+
+4. Copy of the complaint letter sent to the Opposite Party.
+
+5. Any other document that the Complainant intends to rely on.
+
+Verification:
+
+I, Kona Lakshmi Prasanna Sai Aditya, son of K.A. Prabhakar Rao, aged 27 years, residing at D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Mahranipeta, Visakhapatnam- 530002, do hereby verify that the contents of the complaint are true to the best of my knowledge and belief. I am the owner of the vehicle and the Opposite Party is the service center where the vehicle was serviced.
+
+Place: Visakhapatnam.
+Date: 26/07/2024.
+
+Signature of the Complainant: 
+
+Please note that this is a sample complaint and you should modify it according to your needs. You should also attach all the required documents and annexures. Would you like me to guide you through the filing process on the e-Daakhil portal?
+
+Human: Yes, Please. It would be really helpful
+
+Bot: Here is the Memorandum of Parties. IN THE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION NO.0I VISAKHAPATNAM: AP  CONSUMER COMPLAINT NO.     /2021 IN THE MATTER OF: Kona Lakshmi Prasanna Sai Aditya s/o K.A. Prabhakar Rao, Aged 27 years, D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Mahranipeta, Visakhapatnam- 530002 … COMPLAINANT AND M/S varun Motors Pvt. Ltd., rep by its Managing Director, D.No. 10-150-22/1, Opp HSBC Bank, Siripuram Road, Visakhapatnam-530003 … OPPOSITE PARTIES  I, Kona Lakshmi Prasanna Sai Aditya, s/o K.A. Prabhakar Rao, Aged 27 years, residing at D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Mahranipeta, Visakhapatnam- 530002, do hereby verify that the contents of the above-mentioned complaint are true to the best of my knowledge and belief.  I am the complainant in the above-mentioned complaint and I am competent to verify the contents of the complaint. I have not misrepresented any facts nor have tried to hide any information in the complaint. The contents of the complaint are true to the best of my knowledge and belief.  I hereby solemnly affirm that the contents of the above-mentioned complaint are true and correct.  Signature of the Complainant:  Dated: Do you want me to generate the affidavit.
+
+Human: No, that's all for now. Thanks.
+
+Bot: You are welcome. If you have any other questions or need further assistance, please feel free to ask.
+

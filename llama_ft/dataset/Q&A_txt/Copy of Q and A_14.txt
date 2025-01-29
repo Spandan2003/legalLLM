@@ -1,0 +1,59 @@
+(This hypothetical chatbot Q&A is based on CC/57/2022 from Before the District Consumer Disputes Redressal Commission, North Goa at Porvorim)
+
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you?
+User: My insurance company has failed to relieve the full fund value after I have surrendered the policy. 
+Chatbot: That should not be the case. I would try to be of as much help as possible. Can you please tell me more about the incident?
+User: Yes, thank you. I had purchased their policy no. 400074122E from agent Pratiksha Madkaikar. I paid the annual premium of Rs. 1 lakh regularly from 2017 to 2021.
+Chatbot: Do you have the policy documents?
+User: Yes I have the original policy document. As per clause D1a, after 5 years I am eligible for the full fund value on surrender.
+Chatbot: Okay. What was the fund value you were expecting?
+User: The total fund value is Rs. 6,69,000 as per my calculations. I submitted the surrender request on 10.05.2022 and followed up with reminder emails/letters on 11.05.2022 and 21.05.2022 along with all documents.
+Chatbot: Alright. And what was their response?
+Client: Shockingly, on 29.05.2022 they rejected my claim saying I can only get 1/3rd of the amount and the balance has to be reinvested in a new policy.
+Lawyer: But this is illegal according to the terms you showed me. Do you have their rejection communication?
+User: Yes, I have their letter dated 29.05.2022 where they have given vague reasons to deny full payment.
+Chatbot: You can file a complaint before the consumer court having jurisdiction to hear the case. For that, you must first send a fifteen-day notice to Edelweiss Tokio Life Insurance Co. Ltd. The same can be sent electronically or by post. Or else, you can also contact the  National  Consumer Helpline using the helpline number 1800-11-4000. The Consumer Helpline will give assistance regarding how you can approach the present dispute. What would you prefer?
+User: I pefer sending Legal notice. 
+Chatbot: Certainly. I will need some more information from you related to the matter. Can you please tell me the following: your full name with address, age, and occupation, and the registered address of the dealership and the bike manufacturer?
+User: Sure. 1 Mr. Suresh Pilarnekar, R/o S-1, Yashoda Smruti Bldg., Dovornem, Merces, Goa and I am a professional Cricket Player 2. Edelweiss Tokio Life Insurance Co. Ltd.,  Ambrosia Building, Patto, Panaji, Goa - 403001
+Chatbot: Thank you. I would need some more information from you related to the matter to assist you better. What is the relief that you would wish to pursue?
+User: I would want the fund value of Rs. 6,69,000 that I am entitled to as per the terms and compensation for mental harassment of Rs. 1,00,000/- as well as litigation cost 
+Chatbot: Thank you for supplying the information! Please find the notice for filing of consumer complaint here. Please note that these are templates that may require certain corrections or modifications and certain details (particularly the date and signature) will need to be filled at your end. 
+User: Thank you. I want to file a consumer complaint; can you guide me?
+Chatbot: Sure. Since the fund value is Rs. 6,69,000/- which is less than Fifty Lakh rupees, the complaint will have to be filed in a District Commission. You, as a complainant, reside in the Merces and the cause of action arises in Merces. The opposite party carries on business in Panji. You have the option to file the complaint to the North Goa District Consumer Disputes Redressal Commission. 
+User: Okay, please share and tell me about the procedure for filing the Complaint 
+Chatbot: Sure. Below is the process for filing a consumer complaint at the North Goa District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to login to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you are seeking as compensation in the claim amount. 
+9.	Select Goa as the state and North Goa as the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter Edelweiss Tokio Life Insurance Co. Ltd.,  Ambrosia Building, Patto, Panaji, Goa – 403001, in the Opposite Party details. Select the state and district of the registered address. 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.	In the Complaint section, write the following: 
+“I had purchased life insurance policy no. 400074122E from Ms. Pratiksha Madkaikar by paying an annual premium of Rs. 1 lakh for the years 2017 to 2021. As per policy terms vide clause D(1)(a), I am entitled to the full fund value on the date of surrender after completing 5 years of premium payment. I surrendered the policy and asked for payment of fund value of Rs. 6,69,000 through letters/emails dated 10.05.2022, 11.05.2022, and 21.05.2022, enclosing all the required documents. However, the insurance co. rejected my claim and insisted that I  can only get 1/3rd value and that I must reinvest the balance amount in a fresh policy.”
+14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name, and the opposite party, click save and continue. 
+15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+Do you also want me to draft a complaint letter for you?
+
+User: Yes, that would be really helpful.
+
+Chatbot: Excellent, I've generated a pre-filled complaint for you with all the details you've provided. You can find it here. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now?
+ 
+User: Yes, Please. 
+
+Chatbot:  Sure. Here is a draft affidavit and Memorandum of Parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+
+User: No, that's all for now. Thanks.
+
+Chatbot: You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+
+

@@ -1,0 +1,77 @@
+<s><INST>  I've been facing a lot of issues with the motorbike I purchased from Varun Motors. There are constant repairs and the service provided by them is also not good. How do I take action against them.
+</INST> I see. Could you walk me through the events starting from when you first purchased the bike and details of the transaction.
+</s> <s><INST>  Certainly. I bought the bike on 26th April 2018 from the Varun Motors showroom, a dealer of Bajaj, here in Visakhapatnam. I paid Rs. 2,37,496 for it.
+</INST> Do you have receipts of purchase.
+</s> <s><INST> Yes
+</INST> Could you further mention details of the motorbike you purchased including specific details like model, manufacturer, etc.
+</s> <s><INST> KTM RC 390 EBONY BLK(MET) model Motor Cycle and make “KTM RC 390” bearing Engine No. 8-938*50300* and chassis No. MD2JYJYM3JC298161 manufactured by M/s Bajaj Auto Ltd., 
+</INST> And when did you first start experiencing problems with the bike?
+</s> <s><INST>  Almost immediately after the purchase. The engine would become too hot, the bike would fail to start, and it would frequently cut off while I was riding it.
+</INST> That sounds frustrating. What did you do when you noticed these issues?
+</s> <s><INST>  I took the bike to Varun Motors' service center on 25th May 2018. Their mechanics inspected it and told me that the radiator fan assembly needed to be replaced to fix the problem.
+</INST> could you please clarify whether the defect was identified as a manufacturing defect after inspection. 
+</s> <s><INST> No.
+</INST> Could you please mention if the service was free or was covered under warranty or was it charged? 
+</s> <s><INST> Since it was immediately after purchase and considered as the first service it was done for free. However, I was charged for the service charges like labour charges, which was Rs. 5000. 
+</INST> Could you please mention, if you were provided with any benefits such as free service or free replacement at the time of purchase by the dealer.
+</s> <s><INST> I was provided with the benefit of free service for the first three services and free replacement of any part subject to being a manufacturing defect within one year from the date of purchase.
+</INST> Do you have receipts of the service charges.
+</s> <s><INST> Yes
+</INST> Did the replacement of the part resolve the issue.
+</s> <s><INST> Yes temporarily. But unfortunately, the problem persisted. I had to take the bike back to the service center on multiple occasions, and each time they replaced the radiator assembly, but the issue was never fully resolved.
+</INST> Could you mention how frequently the issue arises by specifying the dates.
+</s> <s><INST> After the first service, i.e on 25/05/2018, i went for the second time on 09/06/2018, again third time on 22/06/2018 again fourth time in the month of august 2018, again fifth in the month of sept 2018, the vehicle was stopped in the middle of journey near Sompeta, Srikakulam District and the complainant had to opt for roadside assistance. The service center sent the representatives from Visakhapatnam and took the same for carrying out repairs.
+</INST> Do you have receipts of each service.
+</s> <s><INST> Yes 
+</INST> Did you try to escalate the issue with the company?
+</s> <s><INST>  Yes, I did. On 10th October 2018, I requested Varun Motors to have representatives from the company inspect the bike and either rectify the defect or replace the bike altogether. However, they only provided temporary repairs and returned the bike to me on 30th October 2018.
+</INST> And did this resolve the issue?
+</s> <s><INST>  No, unfortunately not. The problems with the bike persisted, and I had to deal with constant breakdowns. Finally, on 12th January 2019, I sent a legal notice to the companies, but they didn't respond.
+</INST> Thank you for providing me with all this information. Could you please mention what is the remedy that you are looking for.
+</s> <s><INST> Firstly, I want the vehicle to be replaced. Because the vehicle is unfit to use irrespective of how many times it was repaired. Secondly, I would like to seek the costs of replacement (Service charges) for providing me with a defective vehicle and charging me for its repairs,  a total of Rs.1,50,000, almost costing me more than half the price of the vehicle. Further, the benefit of free service of the first three services to be extended because it was unnecessarily covered for the free replacement by the dealers. Also I would like to seek compensation of Rs.2,00,000 towards the negligent service and fraud. This is because I suspect the dealers deliberately concealed the fact that the defect was a manufacturing defect and withheld the benefit of free replacement and covered it under free service benefit. 
+</INST> Based on the above information provided you could file a complaint before the District Consumer Disputes Redressal Commission, or you could also contact the respective State Consumer Helpline Number where you can talk to an agent and address your grievance.
+</s> <s><INST> Could you provide me the helpline number
+</INST> To be specific, there is a National and State Consumer Helpline Number. Which number do you want me to provide you with.
+</s> <s><INST>  Provide me with both the Helpline Number.
+</INST> Could you please mention which state you reside in.
+</s> <s><INST>  Andhra Pradesh
+</INST> Please find the National Consumer Helpline number- 1800-11-4000 and the State Consumer Helpline number- 1800-425-0082 / 1800-425-2977.
+</s> <s><INST> How do I proceed, if I have to file a complaint.
+</INST> You could file a complaint before the respective District Consumer Disputes Redressal Commission. However, I need further details to assist you. Could you please mention your details like your name, father’s name/ husband's name, age and address and occupation.
+</s> <s><INST> Name: Yaradi Prabhat, father’s name: Dr. Y. Krishna Murthy, Age: 24 years, Address: D. No. 17-71/1, Sompeta Village and Post, Srikakulam District- 532284. I am Employee at XYZ Solutions
+</INST> Could you please provide details of the dealer and manufacturer, like its full name, address of office of both Head office and branch office if any, and any authorized person you know about.
+</s> <s><INST> I do not know about the authorized person, I do know the addresses. Manufacturer- M/s Bajaj Auto Ltd., Pune- Mumbai Road, Akurdi, Pune-411035, Maharashtra. Dealer- M/s Varun Motors (KTM Showroom), Ramatalkies Road, Dwarakanagar, Visakhapatnam- 530016, Andhra Pradesh. M/s Varun Motors, D. No. 10-5-22/1, Siripuram Junction, Visakhapatnam- 530003, Andhra Pradesh. Varun Motors (Service Centre), D. No. 8-1-13/3, Karachettu Road, Beside DIG Bungalow, Siripuram, Visakhapatnam- 530003, Andhra Pradesh
+</INST> Thank you for providing the details. As per the above mentioned details you could file the complaint before the District Consumer Disputes Redressal Commission of Visakhapatnam or Srikakulam or Pune. Where would you like to file the complaint.
+</s> <s><INST>  Visakhapatnam.
+</INST> Thank you for confirming. Here is a detailed guideline to file a complaint online in the E-Dakhil Portal
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter Rs.497496 in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of the service center in the Opposite party name section. Select the state and district of the registered address.
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+The complainant purchased a KTM RC 390 EBONY BLK(MET) motorcycle on 26/04/2018, experiencing recurrent issues including overheating, engine failure, and frequent breakdowns. Despite multiple visits to the authorized dealer, repairs failed to resolve the problem. A legal notice was issued on 12/01/2019, but received no response. The complainant seeks redress for the failure of the opposite parties (manufacturer, showroom, authorized dealer) to deliver a quality product and adequately address the persisting defects.
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+</INST> Would you like me to generate the complaint for you ? 
+</s> <s><INST>  Yes, please.
+
+</INST> Sure you can download the complaint here. Once downloaded, review and sign the complaint. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+</s> <s><INST>  Yes, Please. It would be really helpful 
+
+</INST>  Sure. Here is a draft Affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+</s> <s><INST> No, that's all for now. Thanks.
+
+</INST> You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+</s>

@@ -1,0 +1,58 @@
+Human: Hi, I need help with a consumer complaint. I paid for a medical entrance coaching course expecting in-person classes, but they switched to online without telling me. I've asked for a refund multiple times, but they haven't responded. What should I do?
+
+Bot: Thank you for sharing your concern with me. I'd be happy to help you with this issue.
+
+To better understand your situation, can you please tell me what led to this issue? Was there a specific communication or advertisement that led you to believe the classes would be in-person, and when did you first notice the change to online classes?
+
+Human: The institute is Delhi Academy of Medical Sciences Pvt Ltd. The total fee was Rs. 1,16,820. I have email records of my refund requests which they ignored or rejected.
+
+Bot: It seems like you have a clear case of non-delivery of promised services. Did you experience this incident recently? If so, it's within the 2-year statute of limitations for filing a complaint. If the incident happened more than 2 years ago, you might not be eligible to file a complaint under the Consumer Protection Act, 2019.
+
+Human: Yes, please help me draft the notice. Also, can you guide me on how to file the consumer complaint?
+
+Bot: I can guide you through the process. To draft the notice, I'll need some more information. Can you please tell me the date when you first requested a refund, and the date of your last communication with the institute? Also, do you want me to include any specific points or demands in the notice?
+
+Human: That would be great. Can you tell me what documents I should prepare?
+
+Bot: To file a consumer complaint, you'll need to prepare the following documents:
+
+1.  Index: A list of all the documents attached, paginated and indexed.
+2.  List of Dates: A chronological list of events relevant to the complaint.
+3.  Memorandum of the Parties: Details of you (complainant) and Delhi Academy of Medical Sciences Pvt. Ltd. (opposite party), including complete address and contact details.
+4.  Complaint with Notarized Affidavit: The complaint along with a notarized attested affidavit.
+5.  Requisite Fee: Payment proof of the fee required for filing the complaint.
+6.  Supporting Documents and Evidences: Receipts, vouchers, or any other evidence supporting your complaint, including:
+   -   Email records of your refund requests.
+   -   Payment receipts for the coaching classes.
+   -   Any other relevant documents related to the case.
+
+Please ensure that all documents are uploaded in the specified format and meet the requirements of the e-Daakhil portal for smooth processing of the complaint.
+
+Human: How long does it usually take for the consumer forum to resolve such cases?
+
+Bot: The timeline for a consumer case to be heard by a judge in consumer forums varies. While the Consumer Protection Act, 2019 aims for resolution within three months, the actual duration can range from three months to over a year due to case complexities. It's difficult to provide an exact timeline for your case, but you can expect a resolution within 3-12 months.
+
+Human: Do I need to upload any other documents to file a complaint on the portal?
+
+Bot: Yes, in addition to the documents I mentioned earlier, you will need to upload the following on the e-Daakhil portal: 1. **Index of Documents:** A list of all the documents you're attaching, paginated and indexed. 2. **List of Dates:** A chronological list of events relevant to your complaint. 3. **Memorandum of Parties:** Details of the complainant and the opposite party, including complete address and contact details. 4. **Complaint with Notarized Affidavit:** The complaint along with a notarized attested affidavit. 5. **Requisite Fee:** Payment proof of the fee required for filing the complaint. 6. **Supporting Documents and Evidences:** Receipts, vouchers, or any other evidence supporting your complaint. These documents should be attested as a True Copy on the last page with your name and signature. If your complaint is delayed beyond two years, you'll also need to file an **Application for Condonation of Delay** with a notarized and attested affidavit. Ensure that all documents are uploaded in the specified format and meet the requirements of the e-Daakhil portal for smooth processing of your complaint.
+
+Human: And what about mediation? Is that an option?
+
+Bot: Yes, mediation is an option. The Consumer Protection Act, 2019, provides for mediation as an alternative dispute resolution mechanism. If you're interested in mediation, you can opt for it at any stage of the complaint process. The mediator will help you and the institute reach a mutually acceptable settlement. If mediation is unsuccessful, the case will proceed to the next stage of the consumer forum.
+
+Human: What's the difference between this mediation and regular mediation?
+
+Bot: Mediation under the Consumer Protection Act 2019 and regular mediation are similar in the sense that they both involve a neutral third party facilitating a settlement between parties. However, there are some differences:
+
+1.  **Purpose:** Consumer mediation under the Act focuses specifically on resolving consumer disputes, whereas regular mediation can be used for various types of disputes.
+2.  **Procedure:** The mediation process under the Act is governed by the Consumer Protection Act 2019 and the rules framed thereunder. Regular mediation may follow different procedures.
+3.  **Jurisdiction:** Consumer mediation under the Act is conducted by a Consumer Mediation Centre or a Consumer Mediation Cell established by the State or Central Government, or by any other institution authorized by the Government. Regular mediation can be conducted by any mediation center or institution.
+4.  **Parties' Consent:** Both parties must consent to mediation under the Act. In regular mediation, consent is also required, but it can be implied in certain situations.
+5.  **Outcome:** The mediation under the Act results in a written settlement agreement, which can be filed with the consumer forum. In regular mediation, the outcome is a settlement agreement that may or may not be enforceable in a court of law.
+
+In your case, since you're dealing with a consumer dispute, you can opt for consumer mediation under the Act. However, it's essential to note that the mediator will be appointed by the consumer forum, and the mediation process will be governed by the Act and its rules.
+
+Human: Got it, thanks for your help!
+
+Bot: You're welcome. If you need any further assistance or have any other consumer-related issues, feel free to ask. Additionally, you can reach out to the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance. Is there anything else I can help you with?
+

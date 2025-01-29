@@ -1,0 +1,206 @@
+Human: I was sold a defective TV. What is my remedy now?
+
+Bot: Sorry to hear that you received a defective TV. Thank you for sharing your concern.
+
+To better understand the situation, could you please tell me what led to the issue with the TV? Was it a manufacturing defect, a problem with the screen, or something else?
+
+Human: I placed an order on XYZ e-commerce portal for a 55’ smart TV on 12/02/2022. I paid the cost price of Rs 60,000/- by way of NEFT (Transaction ID 67346281) and the scheduled delivery date was 14/02/2022 with a 10-day return policy. The TV was delivered on 16/02/2022 and installed on 18/02/2022. However, on 20/02/2022, the TV got switched off automatically while in use, and after that I could not boot up the device at all.
+
+Bot: Thank you for sharing the details of your issue. It seems like the TV was delivered late, and then it developed a fault shortly after installation. 
+
+Could you please tell me if the seller has been informed about this issue, and if so, what was their response?
+
+Human: Manufacturer: Comet Manufacturers, 14/305, 8th street, Vimala Nagar, Cosmos-60 Seller: Waves Home Appliances Private Limited, 12/301, 3rd street, Simala Nagar, Cosmos – 30
+
+Bot: Since the incident occurred on 20/02/2022, the time limit for filing a complaint under the Consumer Protection Act is almost over. However, I would still advise you to contact the seller and manufacturer to resolve the issue amicably. 
+
+Have you already contacted Waves Home Appliances Private Limited regarding the defective TV?
+
+Human: Type: QLED Smart TV Size: 55’ Resolution: HD 4k Model Number: AS345678 I have a doubt. In my case, who is responsible? E-commerce platform, Product Seller or Product Manufacturer?
+
+Bot: Based on the information provided, since the product was sold through an e-commerce portal, and the seller is Waves Home Appliances Private Limited, the seller is primarily responsible for the product. However, if the seller can prove that they did not have any control over the manufacturing process and the defect is due to the manufacturer's fault, the manufacturer, Comet Manufacturers, may also be held liable.
+
+You can claim compensation from either the seller or the manufacturer, or both, depending on the circumstances. 
+
+Considering the incident occurred on 20/02/2022, it's within the 2-year time limit. 
+
+Would you like to draft a legal notice to the seller or the manufacturer, or would you like to explore other options first?
+
+Human: Yes, I did. On 21/02/2022 I contacted the customer support team, and when they asked me as to whether I wanted a replacement, or wanted the defect to be rectified, I said I was okay with anything. In turn, they told me that they would get in touch with the product seller, and that a technician would be sent in a few days’ time. But, no one turned up. On 25/02/2022, I sent them an email requesting the platform to replace the defective TV, to which I received a reply stating that a technician would be sent in a few days’ time to look into the issue.
+
+Bot: It seems like the e-commerce platform has not taken adequate action to resolve the issue. You have given them multiple opportunities to rectify the situation, but they have not done so. 
+
+As the incident occurred on 20/02/2022, it is within the 2-year statute of limitations for filing a consumer complaint. 
+
+Considering this, you have the option to file a complaint with the National Consumer Helpline (1800-11-4000) or use the e-daakhil portal for further assistance. Would you like me to guide you through the process of drafting a legal notice to the e-commerce platform and the product seller?
+
+Human: On 27/02/2022, a technician from the product seller’s company arrived. He checked the product and stated that the product would have to be replaced due to inherent manufacturing defects. Further, he told me to contact the product seller directly for a replacement. On 27/02/2022, I got in touch with the product seller who assured me that a new TV would be installed in place of the defective one as soon as possible, but the TV has still not been replaced.
+
+Bot: It seems like the product seller has acknowledged the defect and assured a replacement. However, they have not followed through on their promise. You've also contacted the e-commerce platform multiple times, but they seem to be passing the buck to the seller. 
+
+Considering the product seller has acknowledged the defect and is responsible for replacing the TV, I would suggest that you follow up with them again to get a specific timeline for replacement. If they still don't respond or don't replace the TV, you may want to consider filing a complaint with the National Consumer Helpline (1800-11-4000) or using the UMANG App for assistance.
+
+Would you like me to help you draft a notice to the product seller asking them to replace the TV?
+
+Human: In fact, I contacted the seller on 03/03/2022 to check if they had any plans of replacing the defective product, but did not receive a favorable response. I also emphasized the dual use of TV for me (source of news and entertainment), but all efforts went in vain.
+
+Bot: It seems like the seller has not taken any action to replace the defective TV despite their assurance. The statute of limitations for consumer complaints in India is 2 years from the date of the incident. Since the incident occurred on 20/02/2022, you are well within the time frame to file a complaint. Would you like to consider filing a complaint with the National Consumer Helpline (1800-11-4000) or the e-daakhil portal for further assistance?
+
+Human: Yes, I sent a notice dated 10/03/2022, but I haven’t yet received a reply from the seller.
+
+Bot: You've taken a step in the right direction by sending a legal notice. Since more than two years have passed since the incident (the incident occurred on 20/02/2022, and today's date is 26/09/2024), you may not be able to file a case in the consumer court for this specific incident. However, if you still want to pursue the matter, you can consider filing a complaint with the National Consumer Helpline (1800-11-4000) or through the UMANG App for immediate assistance. Would you like me to guide you through the process of drafting a complaint?
+
+Human: Yes, I would like to
+
+Bot: Before filing a complaint, let's confirm a few things. You have 2 years from the date of purchase to file a complaint, and in your case, the incident occurred on 20/02/2022. As today's date is 26/07/2024, you are well within the time limit. 
+
+Now, let me guide you through the next steps. You will need to draft a complaint and submit it to the District Consumer Grievance Redressal Forum. I can assist you in drafting a complaint. Would you like me to help with that?
+
+Human: I live in the city of Cosmos
+
+Bot: I can help you with the process of filing a complaint before the District Consumer Dispute Redressal Forum (DCDRF) for your city. 
+
+Before we proceed, I would like to remind you that the statute of limitations for filing a consumer complaint is 2 years from the date of the incident. Since your incident occurred on 20/02/2022, you are well within the time limit.
+
+I can help you draft a legal notice to the seller, and also guide you through the process of filing a complaint before the DCDRF.
+
+Would you like me to draft a legal notice for you?
+
+Human: Yes, it would be really helpful if you share a template that I could use for reference
+
+Bot: Here's a sample template for a complaint that you can use as a reference:
+
+**MEMORANDUM OF PARTIES**
+
+To,
+The District Consumer Disputes Redressal Forum,
+Cosmos,
+
+**PARTIES**
+
+1. The Complainant:
+ Name: [Your Name]
+ Address: [Your Address]
+ Occupation: [Your Occupation]
+
+2. The Opposite Party:
+ Name: Waves Home Appliances Private Limited
+ Address: 12/301, 3rd street, Simala Nagar, Cosmos – 30
+ Occupation: Manufacturer and Seller of Electronics Goods
+
+**FACTS**
+
+1. That the Complainant purchased a 55” QLED Smart TV from the Opposite Party on 12/02/2022 for a total amount of Rs 60,000/-. The TV was delivered on 16/02/2022 and installed on 18/02/2022.
+2. That on 20/02/2022, the TV suddenly switched off while in use and could not be booted up again.
+3. That the Complainant contacted the Opposite Party on 21/02/2022 and was assured that a replacement would be provided. However, despite repeated follow-ups, the Opposite Party failed to provide a replacement.
+4. That the Complainant sent a legal notice to the Opposite Party on 10/03/2022, but no response was received.
+
+**RELIEF**
+
+The Complainant seeks the following relief:
+
+1. Replacement of the defective TV with a new one.
+2. Compensation for the loss and inconvenience caused to the Complainant.
+3. Any other relief that the Forum may deem fit.
+
+**VERIFICATION**
+
+I, [Your Name], hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+**PLACE**
+[Your Signature]
+[Your Name]
+[Date]
+
+Please note that this is just a sample template, and you should modify it according to your specific situation and requirements. Also, ensure that you attach all relevant documents and evidence to support your complaint. If you need any further assistance, please feel free to ask.
+
+Human: I am Bruno, and my age is 46. I work as a graphic designer. My residential address is 20/418, 2nd Cross Street, Vimala Nagar, Cosmos-100 Name: Waves Home Appliances Address: 12/301, 3rd street, Simala Nagar, Cosmos – 30  Name: Comet Manufacturers Address: 14/305, 8th street, Vimala Nagar, Cosmos-60
+
+Bot: Based on the details you provided, I can draft a Memorandum of Parties and a sample complaint for your reference. Please note that this is a template and you should modify it according to your specific case. Here is a draft Memorandum of Parties:
+
+**MEMORANDUM OF PARTIES**
+
+1.  **The Complainant**
+
+    a. Name: Bruno
+
+    b. Age: 46 years
+
+    c. Occupation: Graphic Designer
+
+    d. Address: 20/418, 2nd Cross Street, Vimala Nagar, Cosmos-100
+
+    e. Phone Number: [Insert Phone Number]
+
+    f. Email: [Insert Email]
+
+2.  **The Opposite Parties**
+
+    a. Name: Waves Home Appliances Private Limited
+
+    b. Address: 12/301, 3rd street, Simala Nagar, Cosmos – 30
+
+    c. Phone Number: [Insert Phone Number]
+
+    d. Email: [Insert Email]
+
+    e. Name: Comet Manufacturers
+
+    f. Address: 14/305, 8th street, Vimala Nagar, Cosmos-60
+
+    g. Phone Number: [Insert Phone Number]
+
+    h. Email: [Insert Email]
+
+Now, here is a sample complaint:
+
+**CONSUMER COMPLAINT**
+
+To,
+
+The President,
+Cosmos District Consumer Disputes Redressal Forum,
+
+Subject: Complaint against Waves Home Appliances Private Limited and Comet Manufacturers for Defective TV
+
+Dear Sir/Madam,
+
+I, Bruno, a resident of 20/418, 2nd Cross Street, Vimala Nagar, Cosmos-100, hereby submit this complaint against Waves Home Appliances Private Limited and Comet Manufacturers for the defective TV purchased from them.
+
+**FACTS OF THE CASE**
+
+1.  On 12/02/2022, I purchased a 55-inch QLED Smart TV (Model Number: AS345678) from Waves Home Appliances Private Limited for a total amount of Rs 60,000/-. The TV was delivered on 16/02/2022 and installed on 18/02/2022.
+2.  On 20/02/2022, the TV switched off automatically while in use and could not be booted up again.
+3.  I contacted the customer support team of Waves Home Appliances Private Limited on 21/02/2022 and they assured me that a technician would be sent to examine the product.
+4.  On 27/02/2022, a technician from Waves Home Appliances Private Limited examined the product and confirmed that it was defective due to inherent manufacturing defects.
+5.  Despite multiple follow-ups, Waves Home Appliances Private Limited has failed to replace the defective TV.
+
+**RELIEF SOUGHT**
+
+I seek the following relief from the Forum:
+
+1.  Replacement of the defective TV with a new one.
+2.  Compensation for the mental agony and harassment caused by the opposite parties.
+3.  Any other relief that the Forum deems fit and proper.
+
+**DOCUMENTS ATTACHED**
+
+1.  Receipt of purchase
+2.  Photographs of the defective TV
+3.  Email correspondence with Waves Home Appliances Private Limited
+4.  Legal Notice dated 10/03/2022
+
+Please note that this is a sample complaint and you should modify it according to your specific case. Also, please ensure that you attach all the required documents and evidence to support your complaint.
+
+Also, please be aware that the statute of limitations for filing a consumer complaint in India is two years from the date of cause of action. Since your incident occurred on 20/02/2022, you have until 20/02/2024 to file your complaint.
+
+If you need any further assistance or have any questions, feel free to ask.
+
+Human: Thanks
+
+Bot: You're welcome. If you need any more assistance, please feel free to ask. Also, please note that you can contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance. Additionally, you can also contact the location-based consumer helpline number for further guidance.
+
+Human: No, thanks
+
+Bot: You can reach out to the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance. If you need help in the future, feel free to come back. Have a great day.
+

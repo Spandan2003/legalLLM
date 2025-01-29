@@ -1,0 +1,76 @@
+Chatbot:Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you. 
+
+Consumer: Hi, I need help filing a consumer complaint regarding an issue I'm facing with a finance company.
+Chatbot: Could you please explain the complete details about your issue?
+
+Consumer: Okay, here is the background - My name is Syed Sidiq Pasha and I am an auto driver residing in Mahabubnagar. In November 2016, I purchased an auto rickshaw bearing registration number TS 06 UB 3143 from a dealer named Samskruthi Automobiles.
+
+Chatbot: Chatbot: What problem did you face ?
+
+Consumer: This auto was originally purchased by another person named Varanasi Ashanna. He had obtained finance from a company called Fortune Integrated Assets Finance Ltd to buy the auto on loan. Ashanna could not pay the monthly installments for the loan regularly. So Fortune Integrated seized the auto from him. That's when Samskruthi Automobiles, who is an agent for Fortune Integrated, sold the seized auto to me in November 2016 and according to the terms of agreement I would pay the remaining loan installments to Fortune Integrated in monthly payments.
+
+Chatbot: Understood. Please provide more details about the terms of payment for purchasing this pre-used auto from Samskruthi Automobiles.
+
+Consumer: As per the agreement, I had to pay Fortune Integrated the balance loan amount in 30 monthly installments of Rs. 5,800 each. I paid 4 installments upfront at the time of purchase in November 2016.I paid them regularly the remaining installment for over 2 years.
+
+Chatbot: Great. Please confirm how many installments you paid in total before any issue arose?
+
+Consumer: I paid 27 installments promptly till March 2019, paying almost Rs. 1,56,600. Then I approached Samskruthi Automobiles requesting them to accept the remaining 3 installments in full so I could get the auto registration transferred to my name.But Samskruthi Automobiles started behaving strangely at that time. They said they had misplaced my agreement and kept delaying and postponing the matter whenever I approached them.
+
+Chatbot:  Did you follow up with them again after this?
+
+Consumer: Yes, I followed up with them continuously after that for almost 1 year but they kept stalling. And then in February 2020, they seized my auto arbitrarily without any prior notice.Then they started demanding additional ₹78,874 for releasing my auto despite having already received ₹1,56,600 from me.
+
+Chatbot: Did they explain why they were demanding this additional amount?
+
+Consumer: They gave some vague reasons that I had pending installments and interest due. But it was all lies to try and extract more money from me. I had already paid as per the original agreement terms.
+
+Chatbot: In that case we should send a legal notice to the opposite party. May I draft a legal notice for you.
+
+Consumer: Yes, Kindly draft the notice. 
+
+Chatbot: Kindly note, in order to draft the legal notice, I will need your proper address and the address of the opposite party.
+
+Consumer: My address is Syed Sidiq Pasha, S/o Syed Yousuf, Aged 52 years, Occ: Auto Driver, R/o H.No.4-2-16/6, Ramaiah Bowli, Mahabubnagar town & district and the opposite party address is The Authorized Signatory, Samskruthi Automobiles, RSP with: Fortune Integrated Assets Finance Ltd., #5-85/20A, Srinivasa Colony, Mahabubnagar town. 
+
+
+Chatbot: Here is the draft notice. Remember to put your signature before you send it in hard copy and put e-signature in case you are sending the soft copy. .In case you get any problem in the above process or have any doubt, I would suggest you to call the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+ Do you also need me to draft the complaint? 
+
+Consumer: I have already approached them so many times I do not think notice will have any impact on the conduct of the opposite party. Please go ahead and draft the initial complaint. I'll review it and provide my inputs.
+
+Chatbot: Could you please tell what relief you expect from the court, do you want your vehicle back or do you need your money as compensation for deficiency in service on the part of the opposite party. This will help me to specify the remedy in the complaint.
+
+Consumer: I want my vehicle back and some compensation for the loss I have suffered due to arbitrary seized possession of my vehicle.
+
+Chatbot: Thanks for sharing the address. With respect to the jurisdiction, the District Consumer Dispute Redressal Commission at Mahabubnagar will have jurisdiction as both the parties have residence and office at Mahabubnagar. I hope this works for you. 
+
+Consumer: Yes, the jurisdiction of District Consumer Dispute Redressal Commission at Mahabubnagar would work fine for me.  
+
+Chatbot: Sure, I'll draft the initial version of the consumer complaint for your review covering all the details we discussed today. Please share any supporting documents that you may have regarding your purchase, payments made, seizure notice etc. along with a copy of your agreement. This will help me represent the facts better.
+
+Consumer: I have uploaded the documents here. 
+The Chatbot: Thank you. On the basis of the documents that you have given me, I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+
+Consumer- Yes, it will be great if you can do that as well.
+The Chatbot: You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+Consumer: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+The Chatbot: You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Telangana as the State and Mahaboob nagar as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+“The complainant purchased the auto from Samskruthi Automobiles in November 2016 and paid 27 installments amounting to ₹1,56,600 by March 2019. Despite follow ups, they arbitrarily seized your auto in Feb 2020 without notice. And then demanded additional ₹78,874 for release without justification.”
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+Aggrieved Consumer: Got it. I will not agree for mediation.
+The Chatbot: In that case, the consumer court in Mahabubnagar has to proceed with the case
+Aggrieved Consumer: Thank you very much for the assistance!
+The Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.
+

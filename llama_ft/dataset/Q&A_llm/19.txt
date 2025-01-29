@@ -1,0 +1,65 @@
+<s><INST> Hi, I need help filing a complaint against an insurance company that has rejected my husband's accident insurance claim. 
+
+</INST> Could you please explain the complete details about the problem you faced?
+
+</s> <s><INST> Sure. My name is Katta Amrutha. My late husband Katta Shekhar Reddy had taken an insurance policy for his two-wheeler from Cholamandalam MS General Insurance Company. It was policy number 3397/00127036/000/00 which he had taken in June 2019. The policy provided accident cover of Rs 15 lakhs in case of death of the insured. It was for the time period from 06/06/2019 to 05/06/2024.
+
+</INST> Could you now please walk me through what happened after he took this policy? 
+
+</s> <s><INST> My husband met with a motorcycle accident on 10th May 2020. He suffered serious injuries in the accident and passed away the same day. As his wife and nominee, I submitted the accident insurance claim to Cholamandalam MS Insurance on 5th June 2020, providing all documents. But they have illegally rejected my claim.
+
+</INST> Okay. Did they give any reasons for claim rejection? 
+
+</s> <s><INST> They arbitrarily said that it was not an accidental death but due to heart attack, which is completely false. The police report and the inquest report clearly shows he died due to accident injuries.
+
+</INST> could you please share what steps you have taken after they rejected your claim? Have you approached them again?
+
+</s> <s><INST> Yes, after their initial rejection I have written many emails and made countless calls to their customer care requesting them to review and settle my claim. But they are just giving me pointless excuses. No one is addressing my grievance.
+
+</INST> I understand how frustrating this must be for you. Could you please confirm if you have filed a formal complaint with the insurance company's grievance redressal department along with supporting documents? 
+
+</s> <s><INST> Yes I filed the formal complaint with their grievance department on 05/06/2020, attaching all documents. But they simply sent a meaningless reply rejecting it again without any reason.I have no other option now but to seek external help. 
+
+</INST> Have you sent any legal notice after rejection of the complaint  from the company's grievance redressal department. 
+
+</s> <s><INST> Yes. I have sent a legal notice on 12-10-2020. I would like to file a complaint now.
+
+</INST> Thank you for giving me the full sequence of events. I could assist you in drafting a complaint. Would you like me to generate one for you?
+
+</s> <s><INST> Yes. It would be really helpful.
+
+</INST> In order to draft a complaint I need some other details like the address of the parties based on that I would also recommend a jurisdiction in which the complaint can be filed.
+</s> <s><INST>With respect to the address, specify my address as Smt. Katta Amrutha W/o Late Shekhar Reddy, Aged 40 years, Occupation: Housewife, Resident of MIG-21, Housing Board Colony,  Mahabubnagar, Mahabubnagar District - 509001 and the opposite party address as The Cholamandalam MS General Insurance Company Limited, Represented by its Branch Manager, #1-2-73/2 & 1-2-63 to 64, No.302, 3rd Floor, SR Arcade, Parklane, Above Bank of Baroda, Secunderabad, Hyderabad - 500 001.
+
+</INST> Thanks for sharing the address. In the present case for the issue of jurisdiction, the District Consumer Dispute Redressal Commission at Mahabubnagar and Hyderabad will have jurisdiction as the complainant has residence at Mahabubnagar and the opposite party has registered office in Hyderabad. Which jurisdiction would you prefer? I think you should go for the District Consumer Dispute Redressal Commission at Mahabubnagar as it is your place of residence and therefore  would be convenient for you. 
+
+</s> <s><INST> Yes, the jurisdiction of District Consumer Dispute Redressal Commission at Mahabubnagar would work fine for me. 
+</INST>  Could you please tell what relief you expect from the court, do you want your vehicle back or do you need your money as compensation for deficiency in service on the part of the opposite party. 
+</s> <s><INST> In terms of remedy I would like to have a compensation amount of Rs.15,00,000/- covered under the Policy and Rs.15,000/- towards compensation for mental agony and Rs. 10,000 as cost of the complaint. 
+
+</INST> Thank you for the confirmation, I will draft the initial consumer complaint and share it with you soon for your review. Please feel free to suggest any changes or additions as required. But before  that could you please specify what proof you have with regards to the claims that you have made. 
+
+</s> <s><INST> Yes I have relevant policy documents, claim rejection letter, police report, inquest  report  and other relevant documents which will help me to establish my case. 
+
+</INST> Thank you. On the basis of the information that you have given me, and the complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+</s> <s><INST> Yes, it will be great if you can do that as well.
+</INST> You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+</s> <s><INST> Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+</INST> You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Telangana as the State and Mahaboob nagar as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the details of  your complaint.
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+</s> <s><INST> Got it. I will not agree for mediation.
+</INST> In that case, the consumer court in Mahabubnagar has to proceed with the case. In case you get any problem in the above process or have any doubt, I would suggest you to call the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+</s> <s><INST>No. Thank you very much for the assistance!
+</INST> You are welcome. Feel free to raise further queries anytime. Best wishes.
+</s>

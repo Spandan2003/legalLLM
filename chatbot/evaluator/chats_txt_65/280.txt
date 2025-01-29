@@ -1,0 +1,171 @@
+Human: My Sintex tank is broken after being installed, how can I get a new one?
+
+Bot: Thank you for sharing your concern. To better understand the issue, can you please tell me what led to the tank breaking? Was it due to any manufacturing defect, poor installation, or something else?
+
+Human: A few months ago, on 13.04.2021.
+
+Bot: Since the incident occurred on 13.04.2021, which is more than 2 years ago, you may have a limited time frame to file a complaint. However, I would advise you to still proceed with filing a complaint to explore your options.
+
+Could you please provide me with the contact details of the Sintex dealer or the company where you purchased the product? This will help me guide you further on the next steps to take.
+
+Human: Om Hardwares, Ambikapur. I want to file the complaint against them.
+
+Bot: You purchased the Sintex tank from Om Hardwares in Ambikapur a few months ago. You're looking to file a complaint against them.
+
+Can you please tell me the approximate value of the Sintex tank and the services you paid for? This will help me guide you on the next steps.
+
+Human: I have paid Rs. 10,500.53 for the tank, and I have the receipts from the store.
+
+Bot: You've made a purchase of Rs. 10,500.53 from Om Hardwares in Ambikapur. Since your incident occurred on 13.04.2021, you are still within the 2-year time frame for filing a complaint. 
+
+Have you approached Om Hardwares to report the issue with the Sintex tank yet?
+
+Human: I was told that it was an authentic tank and would be delivered in proper condition.
+
+Bot: It seems like there may be a case of misrepresentation or defective product. The grounds for complaint available in this case include product liability, misrepresentation, and defective equipment or merchandise. 
+
+Before we proceed, I would like to inform you that the statute of limitations for filing a consumer complaint in India is 2 years from the date of purchase. Since your purchase date is 13.04.2021, you have exceeded the time limit. However, you can still try to resolve the issue amicably with the store. If not, you may consider filing a complaint with the District Consumer Disputes Redressal Forum.
+
+Would you like me to help you draft a notice to Om Hardware, or would you like to try to resolve the issue with them directly?
+
+Human: I went to the store but they refused to refund or replace the tank. I want to file a legal notice against them.
+
+Bot: It seems like you've already tried to resolve the issue with the store, but they're not cooperating. Since the incident occurred on 13.04.2021, it's within the 2-year time frame for filing a complaint. I'd be happy to help you draft a legal notice. Before we proceed, would you like to know about the possible relief you can seek in the notice, such as a refund, replacement, or compensation?
+
+Human: Yes, please!
+
+Bot: To draft a legal notice, I'll need some more information. Can you please provide me with the details of your lawyer, including their name, bar council registration number, and address?
+
+Human: My name is Mr. Vikas Tiwari, son of Raviprakash Tiwari, aged about 30 years, and I live near Tiwari Building, Ambikapur, Sarguja, Chhattisgarh. The store is Om Hardwares, Ambikapur, Sarguja, Chhattisgarh.
+
+Bot: Here's a draft of the notice:
+
+**NOTICE**
+
+To,
+Om Hardwares
+Ambikapur, Sarguja, Chhattisgarh
+
+Subject: Defective Sintex Tank
+
+Respected Sir/Madam,
+
+I, Vikas Tiwari, son of Raviprakash Tiwari, aged about 30 years, residing near Tiwari Building, Ambikapur, Sarguja, Chhattisgarh, hereby serve this notice upon you, Om Hardwares, in connection with the defective Sintex tank I purchased from your store on 13.04.2021 for a sum of Rs. 10,500.53.
+
+The tank, which was represented to be in good condition, has been found to be defective and unusable. Despite my efforts to get it replaced or refunded, your store has refused to take any action.
+
+I hereby demand that you take immediate action to rectify this situation by replacing the defective tank with a new one or refunding the full amount paid. If not, I shall be forced to approach the Consumer Forum for redressal.
+
+Please acknowledge receipt of this notice within 7 days from the date of receipt.
+
+Yours faithfully,
+
+Vikas Tiwari
+
+Please review and confirm if this is okay with you.
+
+Also, would you like me to guide you on how to file a complaint with the National Consumer Helpline (1800-11-4000) or the District Consumer Forum?
+
+Human: What if they don’t respond?
+
+Bot: If the store doesn't respond to your notice, you can file a complaint with the District Consumer Disputes Redressal Forum (DCDRF) or the State Consumer Disputes Redressal Commission (SCDRF), depending on the value of the goods and services. Since the value of the tank is Rs. 10,500.53, you can approach the District Commission. You can also contact the National Consumer Helpline at 1800-11-4000 for assistance.
+
+Human: Yes please.
+
+Bot: You can file a complaint with the District Consumer Disputes Redressal Forum, which has jurisdiction over your area. The District Commission can entertain matters where the value of the goods or services paid as consideration does not exceed more than one crore rupees.
+
+You can also contact the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance. They can guide you through the process and provide you with more information on how to file a complaint.
+
+Additionally, you can also submit a complaint online through the consumerhelpline.gov.in portal. 
+
+Is there anything else I can help you with?
+
+Human: I want my tank replaced and the shop to pay me Rs. 20,000 for mental agony.
+
+Bot: I can help you draft the complaint accordingly. Also, please note that the time limit for filing a consumer complaint is 2 years from the date of the incident. Since the incident occurred on 13.04.2021, you have until 13.04.2023 to file the complaint. As today's date is 26.07.2024, you are still within the time limit.
+
+You can file the complaint through the e-daakhil portal: http://edaakhil.nic.in/. You can also contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance.
+
+Additionally, if you need help with drafting the complaint or need more information about the process, please let me know.
+
+Human: I have the original bill and the picture of the broken tank, will that work?
+
+Bot: The original bill and a photograph of the broken tank should be sufficient as evidence. You can file a complaint with the District Consumer Disputes Redressal Forum (DCDRF) under the Consumer Protection Act, 2019. I can help you with the process.
+
+Would you like me to guide you through the process of filing a complaint with the DCDRF?
+
+Human: Yes, please.
+
+Bot: Here is a draft of your complaint letter:
+
+ District Consumer Disputes Redressal Commission, Sarguja, Chhattisgarh.
+
+ Consumer Complaint No. ……………
+
+ Case No. ……………
+
+ Vikas Tiwari, son of Raviprakash Tiwari, aged about 30 years,
+Near Tiwari Building, Ambikapur, Sarguja, Chhattisgarh.
+ Complainant
+
+ Versus
+
+ Om Hardwares,
+ Ambikapur, Sarguja, Chhattisgarh.
+ Opposite Party
+
+ Complaint under the Consumer Protection Act, 2019
+
+To, The President, District Consumer Disputes Redressal Commission, Sarguja, Chhattisgarh.
+
+Subject: Complaint against Om Hardwares, Ambikapur, Sarguja, Chhattisgarh.
+
+Sir,
+
+I, Vikas Tiwari, son of Raviprakash Tiwari, aged about 30 years, residing at Near Tiwari Building, Ambikapur, Sarguja, Chhattisgarh, do hereby file this complaint under the Consumer Protection Act, 2019, against Om Hardwares, Ambikapur, Sarguja, Chhattisgarh.
+
+Facts of the case:
+
+1.	I purchased a Sintex tank from Om Hardwares, Ambikapur, Sarguja, Chhattisgarh, on 13.04.2021, for a total consideration of Rs. 10,500.53.
+2.	However, upon delivery, the tank was found to be broken and not properly installed.
+3.	I have made several attempts to resolve this issue with the opposite party, but they have failed to provide a satisfactory response.
+4.	I am entitled to a replacement of the defective tank and compensation of Rs. 20,000 for the mental agony caused.
+
+Relief:
+
+I, therefore, pray that this Honorable Commission may be pleased to pass an order directing the opposite party to replace the defective tank and pay me a sum of Rs. 20,000 as compensation for the mental agony caused.
+
+Verification:
+
+I, Vikas Tiwari, son of Raviprakash Tiwari, aged about 30 years, do hereby verify that the contents of this complaint are true and correct to the best of my knowledge and belief.
+
+Place: Ambikapur, Sarguja, Chhattisgarh
+
+Date: ……………
+
+Signature of Complainant: Vikas Tiwari
+
+Affidavit:
+
+I, Vikas Tiwari, son of Raviprakash Tiwari, aged about 30 years, residing at Near Tiwari Building, Ambikapur, Sarguja, Chhattisgarh, do hereby solemnly affirm and declare that the contents of the above complaint are true and correct to the best of my knowledge and belief.
+
+Place: Ambikapur, Sarguja, Chhattisgarh
+
+Date: ……………
+
+Signature of Complainant: Vikas Tiwari
+
+You can now proceed to file the complaint through the e-Daakhil portal, attaching this letter as a supporting document.
+
+Human: Yes
+
+Bot: I've drafted the complaint for you. You can now file it through the e-daakhil portal. If you need help with anything else, feel free to ask.
+
+Also, you can contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance. If you need a location-based helpline number, I can provide that as well.
+
+Is there anything else I can help you with?
+
+Human: No, that’s it.
+
+Bot: You're all set to file your complaint. You can reach out to the National Consumer Helpline at 1800-11-4000 for immediate assistance. If you need help with a location-based helpline number, I can provide that as well. Is there anything else I can help you with?
+

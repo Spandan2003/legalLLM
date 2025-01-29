@@ -1,0 +1,4 @@
+numpy==1.26.4
+evaluate==0.4.1
+bert-score==0.3.13
+pyemd==1.0.0

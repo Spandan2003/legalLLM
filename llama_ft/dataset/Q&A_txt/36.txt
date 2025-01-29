@@ -1,0 +1,61 @@
+Issue No. 6 – Defective Seeds 
+
+User: The yield of the crop was much lower than the promised quantity for the seed variety purchased. What do I do now? 
+Chatbot: Hi, I’m your consumer grievance assistance tool. How can I help you?
+User: I purchased the new AX213 variety of chilli seeds from ABC Agro Private Limited on 12/04/2022, and used them in my four-acre plot of land. I was told that the yield would be around 15 quintals, but I got only 8 quintals (Harvest time period: 12/08/2022 – 30/08/2022)
+Chatbot: How many packets of seeds did you purchase, what was the weight of each of the packets and the price of the packet? 
+User: I bought 10 packets of chilli seeds each weighing 250 grams, and the cost price of each of the packets was Rs 3500/-
+Chatbot: Okay. Did you follow the instructions pertaining to the use of the seeds? 
+User: Yes, I did. 
+Chatbot: Did the terms and conditions have any disclaimer as to the final yield? 
+User: No, there was no mention of anything regarding that. It was an oral promise given by the seller with respect to the yield. 
+Chatbot: Okay. I understand. Please make sure you have something in writing which describes the promise given to you regarding the final harvest. 
+User: Okay. 
+Chatbot: Did you approach the opposite party for compensation? 
+User: Yes, I first approached them on 10/06/2022 with respect to compensation for the loss incurred in respect of the final output
+User: I also sent reminder emails on 12/06/2022 and 14/06/2022,but to no avail.
+Chatbot: How much did you ask? 
+User: Rs 1,60, 000. Rs 40,000 per acre
+Chatbot: What was their response?
+User: They denied responsibility for the loss 
+Chatbot: Okay. Did you request them to send a sample of the seeds for inspection as per the legal requirements? 
+User: No, I was not aware of the legal provisions in this regard
+Chatbot: That’s okay. I understand
+Chatbot: It is possible that factors such as weather conditions, water usage, fertilizer/pesticide usage, and soil conditions might have played a role in the harvest not being as expected. Did you get a horticultural officer to check your produce? 
+User: Yes, I called the horticultural officer and the report submitted by him stated that there was an inherent defect in the seeds purchased which resulted in the lower yield per crop. 
+
+Chatbot: Have you considered sending them a notice? 
+User: Yes, I sent them a notice dated 16/06/2022, but I have not received any reply from them
+Chatbot: Then, would you like to file a complaint before the District Consumer Grievance Redressal Forum? 
+User: Yes, I would like to 
+Chatbot: Okay, could you please tell me where your residence is? 
+User: I live in the city of Cosmos 
+Chatbot: In that case, you can file a complaint before the Cosmos District Consumer Grievance Redressal Forum within a period of two years from the date of cause of action i.e 12/08/2022. You can either use the E-Daakhil portal to file your complaint, or submit a physical copy of the complaint in the commission. 
+Please note that since the combined value of the product purchased is less than Rs 5 lakhs, you do not have to pay any court fees, but ensure you have the following documents with you: 
+Receipt of the purchase made 
+Photographs of the product 
+Copy of the communication with the manufacturer regarding the product quality and the subsequent request for compensation  
+Legal Notice sent to the opposite party 
+If you wish to register your complaint using the E-Daakhil portal, here’s the link that you can use: https://edaakhil.nic.in/ . The portal has an instruction manual that provides you with step-by-step procedure for registering a complaint
+Chatbot: However, please feel free to let me know if you need any assistance with respect to complaint drafting.  
+User: Yes, it would be really helpful if you share a template that I could use for reference 
+Chatbot: Sure, that can be done. Could you please tell me your name, age and address, and also the name and address of the manufacturer?  
+User: I am Bruno, and my age is 46. I am a farmer. My residential address is 32/208, 3rd street, Vimala Nagar, Cosmos-20.  
+Manufacturer: ABC Agro Private Limited 
+Address: 28/459, 2nd street, Simala Nagar, Cosmos- 37
+Chatbot: Is there anything else that you would like to add about the seller? 
+User: The seller is a well-known and reputed seller of agricultural products including new varieties of seeds, and has been catering to the needs of over 1000 farmers in Cosmos and other places in the country. 
+User: Over the years, it has come up with many varieties with benefits ranging from higher yield per crop to better flavor to higher tolerance to adverse weather conditions. 
+Chatbot: Thanks, here’s a draft complaint along with MoP (Memorandum of Parties) and Affidavit based on the information provided by you:  
+Complaint 
+Memorandum of Parties
+Affidavit
+User: Thanks
+Chatbot: Is there anything else you want me to assist you with? 
+User: No, thanks 
+Chatbot: Welcome. Happy to help. I hope you found this conversation useful. Please feel free to contact us again in case of any queries in the future. 
+Meanwhile, you can log on to https://consumeraffairs.nic.in/ , or dial 1800-11-4000 (National Consumer Helpline) 
+Stay Alert, Stay Safe 
+Thank you 
+
+ 

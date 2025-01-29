@@ -1,0 +1,56 @@
+<s><INST> Hello Chatbot. I purchased an expensive digital keyboard for my daughter 3 years back for her music classes. But now I found that it is not suitable for higher grade exams as falsely claimed by the seller. I want to file a complaint and get compensation for this.
+
+</INST> I understand. Let us start from the beginning so I can gather all the details properly. Could you please confirm your name and address?
+
+</s> <s><INST> Sure, my name is D. Franklin Arul Stephen, Aged:45, Occupation: Pilot and I reside at D.No.413, Seminary Lane, Pasumalai, Madurai, Pincode 625002. 
+
+</INST> Thank you for providing your details Mr. Stephen. When exactly did you purchase this keyboard - please share the purchase date?
+
+</s> <s><INST> We purchased the Yamaha PSR I455 keyboard on 14th November 2013 from a musical instruments store called Honey Musical Instruments Gallery located at  No.201, Rajan complex,Madurai. We didn’t get the specifications that were promised.
+
+</INST> Okay. Could you please explain what exactly is the issue you faced with this Yamaha keyboard model PSR I455 purchased in November 2013?
+
+</s> <s><INST> My daughter was preparing for her Trinity College Music exams. The shop owner had told me at the time of purchase that this keyboard can be used for practicing and appearing for Trinity music exams up to Grade 8. My daughter used it successfully up to Grade 5 exams. But when she started preparing for the higher Grade 6 exam in 2016, her music teacher informed that this keyboard model does not have necessary features to be used for exams above Grade 5 due to lack of advanced options. I was very anxious to know this after spending 22,000 rupees on this keyboard based on the seller's assurances.
+
+</INST> I understand. Did you reach out to the manufacturer or seller regarding this discrepancy you faced?
+
+</s> <s><INST> Yes, when I learnt about this in 2016, I emailed Yamaha company who are the manufacturers of this keyboard on 27th May 2016 informing them about this false claim and deficiency in their PSR I455 model. However, they did not respond to my complaint. Then in February 2017, I sent them a legal notice asking for refund and suitable compensation. But still no response. I have copies of the email and legal notice sent to Yamaha company. The shop owner also did not help resolve this issue satisfactorily.
+
+</INST> Okay. Please share more details about the Yamaha company who manufactured this keyboard and the music instruments shop and owner who sold this to you.
+
+</s> <s><INST> The keyboard was manufactured by Yamaha Music India Pvt. Ltd. which is a leading musical instruments brand in India. Their head office address is P-401, JMD Mega Poils, Sector 48, Sohna Road, Gurgaon, Haryana - 122018. I purchased it from a shop named Honey Musical Instruments Gallery located at Shop No. 201, Rajan Complex, Tamil Sangam Road, Madurai. The shop owner's name is Mr. Raghav Sharma.
+
+</INST> Thank you for providing the specific details. Just to confirm, have you retained the original purchase invoice and warranty card for this keyboard?
+
+</s> <s><INST> Yes, I have the original cash memo dated 14th Nov 2013 from Honey Musical Instruments shop showing the purchase details. I also have the warranty card and some promotional pamphlets which came with the keyboard which mentions it can be used for Trinity exams of all grades.
+
+</INST> That is very helpful. Please keep those documents safely as proof. Can you share what resolution you are expecting now from Yamaha company and the musical shop to address your grievance?
+
+</s> <s><INST> As the keyboard is unsuitable for my daughter's music education needs above Grade 5 contrary to their assurances, I had asked them for a refund of the purchase amount I paid. I also incurred further expenses to buy a new advanced keyboard. All this has caused immense harassment and loss. I expect a suitable compensation amount for the same along with the cost for my legal expenses. I would also appreciate it if they can replace this faulty keyboard with a suitable model that can actually be used uptil Grade 8 exams as assured.
+
+</INST> Your expectations seem reasonable. But I need some additional information before I proceed to draft a consumer complaint. Where would you like to file the complaint: Gurgaon or Madurai. 
+
+</s> <s><INST> I would like to file the complaint at Madurai.
+
+</INST> Thank you. I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+</s> <s><INST> Yes, it will be great if you can do that as well.
+</INST> You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+</s> <s><INST> Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+</INST> You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Tamil Nadu as the State and Madurai as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-”The complainant, D. Franklin Arul Stephen, purchased a Yamaha PSR I455 keyboard for his daughter's music education, relying on the representation by Yamaha Music India and Honey Musical Instruments Gallery that it could be used for Trinity music exams up to Grade 8. However, it was later discovered that the keyboard was unsuitable for exams above Grade 5, causing significant inconvenience. Despite the complainant's email complaints and a legal notice, the opposite parties failed to address the issue, resulting in financial loss, mental agony, and a delay in the daughter's musical progress. The complainant seeks a refund of Rs. 22,000 and compensation for the deficient service and false assurances.”
+“The complainant, an auto driver, has filed a complaint against Fortune Integrated Assets. In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+</s> <s><INST> Got it. I will not agree for mediation.
+</INST> In that case, the consumer court in Madurai has to proceed with the case.In case you get any problem in the above process or have any doubt, I would suggest you contact the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+</s> <s><INST> Got it. Thank you very much!
+</INST> You are welcome. Feel free to raise further queries anytime. Best wishes.
+</s>

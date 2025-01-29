@@ -1,0 +1,64 @@
+The Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you. Please give your name and where you are from.
+Aggrieved Consumer: Hello, I am Veer Pal Singh, and I am from Punjab. I became a member of Ford Club Travel Pleasure, and I have an issue with a recent tour booking to Dubai.
+The Chatbot: I'm sorry to hear that, Mr. Singh. Can you provide more details about the issue that you faced with the Dubai tour booking?
+Aggrieved Consumer:  I booked a Dubai tour for 4 nights and 5 days through Ford Club Travel Pleasure. As a member, I was told that the five-star hotel stay was free. I paid for my membership in installments, which is about 1,90,000 Rs. and also booked flight tickets separately for Rs. 39,487. However, after a few days, I received a call saying the booking in the five-star hotel was canceled, and I had to pay an additional Rs. 18,000 for a booking in that same hotel. I paid the amount, but upon reaching Dubai, I found out that the hotel was not a five-star facility as promised. It was of very low quality.
+The Chatbot: I am sorry for the inconvenience you've faced. To assist you better, can you provide additional details regarding the benefits you were promised to get after becoming a member and the amount that you paid in membership fee?
+Aggrieved Consumer: The membership cost me 1,90,000 Rs. The membership promised me premium tourism in places like Dubai that are popular for tourism at discounted rates, but they did the opposite of that after my booking.
+The Chatbot: Got it. Now can you tell me the date you booked the Dubai tour and the mode of payment, the date when you paid the additional amount of 18,000 Rs., the days you spent in Dubai, the name of the five-star hotel which they promised to book for you, the name of the hotel in which you ultimately stayed and any communication you had with Ford Club after the tour?
+Aggrieved Consumer: The booking happened on 1st March by going to their website and by paying using a bank transfer. I paid the additional amount on 10.3.2022. The tour was from 24.3.2022 to 28.3.2022. I was told that the booking would happen at Movenpick Hotel and Apartment, Bur Dubai but the booking happened at ABC Hotel. After the tour, I contacted Ford Club several times but they refused to accept their fault. They do not have a specialized customer care service. 
+
+The Chatbot: Thank you for providing those details. Do you have any emails or messages exchanged between you and Ford Club regarding the additional payment of 18,000 Rs., any pictures that were taken of the hotel, and any communication exchanged after the tour? 
+Aggrieved Consumer: Yes, I do have emails and WhatsApp messages that I sent to Ford Club. I also have pictures of the hotel. The emails and WhatsApp messages are about how the hotel was of low quality. They also include my requests for a refund.
+The Chatbot: Thank you. Based on what you've told me, it seems there's a discrepancy between the promised five-star hotel and the actual accommodation. This indicates a deficiency in service from Ford Club. You have a legitimate grievance for which you can seek redressal, i.e. remedy. Let me know what kind of remedy you are seeking and how much you want for the same.
+Aggrieved Consumer: I want a refund and compensation for mental agony. For mental agony, I think 1,00,000 Rs. will be right. I paid 2,47,487 Rs. in total, including the membership fees. 
+The Chatbot: In order to get the relief that you are seeking, you can file a complaint before the Consumer Forum which has jurisdiction to hear your case. You can also go for mediation or contact the Punjab State Consumer Helpline to assist you in this regard. You can find the helpline number here. Please feel free to ask me for any clarifications regarding each of the options I have presented to you. 
+Aggrieved Consumer: What will happen if I call the state consumer helpline?
+The Chatbot: The Punjab State Consumer Helpline will hear your grievance and will guide you by providing the steps involved in filing a case. They will also render advice regarding the strength of your case. 
+Aggrieved Consumer: What about mediation?
+The Chatbot: mediation is a form of settling disputes outside courts. In mediation, neutral third persons called mediators assist the parties in arriving at an amicable settlement. The mediators cannot decide the case but can only aim for an amicable settlement between the parties. If the parties do not agree to a settlement, then the mediation process comes to an end, resulting in the parties having to seek other methods of settling their dispute, including going to court.
+Aggrieved Consumer: I would like to go to court. 
+The Chatbot: Got it. Before you file a complaint before the forum, you would have to send a fifteen-day notice to Ford Club Travel Pleasure. If you do not receive a satisfactory response, or if you do not receive a response from them after a period of fifteen days, you can initiate legal action by approaching the consumer court. Do you want me to draft a notice for you?
+Aggrieved Consumer: Yes, it will be nice if you can draft a notice.
+The Chatbot: In that case, I would me needing some more information. Can you provide me with your full name and address? 
+Aggrieved Consumer: My full name is Veer Pal Singh, son of Balwinder Singh. I live in Viskarma Mohalla, Amritsar Road, Kot Ise Khan, Tehsil Dharamkot District, Moga. 
+The Chatbox: Thank you. Additionally, I would require details such as the full name and address of Ford Club, the Booking ID for the tour to Dubai, the details of the flight tickets that you booked, and your Membership Number. Or else, you can upload the flight tickets, the booking-related documents, and your membership ID here.
+Aggrieved Consumer: The full name of Ford Club is Ford Club Travel Pleasure and the address of the sales office is Plot No. 738, JLPL Industrial Estate, Sector-82, Mohali, India-160055. 
+(upon uploading the documents)
+The Chatbot: In the notice, the opposite party must be directed to give you the relief that you are seeking. Here, you are seeking a refund along with compensation for mental agony. Is it okay if the notice directs Ford Club to initiate the refund amount and payment of compensation for mental agony within a period of fifteen days? This is because the period of the notice is for fifteen days. 
+Aggrieved Consumer: Yes, I do not mind that. 
+The Chatbot: Thank you. I now require details regarding whether you want to send Ford Club the notice physically or via email. If you want to send it via email, please provide me with the email ID that can be used by Ford Club if they want to send a reply. What would you prefer?
+Aggrieved Consumer: I prefer email. You can use my email address: singh@gmail.com
+Aggrieved Consumer: Thank you. You can access the notice here. Please keep in mind that your signature is required in the notice. You can either take a printout of the notice and sign it, or else you can e-sign it. Also mention the date in the notice before you send it. If you don't receive a satisfactory response or if you don't receive a response within fifteen days, you can initiate legal action by filing a complaint before the consumer forum. Do you want me to guide you on how you can file a complaint?
+Aggrieved Consumer: Yes, I will sign it before I send it. I will also put the date. Can you please provide me with the steps on how I can file a complaint before the consumer forum?
+The Chatbot: First, I would have to determine which consumer forum has the jurisdiction, i.e., the authority to hear your case. You are residing in Moga, but Ford Club’s Office is in Mohali. Due to this, you can file a complaint in either the consumer court in Moga or in Mohali. Which option do you prefer?
+Aggrieved Consumer: Since I live in Moga, it is better if the court in Moga deals with the matter. 
+The Chatbot: Got it. In that case, you can file your complaint before the Moga District Consumer Disputes Redressal Forum. Do you want me to draft a pre-filled complaint that you can use?
+Aggrieved Consumer: Yes, it would be great if you could draft a complaint that I can use.
+The Chatbot: In that case, I will be requiring some documents that will be used as evidence. Since you have already provided the flight tickets, the booking-related documents, and your membership ID, you just need to give me proof of the additional payment of 18,000 Rs. I would also require your father’s name, your age, and your occupation. You can upload that here.
+(Upon uploading)
+Aggrieved Consumer: My father’s name is Balwinder Singh. I am 36 years old and I am a software developer.
+The Chatbot: Thank you. You can access the pre-filled complaint here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+Aggrieved Consumer- Yes, it will be great if you can do that as well.
+The Chatbot: You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+Aggrieved Consumer: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+The Chatbot: After filling all the documents and getting the affidavit notarized, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+Aggrieved Consumer: Yes, please give me a step-by-step guide.
+The Chatbot: You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Punjab as the State and Moga as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter “Ford Club”. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+“The Complainant, based on the allurement provided by the Opposite Party, became a member of the Opposite Party’s travel club. The Opposite Party unfairly represented to the Complainant that they could book a tour to Dubai and stay in a five-star hotel for free. Based on this, the Complainant booked a tour but was forced to pay 18,000 Rs on the pretext that their booking in the five-star hotel was cancelled. Despite 18,000 Rs. being paid, the Complainant was forced to stay in a substandard hotel.”
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. The process is identical to what I have already told you with the difference being that the mediation will be conducted by the court-attached mediators. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+Aggrieved Consumer: Got it. I will not agree for mediation.
+The Chatbot: In that case, the consumer court in Moga has to proceed with the case.
+Aggrieved Consumer: Got it. Thank you very much!
+The Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.
+

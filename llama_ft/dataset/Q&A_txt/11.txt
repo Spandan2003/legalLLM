@@ -1,0 +1,60 @@
+Chatbot:Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User: I have a problem with regards to my vehicle insurance. How do I claim it?
+Chatbot: Let's begin by discussing the details of your case. Can you provide me with your name,age and address. 
+User: Certainly. My name is Ariga Appalakondamma and I'm 55 years old and my address is D.No. 2-2-14, K.N.R. Peta, Anakapalli Mandalam,Visakhapatnam- 531019
+Chatbot: Now, let's move on to the details of the incident. Can you tell me about the incident involving the vehicle?
+User: Certainly. My late husband, Ariga Surya Rao, was the owner of a motorcycle bearing registration number AP31CB5987. The vehicle was insured with United India Insurance Company Ltd. under Policy No. 1503043119P102961984, valid from 04/06/2019 to 03/06/2020.
+Chatbot: Could you provide further information on the insurance you mentioned above like what is included in the insurance coverage.
+User:  The policy covers 3rd party liability and personal accident coverage for Rs.15,00,000 for driver cum owner.
+Chatbot: I understand. Can you describe what happened on the day of the accident?
+User: On 26/06/2019, the insured vehicle was involved in an accident, and my husband sustained injuries. He was immediately taken to NTR Hospital, Anakapalli, and then transferred to MB Hospital, Visakhapatnam, before being brought back to NTR Hospital, Anakapalli, where he unfortunately succumbed to his injuries on 01/07/2019.
+Chatbot: I'm sorry to hear about your loss. After the accident, did you file a claim with the insurance company?
+User: Yes, we submitted all the necessary documents to the insurance company on 03/07/2019.
+Chatbot: And how did the insurance company respond to your claim?
+User: The insurance company, through a letter dated 29/07/2019, repudiated our claim, stating that the vehicle mentioned in the FIR was not insured with them.
+Chatbot: I see. Did you attempt to rectify this misunderstanding with the insurance company?
+User: Yes, we explained to them that there was a mistake in the FIR, and the vehicle involved in the accident was indeed insured with them. We provided evidence from the charge sheet to support our claim, but the insurance company still refused to honor it.
+Chatbot: Understood. Based on the information you've provided, you have the following options, namely: You can contact the respective Consumer Helpline Number where you can talk to an agent and address your grievance or you can send a notice to the insurance company or you can file a complaint before the jurisdictional District Consumer Disputes Redressal Commission.
+User: Could you provide me the helpline number
+Chatbot: To be specific, there is a National and State Consumer Helpline Number. Which number do you want me to provide you with.
+User:  Provide me with the National Consumer Helpline Number.
+Chatbot: Please find the National Consumer Helpline number- 1800-11-4000.
+User: Thank You. Can you draft a notice for me?
+Chatbot: Sure. I need to gather some additional details to draft the complaint. However I need further details to draft the complaint. Could you please confirm if you want to send notice in your name alone or you want to add others as parties. If so, please mention their name, their father’s name or husband’s name, age and address.
+User: Yes. I want to send notice in my name and on behalf of my children. They are Obireddy Leelavathi w/o Venkata Rao, aged 38 years, Karri Venkata Lakshmi w/o Srinivasa Rao, aged 40 years,  Balireddy Ganga Bhavani w/o Late Ramu, Ariga Nooka Suri Appa Rao s/o Late Surya Rao, aged 37 years, aged 40 years, Ariga Kanna Rao s/o Late Surya Rao, aged 36 years, all of us residing at D. No. 2-2-14, K.N.R. Peta, Anakapalli Mandalam, Visakhapatnam- 531019. 
+Chatbot: Can you provide me with the address of the insurance company and any other relevant information?
+User: Of course. The address of United India Insurance Company Ltd. is D. No. 3-7-9, 2nd floor, Opposite to SBI Main Branch, Nehru Chowk, Anakapalli, Visakhapatnam District- 531001.
+Chatbot: Could you please mention what is the remedy that you are seeking for.
+User: I would like to seek the total insurance claim amount of Rs.15,00,000 with an interest @12% p.a. from the date of death of i.e, 01/07/2019 to till date, Rs.3,00,000 towards compensation, Rs.10,000/- towards costs. 
+Chatbot: Please find the notice here.
+User: I would like to file a complaint. Can you assist me.
+Chatbot: Certainly. Here is a detailed guideline to file a complaint online in the E-Dakhil Portal.
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter Rs.1810000 in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of the service center in the Opposite party name section. Select the state and district of the registered address.
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+The complainants, family of late Ariga Surya Rao, owner of MotorCycle No. AP31CB5987, holds a policy (No. 1503043119P102961984) with the opposite party covering 3rd party liability and personal accident (Rs.15,00,000) until 03/06/2020. On 26/06/2019, the DLA was fatally injured in an accident, succumbing on 01/07/2019 despite medical efforts. The claim lodged on 03/07/2019 was rejected on 29/07/2019 by the opposite party, citing an erroneous vehicle number in the FIR. Despite clarification, the opposite party declined the claim. The complainants seek redress for the unjust repudiation of the claim by the opposite party.
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+Chatbot: Would you like me to generate the complaint for you ? 
+User:  Yes, please.
+
+Chatbot: Sure you can download the complaint here. Once downloaded, review and sign the complaint. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+User:  Yes, Please. It would be really helpful 
+
+Chatbot:  Sure. Here is a draft Affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+User: No, that's all for now. Thanks.
+
+Chatbot: You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.

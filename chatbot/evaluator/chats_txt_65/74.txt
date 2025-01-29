@@ -1,0 +1,196 @@
+Human: I was delivered a defective power tilling machine which was full of scrap.
+
+Bot: Thank you for sharing your concern. I'm here to help you with your consumer grievance.
+
+To better understand the issue, can you please tell me what led to this problem with the defective power tilling machine? Was it purchased from a physical store, an online platform, or directly from the manufacturer?
+
+Human: In 2018, I visited a workshop in Kolhapur to purchase a power tilling machine (PTM) for my farm. After seeing a demo, I confirmed I wanted to buy it but could not complete the purchase then due to the COVID lockdown.
+
+Bot: It seems like the incident occurred in 2018, which is more than 2 years ago. As per the Consumer Protection Act, you have a time limit of 2 years to file a complaint. I would advise you to check if the statute of limitations has expired. If not, we can proceed with the complaint. Can you please confirm if you have tried to contact the workshop or the manufacturer about this issue before?
+
+Human: In May 2021, I contacted the proprietor Mr. Inderjeet again to confirm I wanted to purchase the PTM urgently. I paid the full amount of Rs. 1,13,500 via RTGS on 12/05/2021. This included transportation charges.
+
+Bot: It's been over 3 years since the incident. Please note that under the Consumer Protection Act, 1986, the time limit for filing a consumer complaint is 2 years from the date of the incident or from the date when the cause of action arose. Since your incident occurred in 2021, you might have a limited time frame to file a complaint. I would advise you to act quickly.
+
+Can you please tell me what happened when you received the PTM? Did you inspect it before accepting it, and did you notice any defects or issues at that time?
+
+Human: Yes, I have all the documents ready. Inderjeet promised to send a brand new PTM after the payment.
+
+Bot: It's been over 3 years since the purchase. I would like to remind you that under the Consumer Protection Act, you have a time limit of 2 years to file a complaint. Since your incident occurred in 2021, you are still within the time limit. However, I would advise you to proceed with caution and consider filing a complaint as soon as possible.
+
+Can you please tell me what happened when you received the PTM? Was it the same condition as you had expected, or was it the defective one you mentioned earlier?
+
+Human: The PTM was delivered on 10/08/2021. But the transporter Avinash Cargo charged me an additional Rs. 4,280 as transportation fee. Also, the invoice from Venkatesh Engineering showed the amount as only Rs. 35,000!
+
+Bot: It seems like there's a discrepancy in the invoice amount and the transportation charge. When you received the PTM, did you inspect it and notice that it was damaged or defective, or was it only when you started using it that you found it to be defective?
+
+Human: Yes! When I called Inderjeet, he said it was a mistake but I should not worry. But the biggest shock was when I opened the package - the PTM was completely defective and scrap! It was not in a condition to be used at all.
+
+Bot: That's unacceptable. The product was not only defective but also not as promised. Did you contact Inderjeet again after discovering the issue?
+
+Human: I approached them multiple times asking for a refund or replacement with a new PTM but they ignored my requests.
+
+Bot: It seems like they're not willing to resolve the issue amicably. Have you considered taking legal action against them? If so, would you like me to guide you on the process of drafting a legal notice to them?
+
+Human: Yes I have saved all the call and email records.
+
+Bot: I think we have enough information to proceed. You have a clear case of deficiency in service and misrepresentation by the seller. Since it's been more than 2 years since the incident (2021), we need to act quickly to file a complaint before the statute of limitations expires. Would you like to file a complaint with the District Consumer Dispute Redressal Forum or State Consumer Dispute Redressal Commission?
+
+Human: I would like to send a legal notice. Can you help me draft it?
+
+Bot: I can guide you through the process. To draft a legal notice, we'll need some more information. Can you please provide me with the following details:
+
+1. Your full name and address
+2. The full name and address of Venkatesh Engineering Works
+3. The date of the incident (when you received the defective PTM)
+4. A clear description of the defect and the amount you paid
+5. The relief you are seeking (refund or replacement)
+
+With this information, I can help you draft a legal notice.
+
+Human: Sure. Mr. Sarvesh Kashinath Madgaonkar, S/o Late Kashinath Madgaonakar, Agriculturist by Occupation, 28 years old, resident of H no. 17/B, Ucassaim, Bardez, Goa- 403507.
+
+Bot: Next, I need to know the full name and address of the opposite party, Venkatesh Engineering Works. Also, I need the exact details of the defective product, including the model number, serial number, and a brief description of the defects.
+
+Human: The proprietor is Inderjeet. The address is Venkateshwara Engineering Works, Vishwatara Apartments, Near Hockey Stadium, Kolhapur, Maharashtra- 416012.
+
+Bot: Also, please confirm the date of the incident, which you mentioned earlier as 10/08/2021, and the amount of Rs. 1,13,500 paid to Venkatesh Engineering Works. 
+
+Once I have this information, I can help you draft a legal notice.
+
+Human: Thank you. I want to file a consumer complaint; can you guide me?
+
+Bot: To file a consumer complaint, you can approach the District Consumer Disputes Redressal Forum (DCDRF) having jurisdiction over Kolhapur, Maharashtra. You can also contact the Maharashtra State Consumer Disputes Redressal Commission (MSCDRC) or the National Consumer Disputes Redressal Commission (NCDRC) depending on the value of the dispute. 
+
+You can also file a complaint online at the e-daakhil portal: http://edaakhil.nic.in/. Please note that you will need to attach the draft notice, payment receipt, invoice, and other relevant documents as evidence.
+
+Additionally, you can contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App for assistance with filing the complaint.
+
+Human: I want a replacement of the power tilling machine, a refund of the entire amount of Rs. 1,13,500/- and compensation of Rs. 1,00,000/- for mental harassment.
+
+Bot: You can file a complaint through the e-daakhil portal: http://edaakhil.nic.in/. This is an online platform provided by the Ministry of Consumer Affairs, Government of India, to file complaints. You can also contact the National Consumer Helpline at 1800-11-4000 for assistance in filing the complaint. Alternatively, you can approach the District Consumer Disputes Redressal Forum, as the value of the goods is less than one crore rupees. Would you like me to guide you through the process of filing the complaint online?
+
+Human: Yes, I want Litigation charges of Rs. 50,000/-.
+
+Bot: You can claim the litigation charges as well. Now, I will help you draft the complaint. However, please note that the complaint should be filed in the district consumer forum having jurisdiction to hear the case. The jurisdiction is usually determined by the value of the goods or services and the place of residence or business of the parties. In your case, since the value of the goods is Rs. 1,13,500/-, the district consumer forum in Kolhapur will have jurisdiction. 
+
+To draft the complaint, I need to know a few more details. Please provide me with the following information:
+
+1. The date on which you received the defective power tilling machine.
+2. The name and address of the witness who can testify on your behalf.
+3. Any other relevant documents or evidence you have in support of your complaint.
+
+Please provide me with this information, and I will help you draft the complaint.
+
+Human: Porvorim is more convenient for me.
+
+Bot: I will provide you with a draft complaint. However, please note that you need to sign it and submit it to the District Consumer Disputes Redressal Commission, Porvorim, Goa. The complaint should be submitted in the prescribed format as per the Consumer Protection Act, 2019. Please find the draft below. To, The President, District Consumer Disputes Redressal Commission, Porvorim, Goa. Complaint under the Consumer Protection Act, 2019. Name of the Complainant: Mr. Sarvesh Kashinath Madgaonkar S/o Late Kashinath Madgaonkar, Agriculturist by occupation, residing at H no. 17/B, Ucassaim, Bardez, Goa- 403507. Name of the Opposite Party: Mr. Inderjeet, Proprietor, Venkateshwara Engineering Works, Vishwatara Apartments, Near the Hockey Stadium, Kolhapur, Maharashtra- 416012. Address for service: As above. Facts of the Case: I, Mr. Sarvesh Kashinath Madgaonkar, (hereinafter referred to as the Complainant) state that I entered into a transaction with the Opposite Party, Mr. Inderjeet, Proprietor, Venkateshwara Engineering Works, for the purchase of a Power Tilling Machine (PTM) for a consideration amount of Rs. 1,13,500/- on 12/05/2021. The Opposite Party assured me that the PTM was in good working condition and was suitable for my agricultural needs. However, upon receiving the PTM on 10/08/2021, I found that it was a heap of scrap metal, utterly unusable for its intended purpose. The Opposite Party failed to respond to my repeated requests for either replacement or refund. Reliefs: I, therefore, pray that the Hon'ble Commission may be pleased to pass an order: a) Directing the Opposite Party to replace the defective PTM with a brand-new machine of the same specifications, free of any defects or discrepancies. b) Alternatively, directing the Opposite Party to refund the consideration amount of Rs. 1,13,500/-, along with reimbursement for any additional expenses incurred, including transportation charges. c) Awarding compensation in the amount of Rs. 1,00,000/- for the mental harassment, anguish, and distress caused due to the Opposite Party's negligent actions. d) Awarding litigation expenses of Rs. 50,000/-. e) Any other relief that the Hon'ble Commission may deem fit and proper in the circumstances of the case. Verification: I, Mr. Sarvesh Kashinath Madgaonkar, hereby verify that the contents of this complaint are true and correct to the best of my knowledge and belief. Place: Porvorim, Goa Date: 26/09/2024 Signature of the Complainant: Signature of the Advocate: (If the complaint is to be filed through an advocate) Please note that you need to sign the complaint in the presence of a Notary Public or a Gazetted Officer. Also, you need to attach the required documents, such as the purchase invoice, payment receipts, and any other relevant evidence. Please ensure that you submit the complaint to the District Consumer Disputes Redressal Commission, Porvorim, Goa, within the time limit of two years from the date of the cause of action.
+
+Human: Yes, that would be really helpful.
+
+Bot: Here's a draft complaint letter for your reference: 
+
+IN THE CONSUMER DISPUTES REDRESSAL FORUM, PORVORIM DISTRICT, GOA 
+
+Case No. [Insert Case No.] 
+
+Sarvesh Kashinath Madgaonkar, 
+
+Residing at H no. 17/B, Ucassaim, Bardez, Goa- 403507 
+
+Plaintiff 
+
+Vs. 
+
+Inderjeet, Proprietor, Venkateshwara Engineering Works, 
+
+Vishwatara Apartments, Near Hockey Stadium, Kolhapur, Maharashtra- 416012. 
+
+Defendant 
+
+COMPLAINT FOR REPLACEMENT, REFUND, AND COMPENSATION 
+
+To, The Hon'ble President, Consumer Disputes Redressal Forum, Porvorim District, Goa 
+
+Respectfully, 
+
+The plaintiff, Sarvesh Kashinath Madgaonkar, submits this complaint against the defendant, Inderjeet, Proprietor of Venkateshwara Engineering Works, as follows: 
+
+FACTS OF THE CASE: 
+
+1. The plaintiff, on 12/05/2021, entered into an agreement with the defendant for the purchase of a Power Tilling Machine (PTM) for a consideration of Rs. 1,13,500/-.
+
+2. The plaintiff paid the entire amount through RTGS on 12/05/2021, which included transportation charges.
+
+3. The defendant delivered the PTM on 10/08/2021.
+
+4. Upon opening the package, the plaintiff discovered that the PTM was completely defective and scrap, rendering it unusable.
+
+5. Despite repeated requests, the defendant failed to provide a replacement or refund.
+
+RELIEF SOUGHT: 
+
+The plaintiff seeks the following relief:
+
+1. Replacement of the defective PTM with a brand-new machine of the same specifications.
+
+2. A refund of the entire amount of Rs. 1,13,500/-, including transportation charges.
+
+3. Compensation of Rs. 1,00,000/- for mental harassment, anguish, and distress caused by the defendant's actions.
+
+4. Litigation charges of Rs. 50,000/-.
+
+PRAYER: 
+
+The plaintiff prays that this Hon'ble Forum may be pleased to pass an order in favour of the plaintiff and against the defendant, directing the defendant to replace the defective PTM, refund the amount paid, and award compensation as prayed for.
+
+Verification: 
+
+I, Sarvesh Kashinath Madgaonkar, the plaintiff, hereby verify that the contents of this complaint are true to the best of my knowledge and belief, and nothing material has been concealed therefrom. 
+
+Signature of the Plaintiff: _______________________________ 
+
+Date: _______________________________ 
+
+Please note that you will have to fill in the case number, your signature, and date.
+
+Human: Yes, Please.
+
+Bot: Here is the affidavit for you to sign: 
+
+AFFIDAVIT
+
+I, Mr. Sarvesh Kashinath Madgaonkar, son of Late Kashinath Madgaonkar, residing at H no. 17/B, Ucassaim, Bardez, Goa- 403507, being the Complainant in the above-mentioned case, do hereby solemnly affirm and state as follows:
+
+1. That I am the Complainant in the above-mentioned case.
+2. That I have read the contents of the foregoing complaint and the same are true and correct to my knowledge and belief.
+3. That no part of it is false and nothing material has been concealed therein.
+4. That I am the owner of the Power Tilling Machine (PTM) that was purchased from the Opposite Party, Venkateshwara Engineering Works, and the same was delivered to me on 10/08/2021.
+5. That the PTM delivered to me was in a defective and non-functional condition, and the Opposite Party has failed to take remedial action despite repeated requests.
+6. That I have not made any false or misleading statements in the complaint or this affidavit.
+7. That I have not received any gratification or consideration from the Opposite Party or any other person for filing this complaint.
+
+Verified at Bardez, Goa, on this 26th day of September, 2024.
+
+Signature of the Complainant
+
+Memorandum of Parties
+
+PARTIES TO THE CASE
+
+1. The Complainant: Mr. Sarvesh Kashinath Madgaonkar, son of Late Kashinath Madgaonkar, residing at H no. 17/B, Ucassaim, Bardez, Goa- 403507.
+
+2. The Opposite Party: Mr. Inderjeet, Proprietor, Venkateshwara Engineering Works, Vishwatara Apartments, Near Hockey Stadium, Kolhapur, Maharashtra- 416012.
+
+ADDRESS FOR SERVICE OF PROCESS
+
+1. The Complainant: H no. 17/B, Ucassaim, Bardez, Goa- 403507.
+
+2. The Opposite Party: Venkateshwara Engineering Works, Vishwatara Apartments, Near Hockey Stadium, Kolhapur, Maharashtra- 416012.
+
+I hope this helps. Please review and sign the documents.
+
+Human: No, that's all for now. Thanks.
+
+Bot: You're welcome. If you need any further assistance, don't hesitate to reach out. For immediate assistance with your consumer grievances, you can also contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App. Is there anything else I can help you with?
+

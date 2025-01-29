@@ -1,0 +1,146 @@
+Human: I purchased a software from a reputed SAAS company, but there were issues with it that were not rectified even after intimation. What do I do now?
+
+Bot: Thank you for sharing your concern with me. To better understand the issue, can you please tell me what led to the problem with the software? Was it a functionality issue, a bug, or something else?
+
+Human: On 04/02/2022 (4th February, 2022), I purchased a software for my school Rs 4,50,000/- All the terms and conditions were accepted. The software was installed on 24/02/2022, but from day 1, we have not been able to use the product. We realized that there were some technical issues involved, so brought it to the notice of the company immediately, and even paid Rs 3500 for fixing it. But the company did not provide any kind of technical support. Instead, it terminated the service agreement on 05/05/2022.
+
+Bot: Thank you for sharing the details. The incident occurred on 04/02/2022, which is within the 2-year time frame. You've also mentioned that you've already paid for a fix and still didn't receive the required support.
+
+Can you please provide more information about the software company? What is its name, and do you have any contact details or a registered address for them?
+
+Human: Training sessions on the use of the software were conducted between 20/02/2022 and 23/02/2022.
+
+Bot: That's helpful information. It seems that the issues with the software started soon after it was installed. Did you try to contact the company again after they terminated the service agreement on 05/05/2022 to resolve the matter or get a refund?
+
+Human: Yes, we sent multiple emails, but received no response.
+
+Bot: It seems like you've made efforts to resolve the issue amicably. Since the incident occurred on 4th February 2022, it's within the 2-year time frame. What kind of relief are you seeking in this matter?
+
+Human: Yes, sent a legal notice on 10/05/2022 (10th May, 2022 was asked to rectify the issue, or refund the purchase cost within 15 days from the date of receipt of the notice, and also pay Rs 50,000/- as compensation, but received no response
+
+Bot: Since it's been more than 2 years since the incident occurred on 04/02/2022, you may not be able to file a new case. However, you can still consider filing a complaint with the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance. They can guide you on the next steps.
+
+Additionally, you can also consider approaching the National Commission as the value of the goods or services paid as consideration (Rs 4,50,000) exceeds one crore rupees.
+
+Human: Yes, I would like to.
+
+Bot: Since the incident occurred on 04/02/2022, it has been over 2 years. I would like to inform you that the Consumer Protection Act, 2019 has a time limit of 2 years to file a complaint. However, I can still guide you on the process, but please note that the chances of success might be limited due to the delay.
+
+Considering the value of the software is over 4 lakhs, you can approach the State Commission. I can help you draft a complaint. Would you like me to provide the draft of the complaint and the notice you sent to the company?
+
+Human: It is in the city of Cosmos
+
+Bot: I'm not aware of the specific location of the city of Cosmos. Could you please provide me with the name of the state or district where your school is located? This will help me assist you better.
+
+Also, you mentioned that the incident occurred on 04/02/2022. Since the statue of limitation for filing a consumer complaint in India is 2 years, you still have time to file a complaint.
+
+Human: Yes, it would be really helpful if you share a template that I could use for reference
+
+Bot: Here's a template for a consumer complaint that you can use as a reference:
+
+**IN THE COSMOS DISTRICT CONSUMER DISPUTES REDRESSAL FORUM**
+
+**COMPLAINT PETITION**
+
+**IN THE MATTER OF:**
+
+**[Your Name]**  
+**Your Address:**  
+**Complainant**
+
+**VERSUS**
+
+**[Software Company Name]**  
+**Their Address:**  
+**Opposite Party**
+
+**COMPLAINT:**
+
+That the opposite party, [Software Company Name], through its authorized representative, did on 04/02/2022, at Cosmos, supply and install a software for the complainant's school at a total consideration of Rs. 4,50,000/-.
+
+That despite repeated requests, the opposite party failed to provide technical support, and instead, terminated the service agreement on 05/05/2022.
+
+That the complainant has sent multiple emails to the opposite party, but no response was received.
+
+That the complainant has also sent a legal notice to the opposite party on 10/05/2022, demanding rectification of the issue or refund of the purchase cost within 15 days from the date of receipt of the notice, and also payment of Rs. 50,000/- as compensation, but no response was received.
+
+**RELIEF SOUGHT:**
+
+The complainant seeks the following reliefs:
+
+1.  Direction to the opposite party to refund the entire purchase cost of Rs. 4,50,000/-.
+2.  Compensation of Rs. 50,000/- for the mental agony and harassment caused.
+3.  Any further relief that this Hon'ble Forum may deem fit and proper in the circumstances of the case.
+
+**VERIFICATION:**
+
+I, [Your Name], do hereby verify that the contents of this complaint are true to the best of my knowledge and belief, and nothing material has been concealed therefrom.
+
+**PLACE:** Cosmos  
+**DATE:** [Current Date]
+
+**SIGNATURE:** [Your Signature]
+
+Please note that this is just a template, and you should modify it according to your specific situation and needs. Also, ensure that you attach all relevant documents, such as the bill/invoice, emails, legal notice, and any other evidence, to support your complaint.
+
+Also, please note that you should file this complaint within the time limit of 2 years from the date of cause of action, i.e., 08/02/2022. 
+
+You can also use the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance.
+
+Human: Rectify the issue, or refund the purchase cost and pay Rs 50,000/- as compensation
+
+Bot: Here's a template you can use as a reference for drafting your complaint:
+
+**IN THE COSMOS DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION**
+
+**Case No.:** [Insert case number]
+
+**In the matter of:**
+
+**ABC Educational Services** (hereinafter referred to as the "Complainant")
+**30/597, 4th street, Sunset Avenue, Cosmos- 32**
+
+**Vs.**
+
+**Aesthetics Private Limited** (hereinafter referred to as the "Opposite Party")
+**2nd Cross Street, Jeevan Nagar, Cosmos-60**
+
+**Complaint:**
+
+1.  The Complainant is a consumer and the Opposite Party is a service provider who had provided the Complainant with a software for Rs. 4,50,000/- on 24/02/2022.
+2.  Despite the Complainant bringing to the notice of the Opposite Party the technical issues with the software, the Opposite Party failed to rectify the issue despite being paid Rs. 3500/- for the same.
+3.  The Opposite Party terminated the service agreement on 05/05/2022, thereby rendering the software unusable.
+4.  The Complainant sent multiple emails to the Opposite Party, but received no response.
+5.  The Complainant then sent a legal notice to the Opposite Party on 10/05/2022, demanding rectification of the issue or refund of the purchase cost along with compensation of Rs. 50,000/-, but the Opposite Party has not responded.
+
+**Relief:**
+
+The Complainant seeks the following relief:
+
+1.  The Opposite Party be directed to rectify the issue with the software or refund the purchase cost of Rs. 4,50,000/-.
+2.  The Opposite Party be directed to pay compensation of Rs. 50,000/- to the Complainant for the harassment and inconvenience caused.
+
+**Verification:**
+
+I, [Your Name], hereby verify that the contents of the above complaint are true to the best of my knowledge and belief.
+
+**Affidavit:**
+
+I, [Your Name], do hereby solemnly affirm and declare that the contents of the above complaint are true and correct to the best of my knowledge and belief.
+
+**Signature of Complainant:**
+
+Please note that this is just a template and you should modify it according to your specific case. Also, please ensure that you have attached all the necessary documents and evidence to support your complaint.
+
+Also, please note that you can use the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance.
+
+Is there anything else you need help with?
+
+Human: Thanks
+
+Bot: You're welcome. If you need any further assistance, feel free to ask. Also, please note that you can contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance. If you need a location-based helpline number, please let me know and I can provide that as well. Is there anything else I can help you with?
+
+Human: No, thanks
+
+Bot: You can reach out to the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance. If you need help in your city, you can also find the location-based consumer helpline number on the Consumer Protection website.
+

@@ -1,0 +1,62 @@
+(This hypothetical chatbot Q&A is based on CC/63/2022 from Before the District Consumer Disputes Redressal Commission, North Goa at Porvorim)
+
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you?
+User: Service centre of the TV showroom from where I purchased my TV is refusing to repair it now. 
+Chatbot: That should not be the case. I would try to be of as much help as possible. Can you please tell me more about the issues that you are facing with your landline phone?
+User: Yes, thank you. I purchased a Haier 32-inch LED TV, model number LE32K6600GAw, on 20/10/2021 vide bill number 106. I paid Rs. 20,000 for it after exchanging my old TV for Rs. 2,000.
+Chatbot: Do you have the purchase invoice?
+User: Yes I have the original invoice along with me. The TV was working fine at the time of purchase.
+Chatbot: Okay. When did the issue arise?
+User: The problem started on 29/03/2022. Within the warranty period, the TV display started giving problems.
+Chatbot: What exact problems did you notice with the TV display?
+User: The display started showing vertical and horizontal flickering lines. The picture became distorted.
+Chatbot: Alright. What steps did you take to get this resolved?
+User: I immediately informed the Pereira Electronics showroom about the issue on 30/03/2022. As advised, I also sent them photographs of the faulty display.
+Chatbot: And what was their response?
+User: Shockingly, their technician dismissed it as physical damage without even looking at the TV. He refused service claiming I had damaged it externally.
+Chatbot: Did you get any report or proof from them about external damage?
+User: No, there was no physical damage at all! The TV was under normal use. Still they refused service citing physical damage.
+Chatbot: Okay, thank you for the information. You can file a complaint before the consumer court having jurisdiction to hear the case. For that, you must first send a fifteen-day notice to  Pereira Electronics and Electricals. The same can be sent electronically or by post. Or else, you can also contact the  National  Consumer Helpline using the helpline number 1800-11-4000. The Consumer Helpline will give assistance regarding how you can approach the present dispute. What would you prefer?
+User: I prefer sending legal notice. 
+Chatbot: Certainly. I will need some more information from you related to the matter. Can you please tell me the following: your full name with address, age, and occupation, and the registered office address of the TV showroom?
+User: Sure. 1. Mrs. Mary J.F Victoria Gomes residing at H. No. 90, Near St Braz Church, Gandaulim Cumbarjua, North Goa and I by profession I am a Teacher in school 2. M/s Pereira Electronics and Electricals,  Trinity Apartment Opp Malik Petrol Pump,  Molar Corlim Goa - 403110
+Chatbot: Thank you! I would need some more information from you related to the matter to assist you better. What is the relief that you would wish to pursue through the complaint?
+User: I want them to repair the damaged TV screen, if not repay Rs. 22,000/- towards refund of equipment with interest and pay compensation towards harassment, as well as litigation cost. 
+Chatbot: Thank you for supplying the information! Please find the notice for filing of consumer complaint here. Please note that these are templates that may require certain corrections or modifications and certain details (particularly the date and signature) will need to be filled at your end. 
+User: Thank you. I want to file a consumer complaint; can you guide me?
+Chatbot: Sure! Since the total value of your TV you would claim would be Rs. 22,000/- which is less than 50 Lakh rupees, the complaint will have to be filed in a District Commission. You, as a complainant, reside in Cumbarjua and the cause of action arises in Cumbarjua. The opposite party carries on business in Corlim. You have the option to file the complaint to the North Goa District Consumer Disputes Redressal Commission.
+User: Okay, please share the complaint draft
+Chatbot: Sure. Below is the process for filing a consumer complaint at the North Goa District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create an Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to login to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you are seeking as compensation in the claim amount. 
+9.	Select Goa as the state and North Goa as the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter M/s Pereira Electronics and Electricals, in the Opposite party name section. Trinity Apartment Opp Malik Petrol Pump, Molar Corlim Goa - 403110 in the opposite party address section. Select the state and district of the registered address. 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.	In the Complaint section, write the following: 
+“I purchased an LED LCD TV for a consideration of Rs. 20,000/- from M/s Pereira Electronics and Electricals after exchanging her old television set for Rs. 2,000/-. The television was working properly at the time of purchase. However, on 29/03/2022 within the warranty period, the television developed issues with its display. So I complained to the showroom on 30/03/2022 and sent photographs as requested. However, the technician dismissed the issue claiming physical damage, and refused service, without any proof of external damage.”
+14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name, and the opposite party, click save and continue. 
+15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+Do you also want me to draft a complaint letter for you?
+
+User: Yes, that would be really helpful.
+
+Chatbot: Excellent, I've generated a pre-filled complaint for you with all the details you've provided. You can find it here. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now?
+ 
+User: Yes, Please. 
+
+Chatbot:  Sure. Here is a draft affidavit and Memorandum of Parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+
+User: No, that's all for now. Thanks.
+
+Chatbot: You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+

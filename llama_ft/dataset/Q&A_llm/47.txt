@@ -1,0 +1,56 @@
+<s><INST> I insurance claim was repudiated without valid reasons. 
+</INST> Give me more details, I will try to be of as much help as possible. 
+</s> <s><INST> Thank you. I had taken Care Health Insurance Limited policy no. 11561922 valid from 29/09/2020 to 28/09/2021. I was diagnosed with COVID in April 2021 and hospitalized at Amar Hospital, Patiala from 13/04/2021 to 18/04/2021.
+</INST> Do you have the hospitalization records and bills?
+</s> <s><INST> Yes, I have all the documents. The total bill was Rs. 89,124. I had intimated the insurance company and requested cashless facility but they denied it without any reason.
+</INST> Okay. What next steps did you take?
+</s> <s><INST> After getting discharged, I submitted the claim in Claim No. 91676498 along with all bills and documents. But the company rejected it saying I did not disclose a pre-existing heart condition.
+</INST> Did you have any heart condition? What does the discharge summary state?
+</s> <s><INST> No, I never had any heart disease or surgery! The summary clearly states diagnosis as COVID-19 positive. There is no evidence of any heart condition.
+</INST> This is a fraudulent repudiation of claim. Do you have any communication records with the company?
+</s> <s><INST> Yes, I have their rejection letter dated 10/05/2021 where they have given false grounds.
+</INST> Since its an insurance claim you have the option to approach the insurance ombudsman. However, you can also file a complaint before the consumer court having jurisdiction to hear the case. For that, you must first send a fifteen-day notice to Care Health Insurance Limited. The same can be sent electronically or by post. Or else, you can also contact the  National  Consumer Helpline using the helpline number 1800-11-4000. The Consumer Helpline will give assistance regarding how you can approach the present dispute. What would you prefer?
+</s> <s><INST> I prefer sending legal notice. 
+</INST> Certainly. I will need some more information from you related to the matter. Can you please tell me the following: your full name with address, age, and occupation, and the registered address of the insurance compnay?
+</s> <s><INST> Sure. 1. Mr. Kanwal Nater Nagrath, aged 74 years, residing at Balaji Nursing Home, Ward No. 13, Water Works Road, Mansa 2. The Managing Director,  Care Health Insurance Limited,  5th Floor, 19 Chawla House, Nehru Palace, New Delhi-110019
+</INST> Thank you. I would need some more information from you related to the matter to assist you better. What is the relief that you would wish to pursue?
+</s> <s><INST> I would want my insurance claim of Rs. 89,124/- and compensation for harassment as well as litigation charges. 
+</INST> Thank you for supplying the information! Please find the notice for filing of consumer complaint here. Please note that these are templates that may require certain corrections or modifications and certain details (particularly the date and signature) will need to be filled at your end. 
+</s> <s><INST> Thank you. I want to file a consumer complaint; can you guide me?
+</INST> Sure. Since the value of the amount you transferred is Rs. 89,124/-. which is less than One Lakh rupees, the complaint will have to be filed in a District Commission. You, as a complainant, reside in Mansa district and the cause of action arises in Mansa. The opposite party carries on business in New Delhi. You have the option to file the complaint to the Mansa or New Delhi District Consumer Redressal Commission. 
+</s> <s><INST> Mansa is more convenient from me. Please let me further details regarding the process of filing a complaint. 
+</INST> Sure. Below is the process for filing a consumer complaint at the Mansa District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to login to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you are seeking as compensation in the claim amount. 
+9.	Select Punjab as the state and Mansa as the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter The Managing Director, Care Health Insurance Limited, in the Opposite party name section. 5th Floor, 19 Chawla House, Nehru Palace, New Delhi-110019 in the Opposite Party address. Select the state and district of the registered address. 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.	In the Complaint section, write the following: 
+“I am a holder of a Group Care (PNB) health insurance policy bearing no. 11561922/COI issued by Care health Insurance benefit valid from 29.09.2020 to 28.09.2021. I had paid the premium for the policy. I was as diagnosed with COVID-19 in April 2021 and was hospitalized at Amar Hospital, Patiala from 13.04.2021 to 18.04.2021, incurring medical expenses of Rs. 89,124/-. I intimated the insurance company and requested for cashless facility which was arbitrarily denied. I submitted all documents and bills in Claim No. 91676498 but through a letter dated 10.05.2021, the insurance company repudiated my claim on flimsy grounds of alleged non-disclosure of a pre-existing heart ailment” 
+14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name, and the opposite party, click save and continue. 
+15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+Do you also want me to draft a complaint letter for you?
+
+</s> <s><INST> Yes, that would be really helpful.
+
+</INST> Excellent, I've generated a pre-filled complaint for you with all the details you've provided. You can find it here. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now?
+ 
+</s> <s><INST> Yes, Please. 
+
+</INST>  Sure. Here is a draft affidavit and Memorandum of Parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+
+</s> <s><INST> No, that's all for now. Thanks.
+
+</INST> You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+
+</s>

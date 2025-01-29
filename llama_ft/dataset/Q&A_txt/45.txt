@@ -1,0 +1,65 @@
+Issue No. 15 – Deficiency in service (statement of account) 
+
+User: The bank with which I have a loan account has not provided me with a proper statement of accounts. Do I have a remedy under the Consumer Protection Act? 
+Chatbot: Hi, I’m your consumer grievance assistance tool. How can I help you?
+User: The bank with which I have a loan account has not provided me with a proper statement of accounts. How do I proceed further? 
+Chatbot: Could you please specify the details of your loan account? 
+User: 
+     Bank Name: Cenza Bank Private Limited 
+     Branch: Jeevan Nagar, Cosmos 
+     IFSC Code: xxxx 
+     Loan Account no. – 43256943217
+     Amount borrowed: Rs 10,00,000/- 
+ Chatbot: When was the loan granted? 
+  User: 10/02/2012
+Chatbot: What was the EMI amount that you were required to pay? 
+   User: Rs 15,000/-  
+Chatbot: Duration of EMI payment? 
+   User: 84 months
+Chatbot: Thanks, could you please briefly explain your grievance? 
+User: On 10/06/2012, 10/08/2012 and 10/03/2013, I made lump sum payments of Rs 1,00,000 each towards repayment of my loan. 
+User: Thereafter, on 25/03/2013, I sent an email to the bank stating that I would like to opt for pre-closure of my loan account, and in furtherance of the same, I requested a statement of accounts in respect of my loan account from the bank. However, instead of a loan account statement, I received a letter dated 29/03/2013 stating that I have an outstanding balance in my account of Rs 5,00,000, however, the amount did not give proper credit to the advance payments made and also the interest rebates. 
+Chatbot: What was your response? 
+User: I visited the bank in person on 01/04/2013 to convey my decision regarding pre-closure of my loan account and also for clarification regarding the outstanding balance and also discrepancies in the statement of my loan account. 
+The institution’s reply was evasive. They did not offer any proper explanation for the concerns raised by me. They said they would look into the matter and get back. 
+Chatbot: Have you heard from them after that?
+User: No, I contacted the 24x 7 customer care division of the bank on 05/04/2013 to register my grievances, and sent e-mails to the bank for clarification. 
+User: Finally, on 10/05/2013, I received a statement of my loan account but again the statement did not reflect the advance payments made by me, and also did not adjust for the interest rebates that I was eligible for. 
+Chatbot: I understand. What is the relief that you are looking for right now?
+User: I want the bank to provide me with a proper statement of accounts in respect of my loan account after giving due credit to the payments made by me, and also compensation for the delay in furnishing the statement of accounts, not providing timely assistance with respect to the pre-closure of my loan account. 
+User: I have a doubt. The loan document states that parties should resort to only arbitration in case of any disputes. Will I be able to claim relief under the consumer protection act? 
+Chatbot: Thanks for the question. You can take recourse to consumer protection act as well for compensation in addition to other modes of dispute resolution. Hope that answers your query. 
+User: Thanks
+Chatbot: Have you considered sending them a notice? 
+User: Yes, I sent them a notice dated 15/05/2023, but I have not received any reply from them
+Chatbot: Okay. You can approach the banking ombudsman if you would like to escalate the matter to the next level. For more information on the same, please visit https://rbi.org.in/Scripts/Complaints.aspx 
+Chatbot: Alternatively, you can even approach the consumer protection for relief in respect of the deficiency in service provided to you. If you need further assistance in this regard, please feel free to let me know
+User: Yes, I would like to approach the consumer dispute redressal commission. Could you please let me know the procedure? 
+Chatbot: Sure, could you please tell me where your residence is? 
+User: I live in the city of Cosmos 
+Chatbot: In that case, you can file a complaint before the Cosmos District Consumer Grievance Redressal Forum within a period of two years from the date of cause of action i.e 29/03/2013. You can either use the E-Daakhil portal to file your complaint, or submit a physical copy of the complaint in the commission. 
+Please note that since the value of the loan availed is more than Rs 5 lakhs, you will have to pay  a court fee of Rs 200, also please ensure you have the following documents with you: 
+Sanction letter for your loan
+Receipt of the advance payments made you 
+The statement of account provided by the bank
+The outstanding loan balance letter sent by the bank 
+Copy of the emails sent to the bank seeking clarification
+Legal Notice sent to the opposite party 
+If you wish to register your complaint using the E-Daakhil portal, here’s the link that you can use: https://edaakhil.nic.in/ . The portal has an instruction manual that provides you with step-by-step procedure for registering a complaint
+Chatbot: However, please feel free to let me know if you need any assistance with respect to drafting of a consumer complaint. 
+User: Yes, it would be really helpful if you share a template that I could use for reference 
+Chatbot: Sure, that can be done. Could you please tell me your name, age, occupation and address? 
+User: I am Bruno, and my age is 46. I work as a graphic designer. My residential address is 56/934, 2nd street, Vimala Nagar, Cosmos-45
+Chatbot: Thanks, here’s a draft complaint along with Memorandum of Parties (MoP) and Affidavit based on the information provided by you:
+Complaint 
+Affidavit
+Memorandum of Parties
+User: Thanks
+Chatbot: Is there anything else you want me to assist you with? 
+User: No, thanks 
+Chatbot: Welcome. Happy to help. I hope you found this conversation useful. Please feel free to contact us again in case of any queries in the future. 
+Meanwhile, you can log on to https://consumeraffairs.nic.in/ , or dial 1800-11-4000 (National Consumer Helpline) 
+Stay Alert, Stay Safe 
+Thank you 
+
+ 

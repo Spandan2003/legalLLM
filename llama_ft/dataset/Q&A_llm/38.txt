@@ -1,0 +1,71 @@
+<s><INST> My consignment arrived late, and I was charged an exorbitant price for the delivery. What is my remedy now?  
+</INST> Hi, thanks for reaching out to Consumer Grievance Chatbot, a one-stop destination for legal advice regarding consumer grievances. To help me serve you better, could you please provide me with more details regarding the incident?  
+</s> <s><INST> On 08/02/2022, one Renaissance  Private Limited booked a consignment for delivery to my company. As per the receipt issued, I was supposed to receive the parcel on 10/02/2022, but I received it only on 15/02/2022. Also, I was charged Rs 1000 for it when the usual price quoted for it is less than that (Rs 800). 
+</INST> Did you pay the amount? 
+</s> <s><INST> Yes, I did.
+</INST> Firstly, in order to come under the purview of the Consumer Protection Act of 2019, you will have to show that you have not received this parcel as part of your routine business transactions. Could you please confirm the same? 
+</s> <s><INST> Yes, this was a one-time purchase from the consignor, and was not related to our business. 
+</INST> Okay. Did you check with them about the reason for the delay and also the price charged? 
+</s> <s><INST> Yes, I did not get any satisfactory reply. 
+</INST> The prices charged may vary based on the size, weight and material sought to be delivered, so you may want to make sure you have proof to demonstrate that you were charged an exorbitant price. 
+</s> <s><INST> Okay. Something similar happened to another person, does that count? 
+</INST> It may, but it depends on the product that was in question in that incident. 
+</INST> When did you bring the price issue to the attention of the delivery service company? At the time of booking or receiving the parcel? 
+</s> <s><INST> I could not raise it at the time of booking as the consignor did not inform the price that was charged.
+</INST> Okay. I understand. Did you ask them for a refund of the excess amount charged, and compensation for the delay in delivery?
+</s> <s><INST> Yes, I did. I brought it up on 15/02/2022, but I was told that the delay was due to unforeseen circumstances, and that prices were a matter of discretion. 
+</s> <s><INST> I also approached the customer support team, but didn't get a favorable response. 
+</INST> Okay. Did you consider sending them a legal notice?
+</s> <s><INST> Yes, I sent them a notice dated 20/02/2022, but I have not received any reply from them
+</INST> Then, would you like to file a complaint before the District Consumer Grievance Redressal Forum? 
+</s> <s><INST> Yes, I would like to.  
+</INST> Okay, could you please tell me where your registered office is? 
+</s> <s><INST> It is in the city of Cosmos 
+</INST> In that case, you can file a complaint before the Cosmos District Consumer Grievance Redressal Forum within a period of two years from the date of cause of action i.e 15/03/2022. You can either use the E-Daakhil portal to file your complaint, or submit a physical copy of the complaint in the commission. 
+Please note that since the value of the product purchased is less than Rs 5 lakhs, you do not have to pay any court fees, but ensure you have the following with you: 
+Receipt of the payment made 
+Proof in respect of the delay in delivery, and also for the price charged
+Legal Notice sent to the opposite party 
+If you wish to register your complaint using the E-Daakhil portal, here’s the link that you can use: https://edaakhil.nic.in/ . The portal has an instruction manual that provides you with step-by-step procedure for registering a complaint
+</INST> Below is the process for filing a consumer complaint in the Cosmos District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use  your credentials to login to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you need as compensation in the claim amount. 
+9.	Select the state and the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter the Opposite party’s details 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.       Fill the complaint section by describing your grievance. Please mention the dates, if 
+            applicable.
+14.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+15.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+16.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+</INST> However, please feel free to let me know if you need any assistance with respect to complaint drafting. 
+</s> <s><INST> Yes, it would be really helpful if you could share a template that I could use for reference 
+</INST> Sure, that can be done. Could you please specify the name and address of the delivery service company, and other invoice details? 
+Company name: ABC Parcel Services Private Limited 
+Address: 23/798, 4th street, Simala Nagar, Cosmos-67 
+Invoice No:  xxxxxx 
+Tracking ID: xxxxxxxxx
+</INST> Could you also specify your company’s name and address, and also the consignor’s name and address? 
+</s> <s><INST>  Consignor - Renaissance  Private Limited, No. 47, 8th street, Infinity-89; Consignee - Sunshine Logistics Private Limited, located at 24/308, 3rd street, Rainbow Avenue, Cosmos-25
+</INST> Thanks, here’s a draft complaint along with MoP (Memorandum of Parties) and Affidavit based on the information provided by you 
+Complaint 
+MoP 
+Affidavit
+</s> <s><INST> Thanks
+</INST> Is there anything else you want me to assist you with? 
+</s> <s><INST> No, thanks 
+</INST> Welcome. Happy to help. I hope you found this conversation useful. Please feel free to contact us again in case of any queries in the future. 
+Meanwhile, you can log on to https://consumeraffairs.nic.in/ , or dial 1800-11-4000 (National Consumer Helpline) 
+Stay Alert, Stay Safe 
+Thank you 
+
+ 
+</s>

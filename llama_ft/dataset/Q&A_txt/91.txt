@@ -1,0 +1,108 @@
+Chatbot:Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you. 
+
+User: Hello, I am Vasantha Ruban from Aruppukottai, Virudhunagar District. I purchased an auto rickshaw for my livelihood, but I am facing some issues with the loan I took from a finance company. I need help to file a consumer complaint against them.
+
+Chatbot: I understand sir/ma’am. Let's discuss this step-by-step so I can gather all the necessary details to assist you. Could you please confirm your full name?
+
+User: Yes, my name is Vasantha Ruban. 
+
+Chatbot: What is your father’s name?
+User: Alagukrishnan
+
+Chatbot: What is your occupation?
+ User: Auto driver
+
+Chatbot: What is your address?
+User: I am residing at No.4, 6th Street, Anbu Nagar, Aruppukottai, Virudhunagar District.
+
+Chatbot: Thank you for providing your details. Could you please tell me the name and addresses of the finance company against whom you want to file the complaint?
+
+User: The loan was provided by Fortune Integrated Assets Limited. Their branch office address is:
+The Branch Manager, Fortune Integrated Assets Limited, AR Plaza, 2nd Floor, No.16/17, North Veli Street, Madurai - 625001. 
+
+Chatbot: Noted. What was the purpose of taking this loan and when did you take it?
+
+User: I took out a loan to purchase an auto rickshaw to earn my livelihood. I purchased the vehicle on 20.08.2018 after taking a loan of Rs. 2,35,000 from Fortune Integrated Assets Limited.
+
+Chatbot: Could you please provide the loan account number and the vehicle registration details?
+
+User: The loan account number is XXXXXXX. The auto rickshaw registration number is TN 67 BW 0603. 
+
+Chatbot: Thank you for the details. What were the terms of repayment agreed as per the loan agreement? 
+
+User: As per the loan agreement, I had to repay the loan in 47 monthly instalments of Rs. 7,600 each, starting from 21.08.2018.
+
+Chatbot: Did you repay as per the terms of the agreement initially?
+
+User: Yes, I paid 19 instalments regularly from August 2018 to March 2020 without any default. 
+
+Chatbot: You mentioned you are now facing some issues. Could you please elaborate what is the problem you are facing?
+
+User: Due to the COVID-19 lockdown I was unable to operate my auto and earn anything from April 2020 to September 2020. Hence, I could not pay the EMIs for those 6 months. 
+
+The company charged me Rs. 16,293 as interest for the lockdown period. On 24.09.2020 I paid Rs. 49,300 which included the 6 pending EMIs of Rs.7,600 each, lockdown interest of Rs. 16,293 and penal interest of Rs. 3,700. 
+
+But they did not give proper credit for this payment. They just credited one EMI of Rs. 7,600 and the lockdown interest amount. The remaining amount they retained without any explanation.
+
+Chatbot: Okay, so the issue is regarding incorrect credit and retention of your payment made on 24.09.2020. Did you follow up with them on this?
+
+User: Yes, when I got the statement of account in March 2022, I noticed they had arbitrarily increased the loan amount from Rs. 2,35,000 to Rs. 2,51,293 and also increased the number of EMIs from 47 to 51. When I asked them for an explanation, they did not give a proper response. They also refused to accept any further payment from me towards loan closure.
+
+Chatbot: When exactly did you receive this statement of account showing the increased loan amount and EMIs - could you please confirm the date?
+
+User: I received the statement of account on 17.03.2022 from the finance company showing these unauthorised changes in my loan account.
+
+Chatbot: Thank you for providing these details. Just to summarise - you purchased the auto in August 2018, repaid regularly till March 2020, could not repay for 6 months during COVID lockdown, paid Rs. 49,300 on 24.09.2020 out of which full credit was not given, and on 17.03.2022 your statement reflected increased loan amount and number of EMIs. Please confirm if my understanding is correct. 
+
+User: Yes, your understanding about the case is absolutely right. I paid my instalments on time initially but due to the lockdown I missed some payments. Even after I repaid the pending amount, they did not properly credit my account and later arbitrarily changed the loan details without any explanation.
+
+Chatbot: I understand sir. This summarises the key details of your grievance. Now I would like to know - did you send any formal legal notice to the finance company before planning to file a consumer complaint against them?
+
+User: No, I have not sent the legal notice. 
+
+Chatbot: It is advised to send the legal notice to the opposite party before proceeding to file the complaint as sometimes you might be able to resolve the dispute without going to the consumer commission. 
+
+User: Thanks for suggesting. Kindly draft a legal notice.
+
+Chatbot: I would request you to send the legal notice to the zonal office of the opposite party. Could you please provide the address for the same. 
+
+User: The zonal office address is: 
+The Manager, Zonal Office, Fortune Integrated Assets Limited, No.23, Sivaganga Road, Nungambakkam, Chennai - 600034.
+
+Chatbot: What relief would you like to seek from the opposite party? I would like to know briefly. 
+
+User: I would like to seek a total of Rs. 2,10,000 - comprising Rs. 2 lakhs as compensation for mental agony and Rs. 10,000 as cost of the complaint proceedings. Apart from this I would like them to accept final settlement of the loan account on paying balance principal outstanding as per original terms of sanction.
+
+Chatbot: Here is the legal notice that you can send to both the opposite parties. Remember to put your signature before you send it in hard copy and put e-signature in case you are sending the soft copy. In case you get any problem in the above process or have any doubt, I would suggest you contact the state consumer helpline at 044-28592828 Call centre Assistants are available between 9-30 AM to 6-00 PM on all working days of Government of Tamil Nadu or you can call the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+
+User: What if I don’t get any reply for this notice? What remedy do I have? 
+
+Chatbot: You can file a consumer complaint if your problem is not redressed. Do you want me to draft a complaint? 
+
+User: Yes, draft a complaint for me. 
+
+Chatbot: According to the address that you have provided we can file the complaint at Virudhunagar , Madurai , Chennai. Which place do you prefer to file the complaint?
+
+User: I would like to file the complaint at Madurai.
+
+Chatbot: Thank you. I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+Aggrieved Consumer- Yes, it will be great if you can do that as well.
+Chatbot: You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+User: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+Chatbot: You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Tamil Nadu as the State and Madurai as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+“The complainant, an auto driver, has filed a complaint against Fortune Integrated Assets Limited, alleging unilaterally and arbitrary increase in the loan amount and instalment count. He faced financial strain during the COVID-19 lockdown, and despite settling dues, the company credited only part of the payment. The complainant claims the actions of the company constitute gross deficiency in service, causing mental agony and financial loss. In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+User: Got it. I will not agree for mediation.
+Chatbot: In that case, the consumer court in Madurai has to proceed with the case.
+User: Got it. Thank you very much!
+Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.

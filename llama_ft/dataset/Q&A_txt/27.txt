@@ -1,0 +1,90 @@
+Chatbot:Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you. 
+User: I was served unhygienic food at the restaurant.
+Chatbot: Can you please explain in detail as to when you went to the restaurant and how the food is unhygienic.
+User.  During COVID 19 I along with my friends went to Tirupati on 06.09.2020, On 7.09.2020 we went to The Perambur Sri Srinivasa Sweets & Snacks, for lunch. There we ordered 5 meals in total and the order number was 22942. The meal consists of rice and vathal kulambu. When lunch was served, I poured the vathal kulambu on rice and noticed a foreign object.
+Chatbot: Did you inform the supervisor or manager of the restaurant about the same?
+User: Yes, I informed the supplier, supervisor and the manager, Mr. SArangabani and even showed them the rice having a piece of wire and expressed my displeasure about the unhygienic food served. But they didn’t provide any alternative meals nor did they take any remedial measures to insure the good quality food is served to the customer. 
+Chatbot- Do you have any copy of the bill for the lunch you had at Perambur Sri Srinivasa Sweets & Snack.
+User:  Yes, after having lunch the opposite party has issued the bill no 22671 which mentions the total cost of lunch was Rs. 517/-
+Chatbot: Thank you for the information. This is a case of deficiency of service on part of the restaurant. You have few options going forward. You can go for mediation and settlement of dispute outside the court or alternatively you can directly file a consumer complaint and claim compensation for the same. 
+
+User: I don’t want to go for mediation as I have already approached the other party to resolve the issue, but to no avail. I would like to file a complaint with the consumer forum. What is the procedure to approach the consumer forum?
+
+Chatbot:To proceed with filing a consumer complaint, it is essential to gather additional details. Could you please provide your full name, occupation, contact information, and residential address for documentation purposes?
+
+User: My name is K.karthikeyan, S/o Kothandaraman, I am a government teacher by profession and you can reach me at Contact no. 9309710258. I am a resident of No.217, West Masi Street, Madurai..
+
+Chatbot: What is  the address of the other party?
+User: The address of the opposite party is,The Proprietor, The Perambur Sri Srinivasa Sweets & Snacks, No.20-5-1, Tirumala Bypass Road Near, Leelamahal Circle, Tirupathi – 517501.
+
+Chatbot: Thank you for providing your details. In order to strengthen your case, it would be helpful to know if you have any photographic evidence of the foreign object found in the food, as well as any records of your communication with the restaurant management
+
+User: Unfortunately, I did not capture any photographs, but I do have a video of the incident.As for health issues, none of us experienced immediate discomfort, but the presence of a foreign object in the meal was alarming.
+
+Chatbot:. Additionally, did you witness any health-related issues or discomfort due to the unhygienic food?
+
+User: I was fine and did not face any health issues. 
+
+Chatbot: Now, let's discuss the procedure for filing a consumer complaint. Consumer complaints are typically filed with the district or state consumer forum. You can file a complaint at Madurai or Tirupathi. Which place do you prefer?
+
+User: I would prefer to file the complaint with the consumer forum in Madurai, as that is where I reside. Additionally, how much compensation is reasonably expected from  the opposite party and what is the procedure to file a complaint.
+
+Chatbot: Madurai is a reasonable choice. The compensation depends on what evidence we produce in the consumer forum, the bill amount, the distress caused to the consumer by deficiency of service are taken into consideration for calculating the compensation. In this case I think you should claim a compensation of Rs. 20000/- for the deficiency in service and causing mental agony to the complainant.  
+
+User: Can you tell me the process to draft the consumer complaint?
+
+Chatbot:  To initiate the process, you will need to draft a detailed complaint letter outlining the incident, your grievances, and the compensation you are seeking. It is advisable to include copies of relevant documents, such as the bill and any other document that you feel might be beneficial for the case. Once the complaint is drafted, you can submit it to the Madurai District Consumer Disputes Redressal Forum.
+Below is the process for the filing a consumer complaint at the Madurai District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to login to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter 20,000/- in the claim amount. 
+9.	Select Tamil Nadu as the state and Madurai as the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, you address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter The Proprietor,The Perambur Sri Srinivasa Sweets & Snacks, in the Opposite party name section. Enter No.20-5-1, Tirumala Bypass Road Near, Leelamahal Circle, Tirupathi 517501 in the opposite party address section. Select the state and district of the registered address.  No.20-5-1, Tirumala Bypass Road Near, Leelamahal Circle,
+13.	In the Complaint section, write the following: 
+I went to a restaurant named “The Perambur Sri Srinivasa Sweets & Snacks”at Tirupathi and ordered lunch on 07.09.2020. The rice which was served with the vathal kulambu had a foreign object, a piece of iron wire. This caused discomfort to me and expressed my displeasure to the supplier, supervisor and the manager. But neither did they serve an alternative meal nor did they do anything  by way of remedial measures. 
+
+14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+Do you also want me to draft a complaint letter for you?
+
+
+User: Yes! Kindly draft the complaint.
+
+Chatbot: I would suggest you send a legal notice to the opposite party before filing a complaint. Do you want me to draft the legal notice as well?
+
+User: Kindly draft the complaint and notice. 
+
+
+User: yes, kindly draft me a complaint for the above issue. 
+
+Chatbot:Excellent, I've generated a pre-filled notice that you can access here and complaint for you with all the details you've provided that you can find here. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now?
+ 
+User: Yes, Please. 
+
+Chatbot:  Sure. Here is a draft affidavit and Memorandum of Parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+
+User: No, that's all for now. Thanks.
+
+Chatbot: You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. In case you get any problem in the above process or have any doubt, I  I would suggest you contact the state consumer helpline at 044-28592828 Call centre Assistants are available between 9-30 AM to 6-00 PM on all working days of Government of Tamil Nadu or you can call the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+
+User: No
+Chatbot: It was great to assist you!
+
+
+
+
+
+
+
+
+
+

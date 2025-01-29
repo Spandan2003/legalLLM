@@ -1,0 +1,332 @@
+Human: Hello, I  faced a problem with my train ticket booking.
+
+Bot: Thank you for sharing your concern. Can you please tell me what led to the issue with your train ticket booking? Was it a problem with the ticket price, incorrect booking details, or something else?
+
+Human: Sure. I had booked two train tickets from Madurai to Chennai for a journey on 20.08.2019. The tickets were booked on 12.08.2019 for me and another elderly, disabled person who was to travel with me. However, when we went to board the train on the day of the journey, we were denied boarding by the ticket inspector saying my name was wrongly printed on the ticket.
+
+Bot: That's unfortunate. Can you please tell me if you have any proof of booking, such as a confirmation message or a printout of the ticket?
+
+Human: My name is R. Jawahar, I am 70 years old and work at my shop for a living.  My address is - Mela Chinnampatti, Kalvelippatti Post, Vadipatti Taluk, Madurai District, PIN 625514. My mobile number is 9999xxxxxx.
+
+Bot: Thank you for sharing the necessary details, Mr. Jawahar. 
+
+Since the incident occurred on 20.08.2019, it has been more than 4 years. As per the Consumer Protection Act, the time limit for filing a complaint is 2 years from the date of the incident. You may still consider filing a complaint, but please be aware that it might not be admissible due to the statute of limitations.
+
+Can you please tell me more about the ticket inspector who denied you boarding? Was it a specific person or a general behavior from the staff?
+
+Human: Sure. His name is G. Kannan, age 61 years, Occupation: Retired Employee(Revenue Department). He is physically handicapped and needs my support to travel. His address is - D.No. 2/691, Bharathi Nagar, Kannanendal, Madurai - 625014. His mobile number is 8888yyyyyy.
+
+Bot: I have noted down the details of both you and Mr. Kannan. Now, regarding the incident on 20.08.2019, could you please tell me if you have any proof or evidence related to the ticket booking, such as the booking reference number, ticket number, or any communication with the railway authorities regarding this issue?
+
+Human: Yes, that is right. When we reached the station and tried to board, the ticket inspector informed me that my name was printed incorrectly as 'Sri Murugan' instead of 'R. Jawahar' on the reservation chart. My age was also wrongly mentioned as 45 years instead of 70 years. Due to this mistake in the chart, we were denied boarding on the train.
+
+Bot: That's unfortunate. The incorrect printing of your name and age on the reservation chart caused a significant issue for you and Mr. Kannan. 
+
+Can you please tell me when did you first notice this mistake? Was it when you received the ticket or at the station on the day of the journey?
+
+Human: Sure, here are the details:  1. We booked the tickets on 12.08.2019 2. The booking was done at Madurai Railway station reservation counter by submitting manual requisition form 3. The PNR number was 8765091230 4. My name was printed as 'Sri Murugan' instead of 'R. Jawahar' and age was shown as 45 years instead of 70 years  I have the ticket copies and reservation form copy for proof.
+
+Bot: I've noted down the details. Since the incident occurred on 20.08.2019, it has been more than 4 years now. Unfortunately, the Consumer Protection Act, 2019 has a time limit of 2 years to file a complaint. However, I would still like to guide you on the possible steps you can take.
+
+Considering the severity of the issue and the impact it had on you and Mr. Kannan, you may want to approach the railway authorities and request them to take necessary action. You can try to contact the Divisional Railway Manager (DRM) of the Southern Railway zone, where the incident occurred, and file a written complaint. The contact details for the DRM office can be found on the Indian Railways website.
+
+Additionally, you can also use the RailMadad app or the 139 helpline number to register your complaint. They can assist you in resolving the issue and providing a suitable solution.
+
+If you're not satisfied with the response, you can consider approaching the District Consumer Commission or the State Consumer Commission, depending on the value of the goods or services paid as consideration.
+
+Would you like me to provide you with the contact details of the DRM office or the RailMadad app?
+
+Human: We were forced to cancel our train journey and had to urgently book bus tickets to travel on that day to Chennai. This caused grave inconvenience as the bus journey was much more uncomfortable for us.
+
+Bot: It sounds like you and Mr. Kannan faced significant inconvenience due to the error on the reservation chart. As the incident occurred on 20.08.2019, it's been over 4 years now. In consumer disputes, the time limit for filing a complaint is 2 years from the date of the incident. Considering this, you might have missed the statute of limitations. However, I would still advise you to consult with a consumer court or a lawyer to discuss your options. 
+
+Before taking any legal action, I can provide you with a draft of a possible complaint that you can use as a template. Would you like me to assist with that?
+
+Human: We suffered financial loss as we had to purchase costlier bus tickets on urgent booking. We also had to cancel our confirmed return train bookings from Chennai to Madurai scheduled for 21.08.2019, as we did not travel by train on the onward journey.
+
+Bot: It sounds like you and Mr. Kannan faced significant inconvenience and financial loss due to the incorrect reservation chart. Given that the incident occurred on August 20, 2019, it has been over 4 years, which is beyond the 2-year statute of limitations for filing a consumer complaint. However, considering the severity of the issue, you may still want to explore the possibility of filing a complaint with the National Consumer Helpline (1800-11-4000) or through the e-daakhil portal. 
+
+If you're interested, I can guide you on drafting a complaint letter or notice to the railway authorities. Would you like that assistance?
+
+Human: Financial loss details: a) We spent approx Rs 3000 per person on urgent booking of bus tickets b) The cancelled return train tickets were of approx Rs 400 per person
+
+Bot: That's a significant loss. Considering the facts, it seems that the railway authorities' mistake in printing your name and age on the ticket led to your inconvenience and financial loss. Since the incident occurred on 20.08.2019, and you are approaching me now, I assume it's within the 2-year time frame for filing a consumer complaint.
+
+Would you like to proceed with filing a complaint against the railway authorities for the mistake and the resulting financial loss, or would you like to explore any other options for resolving this issue?
+
+Human: Yes I submitted a written complaint to railway authorities (on 03.12.2019) regarding deficiency in service and mental agony caused to us. But I did not receive any response or resolution to the complaint.
+
+Bot: It's been over 4 years since the incident, which is close to the 2-year statute of limitations for filing a consumer complaint in India. However, I would still suggest that you consider filing a complaint with the National Consumer Helpline or the Railway Claims Tribunal, as you may still be eligible for compensation.
+
+Would you like me to guide you through the process of drafting a legal notice to the railway authorities, or would you like to explore other options for redressal?
+
+Human: Kindly draft the legal notice and the complaint for me.
+
+Bot: Based on the information you provided, I will draft a sample legal notice and complaint for your reference. Please note that this is a general draft and you may need to modify it according to your specific needs and circumstances.
+
+**Sample Legal Notice:**
+
+[Your Name]
+[Your Address]
+Madurai, [Date]
+
+To,
+Divisional Railway Manager,
+Madurai Division,
+Railway Station, Madurai.
+
+Subject: Deficiency in Service and Mental Agony Caused by Incorrect Ticket Booking
+
+Dear Sir/Madam,
+
+Re: PNR No. 8765091230
+
+I am writing to bring to your notice a serious deficiency in service that I and my companion, Mr. G. Kannan, experienced while traveling from Madurai to Chennai on 20.08.2019. We had booked two confirmed tickets (PNR No. 8765091230) at the Madurai Railway Station reservation counter on 12.08.2019. However, when we reached the station to board the train, we were denied boarding due to an error in the reservation chart, which incorrectly mentioned my name as 'Sri Murugan' and age as 45 years instead of my correct name 'R. Jawahar' and age 70 years.
+
+As a result, we were forced to cancel our train journey and purchase costlier bus tickets, which caused us a financial loss of approximately Rs. 3000 per person. We also had to cancel our confirmed return train tickets, incurring an additional loss of approximately Rs. 400 per person.
+
+We request you to take immediate action to rectify this situation and provide us with compensation for the losses incurred. We would appreciate a response to this notice within 15 days from the date of receipt.
+
+Yours sincerely,
+
+R. Jawahar
+
+**Sample Complaint:**
+
+[Your Name]
+[Your Address]
+Madurai, [Date]
+
+To,
+The Chairman,
+Consumer Disputes Redressal Forum,
+Madurai.
+
+Subject: Deficiency in Service and Mental Agony Caused by Incorrect Ticket Booking
+
+Dear Sir/Madam,
+
+Re: PNR No. 8765091230
+
+I am writing to file a complaint against the Southern Railway for deficiency in service and mental agony caused to me and my companion, Mr. G. Kannan, due to incorrect ticket booking. We had booked two confirmed tickets (PNR No. 8765091230) at the Madurai Railway Station reservation counter on 12.08.2019. However, when we reached the station to board the train, we were denied boarding due to an error in the reservation chart, which incorrectly mentioned my name as 'Sri Murugan' and age as 45 years instead of my correct name 'R. Jawahar' and age 70 years.
+
+As a result, we were forced to cancel our train journey and purchase costlier bus tickets, which caused us a financial loss of approximately Rs. 3000 per person. We also had to cancel our confirmed return train tickets, incurring an additional loss of approximately Rs. 400 per person.
+
+We request the Forum to take necessary action against the Southern Railway and provide us with compensation for the losses incurred.
+
+We have attached a copy of the ticket and reservation form for your reference.
+
+Yours sincerely,
+
+R. Jawahar
+
+Please note that this is a sample draft, and you should modify it according to your specific needs and circumstances. Also, please ensure that you have the necessary documents and evidence to support your claim.
+
+You can file the complaint online through the National Consumer Helpline (1800-11-4000) or the UMANG App. If you need help with filing the complaint, please let me know.
+
+Human: My residential address is  Mela Chinnampatti, Kalvelippatti Post, Vadipatti Taluk, Madurai District, PIN 625514.
+
+Bot: Based on the details you provided, I will draft a legal notice and a complaint for you. Please note that this is a sample draft, and you may need to modify it according to your specific needs and circumstances.
+
+**Draft Legal Notice:**
+
+[Your Name]
+R. Jawahar
+Mela Chinnampatti, Kalvelippatti Post,
+Vadipatti Taluk, Madurai District,
+PIN 625514
+Email: [Your Email]
+Phone: 9999xxxxxx
+Date: [Current Date]
+
+To,
+The Divisional Railway Manager,
+Madurai Division,
+Southern Railway,
+Madurai - 625022.
+
+Subject: Legal Notice for Deficiency in Service and Mental Agony Caused
+
+Dear Sir,
+
+Re: Deficiency in Service and Mental Agony Caused due to incorrect name and age printed on the ticket (PNR: 8765091230)
+
+We are writing to bring to your notice that we had booked two confirmed tickets (PNR: 8765091230) for the journey from Madurai to Chennai on 20.08.2019. However, when we reached the station to board the train, we were denied boarding due to incorrect name and age printed on the ticket. Our names were printed as 'Sri Murugan' and '45 years' instead of 'R. Jawahar' and '70 years' respectively.
+
+This incident caused us immense mental agony and financial loss as we had to purchase costlier bus tickets and cancel our confirmed return train tickets. We request you to take immediate action to rectify this situation and provide us with compensation for the losses suffered by us.
+
+We request you to respond to this notice within 15 days from the date of receipt of this notice. If we do not receive a satisfactory response, we will be forced to take further action.
+
+Yours faithfully,
+
+R. Jawahar
+
+**Draft Complaint:**
+
+[Your Name]
+R. Jawahar
+Mela Chinnampatti, Kalvelippatti Post,
+Vadipatti Taluk, Madurai District,
+PIN 625514
+Email: [Your Email]
+Phone: 9999xxxxxx
+Date: [Current Date]
+
+To,
+The Consumer Forum,
+Madurai District,
+Madurai - 625001.
+
+Subject: Complaint for Deficiency in Service and Mental Agony Caused
+
+Dear Sir,
+
+Re: Deficiency in Service and Mental Agony Caused due to incorrect name and age printed on the ticket (PNR: 8765091230)
+
+We are filing this complaint against the Southern Railway, Madurai Division, for deficiency in service and mental agony caused due to incorrect name and age printed on the ticket (PNR: 8765091230) for the journey from Madurai to Chennai on 20.08.2019.
+
+We had booked two confirmed tickets for the above-mentioned journey and were denied boarding due to incorrect name and age printed on the ticket. This incident caused us immense mental agony and financial loss as we had to purchase costlier bus tickets and cancel our confirmed return train tickets.
+
+We request the Consumer Forum to take cognizance of this matter and provide us with compensation for the losses suffered by us.
+
+We request you to provide us with a hearing date and time at your earliest convenience.
+
+Yours faithfully,
+
+R. Jawahar
+
+Please review and modify the drafts as per your requirements. Also, please note that you should file the complaint with the District Consumer Dispute Redressal Forum, Madurai within the statutory time limit of 2 years from the date of the incident.
+
+Would you like me to guide you on how to file the complaint with the District Consumer Dispute Redressal Forum, Madurai?
+
+Human: Yes I have the following documents and uploaded them. - Original train reservation ticket - Cancelled return reservation tickets - Copy of manual reservation form submitted to book tickets - Copy of written complaint dated 03.12.2019 submitted to Railways - Copy of reservation chart showing incorrect details
+
+Bot: I have drafted the legal notice and complaint for you. 
+
+**Legal Notice**
+
+[Your Name]
+R. Jawahar
+Mela Chinnampatti, Kalvelippatti Post,
+Vadipatti Taluk, Madurai District, PIN 625514
+Date: [Today's Date]
+
+[Opposite Party's Name]
+Divisional Railway Manager
+Madurai Division, Indian Railways
+Madurai, Tamil Nadu
+
+Subject: Deficiency in Service and Demand for Compensation
+
+Dear Sir/Madam,
+
+Re: Deficiency in Service and Demand for Compensation
+
+This is to bring to your notice that on 20.08.2019, my son, Mr. G. Kannan (61 years, physically handicapped) and I (R. Jawahar, 70 years) had booked confirmed train tickets from Madurai to Chennai for 20.08.2019, with PNR No. 8765091230. However, when we reached the station, we were denied boarding due to incorrect details printed on the reservation chart, i.e., my name was printed as 'Sri Murugan' instead of 'R. Jawahar' and my age was shown as 45 years instead of 70 years.
+
+Due to this deficiency in service, we were forced to cancel our train journey and purchase bus tickets at a higher cost, resulting in a financial loss of approximately Rs. 6000 (Rs. 3000 for each person). We also had to cancel our return train tickets, resulting in an additional loss of Rs. 800 (Rs. 400 for each person).
+
+We had submitted a written complaint to the Railways on 03.12.2019, but we have not received any response or resolution to our complaint.
+
+We hereby demand compensation for the loss suffered by us due to the deficiency in service. We request you to take immediate action to rectify this situation and provide us with a suitable compensation.
+
+Please acknowledge receipt of this notice and inform us of the action taken in this regard.
+
+Yours faithfully,
+
+R. Jawahar
+
+**Consumer Complaint**
+
+[Your Name]
+R. Jawahar
+Mela Chinnampatti, Kalvelippatti Post,
+Vadipatti Taluk, Madurai District, PIN 625514
+Date: [Today's Date]
+
+[Consumer Forum Address]
+
+Subject: Deficiency in Service and Compensation
+
+To, The Hon'ble District Consumer Disputes Redressal Forum, Madurai
+
+This complaint is filed against Indian Railways, Madurai Division, for deficiency in service and demand for compensation.
+
+Particulars of the complaint:
+
+* Date of incident: 20.08.2019
+* Place of incident: Madurai Railway Station
+* PNR No.: 8765091230
+* Type of service: Train ticket booking
+* Deficiency in service: Incorrect details printed on the reservation chart
+* Loss suffered: Financial loss of approximately Rs. 6000 (Rs. 3000 for each person) and additional loss of Rs. 800 (Rs. 400 for each person)
+
+We had booked confirmed train tickets from Madurai to Chennai for 20.08.2019, but were denied boarding due to incorrect details printed on the reservation chart. We were forced to cancel our train journey and purchase bus tickets at a higher cost, resulting in financial loss. We had submitted a written complaint to the Railways on 03.12.2019, but we have not received any response or resolution to our complaint.
+
+We hereby demand compensation for the loss suffered by us due to the deficiency in service.
+
+Relief sought:
+
+* Compensation for the loss suffered
+* Rectification of the situation
+
+We request the Hon'ble Forum to take cognizance of this complaint and provide us with a suitable compensation.
+
+Yours faithfully,
+
+R. Jawahar
+
+Please review and let me know if you need any changes.
+
+Also, you can file a complaint through the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance.
+
+Human: Yes, it will be great if you can do that as well.
+
+Bot: I have drafted the Notice and the Complaint for you. Please review and confirm that everything is correct. 
+
+If you are satisfied, you can use these as a starting point for filing your complaint with the Consumer Forum.
+
+In addition to the Notice and Complaint, you will also need to prepare a Memorandum of Parties and an Affidavit. I can provide you with a template for these documents as well.
+
+Please note that you should consult with a lawyer or a consumer rights expert to ensure that your complaint is properly filed and presented.
+
+Also, you can file a complaint through the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance.
+
+Do you need any further assistance or have any questions regarding the next steps?
+
+Human: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+
+Bot: Here is a step-by-step guide to filing your complaint on E-daakhil:
+
+1.  Go to the E-daakhil portal: You can access the E-daakhil portal at [www.edaakhil.nic.in](http://www.edaakhil.nic.in). You can also download the UMANG app on your mobile phone, which is available on both Android and iOS platforms. The UMANG app will guide you through the process of filing a complaint.
+
+2.  Register on the E-daakhil portal: If you don't have an account, register on the E-daakhil portal by clicking on the 'Register' button and following the instructions.
+
+3.  Login to the portal: Once you have registered, log in to the portal using your credentials.
+
+4.  Click on 'File a New Case': Once you are logged in, click on the 'File a New Case' button.
+
+5.  Select 'Consumer Complaint': From the drop-down menu, select 'Consumer Complaint'.
+
+6.  Fill in the details: Fill in the required details, including your name, address, mobile number, email ID, and the details of the opposite party.
+
+7.  Upload documents: Upload the documents that you have, including the complaint, memorandum of parties, affidavit, and any other relevant documents.
+
+8.  Pay the fee: Pay the prescribed fee for filing the complaint.
+
+9.  Review and submit: Review your complaint carefully and submit it.
+
+10.  Print the Acknowledgement: Once your complaint is submitted, you will receive an acknowledgement. Print this acknowledgement for your records.
+
+Please note that the fee for filing a complaint on E-daakhil is Rs. 50. You can pay this fee using a debit/credit card or net banking.
+
+If you need any assistance or clarification, please feel free to ask.
+
+Human: Got it. I will not agree for mediation.
+
+Bot: In that case, after the complaint is submitted, the District Consumer Disputes Redressal Commission will send a notice to the Southern Railway, Divisional Manager, Madurai, and they will have to file a written reply within 30 days. If they fail to respond, the Commission may pass an ex-parte order against them. After receiving the reply from the Southern Railway, the Commission may fix a date for hearing and may summon both parties to appear before it. During the hearing, both parties will be given an opportunity to present their case and the Commission will hear both parties and pass an order.
+
+Human: No
+
+Bot: You're welcome. I'm glad I could assist you with your consumer grievance. If you have any other issues or need further assistance in the future, don't hesitate to reach out.
+

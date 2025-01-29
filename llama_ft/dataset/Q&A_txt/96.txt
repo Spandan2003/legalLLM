@@ -1,0 +1,96 @@
+Chatbot:Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you. 
+
+Consumer: Hi Chatbot. I need help with filing a consumer complaint. I purchased a motor pump set for agricultural use which has now been damaged.
+
+Chatbot: Can you tell me about the item you purchased and the issue you are facing?
+
+Consumer: I purchased a MARATHIN MAK 10 HP 1440 RPMTEF motor pump set for Rs. 20,750 from a dealer named Balaji Agricultural Agencies located at Secunderabad. I bought this on 23rd September 2020 for agricultural use in my fields and was under the warranty. 
+
+Chatbot: Could you please share more details like the warranty period and invoice number if available?
+
+Consumer: Yes, the motor pump set was under a warranty period of 1 year from the date of purchase. I have the original purchase invoice, - the invoice is numbered 45621 dated 23/09/2020.
+
+Chatbot: Thank you for providing the warranty and invoice details. Now, can you explain what exactly is the issue you are facing with this motor pump set?
+
+Consumer: The motor pump set worked fine initially. But within a few months of purchase, it started giving some problems. It would make loud noises and eventually stopped working completely after some time. Since it was within the 1 year warranty period, I wanted to get it repaired by the dealer under warranty.
+
+Chatbot: Okay. Did you contact the dealer regarding this?
+
+Consumer: Yes, I approached the dealer and requested them to repair it under warranty. They asked me to send the motor to them and they would repair and return it. But  the motor got  damaged in transit. 
+
+Chatbot: Alright. Can you please explain how you sent the defective motor pump set to the dealer? 
+
+Consumer: For transporting the motor pump set, I used a transportation company named Navata Road Transport. On 22nd January 2021, I booked the item through them and sent it to the dealer for repairs.
+
+Chatbot: I see. Please provide more details about Navata Road Transport - their address, waybill number etc. Also, how much value did you declare for the motor pump set while booking the transportation?
+
+Consumer: Navata Road Transport is located in Nagarkurnool, their main office address is Door No. 18-667, Bose Buildings, Kanuru, Vijayawada. I booked the item via their Nagarkurnool branch. The waybill number is SO94101-1 dated 22/01/2021. As for declared value, I specified Rs. 5,000 while booking the transportation through them.
+
+Chatbot: Thank you for the transportation details. You mentioned the motor pump set reached the dealer in a damaged condition. Can you please elaborate what kind of damage had occurred?
+
+Consumer: Yes, when the motor pump reached the dealer, it was completely damaged. The base and body were bent and crushed, the terminal plate was broken, and the motor was in completely unrepairable condition. The dealer informed me that due to the extensive transit damage, they cannot accept or repair it under warranty.
+
+Chatbot: Did you follow up with Navata Road Transport regarding this damage? 
+
+Consumer: I immediately contacted Navata Road Transport and questioned them about how the motor was damaged so badly during transit. But they did not give any satisfactory response regarding this. They also refused to take any responsibility for the damage.
+
+Chatbot: What did Navata Road Transport convey when you contacted them? Did they inspect the damaged motor pump set?
+
+Consumer: When I called them and complained, they simply denied any liability. They insisted the motor pump was in fine condition when transported and refused to even inspect the damaged item. I got no proper response despite multiple complaints to Navata Road Transport.
+
+Chatbot: In this scenario, did you take up this issue with the dealer as well?
+
+Consumer: Yes, I informed the dealer Balaji Agricultural Agencies about how the motor was damaged during transit by Navata Road Transport. I requested them to address this issue and arrange for repairs under warranty as promised. However, they also refused to take any responsibility in the matter.
+
+Chatbot: Alright, so neither the transportation company nor the dealer were helpful in getting this resolved. Can you summarise the loss you have incurred due to this damaged motor pump set?
+
+Consumer: Due to the motor being damaged, I have suffered a huge loss. Firstly, I have lost the cost of the motor pump set itself, which is Rs. 20,750 that I spent to purchase it. Secondly, I have not been able to carry out agricultural activities properly without the motor pump set, leading to production losses. I estimate the production losses to be around Rs. 1 lakh.
+
+Chatbot: Thank you for patiently providing the full details. Given the facts of the case, I would recommend sending a legal notice to both the transport company Navata Road Transport and the dealer Balaji Agricultural Agencies under the Consumer Protection Act 2019. I can assist you in drafting the complaint. Would you like me to proceed with preparing a draft consumer complaint?
+
+Consumer: Yes please, I would like you to draft the consumer complaint on my behalf against both the transporter and dealer to seek compensation for my losses. Please include all the relevant details we discussed.
+Chatbot: Kindly share your address.
+Consumer:E. Janardhan Reddy S/o E. Vasudev Reddy, Aged 54 years, Occ: Agriculture, R/o H.No.2-5, Manganur village, Bijinapally mandal, Nagarkurnool District
+
+Chatbot: Kindly, share the address of the opposite party, namely the dealer and the transportation service you availed. 
+Consumer: The opposite parties address are,
+The Authorized Signatory, NAVATA Road Transport, Main road, Nagarkurnool town and district.
+The Authorized Signatory, NAVATA Road Transport, Plot No.1, Block No.1, Auto Nagar, Kavadiguda, Hyderabad - 500 070.
+The Authorized Signatory, NAVATA Road Transport,
+Head Office, Door No.18-667, Bose buildings, Kanuru, Vijayawada - 520 007, A.P. State.
+The Authorized Signatory, Balaji Agricultural Agencies, 5-4-80, Mahatma Gandhi road
+(opp: TV Sundaram Motors), Secunderabad - 500 003.
+
+Chatbot: Kindly tell us about the evidence and the documents that you have related to the issue at hand that would help us defend the case in a proper way. 
+
+Consumer:  I have delivery challan showing the purchase of motor dated 23/09/2020, and way bill dated 22/01/2021 showing motor sent for repair  and also have the potographs of damaged motor.
+
+Chatbot:. But before filing the complaint I must make you aware about the rules under the “Carriage by Road Act, 2007 provides” that no suit or other legal proceedings shall be instituted against a common carrier unless we serve the legal notice to them. So I advise you to send the legal notice to the other party. 
+Consumer: Kindly draft the legal notice and the complaint. 
+
+Chatbot: Here is the draft notice for your perusal. Remember to put your signature before you send it in hard copy and put e-signature in case you are sending the soft copy. In case you get any problem in the above process or have any doubt, I would suggest you contact the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+
+Consumer: Thank you for drafting the legal notice. Kindly, also draft a legal complaint.
+
+The Chatbot: Thank you. On the basis of the documents that you have given me, I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+Aggrieved Consumer- Yes, it will be great if you can do that as well.
+The Chatbot: You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+Aggrieved Consumer: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+The Chatbot: You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Andra Pradesh as the State and Mahaboob nagar as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+“This complaint is regarding the defective motor pump set sent by the complainant to opposite party No.4 for repairs under warranty, which was damaged during transit due to the negligence and deficiency in service by opposite parties Nos. 1 to 3. Despite complaints, the opposite parties failed to rectify the damage or compensate the complainant, forcing him to approach this Commission seeking relief.
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+Aggrieved Consumer: Got it. I will not agree for mediation.
+The Chatbot: In that case, the consumer court in Mahabubnagar has to proceed with the case.
+Aggrieved Consumer:Thank you very much for the assistance!
+The Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.

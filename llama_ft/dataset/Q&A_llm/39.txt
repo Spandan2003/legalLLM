@@ -1,0 +1,50 @@
+<s><INST> I placed an order for an oven from a home appliances company but didn’t receive the product.
+</INST> Hi, I’m your consumer grievance assistance tool. How can I help you? 
+</s> <s><INST> I purchased the product from ABC Home Appliances Private Limited on 05/03/2022. I was told that the product would be delivered within 5 working days from the date of purchase, but it has been over 15 days now, but I have not received it yet. 
+</INST> Is there anything else that you would like to add about the transaction? 
+</s> <s><INST> Made a down payment of the purchase cost  by way of NEFT (Transaction ID: 12456783) on 05/03/2022; received an e-receipt on 06/02/2022 by way of email
+</INST> How much did you pay for the product? 
+</s> <s><INST> I paid Rs 30,000 for it. 
+</INST> Any pending installments in respect of the product? 
+</s> <s><INST> No, I made a down payment of the entire cost of the product.
+</INST> Okay. Did you bring it to the attention of the seller? 
+</s> <s><INST> Yes. On 10/03/2022, I sent a reminder to the seller, but there was no response to the email sent. Then, on 15/03/2022, I raised the issue with the customer care division of the company. I was told that the matter would be resolved within two working days, but I have still not received the product. 
+</s> <s><INST> On 24/03/2022, I received a call from the customer support team, this time only to inform that the matter would be closed. When I pointed out that I had still not received the product, they simply stated that they would escalate the issue to the relevant persons for looking into the issue. 
+</INST> Did you consider sending a legal notice to the seller? 
+</s> <s><INST> Yes, I sent a legal notice dated 20/03/2022 but it went in vain. I did not receive a reply from the company. 
+</INST> Then, would you like to file a complaint before the District Consumer Grievance Redressal Forum? 
+</s> <s><INST> Yes, I would like to.
+</INST> Okay, could you please tell me where your residence is? 
+</s> <s><INST> I live in the city of Cosmos 
+</INST> In that case, you can file a complaint before the Cosmos District Consumer Grievance Redressal Forum within a period of two years from the date of cause of action i.e 04/02/2022. You can either use the E-Daakhil portal to file your complaint, or submit a physical copy of the complaint in the commission. 
+Please note that since the value of the product purchased is less than Rs 5 lakhs, you do not have to pay any court fees, but ensure you have the following documents with you: 
+Receipt of the purchase made 
+Copy of the email correspondence with the company 
+Legal Notice sent to the company 
+If you wish to register your complaint using the E-Daakhil portal, here’s the link that you can use: https://edaakhil.nic.in/ . The portal has an instruction manual that provides you with step-by-step procedure for registering a complaint
+</INST> However, please feel free to let me know if you need any assistance with respect to drafting of a consumer complaint 
+</s> <s><INST> Yes, it would be really helpful if you share a template that I could use for reference 
+</INST> Sure, that can be done. Could you please tell me your name, age, occupation and address?  
+</s> <s><INST> I am Bruno, and my age is 46. I work as a graphic designer. My residential address is  20/918, III street, Vimala Nagar, Cosmos – 100
+
+</INST> Could you also specify the details of the model that you purchased? 
+</s> <s><INST> Product type – microwave oven 
+          Brand name – XYZ  
+          Model number – AX673421
+</INST> Could you also mention the name and address of the company? 
+</s> <s><INST> ABC Home Appliances Private Limited. Registered office address is 32/429, 6th street, Simala Nagar, Cosmos-65
+</INST> Thanks, here’s a draft complaint based on the information provided by you: 
+Complaint 
+Affidavit
+Memorandum of Parties
+</s> <s><INST> Thanks
+</INST> Is there anything else you want me to assist you with? 
+</s> <s><INST> No, thanks 
+</INST> Welcome. Happy to help. I hope you found this conversation useful. Please feel free to contact us again in case of any queries in the future. 
+Meanwhile, you can log on to https://consumeraffairs.nic.in/ , or dial 1800-11-4000 (National Consumer Helpline) for more information.
+
+Stay Alert, Stay Safe 
+Thank you 
+
+ 
+</s>

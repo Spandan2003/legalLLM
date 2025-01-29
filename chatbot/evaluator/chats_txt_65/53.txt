@@ -1,0 +1,229 @@
+Human: I have faced problem with SpiceJet Airline
+
+Bot: Thank you for sharing your concern. Can you please tell me what happened with SpiceJet Airline? What led to the issue?
+
+Human: Yes, on 12/02/2021 I had booked air tickets from Goa to Delhi for 4 passengers via Spicejet website. The PNR number was 28283855 and I paid Rs. 5,000 for the booking.
+
+Bot: It seems like the incident occurred on 12/02/2021, which is more than 2 years ago. As per the Consumer Protection Act, the statute of limitations for filing a consumer complaint is 2 years from the date of the incident. I would advise you to take action as soon as possible to avoid missing the deadline.
+
+Can you please tell me what specifically went wrong with your SpiceJet booking? Was it a cancellation, delay, or something else?
+
+Human: Yes, I have taken printouts of the booking confirmation email and payment receipt.
+
+Bot: Thank you for having the necessary documents. 
+
+You mentioned that the incident occurred on 12/02/2021. As per the Consumer Protection Act, the statute of limitations for filing a complaint is 2 years from the date of the incident. Since your incident occurred on 12/02/2021, you are still within the time frame to file a complaint. 
+
+Can you please tell me what exactly happened on 12/02/2021 that led to the issue with SpiceJet Airlines? Was there a cancellation, delay, or any other problem?
+
+Human: Shockingly, the airline cancelled all the tickets without any intimation or consent from my side. I got to know only when I called to reconfirm.
+
+Bot: That's unacceptable. Did you try to contact SpiceJet to get a refund or rebook the tickets after they cancelled them?
+
+Human: No, the customer care had no clue and gave no explanation on why the booked tickets were cancelled unilaterally. This caused immense harassment to me and my family.
+
+Bot: That must have been frustrating. Did you ask them to refund the amount you paid for the tickets, Rs. 5,000?
+
+Human: The travel date booked was 25th February 2021. I got the cancellation news just 2 days before travel.
+
+Bot: That's even more frustrating, especially when it's just 2 days before the travel date. Did you try to contact the airline again to see if they would reinstate the tickets or offer any compensation?
+
+Human: This last minute cancellation led to huge financial losses as I had to book fresh tickets at higher cost. I am seeking a refund of Rs. 5,000 for the booking amount, along with ₹20,000 as compensation for harassment and additional expenses incurred.
+
+Bot: Considering the incident occurred on 12/02/2021, the Consumer Protection Act's 2-year statute of limitations has not expired. However, it's still a good idea to act quickly to file a complaint. 
+
+Since you've already incurred additional expenses and experienced harassment, you may want to consider filing a consumer complaint. I can help you draft a legal notice to send to SpiceJet. Would you like me to guide you through that process?
+
+Human: I prefer sending legal notice.
+
+Bot: I can help you draft a legal notice. To do that, I'll need some more information. Can you please provide me with the address of SpiceJet Airlines' registered office, and also the name and designation of the person to whom the notice should be addressed?
+
+Human: Sure. My details are Ameya Gurudas Naik, Aged about 34 years, R/o H no.12, Chinchwada, Chimbel, Tiswadi,- Goa- 403006 and I am a professional Boxer.
+
+Bot: Thank you for providing your details. Based on the information you provided, I can draft a legal notice for you. However, before I do that, I would like to inform you that you have two years from the date of the incident to file a complaint. Since your incident occurred on 12/02/2021, you still have time to file a complaint. 
+
+Here is a draft of the legal notice that I can provide you:
+
+"NOTICE TO SPICEJET AIRLINES
+
+To,
+SpiceJet Airlines
+[Address]
+
+Subject: Cancellation of Flight Tickets and Claim for Compensation
+
+You are hereby notified that we, the undersigned, had booked four tickets for travel from Goa to Delhi on [date] through your website, with PNR number 28283855. The total amount paid for the booking was Rs. 5,000.
+
+Despite our booking, you cancelled the tickets without any prior intimation or consent from us. We had to incur additional expenses to book fresh tickets, which resulted in a financial loss to us.
+
+We hereby demand a refund of the amount of Rs. 5,000 paid for the cancelled tickets, along with compensation of Rs. 20,000 for the harassment and additional expenses incurred by us.
+
+You are required to respond to this notice within 15 days from the date of receipt of this notice and take necessary action to settle this matter amicably.
+
+Sd/- 
+
+Ameya Gurudas Naik
+Aged about 34 years
+R/o H no.12, Chinchwada, Chimbel, Tiswadi,- Goa- 403006"
+
+Please review the draft and let me know if you need any changes.
+
+Human: The address of the Sony Centre is 319, Udyog Vihar Phase IV, Gurgaon 122016, Haryana, India.
+
+Bot: I can draft a sample legal notice for you. However, please note that this is a sample and you may need to modify it according to your specific needs. Also, you may want to consult a lawyer before sending the notice.
+
+Here's a draft:
+
+"NOTICE
+
+To,
+SpiceJet Airlines
+Spicejet House, Sahar Airport Plaza,
+Andheri (E),
+Mumbai – 400 099
+
+Subject: Cancellation of Booking and Compensation
+
+You are hereby notified that we, Ameya Gurudas Naik, a professional Boxer residing at H no.12, Chinchwada, Chimbel, Tiswadi, Goa- 403006, had booked four tickets for travel from Goa to Delhi on 25th February 2021 through your website with PNR number 28283855. The booking amount of Rs. 5,000 was paid through online payment.
+
+However, we were shocked to find out that our booking was cancelled without any prior intimation or consent from us. This caused immense harassment to us and financial losses due to having to book fresh tickets at a higher cost.
+
+We hereby demand a refund of the booking amount of Rs. 5,000 and compensation of Rs. 20,000 for the harassment and additional expenses incurred.
+
+You are required to respond to this notice within 15 days from the date of receipt of this notice.
+
+Sd/- 
+Ameya Gurudas Naik"
+
+Please review and modify it as per your needs. Also, please note that you should send this notice to SpiceJet Airlines by registered post or email, and keep a record of the same.
+
+Would you like me to provide you with any further assistance?
+
+Human: I want them to refund my ticket Rs.5,000/-, and give me compensation for Rs. 5,00,000/- as well as litigation cost.
+
+Bot: Based on the details you provided, I can draft a legal notice for you. The legal notice will include your details, the details of the airline, the incident, and the relief you are seeking. Would you like me to draft the legal notice for you?
+
+Human: Thank you. I want to file a consumer complaint; can you guide me?
+
+Bot: You can file a complaint through the e-daakhil portal: http://edaakhil.nic.in/. The National Consumer Helpline (NCH) can also be contacted on 1800-11-4000 for assistance. Please let me know if you need further assistance.
+
+Human: Provorim is more convenient for me.
+
+Bot: You can file a complaint at the Porvorim Consumer Disputes Redressal Commission. You will need to prepare and submit the complaint in the prescribed format, which includes providing details of the incident, the relief you are seeking, and the evidence you have to support your claim.
+
+You can download the complaint form from the commission's website or obtain it from the commission's office. You will also need to attach supporting documents, such as your ticket confirmation and payment receipt, as well as any other relevant evidence.
+
+Once you have prepared the complaint, you can submit it to the commission in person or through a lawyer. The commission will then schedule a hearing date, and you will be notified of the date, time, and venue.
+
+Additionally, you can also contact the National Consumer Helpline using the helpline number 1800-11-4000 for assistance with filing the complaint. They can provide you with more information and guidance on the process.
+
+Is there anything else I can help you with?
+
+Human: Yes, that would be really helpful.
+
+Bot: Below is a draft complaint letter: 
+
+IN THE DISTRICT CONSUMER DISPUTES REDRESSAL FORUM, PORVORIM GOA 
+
+Case No. _______________________
+
+COMPLAINT 
+
+To, The Hon'ble President, District Consumer Disputes Redressal Forum, Porvorim, Goa. 
+
+Subject: Consumer Complaint under the Consumer Protection Act, 2019 
+
+I, Ameya Gurudas Naik, aged about 34 years, R/o H no.12, Chinchwada, Chimbel, Tiswadi,- Goa- 403006, complain of the opposite party as hereinafter appears: 
+
+OPPOSITE PARTY: The Managing Director, Spice Jet Ltd. 319, Udyog Vihar Phase IV, Gurgaon, 122016, Haryana. 
+
+1.	That the opposite party is engaged in the business of providing air travel services through its website and has been advertising its services in the market. 
+
+2.	That on 12/02/2021, I booked air tickets for travel Panjim to Delhi for 4 passengers through the opposite party's website bearing PNR No. 28283855 and paid an amount of Rs. 5,000/- through online payment. 
+
+3.	That the air tickets were canceled by the opposite party without any intimation to me or consent from my side. 
+
+4.	That I was not provided any reason for the cancellation of the tickets. 
+
+5.	That the cancellation of the tickets has caused me immense harassment and financial loss. 
+
+6.	That despite several attempts, the opposite party has failed to provide any satisfactory explanation or compensation for the cancellation of the tickets. 
+
+7.	That I have been forced to incur additional expenses of Rs. 20,000/- for booking fresh tickets, which is a direct result of the opposite party's actions. 
+
+8.	That the opposite party is liable to compensate me for the harassment and financial loss suffered by me due to their actions. 
+
+9.	That I have not received any satisfaction in response to my complaints made to the opposite party. 
+
+10.	That this complaint is being filed under the Consumer Protection Act, 2019, and I seek the following relief: 
+
+a.	Direction to the opposite party to refund the amount of Rs. 5,000/- paid by me for the canceled tickets. 
+
+b.	Compensation of Rs. 20,000/- for the additional expenses incurred by me for booking fresh tickets. 
+
+c.	Compensation of Rs. 4,95,000/- for the harassment and financial loss suffered by me due to the opposite party's actions. 
+
+d.	Any other relief that the Hon'ble Forum may deem fit and proper in the circumstances of the case. 
+
+I, Ameya Gurudas Naik, do hereby verify that the contents of the complaint are true to the best of my knowledge and belief. 
+
+IN WITNESS WHEREOF, I have hereunto set my hand this [date] day of [month], 2024. 
+
+Signature of the Complainant 
+
+Verified at Porvorim, Goa, this [date] day of [month], 2024. 
+
+Signature of the Complainant 
+
+Affidavit 
+
+I, Ameya Gurudas Naik, aged about 34 years, R/o H no.12, Chinchwada, Chimbel, Tiswadi,- Goa- 403006, do hereby solemnly affirm and declare as under: 
+
+1.	I am the complainant in the above-mentioned complaint. 
+
+2.	I have personal knowledge of the facts and circumstances of the case. 
+
+3.	I am competent to verify the contents of the complaint. 
+
+4.	The contents of the complaint are true to the best of my knowledge and belief. 
+
+IN WITNESS WHEREOF, I have hereunto set my hand this [date] day of [month], 2024. 
+
+Signature of the Complainant 
+
+Verified at Porvorim, Goa, this [date] day of [month], 2024. 
+
+Signature of the Complainant 
+
+Memorandum of Parties 
+
+PARTIES 
+
+1.	Plaintiff: Ameya Gurudas Naik, aged about 34 years, R/o H no.12, Chinchwada, Chimbel, Tiswadi,- Goa- 403006. 
+
+2.	Defendant: The Managing Director, Spice Jet Ltd. 319, Udyog Vihar Phase IV, Gurgaon, 122016, Haryana. 
+
+SCHEDULE 
+
+1.	Details of the booking: 
+
+a.	Booking date: 12/02/2021 
+
+b.	PNR No.: 28283855 
+
+c.	Amount paid: Rs. 5,000/- 
+
+2.	Details of the cancellation: 
+
+a.	Cancellation date: [date] 
+
+b.	Cancellation reason:
+
+Human: Yes, Please.
+
+Bot: I've generated a draft of the Memorandum of Parties for you. You can find it here. Please note that you should fill in the details of the opposite party and your own details in the boxes provided and sign the document before a notary public. BEFORE THE DISTRICT CONSUMER DISPUTES REDRESSAL FORUM, NORTH GOA AT PORVORIM Memorandum of Parties IN THE MATTER OF: Consumer Complaint No:    /20 Ameya Gurudas Naik, Occupation: Professional Boxer Aged about 34 years, R/o H no.12, Chinchwada, Chimbel, Tiswadi,- Goa- 403006					... Complainant VS The Managing Director, Spice Jet Ltd. 319, Udyog Vihar Phase IV, Gurgaon 122016, Haryana, India				... Opposite Party IN WITNESS WHEREOF, the parties have executed this Memorandum of Parties this day of 2024. FOR THE COMPLAINANT: Name: Ameya Gurudas Naik Address: H no.12, Chinchwada, Chimbel, Tiswadi,- Goa- 403006 Age: 34 years Occupation: Professional Boxer FOR THE OPPOSITE PARTY: Name: The Managing Director, Spice Jet Ltd. Address: 319, Udyog Vihar Phase IV, Gurgaon 122016, Haryana, India Please sign the document before a notary public and upload it on the e-daakhil platform.
+
+Human: No, that's all for now. Thanks.
+
+Bot: You're welcome. If you need any further assistance, please don't hesitate to reach out. For immediate assistance, you can also contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App. If you're in Goa, you can also contact the Goa State Commission's helpline number at 0832-242 6155.
+

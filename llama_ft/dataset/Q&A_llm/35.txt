@@ -1,0 +1,49 @@
+<s><INST> I received a defective sofa set. What do I do now? 
+</INST> Hi, I’m your consumer grievance assistance tool. How can I help you? 
+</s> <s><INST> I visited the Jeevan Nagar branch of ABC Furniture Private Limited located in the city of Cosmos on 04/02/2022 at 6:30 pm, and purchased a three-seater sofa. 
+</INST> Okay. Could you please describe the sofa that you purchased? 
+</s> <s><INST> It’s a black three-seater sofa, and the model number is AX672341.
+</INST> What was the cost of the product? 
+</s> <s><INST> Rs 1,50,000/-
+</INST> What was the problem with the sofa? 
+</s> <s><INST> The problem was with the upholstery of the sofa which started peeling off on its own within a few days from the date of purchase.  
+</INST> What is the warranty period of the product? 
+</s> <s><INST> 1 year 
+</INST> Did you ask the company to fix the sofa, or replace the product? 
+</s> <s><INST> Yes, I did, but to no avail. I called them on 10/02/2022 to voice my concerns. They said they would replace the sofa without mentioning the time period for the same, but they didn’t deliver on their promise. 
+</INST> Does the company have an option to raise complaints on its website? 
+</s> <s><INST> Yes, they do. I did that as well on 13/02/2022, but didn’t receive any acknowledgement of the receipt of the complaint. On 14/02/2022, I visited the showroom in person, and on 15/02/2022, I contacted them using their toll free number, but all efforts went in vain.
+</INST> Is there anything else that you would like to add? 
+</s> <s><INST> When I brought up the matter of warranty period for the product, I was informed that issues that arise due to the negligent conduct of the customer would not be covered;hence, the furniture was neither replaced, nor was the issue fixed. 
+</s> <s><INST> I also asked a number of questions about the product before making the purchase, and the seller gave a positive response to all the questions posed by me. 
+</INST> Did you consider sending them a legal notice? 
+</s> <s><INST> Yes, I sent them a legal notice dated 16/02/2022 seeking replacement of the sofa, and an amount of compensation to the tune of Rs 50,000/- for supplying a product of inferior quality.  
+</INST> What was their response? 
+</s> <s><INST> I never received any response
+</INST> Okay, in that case, you can file a complaint on the E-Daakhil platform, or submit the same in person in the District Consumer Dispute Redressal Commission, Cosmos 
+For more information on the E-Daakhil platform, please visit https://edaakhil.nic.in/ . 
+Please note that since the value of the product purchased is less than Rs 5 lakhs, you do not have to pay any court fees, but ensure you have the following documents with you: 
+Receipt of the purchase made 
+Photographs of the product 
+Copies of the emails sent to the opposite party
+Legal Notice sent to the opposite party 
+</INST> If you need any assistance with respect to complaint drafting, please feel free to reach out. 
+</s> <s><INST> Yes, I require assistance in this regard. 
+</INST> Sure, please mention your name, age, occupation, and address, and the furniture company’s name, and address. 
+</s> <s><INST> I am Vinothini, aged 35, and I am a doctor by profession. My residential address is 54/206, 3rd street, Simala Nagar, Cosmos- 30. 
+Company name: ABC Furniture Private Limited 
+Company address: 65/206, 3rd street, Simala Nagar, Cosmos-25
+</INST> Thanks, here’s a draft complaint along with an affidavit and MoP based on the information provided by you. 
+Complaint
+Affidavit
+Memorandum of Parties (MoP)
+</s> <s><INST> Thanks
+</INST> Is there anything else you want me to assist you with? 
+</s> <s><INST> No, thanks 
+</INST> Welcome. Happy to help. I hope you found this conversation useful. Please feel free to contact us again in case of any queries in the future. 
+Meanwhile, you can log on to https://consumeraffairs.nic.in/ , or  dial 1800-11-4000 (National Consumer Helpline) for more information. 
+Stay Alert, Stay Safe 
+Thank you 
+
+ 
+</s>

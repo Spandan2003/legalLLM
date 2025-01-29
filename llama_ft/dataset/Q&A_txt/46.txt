@@ -1,0 +1,57 @@
+(This hypothetical chatbot Q&A is based on CC/21/2023 from Before the District Consumer Disputes Redressal Commission, North Goa at Porvorim)
+
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you?
+User: I have been cheated by a real estate developer agency, they have not allotted me a house even after the payment. 
+Chatbot: That should not be the case. I would try to be of as much help as possible. Can you please tell me more about the incident?
+User: Yes, in April 2019, representatives of Aditya Builders & Developers promised to book a 83.5 sqm flat for me in their Perry's Arcade project, but they have not executed the sale deed despite full payment. 
+Chatbot : Okay. Do you have any brochures or communication regarding this?
+User: Yes, I have the email conversations and brochure copy with project details. As discussed, I signed the booking agreement on 10.04.2019 and transferred the full amount Rs. 7,34,800 to their HDFC bank account ****1234 via RTGS on 25.04.2019.
+Chatbot: Alright. Do you have the booking agreement and payment proof?
+User: Yes I have the agreement and payment receipt ready. But despite repeated requests, they have not executed the sale deed in my favor yet.
+Chatbot: When did you last follow up with them on this?
+User: I have been following up continually since the last 2 years via calls and emails. 
+Chatbot: Okay, thank you for the information. You can file a complaint before the consumer court having jurisdiction to hear the case. For that, you must first send a fifteen-day notice to M/s Aditya Builders and Developers. The same can be sent electronically or by post. Or else, you can also contact the  National  Consumer Helpline using the helpline number 1800-11-4000. The Consumer Helpline will give assistance regarding how you can approach the present dispute. What would you prefer?
+User: I prefer sending legal notice. 
+Chatbot: Certainly. I will need some more information from you related to the matter. Can you please tell me the following: your full name with address, age, and occupation, and the registered address of the builders' details?
+User: Sure. My details are: Mrs. Swati Joshi w/o Mr. Santosh Joshi, residing at Flat No. BF-3, 1st Floor, Perry’s Arcade, Near Sharda Classic, Fatorda, Margao – Salcette Goa- 403602, I am a house wife. The  Opposite Party details are: 2. M/s Aditya Builders and Developers Office at Sincro Towers B-2, 2nd Floor, Behind Margao Municipality, Margao Salcette – Goa- 403601
+
+Chatbot: Thank you for supplying the information! Please find the notice for filing of consumer complaint here. Please note that these are templates that may require certain corrections or modifications and certain details (particularly the date and signature) will need to be filled at your end. 
+User: Thank you. I want to file a consumer complaint; can you guide me?
+Chatbot: Certainly. I would need some more information from you related to the matter to assist you better. What is the relief that you would wish to pursue through the complaint?
+User: I want them to allot  me the flat as promised to me in the agreement, and give me compensation for Rs. 5,00,000/- towards harassment.  
+Chatbot: Thank you! Before I give further details regarding the complaint draft, do you want to claim litigation expenses as well? 
+User: Yes, I want Litigation charges of Rs. 50,000/-. 
+Chatbot: Sure. Since sale consideration is for Rs. 7,34,800/- which is less than Rupees 50 Lakhs Rupees, the complaint will have to be filed in a District Commission. You, as a complainant, reside in Bardez district and the cause of action arises in Bardez. The opposite party carries on business in Margao Salcette . You have the option to file the complaint to North Goa Consumer Disputes Redressal Commission.
+User: Okay, please tell me about the complaint procedure. 
+Chatbot: Sure. Below is the process for filing a consumer complaint at the North Goa Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create an Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to log in to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you have as compensation in the claim amount. 
+9.	Select Goa as the state and North Goa as the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter M/s Aditya Builders and Developers Office at Sincro Towers B-2, 2nd Floor, Behind Margao Municipality, Margao Salcette – Goa- 403601 in the opposite party address section. Select the state and district of the registered address. 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.	In the Complaint section, write the following: 
+“I was promised by representatives of M/s Aditya Budilers and Developers to book a flat measuring 83.5 sqm in the project 'Perry's Arcade' being developed by the opposite parties. I booked the flat through an agreement dated 10.04.2019 and paid the entire sale consideration of Rs. 7,34,800/- to the opposite parties. However, the developers have not executed the sale deed in my favor even after receiving full payment. Despite several oral requests and reminders, the opposite parties ignored the complainants' lawful demands and refused to execute the sale.”
+14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name, and the opposite party, click save and continue. 
+15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+Do you also want me to draft a complaint letter for you?
+
+User: Yes, that would be really helpful.
+
+Chatbot: Excellent, I've generated a pre-filled complaint for you with all the details you've provided. You can find it here. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now?
+ 
+User: Yes, Please. 
+
+Chatbot:  Sure. Here is a draft affidavit and Memorandum of Parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+
+User: No, that's all for now. Thanks.
+
+Chatbot: You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.

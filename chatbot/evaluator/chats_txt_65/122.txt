@@ -1,0 +1,223 @@
+Human: I paid money for developing an android application, but the developer did not fulfill his promise. What do I do now?
+
+Bot: Thank you for sharing your concern. I'd like to help you with this issue.
+
+Can you please tell me what led to this issue with the developer not fulfilling his promise? Was there a specific agreement or contract in place, or was it a verbal agreement?
+
+Human: I entered into an agreement with one Aestheticszz Private Limited for development of an android application. The company promised to finish it within a period of 90 working days from 04/02/2022. The agreement also stipulated time limits for various stages of the process, and I was to be apprised of the same at regular intervals. Besides, I paid a token advance of Rs 40,000/- on 06/02/2022.
+
+Bot: Thank you for sharing the details. It seems like the incident occurred on or after 04/02/2022. Since today's date is 26/09/2024, the incident is within the 2-year time limit for filing a consumer complaint. 
+
+Can you please provide me with information about the current status of the application development? Has the developer stopped responding to your queries, or has the project been abandoned?
+
+Human: The company did not provide any updates. There was no communication regarding the progress made even after the expiry of the time period agreed to in the contract.
+
+Bot: It seems like the company failed to meet their end of the bargain. Can you please tell me when did you last contact the company regarding this issue, and did you receive any response from them?
+
+Human: The total consideration for the service was 1,30,000/- and the final instalment of Rs 50,000/- was paid on 05/03/2022. The company was supposed to share the UI/UX within 20 days from the date of receipt of the token advance.
+
+Bot: It seems like the company has not fulfilled their obligations as per the agreement. Have you tried contacting the company to resolve the issue?
+
+Human: Yes, I sent many emails, but received no response.
+
+Bot: That's unfortunate. The incident occurred on 04/02/2022, and it seems like you paid the final instalment on 05/03/2022. You've been trying to reach out to the company since then. Did you experience any loss due to the company's inaction, such as wasted time or additional expenses?
+
+Human: Yes, I sent a legal notice on 23/03/2022 (23rd March, 2022) asking the company to refund the money already paid towards availing its services, and also pay Rs 50,000/- as compensation
+
+Bot: It has been over 2 years since the incident occurred. The Consumer Protection Act, 2019 has a 2-year time limit for filing a complaint. As today's date is 26/09/2024, it might be challenging to pursue legal action. However, we can still explore other options.
+
+Considering your case, it seems like the company has failed to deliver on their promises, failed to communicate with you, and you've already sent a legal notice. What would you like to do next? Would you like me to help you draft a follow-up notice or explore other soft remedies?
+
+Human: Yes, I would like to.
+
+Bot: To file a consumer complaint, you can approach the District Commission under Section 34 of the Consumer Protection Act, 2019, as the value of the goods or services paid as consideration does not exceed one crore rupees.
+
+Before proceeding, I would like to warn you that the incident occurred on or before 05/03/2022, and the legal time limit to file a complaint is 2 years from the date of the incident. Since today's date is 26/09/2024, you have already exceeded the time limit. However, you can still try to file a complaint, but it might not be entertained by the consumer forum due to the delay.
+
+Would you like to proceed with filing a complaint despite the time limit?
+
+Human: I live in the city of Cosmos
+
+Bot: I couldn't find any information on a city named "Cosmos". Could you please provide me with the name of your city or state? This will help me guide you on the next steps and provide you with the correct contact details for filing a consumer complaint.
+
+Also, just to confirm, you would like to file a complaint against Aestheticszz Private Limited for not fulfilling their obligations under the agreement?
+
+Human: Yes, it would be really helpful if you share a template that I could use for reference
+
+Bot: Here's a template for a consumer complaint that you can use as a reference:
+
+**MEMORANDUM OF PARTIES**
+
+1. The Complainant:
+   a. Name: [Your Name]
+   b. Address: [Your Address]
+   c. Contact Number: [Your Contact Number]
+   d. Email ID: [Your Email ID]
+
+2. The Opposite Party:
+   a. Name: Aestheticszz Private Limited
+   b. Address: [Address of Aestheticszz Private Limited]
+   c. Contact Number: [Contact Number of Aestheticszz Private Limited]
+   d. Email ID: [Email ID of Aestheticszz Private Limited]
+
+**COMPLAINT**
+
+To,
+The President, District Consumer Disputes Redressal Forum, Cosmos
+
+Subject: Complaint against Aestheticszz Private Limited for Non-Performance of Contract
+
+The Hon'ble President,
+
+This complaint is filed under Section 12 of the Consumer Protection Act, 2019 against Aestheticszz Private Limited for non-performance of the contract for the development of an Android application.
+
+**FACTS OF THE CASE**
+
+1.  On [Date], the Complainant entered into an agreement with Aestheticszz Private Limited for the development of an Android application.
+2.  The agreement stipulated that the application would be completed within a period of 90 working days from [Date].
+3.  The Complainant paid a token advance of Rs. 40,000/- on [Date] and the final instalment of Rs. 50,000/- on [Date].
+4.  Despite repeated emails and reminders, Aestheticszz Private Limited failed to provide any updates on the progress of the project.
+5.  The Complainant sent a legal notice to Aestheticszz Private Limited on [Date] demanding a refund of the amount paid and compensation of Rs. 50,000/-.
+
+**RELIEF SOUGHT**
+
+The Complainant seeks the following relief:
+
+1.  Refund of the amount paid to Aestheticszz Private Limited.
+2.  Compensation of Rs. 50,000/- for the loss suffered due to the non-performance of the contract.
+3.  Any other relief that the Hon'ble Forum may deem fit and proper.
+
+**STATEMENT OF FACTS**
+
+[Please provide a detailed statement of facts, including dates, times, and any other relevant information]
+
+**DOCUMENTS ATTACHED**
+
+[Please attach all relevant documents, including the agreement, payment receipts, emails, and any other evidence]
+
+**VERIFICATION**
+
+I, [Your Name], hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+**PLACE**
+
+[Your Signature]
+
+[Your Name]
+
+Date: [Current Date]
+
+Please note that this is just a template and you should modify it according to your specific case. Also, make sure to attach all relevant documents and evidence to support your complaint. If you need any further assistance, feel free to ask.
+
+Human: I am Bruno, and my age is 45. I work as a graphic designer. My residential address is 56/879, 4th street, Sunset Avenue, Cosmos- 32. Name: Aestheticszz Private Limited Address: 2nd Cross Street, Jeevan Nagar, Cosmos-60
+
+Bot: Here's a draft of a consumer complaint that you can use as a reference:
+
+**MEMORANDUM OF PARTIES**
+
+To,
+The President,
+Cosmos District Consumer Disputes Redressal Commission,
+Cosmos.
+
+**Complainant**
+
+1. Mr. Bruno
+Age: 45
+Occupation: Graphic Designer
+Address: 56/879, 4th Street, Sunset Avenue, Cosmos-32
+
+**Opposite Party**
+
+1. Aestheticszz Private Limited
+Address: 2nd Cross Street, Jeevan Nagar, Cosmos-60
+
+**COMPLAINT**
+
+1. That the complainant, Mr. Bruno, entered into an agreement with the opposite party, Aestheticszz Private Limited, for the development of an android application on 04/02/2022.
+2. That the opposite party was required to complete the project within a period of 90 working days from the date of the agreement.
+3. That the complainant paid a token advance of Rs 40,000/- on 06/02/2022 and the final instalment of Rs 50,000/- on 05/03/2022.
+4. That despite repeated emails and requests, the opposite party failed to provide any updates on the progress of the project.
+5. That the opposite party failed to provide the UI/UX within 20 days from the date of receipt of the token advance, as per the agreement.
+6. That the complainant sent a legal notice to the opposite party on 23/03/2022, demanding a refund of the amount paid towards the services availed and compensation of Rs 50,000/-.
+
+**RELIEF**
+
+The complainant prays that the Commission may be pleased to pass an order directing the opposite party to refund the amount of Rs 1,90,000/- (Rs 40,000/- + Rs 50,000/-) paid towards the services availed, along with interest at the rate of 18% per annum from the date of payment till the date of refund, and to pay compensation of Rs 50,000/-.
+
+**VERIFICATION**
+
+I, Mr. Bruno, hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+**PLACE**
+
+Cosmos.
+
+**DATE**
+
+26/07/2024.
+
+Please note that this is just a draft and you may need to modify it as per your specific requirements. Also, please ensure that you have attached all the necessary documents, including the original bill/invoice for the payment made, contract (original), copy of the emails sent to the opposite party, and original legal notice, when filing your complaint.
+
+Human: Refund the money already paid towards availing its services, and also pay Rs 50,000/- as compensation
+
+Bot: Here's a draft of the consumer complaint that you can use as a reference:
+
+**MEMORANDUM OF PARTIES**
+
+1.  The Complainant:
+    a. Name: Bruno
+    b. Age: 45 years
+    c. Address: 56/879, 4th street, Sunset Avenue, Cosmos- 32
+    d. Occupation: Graphic Designer
+2.  The Opposite Party:
+    a. Name: Aestheticszz Private Limited
+    b. Address: 2nd Cross Street, Jeevan Nagar, Cosmos-60
+
+**COMPLAINT**
+
+To, The Hon'ble President,
+Cosmos District Consumer Disputes Redressal Forum,
+
+The complaint of Bruno, aged 45 years, resident of 56/879, 4th street, Sunset Avenue, Cosmos- 32, against Aestheticszz Private Limited, a company having its registered office at 2nd Cross Street, Jeevan Nagar, Cosmos-60, is as under:
+
+1.  That the complainant had entered into an agreement with the opposite party on 04/02/2022 for development of an android application.
+2.  The opposite party had received a token advance of Rs 40,000/- on 06/02/2022 and the final instalment of Rs 50,000/- on 05/03/2022, making the total consideration for the service Rs 1,30,000/-
+3.  The opposite party was required to complete the project within a period of 90 working days from 04/02/2022, with specific time limits for various stages of the process, and the complainant was to be apprised of the same at regular intervals.
+4.  Despite the passage of time, the opposite party failed to provide any updates or communicate with the complainant, thereby breaching the terms of the agreement.
+5.  The complainant had sent several emails to the opposite party, but received no response.
+6.  On 23/03/2022, the complainant had sent a legal notice to the opposite party, demanding a refund of the money already paid towards availing its services, and compensation of Rs 50,000/-.
+7.  Despite the legal notice, the opposite party has failed to respond or take any action.
+
+**RELIEF**
+
+The complainant prays that this Hon'ble Forum may be pleased to pass an order directing the opposite party to refund the amount of Rs 1,30,000/- (Rupees One Lakh Thirty Thousand Only) paid towards availing its services, and to pay a compensation of Rs 50,000/- (Rupees Fifty Thousand Only) for the harassment and mental agony caused to the complainant.
+
+**Verification**
+
+I, Bruno, the complainant, hereby verify that the contents of the complaint are true to the best of my knowledge and belief.
+
+Signature of the Complainant: ______________________________
+
+Date: _______________________________________
+
+Please note that this is just a draft, and you should modify it as per your specific needs and circumstances. Also, you may need to attach supporting documents such as the agreement, payment receipts, emails, and the legal notice. 
+
+You can now file this complaint through the E-Daakhil portal or submit a physical copy to the commission.
+
+Human: Thanks
+
+Bot: You're welcome. Please note that the draft complaint and affidavit are for reference purposes only. It's always best to consult with a consumer court lawyer or a lawyer specializing in consumer law to get your complaint reviewed and certified before filing it with the court.
+
+Also, please ensure that you have all the necessary documents ready, such as the agreement, emails, and payment receipts, before filing your complaint.
+
+If you need any further assistance or have any questions, feel free to ask.
+
+You can also contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance.
+
+Is there anything else I can help you with?
+
+Human: No, thanks
+
+Bot: You can contact the National Consumer Helpline at 1800-11-4000 for any immediate assistance. Additionally, you can use the UMANG App for further assistance. If you need help with anything else, feel free to reach out to me anytime.
+

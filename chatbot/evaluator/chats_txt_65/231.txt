@@ -1,0 +1,215 @@
+Human: I ordered and paid for 100kg pepper and 1kg cumin from the opposite party but never received the items. What are my remedies?
+
+Bot: Thank you for sharing your concern. I'd be happy to help you with that.
+
+To better understand your situation, could you please tell me what led to this issue? Was the order placed online or through a physical store? Was there a tracking number provided, and if so, what is the status of the tracking?
+
+Human: I ordered 100 kg of pepper and 1 kg cumin in two orders from Real More International via vide order no. 2, 4. I paid the full amount of Rs.21,800/- and Rs. 20,895/-, vide Invoice no. W2, Date: 10/12/2021 in advance. In fact, I was also provided the lorry receipts of the same through Whatsapp and Mr Ashik, claiming to be the CEO of the company stated that the item was dispatched. However, the receipts were fake and nothing was ever dispatched.
+
+Bot: Thank you for sharing the details. It seems like you've been a victim of a scam. The fact that you were provided fake lorry receipts and the company never dispatched the items is a clear case of unfair trade practice.
+
+Can you please tell me the date when you first realized that the items were not dispatched? And also, do you have any communication with the company after you realized that the items were not dispatched?
+
+Human: Yes, I did report the issue to them several times. In fact, I visited their office multiple times but it was often locked. I even asked them to either provide the product or refund the full amount paid but have received no satisfactory response.
+
+Bot: It seems like the company is not responding to your complaints. Given that you have already made multiple attempts to reach out to them, and they have not provided any satisfactory response, it appears that you may need to take further action.
+
+Can you please confirm the date when you first reported this issue to the company? Also, are you aware of the statute of limitations for filing a consumer complaint in India, which is 2 years from the date of the incident?
+
+Human: I only want compensation.
+
+Bot: Given the circumstances, you have every right to seek compensation for the amount you paid to Real More International. Since they have refused to refund or provide the products, you can consider filing a complaint with the Consumer Forum or District Consumer Dispute Redressal Forum. 
+
+Before that, I can help you draft a legal notice to the company, requesting them to refund the amount. Would you like me to assist you in drafting the notice? 
+
+Also, you can also contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance.
+
+Human: I want a full refund of the amount paid (Rs 42,695) and compensation of Rs 20,000.
+
+Bot: Since the incident occurred on 10/12/2021, it's been over 2 years, which might make it difficult to file a complaint in a consumer court. However, we can still try to pursue other options. Have you considered filing a complaint with the National Consumer Helpline (1800-11-4000) or using the e-daakhil portal (http://edaakhil.nic.in/) for assistance?
+
+Human: Yes, please.
+
+Bot: Here's a draft of the legal notice:
+
+**NOTICE**
+
+To,
+Real More International,
+[Their Address]
+
+Subject: Demand for Refund and Compensation for Non-Delivery of Goods
+
+Respected Sir/Madam,
+
+Re: Non-Delivery of 100 kg Pepper and 1 kg Cumin Ordered vide Order Nos. 2 and 4
+
+We are writing to bring to your notice that we had placed an order for 100 kg of pepper and 1 kg of cumin with your company vide order nos. 2 and 4 on [date of order]. We had paid the full amount of Rs. 21,800 and Rs. 20,895 respectively, vide invoice nos. W2, dated 10/12/2021. However, despite repeated assurances and visits to your office, we have not received the goods.
+
+We were also provided with fake lorry receipts through WhatsApp, which were claimed to be proof of dispatch. We have been unable to get any satisfactory response from your company, despite our repeated requests for a refund or delivery of the goods.
+
+We hereby demand a full refund of the amount paid, i.e., Rs. 42,695, along with compensation of Rs. 20,000 for the mental agony and harassment caused to us due to your company's negligence and unfair trade practices.
+
+You are hereby given a period of 15 days from the date of receipt of this notice to refund the amount and pay the compensation. If we do not receive a satisfactory response within this period, we will be forced to take further action, including filing a complaint with the Consumer Forum.
+
+Yours faithfully,
+
+[Your Name]
+
+Please note that this is just a draft and you should modify it according to your needs and requirements. Also, please ensure that you send this notice to the correct address and keep a record of the same.
+
+Before sending the notice, do you want to make any changes to it?
+
+Human: My name is Balachandran T , S/o.M Kuttisankaran. I am a resident of House No 9, Lane No 32, Janatha Road, Vytilla, Ernakulam-682019. M/S Real More International Pvt.Ltd., is located in Pipe line road, Near Govt. LP School,Padivattom Post, Ernakulam- 682025.
+
+Bot: Here's a draft of the legal notice:
+
+**NOTICE**
+
+To,
+Real More International Pvt. Ltd.,
+Near Govt. LP School,
+Padivattom Post, Ernakulam- 682025.
+
+Subject: Demand for Refund and Compensation for Defective Transaction
+
+Respected Sir/Madam,
+
+Re: Non-delivery of Goods and Non-refund of Amount paid vide Order Nos. 2 and 4
+
+This is to bring to your notice that on 10/12/2021, I, Balachandran T, S/o M Kuttisankaran, residing at House No 9, Lane No 32, Janatha Road, Vytilla, Ernakulam-682019, ordered 100 kg of pepper and 1 kg of cumin from your company vide Order Nos. 2 and 4. I paid the full amount of Rs. 42,695/- vide Invoice Nos. W2 and W3 respectively.
+
+Despite receiving the lorry receipts and assurance from your representative, Mr. Ashik, claiming to be the CEO, that the goods were dispatched, I have not received the goods and the amount paid remains unpaid. The receipts provided to me were fake.
+
+As a result, I am left with no option but to demand a full refund of the amount paid, i.e., Rs. 42,695/-, along with compensation of Rs. 20,000/- for the mental agony suffered due to your company's negligence and unfair trade practices.
+
+You are hereby given a notice to refund the amount paid and provide compensation within 15 days from the receipt of this notice. Failure to comply with this demand will lead to further legal action.
+
+Please acknowledge receipt of this notice and confirm the steps you intend to take to rectify the situation.
+
+Yours faithfully,
+
+Balachandran T,
+S/o M Kuttisankaran.
+
+Please note that this is a draft and you may need to modify it according to your needs. Also, please send this notice via registered post to the company and keep a record of the same.
+
+Also, if you want to file a complaint with the National Consumer Helpline, the number is 1800-11-4000. You can also use the UMANG App for immediate assistance.
+
+Human: How do I go about filing a complaint in court?
+
+Bot: To file a complaint in court, you will need to follow these steps:
+
+1.  The complaint should be in writing and contain all relevant details.
+2.  Complaints can be filed in person or through an agent.
+3.  They can also be sent by registered post along with the required court fee.
+4.  Complaints can be filed online at the e-daakhil portal: http://edaakhil.nic.in/.
+
+Please note that you should submit three copies of the complaint: one for the court, one for the opposite party, and one for yourself.
+
+You can also contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance.
+
+Additionally, you can contact the District Consumer Dispute Redressal Forum, Ernakulam, Kerala for filing a complaint. The address is: District Consumer Dispute Redressal Forum, Ernakulam, District Consumer Dispute Redressal Forum Building, 1st Floor, District Collectorate Campus, Kacheripady, Kochi-682 002.
+
+Human: Ernakulam is more convenient for me.
+
+Bot: So, you would like to file the complaint in the Ernakulam District Consumer Disputes Redressal Forum. To do so, you'll need to prepare the necessary documents and follow the procedure. I can guide you through it. 
+
+You'll need to fill out the complaint form, which can be downloaded from the consumerhelpline.gov.in website. You'll also need to attach the documents you have, such as the order receipts, invoices, and any other relevant evidence.
+
+Once you have the completed form and documents, you can submit them to the Ernakulam District Consumer Disputes Redressal Forum. You can find the contact details of the forum on the website or by contacting the National Consumer Helpline at 1800-11-4000.
+
+Do you need help in drafting the complaint form or preparing the documents?
+
+Human: Yes, please.
+
+Bot: Here's a checklist of documents required for filing a complaint in the Ernakulam District Consumer Court:
+
+1. Index: A list of all the documents attached, paginated and indexed.
+2. List of Dates: A chronological list of events relevant to the complaint.
+3. Memorandum of the Parties: Details of you and Real More International Pvt. Ltd., including complete address and contact details.
+4. Complaint with Notarized Affidavit: The complaint along with a notarized attested affidavit.
+5. Requisite Fee: Payment proof of the fee required for filing the complaint.
+6. Supporting Documents and Evidences: 
+   a. Invoice of purchase
+   b. Evidence of the deficiency claimed (e.g., lorry receipts provided by Real More)
+   c. Evidence of non-delivery of goods
+   d. Any other relevant documents that support your claim
+7. Application for Condonation of Delay: If there is a delay of more than 2 years from the cause of action, an application for the condonation of delay with a notarized and attested affidavit should be filed.
+
+You can also file the complaint online through the e-daakhil portal: http://edaakhil.nic.in/.
+
+Human: Yes, please.
+
+Bot: Here is a draft complaint:
+
+IN THE ERNAKULAM DISTRICT CONSUMER DISPUTES REDRESSAL FORUM
+
+Case No. _______________________
+
+BEFORE THE PRESIDENT, ERNAKULAM DISTRICT CONSUMER DISPUTES REDRESSAL FORUM
+
+COMPLAINT PETITION No. _______________________
+
+IN THE MATTER OF:
+BALACHANDRAN T.,
+S/o M. KUTTISANKARAN,
+House No. 9, Lane No. 32,
+Janatha Road, Vytilla,
+Ernakulam - 682019
+
+... PLAINTIFF
+
+VERSUS
+
+M/s REAL MORE INTERNATIONAL PVT. LTD.,
+Pipe Line Road, Near Govt. LP School,
+Padivattom Post, Ernakulam - 682025
+
+... RESPONDENT
+
+COMPLAINT PETITION
+
+To the Hon'ble President, Ernakulam District Consumer Disputes Redressal Forum,
+
+This Complaint Petition is filed by the Complainant, Balachandran T., S/o M. Kuttisankaran, against the Respondent, M/s Real More International Pvt. Ltd., under the provisions of the Consumer Protection Act, 2019.
+
+FACTS OF THE CASE:
+
+1. The Complainant, Balachandran T., purchased 100 kgs of pepper and 1 kg of cumin from the Respondent, M/s Real More International Pvt. Ltd., vide order no. 2 for Rs.21,800/- and order no. 4 for Rs.20,895/- respectively.
+2. The Complainant paid the full amount in advance as per the invoice nos. W2 dated 10/12/2021.
+3. The Respondent provided the Complainant with purported lorry receipts over WhatsApp claiming that the goods were dispatched. However, the said receipts turned out to be fake and the Complainant never received the goods ordered and paid for.
+4. Despite repeated requests and visits to the Respondent's office, the Respondent failed to either deliver the said goods or refund the amounts totaling Rs.42,695/- paid by the Complainant.
+
+CAUSE OF ACTION:
+
+The Complainant alleges that the Respondent has committed a deficiency in service by failing to deliver the goods ordered and paid for, and by providing fake lorry receipts. This amounts to a willful unfair trade practice, fraud and negligence on the part of the Respondent.
+
+RELIEF:
+
+The Complainant prays that this Hon'ble Forum may be pleased to pass an order directing the Respondent to refund the total amount of Rs.42,695/- along with compensation of Rs.20,000/- towards costs incurred and mental harassment caused, totaling to Rs.62,695/- (Rupees Sixty Two Thousand Six Hundred and Ninety Five only).
+
+REMEDY:
+
+The Complainant submits that the Respondent has committed a deficiency in service and has failed to comply with the provisions of the Consumer Protection Act, 2019. The Complainant is entitled to the relief prayed for in the complaint petition.
+
+VERIFICATION:
+
+I, Balachandran T., S/o M. Kuttisankaran, hereby verify that the contents of the complaint petition are true to the best of my knowledge and belief.
+
+Verified at Ernakulam this [date] day of [month], [year].
+
+Signature of the Complainant
+
+You can now file this complaint on the e-Daakhil portal.
+
+Human: Yes, please.
+
+Bot: I have generated the draft complaint. You can download it, fill in the details, sign it before a notary public, scan it as a pdf and upload it to the e-daakhil portal. You also need to submit an affidavit and a memo of parties. Do you want me to generate those as well? 
+
+Also, please note that you can file your complaint with the National Consumer Helpline (1800-11-4000) or UMANG App for immediate assistance. Is there anything else you need help with?
+
+Human: No, that's all for now. Thanks.
+
+Bot: You're welcome. You're welcome. If you need any further assistance or have any other queries, feel free to ask.
+

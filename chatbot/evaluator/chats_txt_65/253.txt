@@ -1,0 +1,200 @@
+Human: On 21/04/2015, I went to a scanning centre on the advice of Dr K.R Sharif at CSI REDFERN MEMORIAL HOSPITAL, for a C.T Chest scan as I had been suffering from fever, headache, nausea, and puffiness for more than 3 days. In the scanning centre, I was given an injection by an unskilled person before my scan. This injection caused me to get thrombolysed, and I suffered from acute IWMI changes, mild LV dysfunction, single-vessel coronary artery disease, and spontaneous dissection of RCA.
+
+Bot: Thank you for sharing your concern with me. I'm here to help you with your consumer grievance.
+
+To better understand your issue, can you please tell me what led to this incident at the scanning centre? Was it an error on their part, or was there something else that caused this situation?
+
+Human: After I developed these conditions, I was immediately referred to Apollo Hospital on the advice of Dr Sharif, where I had to spend a huge sum of Rs 1,03,071 towards treatment and Rs 50,000 for transportation and food for the period of treatment from 21/04/2015 to 26/04/2015.
+
+Bot: It seems like you've suffered a significant financial burden due to the incident. I'd like to inform you that the Consumer Protection Act, 2019 has a statute of limitation of 2 years. Since the incident occurred on 21/04/2015, it's almost 9 years ago. However, you can still explore the possibility of filing a complaint, but you may need to approach the court for an extension of time.
+
+Can you please tell me if you have any evidence or documents related to the incident, such as the medical reports, bills, and communication with Dr. K.R. Sharif or the scanning centre?
+
+Human: The scanning centre is called Janapriya 3D/4D Ultra Sound Scan Centre and is located at Shankar Mutt Road, 2nd Cross, Opposite Ayappa Swamay Temple, K.R Puram, Hassan. I paid a sum of Rs 3,600 for the scan and Rs 1,800 for the venous Doppler.
+
+Bot: It seems that the scanning centre and the doctor (Dr. K.R Sharif) may be liable for the damages you suffered due to the unskilled administration of the injection. 
+
+Please confirm if you would like to take any legal action against the scanning centre and Dr. K.R Sharif. If yes, I can guide you on the next steps, including drafting a legal notice.
+
+Human: Yes, I have the prescription from CSI REDFERN Memorial Hospital dated 24/11/2015, a report from the scan centre dated 21/04/2015, and a copy of the discharge summary from Apollo Hospital.
+
+Bot: It seems that the incident occurred more than 9 years ago, which is beyond the 2-year statute of limitations for filing a consumer complaint in India. However, I can guide you on the grounds for a complaint, which you may consider filing if you wish to pursue the matter. 
+
+The grounds available for a complaint in this case are:
+
+- There is a breach of duty by the doctor (Dr. K.R. Sharif) because of which an injury is caused.
+- The consent of a person/patient before performing acts like surgical operations and in some cases treatment as well, has not been obtained.
+- Damage to organs due to negligence.
+- Wrong treatment due to wrong diagnosis.
+
+If you still wish to pursue the matter, I can help you draft a legal notice to the scanning centre and Dr. K.R. Sharif. Would you like me to assist with that?
+
+Human: Yes, I sent the scanning centre a legal notice on 01/08/2015 alleging deficiency of service and medical negligence. In response, they sent a reply notice on 20/08/2015 denying my allegations.
+
+Bot: It seems that you have already initiated a complaint with the scanning centre. Since the incident occurred on 21/04/2015, it's within the 2-year time limit for filing a complaint. 
+
+Considering the severity of the consequences you faced, you may want to consider taking further legal action. Have you thought about filing a case with the Consumer Forum (District Commission, State Commission, or National Commission) or seeking mediation?
+
+Human: I would like to file a complaint.
+
+Bot: To file a complaint, you will need to draft a complaint in writing and submit it to the District Consumer Dispute Redressal Forum. I can assist you in drafting the complaint.
+
+Before we proceed, let's confirm some details. The scanning centre is located at Shankar Mutt Road, 2nd Cross, Opposite Ayappa Swamay Temple, K.R Puram, Hassan. The cost of the C.T scan was Rs 3,600 and the venous Doppler was Rs 1,800. You paid a total of Rs 1,03,071 towards treatment at Apollo Hospital and Rs 50,000 for transportation and food. The incident occurred on 21/04/2015.
+
+Would you like me to draft a complaint based on these details?
+
+Human: My name is Bhavya S.S, and my husband is Nagendra. I am 32 years old and reside at Jayanagara Extension, Salagame Road, Hassan.
+
+Bot: Based on the information you provided, it seems that the value of the services paid as consideration (Rs. 5,400 for the scan and Rs. 1,800 for the venous Doppler) does not exceed one crore rupees. Therefore, you can approach the District Consumer Dispute Redressal Forum (DCDRF) in Hassan.
+
+Before filing a complaint, I would like to confirm if you want to pursue legal action against the scanning centre or if you would like to try to resolve the issue through a settlement or mediation.
+
+Also, do you have any idea about the current status of the case against the scanning centre, since you sent a legal notice to them in 2015?
+
+Human: I want a refund of Rs 15,00,000 for the deficiency of service and medical negligence as I spent Rs 1,53,071 toward hospital expenses at Apollo Hospitals and Rs 5,400 at the scanning centre.
+
+Bot: You are seeking a total of Rs 15,00,000 as compensation for the deficiency of service and medical negligence. However, since the incident occurred on 21/04/2015, it's been more than 9 years, which is beyond the 2-year statute of limitations for filing a consumer complaint under the Consumer Protection Act, 2019. This means that you may not be eligible to file a complaint under the Act. Nevertheless, you can still approach the court for relief, but it would be a civil suit. Would you like me to guide you on drafting a legal notice for the same?
+
+Human: Yes, please.
+
+Bot: I can provide you with a draft of the complaint letter and legal notice. However, please note that it's always best to consult a lawyer for a more accurate and personalized document. That being said, here's a draft:
+
+**Draft of the Complaint Letter:**
+
+To,
+The District Consumer Disputes Redressal Forum, Hassan
+Hassan, Karnataka
+
+Subject: Complaint against Janapriya 3D/4D Ultra Sound Scan Centre for deficiency of service and medical negligence
+
+Dear Sir/Madam,
+
+I, Bhavya S.S., a resident of Jayanagara Extension, Salagame Road, Hassan, Karnataka, file this complaint against Janapriya 3D/4D Ultra Sound Scan Centre, located at Shankar Mutt Road, 2nd Cross, Opposite Ayappa Swamay Temple, K.R Puram, Hassan, for deficiency of service and medical negligence.
+
+On 21/04/2015, I underwent a C.T Chest scan at the scanning centre on the advice of Dr. K.R. Sharif at CSI REDFERN Memorial Hospital. During the scan, I was given an injection by an unskilled person, which led to thrombolysed, acute IWMI changes, mild LV dysfunction, single-vessel coronary artery disease, and spontaneous dissection of RCA. I was immediately referred to Apollo Hospital and had to spend Rs 1,03,071 towards treatment and Rs 50,000 for transportation and food.
+
+I had paid a sum of Rs 3,600 for the scan and Rs 1,800 for the venous Doppler. Despite sending a legal notice on 01/08/2015, the scanning centre has denied any liability.
+
+I seek a compensation of Rs 15,00,000 (including Rs 13,41,529 as compensation for medical negligence, deficiency of service, and mental agony) and a refund of the amount paid to the scanning centre.
+
+Please take necessary action in this matter.
+
+Yours faithfully,
+Bhavya S.S.
+
+**Draft of the Legal Notice:**
+
+To,
+Janapriya 3D/4D Ultra Sound Scan Centre
+Shankar Mutt Road, 2nd Cross, Opposite Ayappa Swamay Temple, K.R Puram, Hassan, Karnataka
+
+Subject: Legal Notice for Deficiency of Service and Medical Negligence
+
+Dear Sir/Madam,
+
+Re: Deficiency of service and medical negligence
+
+You are hereby served with this legal notice, demanding an explanation for the deficiency of service and medical negligence committed by your centre.
+
+On 21/04/2015, I underwent a C.T Chest scan at your centre on the advice of Dr. K.R. Sharif at CSI REDFERN Memorial Hospital. During the scan, I was given an injection by an unskilled person, which led to thrombolysed, acute IWMI changes, mild LV dysfunction, single-vessel coronary artery disease, and spontaneous dissection of RCA. I was immediately referred to Apollo Hospital and had to spend Rs 1,03,071 towards treatment and Rs 50,000 for transportation and food.
+
+I had paid a sum of Rs 3,600 for the scan and Rs 1,800 for the venous Doppler. Despite the gravity of the situation, your centre failed to take responsibility for the negligence and has denied any liability.
+
+We demand an explanation for the following:
+
+1. Why did your centre allow an unskilled person to administer the injection?
+2. Why did your centre fail to take responsibility for the negligence and deny any liability?
+3. What steps will your centre take to prevent such incidents in the future?
+
+We expect a response within 30 days from the date of receipt of this notice. Failure to respond or take necessary action will lead to further legal action.
+
+Yours faithfully,
+Bhavya S.S.
+
+Please note that this is a draft and may require modifications based on your specific case. I recommend consulting a lawyer to ensure that the documents are accurate and effective.
+
+Would you like me to assist you with anything else?
+
+Human: Yes, please.
+
+Bot: Here are the draft Memorandum of Parties and Affidavit.
+
+MEMORANDUM OF PARTIES
+
+IN THE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION, KARNATAKA, AT HASSAN
+
+COMPLAINT CASE NO. _______________________ OF 20_____
+
+MRS. BHAVYA S.S
+W/o Nagendra
+Age 32 years
+Residing at Jayanagara Extension, Salagame Road, Hassan
+
+Complainant
+
+VERSUS
+
+THE DIRECTOR/ MANAGER
+JANAPRIYA 3D/4D ULTRA SOUND SCAN CENTRE
+Shankar Mutt Road, 2nd Cross, Opposite Ayappa Swamay Temple, K.R Puram, Hassan
+
+Opposite Party
+
+AFFIDAVIT
+
+IN THE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION, KARNATAKA, AT HASSAN
+
+COMPLAINT CASE NO. _______________________ OF 20_____
+
+MRS. BHAVYA S.S
+W/o Nagendra
+Age 32 years
+Residing at Jayanagara Extension, Salagame Road, Hassan
+
+Complainant
+
+I, Mrs. Bhavya S.S, do solemnly affirm and state on oath that the contents of the above complaint are true and correct to the best of my knowledge and belief.
+
+I am the complainant in the above complaint and I am competent to verify the same.
+
+I have not filed any other complaint before any other Forum in respect of the same cause of action.
+
+I have not any other legal proceedings pending in any Court of Law in respect of the same cause of action.
+
+I have attached all the documents relevant to the complaint.
+
+I have verified the contents of the complaint and I am aware of the consequences of making false statements.
+
+I request the Hon’ble Commission to pass an order in the above complaint.
+
+VERIFICATION
+
+I, Mrs. Bhavya S.S, do hereby state on the solemn affirmation that the contents of the above affidavit are read over and explained to me in my vernacular, and the same is found to be true and correct to the best of my knowledge, belief, and information.
+
+HASSAN
+Date _______________________
+
+Complainant
+
+Please note that you need to sign and notarize the complaint, Memorandum of Parties, and Affidavit, and upload them on the e-Daakhil portal along with the supporting documents.
+
+Human: Yes, please.
+
+Bot: To file a complaint on the e-Daakhil portal, follow these steps:
+
+1.  Go to the e-Daakhil portal: [http://edaakhil.nic.in/](http://edaakhil.nic.in/)
+2.  Click on the "File a New Case" button.
+3.  Select "Consumer Complaint" as the case type.
+4.  Enter the details of the complaint, including the name and address of the complainant and opposite party.
+5.  Attach the scanned copies of the complaint, affidavit, and memorandum of parties.
+6.  Pay the required court fee.
+7.  Submit the complaint.
+
+You can also contact the National Consumer Helpline on 1800-11-4000 for assistance with filing the complaint. They can guide you through the process and provide any additional information you may need.
+
+Is there anything else I can assist you with?
+
+Human: No, thank you.
+
+Bot: You're welcome. If you need any further assistance, please feel free to ask. Also, please note that you can contact the National Consumer Helpline on 1800-11-4000 for immediate assistance. You can also download the UMANG App to file a complaint or seek assistance. Is there anything else I can help you with?
+

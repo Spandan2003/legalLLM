@@ -1,0 +1,49 @@
+<s><INST> Hello, I have been deceived by the service centre with regard to service for my bike. 
+</INST> I'm sorry to hear that. Can you provide more details about how you were deceived by the service centre and for which bike?
+</s> <s><INST> I have a Yamaha Fascino Vehicle, Model no.125 FI hybrid, bearing no. TN-58-AP-7864. I gave it to the authorised service centre at Kochadai, Madurai. I had applied for an “annual maintenance contract”. As per the annual contract I was given 3 free services without any labour charge and 2 free wash. But when I approached the service centre after using 2 free services and one free wash, the third service was supposed to be free but they charged me Rs. 460 for the service instead of giving free service. 
+</INST>. Please give additional information, so that I can understand the full timeline of events. What is the name and the address of the service centre where you gave your bike for service? 
+</s> <s><INST> M/s. Alagendra Auto, Yamaha Bike Service, No.173-C, Natraj Nagar Main Road,Kochadai, Madurai – 16.
+</INST> When did you initially purchase the annual maintenance contract from the Yamaha service centre? How much did you pay for the annual maintenance contract?
+</s> <s><INST>: I purchased the annual maintenance contract on January 4, 2021. For a payment of Rs 999, I was supposed to get 3 free services without any labour charges and 2 free water washes. 
+</INST> Okay, and on that same initial visit on January 4, did you receive any documentation for the Annual Maintenance purchase and the first free service? Did you avail any free service from the service centre.
+</s> <s><INST>Yes, they gave me a receipt for the AMC payment of Rs 999 (Bill #GES8826) and a job card for the first free service (Job Card #60183A). The first service invoice also mentioned the next service would be due on March 4.Yes, I have availed 2 free services but when I went for the 3rd free service the service centre denied me the last free service and charged me labour fees.
+</INST>:Great, those receipts will be useful evidence. And when did you go in for the second free service under the AMC?: 
+</s> <s><INST> I went in on May 4 for the second service. 
+</INST> Understood. It seems up until that point, everything was going smoothly under the contract. When did things go wrong? 
+</s> <s><INST> On November 23 when I went for my third service, which should have been free under the AMC. But this time, they charged me labour fees of Rs 460 in the invoice even though I submitted the final coupon.
+</INST> And did you keep those coupon receipts safely as they will be used as evidence. 
+</s> <s><INST> Yes, I have the receipt of the bill that mentions free service on Jan 4 2021 and May 4 2021. 
+</INST> I see. So for that third visit, do you have an invoice showing the labour fees which should not have been charged according to the terms of the annual maintenance contract.
+</s> <s><INST> Yes, the invoice number is GES8962 and it shows the Rs 1307 that includes Rs 460.20 as labour fee, which should have been free,
+</INST> Did you inform the service centre about the extra charge in the invoice for the service of the bike even though the last free service was available to you?
+</s> <s><INST> Yes, I took up the issue with the manager of the service centre but they did not have any positive reply and withheld my bike and asked me to make full payment of  	Rs. 1,307 which included Rs. 460.20 as labour charge. 
+</INST>  Can you also tell on what date you make the payment for the 3rd service and for how much time the bike was withheld by the service provider?
+</s> <s><INST> I made the payment for the 3rd service on 20.01.2022. They withhold my bike from 23 Nov. 2021 to 20 Jan 2022. Can you help me with the remedy that I have under the law?
+</INST> You have two options, first is to send the legal notice and the second is to file a complaint with the consumer forum. 
+</s> <s><INST> Kindly, draft another legal notice and the complaint. 
+</INST> Thank you! .I will generate the complaint and the notice. Please note that the jurisdiction of the above would be Madurai as both the parties reside in Madurai. Before proceeding with the complaint could you please provide the address of both the parties? 
+</s> <s><INST> I am S.Pugazhendhi and working as teacher at government school and resident of D.No.331, Thamaraiveethi, Natraj Nagar, Madurai – 16 and the opposite party is the resident of  M/s. Alagendra Auto, Yamaha Bike Service, No.173-C, Natraj Nagar Main Road, Kochadai, Madurai – 16.
+</INST> In order to file a complaint you will need information regarding the evidence such as the invoices of the services availed at the service centre. The bill for the annual maintenance contract and job card. 
+</s> <s><INST>. I have all the documents that hold the substantial interest in the present case, like the bill of all the services from 1 to 3, The receipt of the annual maintenance contract and the receipt of the service no. 3 shows that the labour charge was taken from the complainant even though it was a free service. 
+</INST> Thank you. On the basis of the documents that you have given me, I have drafted a pre-filled notice that you can access here and a complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+</s> <s><INST> Yes, it will be great if you can do that as well.
+</INST> You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+</s> <s><INST> Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+</INST> Based on the information provided you can access the complaint here. You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Tamil Nadu as the State and Madurai as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter “M/s. Alagendra Auto, Yamaha Bike Service”. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+“ The Opposite Party has charged the labour fee for servicing the bike of the Complainant even though the complainant has purchased an annual maintenance contract from the opposite party that gives 3 free service and 2 free water wash. This amounts to deficiency in service and unfair trade practice undertaken by the Opposite Party.
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+In case you get any problem in the above process or have any doubt, I would suggest you contact the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+</s> <s><INST> No
+</INST> It was great to assist you!
+
+</s>

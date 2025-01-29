@@ -1,0 +1,53 @@
+Issue No. 10 – Education 
+
+User: I paid a sum of money towards annual fees, but I am now unable to recover the money from the educational institution. 
+Chatbot: Hi, I’m your consumer grievance assistance tool. How can I help you? 
+User: My child is studying in a private school in the city of Cosmos. As part of the annual fees, I was asked to pay Rs 1,00,000. I paid the amount by way of cheque dated 06/03/2022, but now I have been transferred to another city so I want to withdraw from the admission process. 
+Chatbot: : Okay. At the time of making the payment, were you informed of the refund policy? 
+User: Partly yes. It was not mentioned that under no circumstances would the money be refunded. 
+Chatbot: Did you find out about the existence of any exception under special circumstances? 
+User: Yes, but it was not helpful
+Chatbot: Did you mention your reason for withdrawing from the admission process? 
+User: Yes, on 20/07/2022, I brought it to the notice of the institution, but they reiterated the terms and conditions of the refund policy.
+Chatbot: Is there anything else that you would like to add?
+User: I visited the school campus on 02/03/2022 to discuss the matter. However, the officials categorically denied my request for fees refund. When I asked if at least a partial refund was possible given that the intimation regarding withdrawal from the admission process was done a good two months before the start of the academic year, I did not get a favorable response. 
+Chatbot: Okay, I understand your concern. Under the 2019 Act, education may be considered as a service and therefore brought under the ambit of the Consumer Protection Act. However, the following scenarios may not be covered: 
+∙         Conducting Exams.
+∙         Issue of Roll No.
+∙         Deciding Examination Center.
+∙         Evaluating papers.
+∙         Canceling Candidature.
+∙         Allotting Subjects.
+∙         Declaring Results.
+
+User: Thanks, but I would like to know if I can get a refund in my case. 
+Chatbot: If you have paid the fees for certain facilities, and if they were not provided, then you may be able to get a refund to that extent even if it is non-refundable. 
+For more information, please visit https://consumerhelpline.gov.in/faq-details.php?fid=Higher%20Education#:~:text=In%20case%20the%20issue%20is,in%20case%20of%20Higher%20Education. 
+Chatbot: Do you wish to approach the Consumer Grievance Redressal Forum? 
+User: Yes, I would like to 
+Chatbot: Okay, could you please tell me where your residence is? 
+User: I live in the city of Cosmos 
+Chatbot: In that case, you can file a complaint before the Cosmos District Consumer Grievance Redressal Forum within a period of two years from the date of cause of action i.e 20/07/2022. You can either use the E-Daakhil portal to file your complaint, or submit a physical copy of the complaint in the commission. 
+Please note that since the value of the service is less than Rs 5 lakhs, you do not have to pay any court fees, but ensure you have the following with you: 
+Receipt payment
+Copies of the correspondence with the institution regarding refund of fees
+If you wish to register your complaint using the E-Daakhil portal, here’s the link that you can use: https://edaakhil.nic.in/ . The portal has an instruction manual that provides you with step-by-step procedure for registering a complaint
+Chatbot: However, please feel free to let me know if you need any assistance with respect to drafting a consumer complaint. 
+User: Yes, it would be really helpful if you share a template that I could use for reference 
+Chatbot: Sure, that can be done. Could you please tell me your name, age, occupation and address? 
+User: I am Bruno, and my age is 46. I work as a graphic designer. My residential address is 20/918, III street, Vimala Nagar, Cosmos – 100
+Chatbot: Could you please specify the name and address of the institution? 
+User: ABC Educational Services located at 24/908, 3rd street, Vimala Nagar, Cosmos-25
+Chatbot: Thanks, here’s a draft complaint along with Memorandum of Parties (MoP) and Affidavit that you can further modify according to your requirements: 
+Complaint 
+Affidavit 
+Memorandum of Parties 
+User: Thanks
+C: Is there anything else you want me to assist you with? 
+User: No, thanks 
+C: Welcome. Happy to help. I hope you found this conversation useful. Please feel free to contact us again in case of any queries in the future. 
+Meanwhile, you can log on to https://consumeraffairs.nic.in/ , or dial 1800-11-4000 for more information 
+Stay Alert, Stay Safe 
+Thank you 
+
+ 

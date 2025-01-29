@@ -1,0 +1,230 @@
+Human: I had to leave the movie theatre halfway through the movie due to unhygienic ambience but my ticket fare was not refunded
+
+Bot: That's unfortunate. Thank you for sharing your concern with me. To better understand the situation, can you please tell me what led to the unhygienic ambience in the movie theatre? Was it due to poor cleaning, pest infestation, or something else?
+
+Human: On 04/02/2022 (4th February, 2022), I went to Suave, a movie theatre, to watch a movie, but much to my disappointment and shock, the hall was not maintained properly with empty plastic bottles and chocolate wrappers strewn all over the place. Also, I spotted spoiled leftover food because of which there was a foul smell inside the theatre which made me nauseous, so I had to leave the premises.
+
+Bot: The incident occurred on 04/02/2022. That's more than 2 years ago. Please note that under the Consumer Protection Act, the time limit for filing a complaint is 2 years from the date of the incident. If you don't file a complaint within this time frame, it might be difficult to pursue legal action.
+
+However, if you're interested in pursuing a complaint, I can guide you through the process. Can you please tell me more about the movie theatre, Suave? What is the location of the theatre and do you have any contact information for them?
+
+Human: Before leaving, I requested the manager to clean the place, and if not immediately, at least during the intermission, but the opposite party refused to pay heed to my requests.
+
+Bot: That's unfortunate. Did you speak to the manager or any other staff member about a refund after you left the theatre?
+
+Human: Yes, I did. I sent an email to the opposite party (suave1234@gmail.com) on 05/02/2022 narrating in detail the incident and asked for compensation, but to no avail.
+
+Bot: It's been over 2 years since the incident occurred (4th February 2022). Unfortunately, under the Consumer Protection Act, 2019, the time limit for filing a complaint is 2 years from the date of the incident. If you don't file a complaint within this time frame, you may not be eligible for relief. However, I can still guide you on the process and provide you with options. Would you like to proceed with filing a complaint or explore other alternatives, such as a soft remedy or a compromise?
+
+Human: Yes. Sent a legal notice whereby the theatre was advised to comply with the request for compensation to the tune of Rs 10,000 for the mental distress caused to him, but received no reply.
+
+Bot: It's been over 2 years since the incident, which is past the 2-year time limit for filing a consumer complaint in India. Unfortunately, you may not be eligible to file a complaint now. However, I can still guide you on the next steps you could have taken. If you're interested, I can provide you with information on how to draft a complaint and the possible forums where you could have filed it.
+
+Human: Yes, I would like to.
+
+Bot: Before proceeding, let me remind you that the incident occurred on 04/02/2022, which is more than 2 years ago. The Consumer Protection Act, 2019 has a time limit of 2 years to file a complaint. You may want to consider filing an application for condonation of delay, which requires a notarized affidavit explaining the reasons for the delay.
+
+Would you like to proceed with filing a complaint, or would you like to explore other options, such as a soft remedy or seeking assistance from the National Consumer Helpline?
+
+Human: I live in the city of Cosmos
+
+Bot: I need more specific information about your location to guide you further. Could you please provide me with the name of your city or state? That way, I can assist you in finding the appropriate consumer forum to file your complaint.
+
+Human: Yes, it would be really helpful if you share a template that I could use for reference
+
+Bot: Here's a template for a consumer complaint that you can use as a reference:
+
+**MEMORANDUM OF PARTIES**
+
+1. **The Complainant**
+
+ Name: [Your Name]
+ Address: [Your Address]
+ Email: [Your Email]
+ Mobile No: [Your Mobile Number]
+
+2. **The Opposite Party**
+
+ Name: Suave
+ Address: [Theatre Address]
+ Email: suave1234@gmail.com
+ Mobile No: [Theatre Mobile Number]
+
+**COMPLAINT**
+
+To, The District Consumer Disputes Redressal Forum, Cosmos
+
+Subject: Complaint against Suave for Unhygienic Ambience and Failure to Refund Ticket Fare
+
+We, [Your Name], submit this complaint against Suave for their failure to maintain a clean and hygienic environment in their premises and for not refunding our ticket fare despite our request.
+
+On 04/02/2022, we visited Suave to watch a movie. However, upon entering the hall, we were shocked to see empty plastic bottles, chocolate wrappers, and spoiled leftover food scattered all over the place. The foul smell emanating from the premises made us nauseous, and we were forced to leave the premises.
+
+We requested the manager to clean the place and, if not immediately, at least during the intermission. However, the manager refused to pay heed to our request. We sent an email to Suave on 05/02/2022, narrating the incident and requesting compensation for the mental distress caused. However, we have not received any response from them.
+
+We are seeking compensation of Rs 10,000 for the mental distress caused to us due to the unhygienic ambience and failure to refund our ticket fare.
+
+**RELIEF SOUGHT**
+
+We pray that this Hon'ble Forum may be pleased to pass an order directing Suave to:
+
+1. Refund our ticket fare in full.
+2. Pay compensation of Rs 10,000 for the mental distress caused to us.
+
+**VERIFICATION**
+
+I, [Your Name], hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+**AFFIDAVIT**
+
+I, [Your Name], do solemnly affirm and declare that the contents of this complaint are true and correct to the best of my knowledge and belief.
+
+**VERIFICATION OF DOCUMENTS**
+
+We have attached the following documents with this complaint:
+
+1. Copy of the email sent to Suave on 05/02/2022
+2. Original movie tickets
+3. Photographs of the unhygienic ambience
+
+Please note that this is just a template and you should modify it according to your specific needs and circumstances. Also, make sure to attach all the necessary documents and evidence to support your complaint.
+
+Also, you can use the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance.
+
+Is there anything else I can help you with?
+
+Human: I am Bruno, and my age is 45. I work as a graphic designer. My residential address is 56/879, 4th street, Sunset Avenue, Cosmos- 32. Name: ABC Reels Private Limited, represented by its manager Address: 2nd Cross Street, Jeevan Nagar, Cosmos-60
+
+Bot: Here's a sample draft of the complaint that you can use as a reference:
+
+**IN THE DISTRICT CONSUMER DISPUTES REDRESSAL FORUM, COSMOS**
+
+**COMPLAINT PETITION**
+
+**No.** [Insert Petition Number]
+
+**Bruno**
+
+**Age: 45, Occupation: Graphic Designer, Resident of: 56/879, 4th Street, Sunset Avenue, Cosmos- 32**
+
+**Plaintiff**
+
+**Vs.**
+
+**ABC Reels Private Limited, Represented by its Manager, Mr./Ms. [Name]**
+
+**Address: 2nd Cross Street, Jeevan Nagar, Cosmos-60**
+
+**Defendant**
+
+**COMPLAINT**
+
+1. The Plaintiff, Bruno, is a consumer of the Defendant, ABC Reels Private Limited, and had visited the Defendant's movie theatre, Suave, on 04/02/2022, to watch a movie.
+
+2. The Plaintiff had paid a ticket fare of Rs. [Insert amount] for the movie, but was forced to leave the theatre midway due to the unhygienic condition of the hall, which was filled with empty plastic bottles, chocolate wrappers, and spoiled leftover food, causing a foul smell.
+
+3. The Plaintiff had requested the theatre staff to clean the premises, but they refused to do so.
+
+4. The Plaintiff had sent an email to the Defendant on 05/02/2022, narrating the incident and requesting compensation for the mental distress caused, but received no response.
+
+5. The Plaintiff had also sent a legal notice to the Defendant, advising them to pay compensation of Rs. 10,000, but they have failed to respond.
+
+**RELIEF SOUGHT**
+
+The Plaintiff prays that this Hon'ble Forum may be pleased to:
+
+a) Direct the Defendant to pay compensation of Rs. 10,000 to the Plaintiff for the mental distress caused.
+
+b) Direct the Defendant to pay a sum of Rs. [Insert amount] as cost of the litigation.
+
+c) Pass such further orders as this Hon'ble Forum may deem fit and proper in the circumstances of the case.
+
+**VERIFICATION**
+
+I, Bruno, hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+**Signature of the Plaintiff**
+
+Please note that this is just a sample draft, and you should modify it according to your specific needs and circumstances. Also, please ensure that you have all the necessary documents and evidence to support your claim.
+
+Now, do you want me to help you with drafting the other documents such as the memo of parties, affidavit, etc. or do you want to proceed with filing the complaint?
+
+Human: Rs 10,000 as compensation; refund of the ticket price and Rs 5000 for the legal expenses incurred
+
+Bot: I can help you draft a complaint. Here's a sample template:
+
+**IN THE DISTRICT CONSUMER DISPUTES REDRESSAL FORUM, COSMOS**
+
+**CASE NO._____________**
+
+**COMPLAINT OF BRUNO AGAINST ABC REELS PRIVATE LIMITED**
+
+**To,**
+
+The District Consumer Disputes Redressal Forum,
+Cosmos.
+
+**Subject: Complaint for compensation for unsatisfactory services and damages caused by ABC Reels Private Limited**
+
+**I, Bruno,**
+
+**Residing at:** 56/879, 4th Street, Sunset Avenue, Cosmos-32
+
+**Age:** 45
+**Occupation:** Graphic Designer
+
+**Complainant**
+
+**Versus**
+
+ABC Reels Private Limited,
+Represented by its Manager,
+Address: 2nd Cross Street, Jeevan Nagar, Cosmos-60
+
+**Opposite Party**
+
+**FACTS OF THE CASE**
+
+1. On 04/02/2022, I visited the movie theater of ABC Reels Private Limited at Cosmos to watch a movie.
+2. Unfortunately, the movie theater was not maintained properly, with empty plastic bottles and chocolate wrappers strewn all over the place, and there was a foul smell due to spoiled leftover food.
+3. I requested the manager to clean the place, but they refused to take any action.
+4. As a result, I had to leave the premises and did not watch the movie.
+5. I sent an email to the opposite party on 05/02/2022, detailing the incident and requesting compensation, but they failed to respond.
+6. I also sent a legal notice to the opposite party, but they have not taken any action to rectify the situation.
+
+**RELIEF SOUGHT**
+
+I seek the following relief from this Hon'ble Forum:
+
+a. Compensation of Rs. 10,000 for the mental distress and inconvenience caused to me.
+b. Refund of the ticket price.
+c. Compensation of Rs. 5,000 for the legal expenses incurred by me.
+
+**RELIEF**
+
+I request this Hon'ble Forum to pass an order directing the opposite party to pay the above-mentioned compensation and refund the ticket price within 30 days from the date of the order.
+
+**VERIFICATION**
+
+I, Bruno, do hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+**Signature of the Complainant**
+
+Please note that this is just a sample template, and you should modify it according to your specific needs and circumstances. Also, you may need to attach supporting documents like the email and legal notice, as well as any other relevant evidence.
+
+Before filing the complaint, please ensure that you have all the necessary documents and information ready. Also, please note that the complaint should be filed within two years from the date of the incident.
+
+Do you want me to assist you with anything else?
+
+Human: Thanks
+
+Bot: You're welcome. Please review the draft complaint, Memorandum of Parties, and Affidavit carefully and make any necessary modifications before submitting them to the District Consumer Disputes Redressal Commission. If you need any further assistance, feel free to ask.
+
+Also, don't forget to contact the National Consumer Helpline (1800-11-4000) or use the UMANG App for immediate assistance, if needed.
+
+Is there anything else I can help you with?
+
+Human: No, thanks
+
+Bot: You can reach out to the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance with your consumer grievances. If you need any further help or guidance, feel free to reach out to me anytime. Have a good day.
+

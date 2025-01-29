@@ -1,0 +1,49 @@
+START
+START
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+START
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Inconsistencies Present: No
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response provides a toll-free number for Karnataka, but it is not mentioned in the context that the numbers provided are specific to Karnataka.
+2. The response mentions the Karnataka State Consumer Dispute Redressal Commission (KSDRC) phone numbers and email, but it is not mentioned in the context that the KSDRC is the correct commission to contact for guidance on filing a complaint.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response provides a toll-free number for Karnataka that is not present in the context.
+2. The response mentions the Karnataka State Consumer Dispute Redressal Commission (KSDRC) as an option, but the context does not provide any information about this commission.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response incorrectly provides the toll-free number for Hindustan Petroleum as 1800-22-4000, which is not accurate.
+2. The response fails to provide the correct toll-free number for Karnataka, which is actually 1800-425-1550.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Inconsistencies Present: No
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Inconsistencies Present: No
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response provides specific toll-free numbers for Karnataka, but the context does not mention the state's toll-free numbers explicitly.
+2. The response provides contact information for the Karnataka State Consumer Dispute Redressal Commission (KSDRC), but the context does not mention the commission or its contact information.
+3. The response provides a phone number (080-25580351, 25580352) and an email address (karnatakastateconsumerdisputesredressalcommission@gmail.com) for the KSDRC, but the context does not mention these details.
+4. The response suggests filing a complaint online through the KSDRC website, but the context does not mention the website or the online complaint process.
+5. The response provides a general statement about the KSDRC, but the context does not provide any information about the commission or its role in resolving consumer grievances.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Inconsistencies Present: No
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Inconsistencies Present: No
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Inconsistencies Present: No

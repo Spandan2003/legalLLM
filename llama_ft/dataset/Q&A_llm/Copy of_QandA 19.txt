@@ -1,0 +1,55 @@
+<s><INST> I was cheated by a real estate agency.
+</INST> That should not be the case. I would try to be of as much help as possible. Can you please tell me more about the incident?
+</s> <s><INST> I booked flat 003 in Building 1 of their project for Rs. 26,30,495 on 17/08/2020. I paid an advance of Rs. 5,31,360 in installments. The rest was to be paid after project completion.
+</INST> What were the terms regarding sample flat construction?
+</s> <s><INST> The agreement said they had to construct a sample flat by November 2020 for my approval. If they failed, the booking would be canceled and I would get a full refund.
+</INST> Did the developer meet this requirement?
+</s> <s><INST> No, they failed to construct the sample flat by November 2020. It is still not ready as of today.
+</INST> What action did you take as a result?
+</s> <s><INST> I canceled the booking on 22/04/2021 as per the terms. However, despite the cancellation, the developer has failed to refund my Rs. 5,31,360 advance payment.
+</INST> So to summarize, the developer violated the terms by not constructing the sample flat, and also failed to refund your payment upon cancellation?
+</s> <s><INST> Yes, that is absolutely correct. They are in blatant violation of the agreement.
+</INST> You can file a complaint before the consumer court having jurisdiction to hear the case. For that, you must first send a fifteen-day notice to GHD Infra Developer’s project. The same can be sent electronically or by post. Or else, you can also contact the  National  Consumer Helpline using the helpline number 1800-11-4000. The Consumer Helpline will give assistance regarding how you can approach the present dispute. What would you prefer?
+</s> <s><INST> I prefer sending legal notice. 
+</INST> Certainly. I will need some more information from you related to the matter. Can you please tell me the following: your full name with address, age, and occupation, and the registered address real estate agency?
+</s> <s><INST> Sure. 1 Mrs. Lata Yuvraj Kandekar W/o Yuvraj Kanderkar  Aged about 53 years, service, Overseas citizen of India/Canadian National R/o Aakash Darshan CHS,  Near Vakola Masjid, Santacruz (East) Mumbai, Maharashtra Permanent resident of 212,  Silverado BLVD.SW.Calgary, Alberta T2X0K4, Canada, I am professionally a Writrer and the Opposite party’ details are 2. M/s GHD Infra Developers Pvt. Ltd. Having registered office at 17-18, Plot No. 15, Journalist Colony, Provorim, Bardez, Goa, North Goa- 403521 					
+</INST> Thank you. I would need some more information from you related to the matter to assist you better. What is the relief that you would wish to pursue through the complaint?
+</s> <s><INST> I would want a refund of the entire amount and compensation for mental harassment.
+</INST> Thank you for supplying the information! Please find the notice for filing of consumer complaint here. Please note that these are templates which may require certain corrections or modifications and certain details (particularly the date and signature) will be needed to be filled at your end. 
+</s> <s><INST> Thank you. I want to file a consumer complaint; can you guide me?
+</INST> Sure. Since the value of the ticket paid as consideration by you is Rs. 90,000/- which is less than Fifty Lakh rupees, the complaint will have to be filed in a District Commission. You, as a complainant, reside in the Mumbai district and the cause of action arises in Mumbai. The opposite party carries on business in Bardez. You have the option to file the complaint to the Mumbai or North Goa District Consumer Disputes Redressal Commission. Where do you want to file?
+</s> <s><INST> Porvorim is more convenient for me.
+</INST> Sure. Below is the process for filing a consumer complaint at the North Goa District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to login to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you want as compensation in the claim amount. 
+9.	Select Goa as the state and North Goa as the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter M/s GHD Infra Developers in the Opposite party name section. #17-18, Plot No. 15, Journalist Colony, Provorim, Bardez, Goa, North Goa- 403521 	in the opposite party address section. Select the state and district of the registered address. 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.	In the Complaint section, write the following: 
+“I entered into an agreement with The Opposite Party Company to purchase a house developed by the company and accordingly paid the consideration amount of Rs. Rs. 5,31,360/- through multiple installments. However, the opposite party failed to complete the project and therefore I canceled the agreement and demanded my money back, however, the Opposite Party has failed to do the same.”
+14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name, and the opposite party, click save and continue. 
+15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+Do you also want me to draft a complaint letter for you?
+
+</s> <s><INST> Yes, that would be really helpful.
+
+</INST> Excellent, I've generated a pre-filled complaint for you with all the details you've provided. You can find it here. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now?
+ 
+</s> <s><INST> Yes, Please. 
+
+</INST>  Sure. Here is a draft affidavit and Memorandum of Parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+
+</s> <s><INST> No, that's all for now. Thanks.
+
+</INST> You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+</s>

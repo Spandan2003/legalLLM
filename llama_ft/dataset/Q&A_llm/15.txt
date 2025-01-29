@@ -1,0 +1,70 @@
+<s><INST>  Hi. I have grievances related to injuries and losses suffered by my minor daughter due to an electrical accident at her school. I need help understanding the process and drafting the complaint. Can you guide me?
+
+</INST> Absolutely, I'm happy to assist. Let's start by gathering all the relevant details, so I have a clear understanding before drafting the complaint. Could you please confirm your name, age, address and occupation and your daughter's name, age and address.
+
+</s> <s><INST>  Sure. My name is Marri Jagga Rao, my age is 38 years and I reside at Bijjapalli, Kamayyapeta Village, Hukumpeta Mandal, Visakhapatnam. I am an employee at SBI Bank, Hukumpeta Branch. My daughter's name is Marri Roja Rani. She is 13 years old and studies at the Government School in our village, she resides in the same place as I live.
+
+</INST> Thank you for providing those details, Mr. Rao. Could you please elaborate on what happened - when and how did your daughter get injured? This will establish the basic facts of the incident.
+
+</s> <s><INST>  On 16th July 2018 around 9:30 am, my daughter Roja Rani and her friend were playing in the balcony on the 1st floor of their school building. They accidentally touched some high tension wires passing very close to the parapet and got electrocuted. Both girls fell down from the height. While my daughter sustained grievous burn injuries, her friend unfortunately died on the spot.
+
+</INST> I'm very sorry to hear about this tragic incident. Where was your daughter taken for treatment and what was the extent of her injuries? Please provide details about the medical expenses incurred too.
+
+</s> <s><INST>  She was first taken to the Area Hospital in Hukumpeta for first aid. From there she was shifted to K.G Hospital in Vizag on the same day where doctors had to amputate her left leg toes namely, leg great toe, 2nd and 3rd toe and right hand below elbow. The total medical expenses for treatment and medicines was around Rs. 5 lakhs.
+
+</INST> Thank you for the details. Who would you hold responsible for this incident that caused injury and loss to your minor daughter? Please provide complete details of the parties at fault.
+
+</s> <s><INST>  I believe Andhra Pradesh Eastern Power Distribution Company Limited (APEPDCL) is responsible as the high tension wires were passing too close to a school balcony, endangering students' lives. The Chairman, Managing Director, Superintending Engineer and Assistant Engineer of the Vizag division should be made opposite parties.
+
+</INST> Did you file an FIR or a complaint against the APEPDCL
+</s> <s><INST> Yes. The Hukumpeta Police registered the incident as a case in Crime No.37/2018.
+
+</INST> Got it. When did you issue a legal notice to APEPDCL regarding compensation for your loss? Please provide the date as it will establish the cause of action.
+
+</s> <s><INST>  I issued a legal notice on 21st February 2022 requiring them to pay compensation of Rs. 15 lakhs. But they did not respond even after receiving it.
+</INST> You could also seek for the costs of the litigation, i.e expenses incurred.
+</s> <s><INST> Yes. But I’m not sure how much to claim. 
+</INST> You can mention general costs.
+</INST> Based on the above information provided you could file a complaint before the District Consumer Disputes Redressal Commission, or you could also contact the respective State Consumer Helpline Number where you can talk to an agent and address your grievance.
+
+</s> <s><INST> Could you provide me the helpline number
+</INST> To be specific, there is a National and State Consumer Helpline Number. Which number do you want me to provide you with.
+</s> <s><INST>  Provide me with both the Helpline Number.
+</INST> Could you please mention which state you reside in.
+</s> <s><INST>  Andhra Pradesh
+</INST> Please find the National Consumer Helpline number- 1800-11-4000 and the State Consumer Helpline number- 1800-425-0082 / 1800-425-2977.
+</s> <s><INST> How do I proceed, if I have to file a complaint.
+</INST> You could file a complaint before the respective District Consumer Disputes Redressal Commission. However, I need further details to assist you. Could you please provide details of the APEPDCL, like its full name, address of office of both Head office and branch office if any, and any authorized person you know about.
+</s> <s><INST> The Chairman and Managing Director, The Superintending Engineer (Operations), The Assistant Engineer (Operations) APEPDCL, Opp Hotel Green Park, Visakhapatnam
+</INST> Thank you for providing the details. As per the above mentioned details you could file the complaint before the District Consumer Disputes Redressal Commission of Visakhapatnam. Here is a detailed guideline to file a complaint online in the E-Dakhil Portal.
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter Rs.15,00,000 in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of the service center in the Opposite party name section. Select the state and district of the registered address.
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+My daughter, Marri Roja Rani, a student at Government U.P. School in Kamayyapeta Village, Hukumpeta Mandal, C Visakhapatnam District, suffered an accident on 16/07/2018 while playing with her friend, Marri Bharathi, on the school's 1st floor. They accidentally touched high-tension electrical wires close to the balcony parapet wall, resulting in electrocution and burn injuries. Bharathi died on-site, while Rani was hospitalized, requiring amputation of her left leg great toe, 2nd and 3rd toe, and right hand below the elbow. The complainant incurred expenses of nearly Rs.5,00,000 for medical treatment and other necessities. Alleging negligence on part of the school authorities, the complainant seeks compensation of Rs. 15,00,000, after issuing a legal notice on 21/02/2022, which the opposite parties failed to respond to. Consequently, the complaint for deficient service is filed.
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+</INST> Would you like me to generate the complaint for you ? 
+</s> <s><INST>  Yes, please.
+
+</INST> Sure you can download the complaint here. Once downloaded, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+</s> <s><INST>  Yes, Please. It would be really helpful 
+
+</INST>  Sure. Here is a draft Affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+</s> <s><INST> No, that's all for now. Thanks.
+
+</INST> You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+</s>

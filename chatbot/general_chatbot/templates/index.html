@@ -1,0 +1,414 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consumer Grievance Chatbot</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f2f5;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+        }
+        .container {
+            max-width: 800px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 20px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            overflow: hidden;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        #chat-container {
+            flex: 1;
+            background-color: #ffffff;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 20px;
+            overflow-y: auto;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .message {
+            margin-bottom: 15px;
+            padding: 10px;
+            border-radius: 18px;
+            max-width: 70%;
+        }
+        .user-message {
+            background-color: #dcf8c6;
+            align-self: flex-end;
+            margin-left: auto;
+        }
+        .bot-message {
+            background-color: #f0f0f0;
+            align-self: flex-start;
+        }
+        #input-area {
+            display: flex;
+            padding: 10px;
+            background-color: #f0f2f5;
+            border-top: 1px solid #ddd;
+        }
+        #user-input {
+            flex-grow: 1;
+            padding: 10px;
+            border: 1px solid #bdc3c7;
+            border-radius: 20px;
+            font-size: 16px;
+        }
+        #send-button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin-left: 10px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+        #send-button:disabled {
+            background-color: #bdc3c7;
+            cursor: not-allowed;
+        }
+        .spinner {
+            display: none;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #3498db;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-left: 10px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .bot-message-stream {
+            background-color: #f0f0f0;
+            align-self: flex-start;
+            padding: 10px;
+            border-radius: 18px;
+            max-width: 70%;
+            margin-bottom: 15px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #2c3e50;
+            color: white;
+            flex-shrink: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Consumer Grievance Chatbot</h1>
+        <div id="chat-container"></div>
+        <div id="input-area">
+            <input type="text" id="user-input" placeholder="Type your message...">
+            <button id="send-button" onclick="sendMessage()">Send</button>
+            <div class="spinner" id="processing-spinner"></div>
+        </div>
+    </div>
+
+    <script>
+        let sessionId;
+        const baseUrl = '/consumer_chatbot';
+        // function getSessionId() {
+        //     return fetch(`${baseUrl}/get_session_id`)
+        //         .then(response => response.json())
+        //         .then(data => {
+        //             sessionId = data.session_id;
+        //             console.log("Session ID:", sessionId);
+        //         });
+        // }
+        function getSessionId() {
+            return fetch(`${baseUrl}/get_session_id`)
+                .then(response => response.json())
+                .then(data => {
+                    sessionId = data.session_id;
+                    console.log("Session ID:", sessionId);
+                    getInitialMessage();
+                });
+        }
+        function getInitialMessage() {
+            fetch(`${baseUrl}/initial_message?session_id=${sessionId}`)
+                .then(response => response.json())
+                .then(data => {
+                    $('#chat-container').append('<div class="message bot-message">' + data.message + '</div>');
+                    $('#chat-container').scrollTop($('#chat-container')[0].scrollHeight);
+                });
+        }
+
+        function disableSendButton() {
+            $('#send-button').prop('disabled', true);
+            $('#send-button').css('background-color', '#bdc3c7');
+        }
+
+        function enableSendButton() {
+            $('#send-button').prop('disabled', false);
+            $('#send-button').css('background-color', '#3498db');
+        }
+
+        async function sendMessage() {
+            var message = $('#user-input').val();
+            if (message.trim() === '') return;
+            
+            disableSendButton();
+
+            $('#chat-container').append('<div class="message user-message">' + message + '</div>');
+            $('#user-input').val('');
+            $('#processing-spinner').show();
+            $.ajax({
+                url: `${baseUrl}/chat`,
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({message: message, session_id: sessionId}),
+                success: function(response) {
+                    // $('#chat-container').append('<div class="message bot-message">' + response.response + '</div>');
+                    // $('#chat-container').scrollTop($('#chat-container')[0].scrollHeight);
+                    var botMessageDiv = $('<div class="message bot-message"></div>');
+                    botMessageDiv.html(response.response);
+                    $('#chat-container').append(botMessageDiv);
+                    $('#chat-container').scrollTop($('#chat-container')[0].scrollHeight);
+                },
+                error: function(xhr, status, error) {
+                    alert('Error: ' + xhr.responseJSON.error);
+                },
+                complete: function() {
+                    $('#processing-spinner').hide();
+                    enableSendButton();
+                }
+            });
+        }
+
+        $('#user-input').keypress(function(e) {
+            if (e.which == 13 && !$('#send-button').prop('disabled')) {
+                sendMessage();
+                return false;
+            }
+        });
+        getSessionId();
+        // getInitialMessage()
+    </script>
+    <footer>
+        Developed under the LegalLLM project - a collaboration of IITB, NLSIU and META
+    </footer>
+</body>
+</html> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consumer Grievance Chatbot</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <button id="copy-chat-button" onclick="copyChatHistory()">Copy Chat</button>
+    <button class="menu-toggle" onclick="toggleSidebar()">☰</button>
+    <div class="sidebar" id="sidebar">
+        <div class="logo">
+            <!-- <img src="/path-to-your-logo.png" alt="Consumer Grievance Chatbot"> -->
+            Consumer Grievance Chatbot
+        </div>
+        <div class="sidebar-item">Our Mission</div>
+        <div class="sidebar-item">About Us</div>
+    </div>
+    <div class="main-content">
+        <div class="chat-area">
+            <div class="chat-container" id="chat-container"></div>
+            <div class="examples-container" id="examples-container">
+                <!-- <div class="example-question">Someone's faulty product injured me, what can I do?</div>
+                <div class="example-question">A company is not honoring its warranty, what are my rights?</div>
+                <div class="example-question">How do I file a consumer complaint?</div>
+                <div class="example-question">What are the steps to get a refund for a defective product?</div>
+                <div class="example-question">Can you help me draft a notice</div>
+                <div class="example-question">What should I do if my online order never arrived?</div> -->
+                <div class="example-question">I ordered a new TV through my local shop. It came but when I turned it on it did not work. I went back to the shop to complain but they told me to contact the manufacturers. What can I do?
+                </div>
+                <div class="example-question">I recieved torn clothes from Myntra and they are refusing to refund the amount. I tried to return them at their shop. However they said that this is intentional damage and hence they cannot replace it.</div>
+                <div class="example-question">I took an Air India flight and my baggage was stuck at the airport for over an hour while we waited</div>
+
+            </div>
+            <div class="input-area">
+                <input type="text" id="user-input" placeholder="Type your message...">
+                <button id="send-button" onclick="sendMessage()">Send</button>
+                <div class="spinner" id="processing-spinner"></div>
+            </div>
+        </div>
+        <footer>
+            Developed under the LegalLLM project - a collaboration of IITB, NLSIU and META
+        </footer>
+    </div>
+
+    <script>
+        let sessionId;
+        const baseUrl = '/consumer_chatbot';
+        let firstMessageSent = false;
+
+        function copyChatHistory() {
+            $.ajax({
+                url: `${baseUrl}/get_chat_history`,
+                type: 'GET',
+                data: { session_id: sessionId },
+                success: function(response) {
+                    const chatHistory = response.chat_history;
+                    const formattedHistory = chatHistory.map(msg => 
+                        `${msg.role}: ${msg.content}`
+                    ).join('\n\n');
+
+                    copyTextToClipboard(formattedHistory);
+                },
+                error: function(xhr, status, error) {
+                    console.error('Error fetching chat history:', error);
+                    alert('Failed to fetch chat history. Please try again.');
+                }
+            });
+        }
+        
+        function copyTextToClipboard(text) {
+            if (navigator.clipboard && window.isSecureContext) {
+                // Navigator Clipboard API method
+                navigator.clipboard.writeText(text).then(function() {
+                    alert('Chat history copied to clipboard!');
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                    fallbackCopyTextToClipboard(text);
+                });
+            } else {
+                // Fallback method
+                fallbackCopyTextToClipboard(text);
+            }
+        }
+
+        function fallbackCopyTextToClipboard(text) {
+            var textArea = document.createElement("textarea");
+            textArea.value = text;
+            
+            // Make the textarea out of viewport
+            textArea.style.position = "fixed";
+            textArea.style.left = "-999999px";
+            textArea.style.top = "-999999px";
+            document.body.appendChild(textArea);
+            textArea.focus();
+            textArea.select();
+
+            try {
+                var successful = document.execCommand('copy');
+                var msg = successful ? 'successful' : 'unsuccessful';
+                console.log('Fallback: Copying text command was ' + msg);
+                alert('Chat history copied to clipboard!');
+            } catch (err) {
+                console.error('Fallback: Oops, unable to copy', err);
+                alert('Failed to copy chat history. Please try again.');
+            }
+
+            document.body.removeChild(textArea);
+        }
+        
+        function getSessionId() {
+            return fetch(`${baseUrl}/get_session_id`)
+                .then(response => response.json())
+                .then(data => {
+                    sessionId = data.session_id;
+                    console.log("Session ID:", sessionId);
+                    getInitialMessage();
+                });
+        }
+
+        function getInitialMessage() {
+            fetch(`${baseUrl}/initial_message?session_id=${sessionId}`)
+                .then(response => response.json())
+                .then(data => {
+                    $('#chat-container').append('<div class="message bot-message">' + data.message + '</div>');
+                    $('#chat-container').scrollTop($('#chat-container')[0].scrollHeight);
+                });
+        }
+
+        function disableSendButton() {
+            $('#send-button').prop('disabled', true);
+        }
+
+        function enableSendButton() {
+            $('#send-button').prop('disabled', false);
+        }
+
+        function hideExamples() {
+            $('#examples-container').hide();
+            firstMessageSent = true;
+        }
+        async function sendMessage(message = null) {
+            if (!message) {
+                message = $('#user-input').val();
+            }
+            if (message.trim() === '') return;
+
+            if (!firstMessageSent) {
+                hideExamples();
+            }
+
+            disableSendButton();
+
+            $('#chat-container').append('<div class="message user-message">' + message + '</div>');
+            $('#user-input').val('');
+            $('#processing-spinner').show();
+            
+            $.ajax({
+                url: `${baseUrl}/chat`,
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({message: message, session_id: sessionId}),
+                success: function(response) {
+                    var botMessageDiv = $('<div class="message bot-message"></div>');
+                    botMessageDiv.html(response.response);
+                    $('#chat-container').append(botMessageDiv);
+                    $('#chat-container').scrollTop($('#chat-container')[0].scrollHeight);
+                },
+                error: function(xhr, status, error) {
+                    alert('Error: ' + xhr.responseJSON.error);
+                },
+                complete: function() {
+                    $('#processing-spinner').hide();
+                    enableSendButton();
+                }
+            });
+        }
+
+        $('#user-input').keypress(function(e) {
+            if (e.which == 13 && !$('#send-button').prop('disabled')) {
+                sendMessage();
+                return false;
+            }
+        });
+
+        $('.example-question').click(function() {
+            sendMessage($(this).text());
+        });
+
+        function toggleSidebar() {
+            $('#sidebar').toggle();
+        }
+
+        getSessionId();
+    </script>
+    
+</body>
+</html>

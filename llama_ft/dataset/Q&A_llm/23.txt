@@ -1,0 +1,65 @@
+<s><INST> Hi! I bought a Maruti Suzuki Swift VDI car about three years ago, and I've been having a problem with one of the doors. It got damaged due to rust within the first 13 months, and the company is not willing to repair or replace it.
+
+</INST> Can you please provide your full name, age, occupation, and residential address?
+
+</s> <s><INST> Sure, my name is Sheik Jaffar, I'm 35 years old, I run a small business, and I live at H.No.3-60, Siddapur village, Kothur Mandal, R.R. District – 509338.
+
+</INST> Let's discuss the specifics of the purchase. When did you buy the Swift VDI car, and from which dealership did you make the purchase? What problem did you face with the purchased car?What did you do to redress the issue?
+
+</s> <s><INST> I purchased the car for Rs 7,25,000 on July 18, 2018, from Sri Jayaram Motors Pvt. Ltd., located at Plot Nos. C1 and C2, Industrial Area, Mettugadda, Mahabubnagar - 509001. I first noticed the issue with the car door within the first 13 months of purchase, and I approached the dealer, Sri Jayaram Motors, multiple times regarding the problem from the date of purchase ie. July 18,2018. However, they refused to repair or replace the damaged door. The damage was due to rust, and it affected both the cosmetic appearance and the functionality of the door. I spent Rs. 1,00,000/- that  includes the expenses I had to incur for repairing the damaged door  in August 2019. 
+
+</INST> When you gave your car for repairs, the person who repaired your car might have informed you about the shortcoming in the design and material used in the manufacturing of the car door that caused the damage to the car door within a short amount of time.
+
+</s> <s><INST> The worker, where I repaired my car, informed me that the use of the galvanised steel is known for its resistance to corrosion, and using it in car bodies can significantly extend the durability of the vehicle. In my case, the rusting of the car door occurred within a relatively short period, indicating a lack of adequate corrosion resistance in the materials used. Despite the company's claim in the owner's manual about the state-of-the-art technology and periodic servicing for optimal results, they failed to address the issue, leading to continued frustration on my part.
+
+</INST> Thank you for sharing that information. Now, let's discuss the evidence you have to support your complaint.?
+
+</s> <s><INST> The invoice serves as proof of the purchase of the Swift VDI car. I have a copy of Service records and job cards establishing my multiple attempts to seek assistance from authorised workshops. Photographs of the damaged door are crucial visual evidence that showcases the extent of the rusting and the need for repairs or replacement.
+
+</INST> Thank you for providing clarity on the evidence.You have the option to send a legal notice or file a complaint. In case you get any problem in the above process or have any doubt, I would suggest you contact the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+
+</s> <s><INST> Thank you for sharing the helpline number. Kindly draft me a legal notice. 
+
+</INST> You have already mentioned the address of the opposite party from where you made the purchase but I advise you to make Maruti Suzuki also the party to the case. So kindly provide the address of the opposite party Maruti Suzuki.
+
+</s> <s><INST> The address of the opposite party is  Maruti Suzuki India Limited, Rep. by its Executive Vice President (Service), Palam Gurgaon Road, Gurgaon - 122 015.
+
+
+</INST> Here is  the legal notice that you can send to the opposite party. But it is to inform you that the opposite party may not agree to the demand that you made in the notice. In such a case you should file a consumer complaint.
+</s> <s><INST> Please, tell me the process to file  the consumer complaint. I would like to file a complaint
+</INST> Before filing the consumer complaint, you have to consider in what jurisdiction you are going to file the complaint. Now, considering the jurisdiction, You reside in Rangareddi District and the opposite party resides in Mahabubnagar district. Therefore, I believe both the courts have authority to try and entertain my complaint. Which court do you prefer?
+
+</s> <s><INST> I prefer Mahabubnagar court. Please draft the consumer complaint. 
+
+</INST> I will draft a complaint for you but before that I would like to have your input as to what redressal do you seek from the consumer court, you can  ask for replacement of the door or compensation for deficiency of service and the cost for the complaint. 
+
+</s> <s><INST> I would like to ask for the compensation of Rs 1,00,000. The amount of Rs. 1,00,000/- is based on the actual expenses incurred for repairing the damaged door in Aug 2019. I would like to have Rs. 9,15,000/- as for the deficiency in service and hardship I endured. 
+
+</INST> Thank you for providing detailed information, Sheik Jaffar. I believe we have covered all the relevant aspects of your case. Is there anything else you would like to add or clarify before we conclude our conversation?
+
+</s> <s><INST> I believe we've covered everything. I just hope that this process can lead to a fair resolution and compensation for the troubles I've faced with my car.
+
+</INST> Thank you. The evidence would help us shield our case. On the basis of the documents that you have given me, I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+</s> <s><INST> Yes, it will be great if you can do that as well.
+</INST> You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+</s> <s><INST> Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+</INST> You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Telangana as the State and Mahaboob nagar as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+“The complainant filed a grievance against the car manufacturer and its authorised dealer, asserting that the purchased vehicle experienced door damage within 13 months due to rust. Despite numerous attempts to seek resolution, the dealership declined to address the issue, resulting in financial loss and mental distress for the complainant. The complaint contends that the car manufacturer's failure to utilise galvanised steel for corrosion resistance constitutes deficient service and unfair trade practice. Compensation, repair expenses, and legal fees are sought as remedies for the damages incurred.”
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+</s> <s><INST> Got it. I will not agree for mediation.
+</INST> In that case, the consumer court in Mahabubnagar has to proceed with the case.
+</s> <s><INST> Got it. Thank you very much!
+</INST> You are welcome. Feel free to raise further queries anytime. Best wishes.
+
+</s>

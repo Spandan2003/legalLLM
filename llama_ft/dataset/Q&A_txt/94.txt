@@ -1,0 +1,73 @@
+Chatbot:Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you. 
+
+Consumer: Hello Chatbot. I recently had a very unpleasant experience while travelling on an international flight and lost my luggage. The airline has failed to find or compensate me for it even after months of followup. I want to file a consumer complaint in the consumer court against the airline but need help drafting it. Can you guide me through the process?
+
+Chatbot: Absolutely, I'm happy to help. Let's start by gathering all the relevant details so I can understand the full context before we proceed to drafting the complaint. Could you please confirm your name and address.
+
+Consumer: My name is A. Sivanupandian, Age: 35, Occupation: Teacher and I reside at D.No.136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu.
+
+Chatbot: Thank you for providing your details Mr. Sivanupandian. Could you please tell me the name of the airline you travelled with and details about your trip - like date of travel, flight number, departure city, destination city etc? This will help establish the basic facts.
+
+Consumer: I travelled from Colombo, Sri Lanka to Madurai, India on 15th August 2017 on Srilankan Airlines flight UL139. My ticket details are E-ticket no. 6034996832446, Seat no. 29E.
+
+Chatbot: Got it. Let's now discuss the issue you faced. You mentioned your luggage was lost - could you provide more details like how many bags were checked-in, what they contained, their approximate value etc? Also, when and how did you realise the bags were missing?
+
+Consumer: I had checked in one bag weighing around 8kgs during departure at Colombo airport. It contained clothes, dry fruits, chocolates, dry fish, honey and other food items that I had purchased as gifts for family and friends during my Sri Lanka tour. The total value of the contents would be around Rs. 2 lakhs. When I arrived at Madurai airport after landing, I waited at the belt for over 2 hours but my bag never came. That's when I understood it was lost.
+Chatbot: Thank you for the details. What steps did you take after realising your bag was missing? Did you approach the airline staff and file any complaint or report?
+
+Consumer: Yes, I immediately informed the airport authorities and also the Srilankan Airlines staff about my missing bag. They said they would search but could not find it. The airline staff gave me a Property Irregularity Report (PIR) to list the contents of my lost bag and record the incident.
+
+Chatbot: Good, the PIR will serve as an important proof of your lost bag. What follow ups did you do with the airline after that? It has been several months so I'm assuming you tried contacting them again?
+
+Consumer: I sent multiple emails on 17th Aug, 18th Aug and 20th Sept 2017 to follow up on my missing bag but the airline did not give any proper response. 
+
+Chatbot: I understand this must have been very frustrating for you. Could you please confirm the registered office address of Srilankan Airlines in Madurai that I should mention in the complaint?
+
+Consumer: The airline office is located at Madurai Airport itself. I had booked the flight tickets directly via their website around 1 month before travel in July 2017.
+
+Chatbot: In that case I suggest you send the legal notice and try to get a settlement with the opposing party. In case you get any problem in the above process or have any doubt, I would suggest you contact the state consumer helpline at 044-28592828 Call centre Assistants are available between 9-30 AM to 6-00 PM on all working days of Government of Tamil Nadu or you can call the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+
+Consumer. Kindly draft a legal notice. 
+ 
+Chatbot: Here is the legal notice that you can send to both the opposite parties. Remember to put your signature before you send it in hard copy and put e-signature in case you are sending the soft copy. In case you get any problem in the above process or have any doubt
+
+Consumer: What if I don’t get any reply for this notice? What remedy do I have? 
+
+Chatbot: You can file a consumer complaint if your problem is not redressed. Do you want me to draft a complaint? 
+
+Consumer: Yes, draft a complaint  for me. 
+
+Chatbot: For drafting a complaint I would need some additional information. As the value of your lost items is approximately Rs. 2 lakhs, your complaint would fall under the pecuniary jurisdiction of the District Consumer Disputes Redressal Commission. You can choose between the two districts Tirunelveli and Madurai. Which district do you prefer?
+
+Consumer: I would like to file the complaint at Madurai. 
+
+Chatbot: What relief would you like to get from the opposite party? 
+
+Consumer: I would like to ask for a sum of Rs. 2,00,000/- towards the value of the lost baggage and contents thereof and a sum of Rs. 2,00,000/- towards compensation for mental agony, harassment caused to the Complainant.
+
+Chatbot: Looks fine. Can you please tell me what documentary evidence you have for substantiating the claim. 
+
+Consumer: I have E-ticket details , description of the baggage content, property irregularity report, correspondence with the opposite party, proof of the purchase of the baggage, 
+
+Consumers: On the basis of the information that you have given me, I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In case you get any problem in the above process or have any doubt, I would suggest you contact the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need? In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+Consumer- Yes, it will be great if you can do that as well.
+Chatbot: You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+Consumer: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+Chatbot: You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Tamil Nadu as the State and Madurai as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:- ”The complaint states that the complainant's checked-in baggage, containing valuables worth Rs. 2,00,000, went missing during a flight from Colombo to Madurai on 15.08.2017 when the complainant arrived at Madurai. Despite repeated follow-ups and  emails, the airline has failed to compensate or locate the baggage for over 5 years, causing the complainant immense mental agony, harassment, and monetary loss...”
+“The complainant, an auto driver, has filed a complaint against Fortune Integrated Assets. In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+Consumer: Got it. I will not agree for mediation.
+Chatbot: In that case, the consumer court in Madurai has to proceed with the case.
+Consumer: Got it. Thank you very much!
+Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.
+

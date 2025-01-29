@@ -1,0 +1,88 @@
+<s><INST> Hello. I purchased a new car recently but I'm facing some serious issues with it. I would like to file a complaint against the car manufacturer and dealer.
+
+</INST> I'm sorry to hear that. Let's discuss this in detail so I can understand the full context and help you draft a complaint. Could you please mention your name? 
+
+</s> <s><INST> My name is P. Shankar
+ 
+</INST> What is your age?
+</s> <s><INST>40
+ 
+</INST> What is your Occupation?
+</s> <s><INST> I am employee at Raymond
+
+</INST> What is your Address?
+ </s> <s><INST> I reside at No.14, Valarmathi Compound, Indra Nagar, Vedasandur, Dindigul District. 
+
+</INST> Thank you for providing your details Mr. Shankar. Can you please explain what happened from the beginning so I have the complete timeline of events?
+
+</s> <s><INST> Sure. On 26th April 2017, I booked a new Ciaz Alpha Diesel car from the authorized Maruti Suzuki dealer - Asir Automobiles Pvt Ltd, located at Chellam Bappusamy Hall, 80 Feet Road, KK Nagar, Madurai. I paid 10 lakhs for this care and the same is reflected in the invoice no. 5624.
+
+</INST> Okay, let me note down the name and address of the authorized dealer - Asir Automobiles Pvt Ltd, Chellam Bappusamy Hall, 80 Feet Road, KK Nagar, Madurai. Please continue.
+
+</s> <s><INST> The dealer delivered the new car to me on 8th May 2017. I took the car from the showroom directly to a nearby temple. While returning home, within a few kilometers of driving, there was smoke and fire erupting from the front of the car and it came to an abrupt halt. Luckily my family and I could come out safely without any injuries. 
+
+</INST> That must have been a terrifying experience! I understand the car caught fire suddenly on 8th May 2017 while you were driving back from the temple. What did you do next after this incident?
+
+</s> <s><INST> I immediately called the dealer Asir Automobiles around 8:30 PM on the same day and informed them about this manufacturing defect. I requested them to take back this defective vehicle and provide a replacement. 
+
+</INST> Makes sense. So on 8th May 2017 itself you contacted the dealer and asked for a replacement due to a manufacturing defect. What was their response?
+
+</s> <s><INST> But the dealer did not agree to replace the car. They just sent their service technicians the next day to repair that specific defective vehicle. 
+
+</INST> Hmm...so the dealer refused to replace the car and tried to simply repair the same defective vehicle. What steps did you take then?
+
+</s> <s><INST> I submitted a written complaint to the Inspector of Police, Anna Nagar Police Station, Madurai on 9th May 2017 regarding this matter, requesting appropriate action.
+
+</INST> Okay, you submitted a police complaint on 9th May 2017 to highlight this issue. Did the dealer take any further steps after your police complaint?
+
+</s> <s><INST> Shockingly, the dealer submitted a false counter-complaint to the same Inspector on 11th May 2017. They claimed that only some minor repairs were done to the AC compressor and belt of my car, and that I was insisting on a replacement without reason.
+
+</INST> Right, so the dealer actually tried to cover this up by submitting a false counter-complaint. This is definitely unethical. What was the final resolution of this issue?  
+
+</s> <s><INST> Ultimately, I was forced to book another new Ciaz car of the same model on 15th May 2017. The dealer asked me to pay Rs 1 lakh to them first before they would give the replacement car. Only after I paid this amount, they provided the replacement car on 24th May 2017.
+
+</INST> I understand - you had to unwillingly pay Rs 1 lakh extra and book another new car to get your issue resolved. That is unfair treatment. Have you taken any action like sending legal notice? 
+
+</s> <s><INST> Yes, I had sent a legal notice to both the dealer Asir Automobiles and the car manufacturer Maruti Suzuki via registered post on 14th October 2017. But they failed to respond to my notice.
+
+</INST> Here is the notice if you wish to send it again. I think you should file a consumer complaint. Would you like me to draft a complaint for you?
+
+</s> <s><INST> Yes, kindly draft  a complaint for me. 
+
+</INST> For this I would like to have some additional information. Do you have documentation for all the evidence, like car invoice, dealer communication, police complaint copy etc?
+</s> <s><INST> I have maintained proper documentation of all evidence like the car invoice, dealer communications, police complaint copy, amount paid receipts etc. I can provide photocopies of these documents as annexures to the complaint.
+
+
+</INST> The jurisdiction for the complaint can be District Consumer Disputes Redressal Commission, Madurai, New Delhi and Dindigul . Where would you like to file the complaint?
+
+</s> <s><INST> I  would like to file a complaint at Madurai. 
+
+</INST> What compensation amount are you seeking from the dealer and manufacturer?
+
+</s> <s><INST> I am seeking a compensation amount of Rs 2 lakhs from the dealer and manufacturer for their negligent service and unfair trade practice. 
+
+
+</INST> Thank you. On the basis of the documents that you have given me, I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+
+</s> <s><INST> Yes, it will be great if you can do that as well.
+</INST> You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+</s> <s><INST> Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+</INST> You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Tamil Nadu as the State and Madurai as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-”The complainant, P. Shankar, booked a Maruti Suzuki Ciaz Alpha Diesel car from Asir Automobiles Pvt. Ltd., an authorized dealer of Maruti Suzuki India Ltd. After receiving the car on 08.05.2017, it experienced a manufacturing defect, resulting in smoke and fire within a few kilometers. Despite notifying the dealer immediately and requesting a replacement, only minor repairs were carried out. Frustrated with the lack of acknowledgment of the defect, the complainant was forced to pay Rs. 1 Lakh for a new replacement car. The complainant alleges deficiency in service and unfair trade practice by the Opposite Parties.”
+
+“The complainant, an auto driver, has filed a complaint against Fortune Integrated Assets. In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.In case you get any problem in the above process or have any doubt, I would suggest you contact the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+</s> <s><INST> Got it. I will not agree for mediation.
+</INST> In that case, the consumer court in Madurai has to proceed with the case.
+</s> <s><INST> Got it. Thank you very much!
+</INST> You are welcome. Feel free to raise further queries anytime. Best wishes.
+</s>

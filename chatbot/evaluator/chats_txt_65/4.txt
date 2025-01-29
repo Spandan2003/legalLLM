@@ -1,0 +1,189 @@
+Human: I availed a housing loan from IDBI Bank and for the purpose of security, I have submitted my property documents. After clearing the loan also they have not returned my documents. How do I resolve it.
+
+Bot: Thank you for sharing your concern with me. I'd be happy to help you with it.
+
+To better understand the situation, could you please tell me what led to this issue? Was it mentioned in the loan agreement that your documents would be returned after the loan is cleared, or was it an expectation on your part?
+
+Human: Certainly. I took a housing loan of Rs. 7,14,341 from IDBI Bank back on August 31, 2009 and I have submitted my property documents as security against the loan. Over the years, I've diligently repaid the loan, and by March 2020, I had completely cleared it. As per the terms, the bank issued me a clearance letter on December 23, 2020. Despite clearing the loan and issue of clearance letter the bank failed to return my property documents.
+
+Bot: It's been more than 4 years since you cleared the loan, and you're still waiting for your property documents to be returned. That's unacceptable.
+
+Can you please confirm if you've tried contacting the bank directly to request the return of your documents? If so, what was their response?
+
+Human: Approved Plan, Cash receipt, Sale Deed bearing No. 1317/1957, Death Certificate No.0099781 dated 29/03/1980, EC dated 01/01/1992 to 17/08/2009, EC dated 01/01/1983 to 17/09/2009, IDBI Policy No. 4000128090, Proceedings dated 16/05/1990, Gift Deed bearing No.3985/2009, Sale Deed bearing No. 3396 dated 09/09/2009, Sale agreement dated 13/08/2009.
+
+Bot: It seems like you have submitted multiple documents with the bank as a security for the loan. The bank has failed to return these documents even after you cleared the loan and received a clearance letter.
+
+Can you please tell me when did you first approach the bank about returning your documents after you cleared the loan? Was it before or after receiving the clearance letter on December 23, 2020?
+
+Human: Yes, I do. I sent a legal notice to the bank on February 2, 2021, requesting the return of the documents. The bank received the notice on February 4, 2021.
+
+Bot: It has been more than 2 years since you sent the notice. As per the Consumer Protection Act, 1986, the time limit to file a consumer complaint is 2 years from the date of the cause of action. Since the incident occurred in 2020 and you sent the notice in 2021, you may be running out of time to file a complaint. However, it's best to consult with a consumer court or a lawyer to confirm the current status and available options.
+
+Considering the situation, I would recommend that you take action as soon as possible. Have you considered filing a consumer complaint against IDBI Bank for their failure to return your documents?
+
+Human: Yes, I did. Instead of complying with my request, the bank sent me a reply notice on March 3, 2021, stating that some of the documents, including the Sale Deed and Gift Deed, were partially damaged, while others were completely destroyed in a fire accident that occurred in Mumbai on December 11, 2017.
+
+Bot: That's concerning. Given that the bank has acknowledged receiving your notice and has provided a response, it seems like they are not taking steps to return your documents. Considering the time that has passed since you cleared your loan, the bank's claim of document damage or destruction may be questionable. Have you considered taking further action, such as filing a complaint with the Banking Ombudsman or approaching a consumer court?
+
+Human: The bank mentioned in their reply that the fire caused damage to the documents stored in the premises of SHCIL, and as a result, some were partially damaged, while others were completely destroyed.
+
+Bot: The bank's claim of documents being damaged or destroyed in a fire accident raises some concerns. Considering the time that has passed since the incident (over 7 years ago), I would like to inform you that the statute of limitations for filing a consumer complaint in India is 2 years. As the incident occurred in 2017, it's crucial to take immediate action. Have you considered filing a complaint with the National Consumer Dispute Redressal Commission (NCDRC) or the State Commission?
+
+Human: Certainly. The value of my property is directly linked to the availability and condition of these documents. Without them, the value of my property has significantly decreased, causing me substantial financial loss and mental anguish.
+
+Bot: It seems like this situation has caused you significant distress and financial loss. Given the bank's claim of the documents being damaged or destroyed in a fire, it's essential to take further action. Have you considered filing a complaint with the Banking Ombudsman or the National Consumer Helpline (1800-11-4000) for assistance?
+
+Human: Yes, I'm seeking compensation of Rs. 18,00,000 for the damage to the original documents, Rs. 1,00,000 for the mental agony I've endured, and an additional Rs. 10,000 for costs incurred.
+
+Bot: Based on the information you've provided, it seems that the bank's actions have caused you significant financial and emotional distress. Since you've already sent a legal notice to the bank and they've responded, the next step would be to file a consumer complaint with the District Consumer Disputes Redressal Forum. I can help you draft a Memorandum of Parties and a Complaint. Would you like me to assist with that?
+
+Human: Mallikarjuna Rao Bangari, father’s name- late Satyanarayana, age- 49 years, D. No 20-31-7, AVN College Road, Phaindorapeta, Relli Street, Visakhapatnam - 01
+
+Bot: Thank you for providing your personal details, Mallikarjuna Rao Bangari. As per the Consumer Protection Act, you have 2 years from the date of the incident (December 11, 2017) to file a complaint. Since it has been more than 6 years, you may not be eligible to file a complaint under the Consumer Protection Act. However, you can still consider filing a complaint with the National Consumer Helpline (1800-11-4000) or through the UMANG App for immediate assistance. 
+
+Also, you can approach the District Collector of Visakhapatnam district for assistance. You can submit a complaint via email at com-ccpanic.in to the Central Consumer Protection Authority.
+
+Human: IDBI Bank, Branch Office, D. No 9-14-15, Pydah Chambers, 1st floor, VIP Road, Siripuram, Visakhapatnam - 03, IDBI Bank, Head office, Head Office situated at IDBI Tower, WTC Complex, Cuffe Parade, Mumbai- 400005
+
+Bot: I've taken note of the bank's details. Considering the bank's claim of the documents being destroyed in a fire accident, it seems like a case of deficiency in service. Have you thought of filing a complaint with the National Consumer Disputes Redressal Commission (NCDRC) or the State Consumer Disputes Redressal Commission (SDRC) for seeking compensation? I can help you draft a legal notice to the bank to initiate the process. Would you like me to assist you with that?
+
+Human: Visakhapatnam.
+
+Bot: You can file a complaint before the District Consumer Disputes Redressal Commission, Visakhapatnam. Since the incident occurred in 2017 and you sent a legal notice in 2021, you have 2 years to file a complaint from the date of the incident. However, since you have already sent a legal notice, you can file a complaint now.
+
+Before we proceed, I can provide you with a draft of the complaint that you can use as a template. Would you like me to do that?
+
+Human: Yes.
+
+Bot: I'll guide you through the next steps. Since the bank has failed to return your documents despite your repeated requests, and has provided an unconvincing explanation for the damage, you have a valid case for compensation.
+
+I can help you draft a legal notice to the bank, which is a crucial step in pursuing this matter further. Would you like me to assist you in drafting the notice? 
+
+Also, you can also lodge a complaint with the National Consumer Helpline (1800-11-4000) or use the UMANG App for immediate assistance.
+
+Human: Could you provide me the helpline number
+
+Bot: The State Consumer Helpline Number for Andhra Pradesh is 1800 180 2229. You can call them for immediate assistance. Additionally, you can also file a complaint online through the National Consumer Helpline (NCH) website at https://consumerhelpline.gov.in/. If you need any further assistance or help in drafting a complaint, feel free to ask.
+
+Human: Provide me the State Helpline Number.
+
+Bot: The State Helpline Number for Andhra Pradesh is 1800-180-2229. You can contact them to address your grievance. Additionally, you can also register your complaint online at https://consumerhelpline.gov.in/user/signup.php or through the UMANG App.
+
+I can also help you draft a legal notice to the bank if you'd like. Would you like me to assist with that?
+
+Human: Andhra Pradesh
+
+Bot: The State Consumer Helpline Number for Andhra Pradesh is 1800-180-1985. You can contact them for immediate assistance with your consumer grievance. Additionally, you can also file a complaint online at https://consumerhelpline.gov.in/. If you need further assistance, I can help you draft a complaint letter or provide guidance on the process.
+
+Human: Thank You. If I have to file a complaint, what is the procedure.
+
+Bot: To file a complaint, you can follow these steps:
+
+1.  Write a clear and concise complaint in writing, specifying the details of the issue, including the bank's name, branch, and the documents that are missing.
+2.  Attach the necessary documents, including the clearance letter, notice, and reply notice.
+3.  Submit the complaint to the District Consumer Disputes Redressal Commission, Visakhapatnam, along with the required court fee.
+4.  You can also file the complaint online through the e-daakhil portal: http://edaakhil.nic.in/.
+5.  Ensure you have the necessary number of copies of the complaint as per the requirement of the commission.
+
+Additionally, you can also seek assistance from the State Consumer Helpline at 1800-425-0082 / 1800-425-2977.
+
+Is there anything else I can help you with?
+
+Human: Yes, please.
+
+Bot: Based on the information provided, I will draft a complaint and a legal notice for you. Please note that this is a sample and should not be used as a final document without consulting a lawyer.
+
+**Complaint:**
+
+To,
+The District Consumer Disputes Redressal Commission,
+Visakhapatnam.
+
+Subject: Complaint against IDBI Bank for non-return of property documents
+
+The Hon'ble Members,
+District Consumer Disputes Redressal Commission,
+Visakhapatnam.
+
+I, Mallikarjuna Rao Bangari, son of late Satyanarayana, aged 49 years, residing at D. No 20-31-7, AVN College Road, Phaindorapeta, Relli Street, Visakhapatnam - 01, hereby file this complaint against IDBI Bank, Branch Office, D. No 9-14-15, Pydah Chambers, 1st floor, VIP Road, Siripuram, Visakhapatnam - 03, and IDBI Bank, Head Office, IDBI Tower, WTC Complex, Cuffe Parade, Mumbai- 400005, for the following reasons:
+
+1. I took a housing loan of Rs. 7,14,341 from IDBI Bank back on August 31, 2009.
+2. Over the years, I've diligently repaid the loan, and by March 2020, I had completely cleared it.
+3. As per the terms, the bank issued me a clearance letter on December 23, 2020.
+4. Despite clearing the loan, the bank failed to return some crucial documents related to the property, despite my repeated requests.
+5. I sent a legal notice to the bank on February 2, 2021, requesting the return of the documents.
+6. The bank received the notice on February 4, 2021.
+7. Instead of complying with my request, the bank sent me a reply notice on March 3, 2021, stating that some of the documents, including the Sale Deed and Gift Deed, were partially damaged, while others were completely destroyed in a fire accident that occurred in Mumbai on December 11, 2017.
+
+The bank's reply is unacceptable and is an attempt to avoid their responsibility. I request the Commission to order the bank to return the documents and provide compensation for the losses incurred due to their negligence.
+
+Relief sought:
+
+1. Order the bank to return the documents within 30 days.
+2. Provide compensation of Rs. 18,00,000 for the damage to the original documents.
+3. Provide compensation of Rs. 1,00,000 for the mental agony caused.
+4. Provide compensation of Rs. 10,000 for the costs incurred.
+
+I have attached all the relevant documents and evidence to support my claim.
+
+Yours faithfully,
+
+Mallikarjuna Rao Bangari
+
+**Legal Notice:**
+
+To,
+IDBI Bank, Branch Office,
+D. No 9-14-15, Pydah Chambers, 1st floor,
+VIP Road, Siripuram, Visakhapatnam - 03.
+
+And to,
+IDBI Bank, Head Office,
+IDBI Tower, WTC Complex,
+Cuffe Parade, Mumbai- 400005.
+
+Subject: Demand for return of property documents
+
+You are hereby required to return the following documents, which were submitted as security for the housing loan taken by me from your bank:
+
+1. Approved Plan
+2. Cash receipt
+3. Sale Deed bearing No. 1317/1957
+4. Death Certificate No. 0099781 dated 29/03/1980
+5. EC dated 01/01/1992 to 17/08/2009
+6. EC dated 01/01/1983 to 17/09/2009
+7. IDBI Policy No. 4000128090
+8. Proceedings dated 16/05/1990
+9. Gift Deed bearing No. 3985/2009
+10. Sale Deed bearing No. 3396 dated 09/09/2009
+11. Sale agreement dated 13/08/2009
+
+You are required to return the above-mentioned documents within 15 days from the receipt of this notice. Failure to comply with this notice will be considered as an act of negligence and will be dealt with accordingly.
+
+You are also required to provide a receipt for the return of the documents.
+
+Yours faithfully,
+
+Mallikarjuna Rao Bangari
+
+Please note that this is a sample and should not be used as a final document without consulting a lawyer. It's always best to consult a lawyer to ensure that your complaint and legal notice are properly drafted and filed.
+
+Also, please note that you can file a complaint online through the e-Daakhil portal, which I mentioned earlier. If you need help with that, I can guide you through the process.
+
+Human: Yes, Please. It would be really helpful
+
+Bot: You can use the above legal notice and complaint to file a complaint before the District Consumer Disputes Redressal Commission in Visakhapatnam. Before you file the complaint, please ensure that you have attached all the required documents, including the clearance letter, legal notice, reply notice, and any other relevant documents.
+
+Also, please note that you may need to modify the complaint and legal notice to suit your specific needs and circumstances.
+
+Additionally, you may also want to consider seeking the advice of a consumer rights lawyer or a legal professional to ensure that your complaint is properly drafted and presented.
+
+You can also use the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance.
+
+Is there anything else I can help you with?
+
+Human: No, that's all for now. Thanks.
+
+Bot: You're welcome. If you need any further assistance, please don't hesitate to reach out. Remember to file your complaint on the e-Daakhil portal and attach the required documents. You can also contact the National Consumer Helpline at 1800-11-4000 for any additional assistance.
+

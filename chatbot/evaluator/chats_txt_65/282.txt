@@ -1,0 +1,132 @@
+Human: The earrings I ordered for my wife from Shriram Jewellers were flawed and I want a refund on the amount I paid.
+
+Bot: Thank you for sharing your concern. I'm here to help you with your consumer grievance. To better assist you, can you please tell me what led to the issue with the earrings, such as what specifically was flawed about them?
+
+Human: I purchased earrings worth Rs. 25,000, but they were not satisfactory. I tried to contact them but there has been no response.
+
+Bot: It seems like you're dealing with a product that doesn't match the description, which is one of the grounds for complaint available. Before we proceed, can you please tell me when you purchased the earrings? This is to check if the incident is within the 2-year statute of limitations.
+
+Human: They are not responding to any of my efforts to raise a complaint.
+
+Bot: It's frustrating when companies don't respond to consumer complaints.
+
+Can you please tell me when you first purchased the earrings and when you last tried to contact Shriram Jewellers?
+
+Human: Yes, please.
+
+Bot: To draft a notice, I'll need some more information. Can you please tell me the date when you purchased the earrings?
+
+Human: Neeraj Varma, son of RR Varma, resident of Mayer Colony, Ambikapur, Sarguja, Chhattisgarh.
+
+Bot: To draft the notice, I'll need the name and address of Shriram Jewellers as well. Could you please provide that information?
+
+Human: Ravindra Soni, proprietor, Shriram Jewellers, Sadar Road, Ambikapur, Sarguja, Chhattisgarh.
+
+Bot: Here's a draft of the notice:
+
+**NOTICE**
+
+To,
+
+Ravindra Soni,
+Proprietor,
+Shriram Jewellers,
+Sadar Road, Ambikapur, Sarguja, Chhattisgarh.
+
+Subject: Defective Earrings and Demand for Refund
+
+Dear Sir,
+
+You are hereby notified that I, Neeraj Varma, son of RR Varma, resident of Mayer Colony, Ambikapur, Sarguja, Chhattisgarh, had purchased earrings worth Rs. 25,000 from your establishment on [date of purchase]. However, the earrings were found to be defective and not satisfactory.
+
+Despite my efforts to contact you, I have not received any response or resolution to this issue. I am demanding a full refund of the amount paid for the defective earrings.
+
+You are hereby requested to take immediate action to rectify this situation and refund the amount within 15 days from the date of receipt of this notice.
+
+If I do not receive a satisfactory response or refund within the stipulated time, I shall be forced to approach the Consumer Forum for further action.
+
+Yours faithfully,
+
+Neeraj Varma
+
+Please review and confirm if this is correct.
+
+Also, you can lodge a complaint with the National Consumer Helpline (1800-11-4000) or through the UMANG App for immediate assistance. Additionally, I can provide you with the contact details of the Consumer Forum in your area if needed. Would you like to proceed with filing a complaint with the Consumer Forum or would you like to wait for Shriram Jewellers' response?
+
+Human: Thank you! What if they don’t respond?
+
+Bot: If Shriram Jewellers doesn't respond, you can file a complaint with the District Consumer Dispute Redressal Forum (DCDRF) in Ambikapur, Sarguja, Chhattisgarh. The jurisdiction of the DCDRF is up to Rs. 1 crore. You can also contact the National Consumer Helpline at 1800-11-4000 for assistance or use the UMANG App for immediate help. Is there anything else you'd like help with?
+
+Human: Yes please.
+
+Bot: You can file a complaint with the District Consumer Dispute Redressal Forum, which is the first level of consumer court. Since the value of the goods is Rs. 25,000, it falls under their jurisdiction.
+
+You can find the contact details of the District Consumer Dispute Redressal Forum in Ambikapur, Sarguja, Chhattisgarh, on the National Consumer Helpline website or the website of the National Consumer Dispute Redressal Commission (NCDRC).
+
+You can also contact the National Consumer Helpline at 1800-11-4000 for assistance or use the UMANG App for immediate assistance.
+
+Is there anything else I can help you with?
+
+Human: I want a refund plus damages of 1 lakh and court and legal expenses of Rs. 10,000 and 5,000 respectively.
+
+Bot: You're seeking a refund of the purchase amount, along with damages and compensation for court and legal expenses. 
+
+You can file a complaint with the District Consumer Dispute Redressal Forum (DCDRF) as the value of the goods paid as consideration is less than 1 crore rupees. You can find the contact details of the DCDRF in your area through the National Consumer Helpline (1800-11-4000) or the UMANG App. 
+
+Would you like me to guide you through the process of filing a complaint?
+
+Human: I have the invoice and the certificate of quality.
+
+Bot: Having those documents will be helpful in your case. You can file a complaint with the District Consumer Dispute Redressal Forum, Sarguja, Chhattisgarh, as the value of the goods is below 1 crore. They can provide you with a refund, damages, and also cover your court and legal expenses. Would you like me to guide you on the process of filing a complaint with the District Forum?
+
+Human: Yes, please.
+
+Bot: Here is your complaint letter:
+
+District Consumer Disputes Redressal Commission, Sarguja, Chhattisgarh
+
+Complaint No. _______________________
+
+In the matter of:
+
+Neeraj Varma, son of RR Varma, resident of Mayer Colony, Ambikapur, Sarguja, Chhattisgarh.
+
+Vs.
+
+Ravindra Soni, proprietor, Shriram Jewellers, Sadar Road, Ambikapur, Sarguja, Chhattisgarh.
+
+Complaint:
+
+To, The Honorable President, District Consumer Disputes Redressal Commission, Sarguja, Chhattisgarh.
+
+Subject: Complaint regarding flawed earrings purchased from Shriram Jewellers.
+
+Sir/Madam,
+
+I, Neeraj Varma, son of RR Varma, resident of Mayer Colony, Ambikapur, Sarguja, Chhattisgarh, hereby file this complaint against Ravindra Soni, proprietor, Shriram Jewellers, Sadar Road, Ambikapur, Sarguja, Chhattisgarh, for the following grievances:
+
+On [date], I purchased earrings worth Rs. 25,000 from Shriram Jewellers. However, upon receiving the earrings, I found them to be flawed. Despite my efforts to contact the shop, I have not received any response or resolution. I have attached a copy of the invoice and certificate of quality as evidence.
+
+I am seeking a refund of the amount paid, along with damages of Rs. 1 lakh and court and legal expenses of Rs. 10,000 and Rs. 5,000 respectively.
+
+I request that this complaint be registered and heard at the earliest.
+
+Thank you.
+
+Sincerely,
+Neeraj Varma
+
+You can now file this complaint on the e-Daakhil portal. If you need any more assistance, please let me know.
+
+Also, you can contact the National Consumer Helpline at 1800-11-4000 for immediate assistance.
+
+Human: Yes.
+
+Bot: You can now use this complaint to file your case on the e-daakhil portal. Additionally, I would suggest filing a complaint with the National Consumer Helpline at 1800-11-4000 or through the UMANG App for immediate assistance. If you need help finding a location-based helpline number, please let me know.
+
+Is there anything else I can help you with?
+
+Human: No, that’s it.
+
+Bot: If you have any further queries or need assistance with anything else, please feel free to ask. The National Consumer Helpline (1800-11-4000) is available for immediate assistance. You can also use the UMANG App for filing complaints.
+

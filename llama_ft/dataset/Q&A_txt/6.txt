@@ -1,0 +1,63 @@
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User:  I have been facing some issues with VLCC Health Care Limited regarding a cosmetic treatment that I have received. 
+Chatbot: Could you please provide me with more details about what happened?
+User:  Yes, I'm very unhappy with the treatment I received from VLCC Health Care Limited. I went there for a cosmetic procedure, but they didn't provide me with the treatment that was promised.
+Chatbot: I see. Could you walk me through what happened, starting from when you first consulted them?
+User:  I visited VLCC Health Care Limited on 11th December 2020 to inquire about a cosmetic treatment. Dr. Rinku Aher examined me and recommended a specific treatment involving Voluma and stem cell therapy. I agreed to proceed with the treatment, and they quoted me a price of Rs. 36,398 for it.
+Chatbot: And did you go ahead with the treatment as recommended?
+User:  Yes, I did. I deposited an amount of Rs. 9,558 in advance on 12th January 2021, and the treatment was done on 13th January 2021. However, after the treatment, I experienced discomfort, and when I received the bill on 15th January 2021, I noticed that they had used Botox instead of stem cell therapy, which was not what Dr. Aher had recommended.
+Chatbot: That sounds concerning. Did you confront them about this discrepancy?
+User:  Yes, I spoke to the manager, Dr. Neelima Balla, on 17th January 2021, but she didn't provide any satisfactory explanation. So, I followed up with her via email on 20th January 2021, asking for details about the treatment process and the brand of products they used. Dr. Balla replied on 30th January 2021, claiming that they had used a product called "Micro Gold Botox," which supposedly contained stem cells.
+Chatbot: And how did you react to this response?
+User:  I was not convinced because I specifically opted for stem cell therapy, not Botox. Feeling deceived, I issued a legal notice to VLCC Health Care Limited on 9th April 2021, demanding compensation for their actions. However, instead of addressing my concerns, they replied with baseless allegations.
+Chatbot: Thank you for sharing all this information. Could you please mention what is the remedy that you are looking for.
+User:  I would like a refund of the fees with interest of 24%p.a and and a compensation of Rs.5,00,000. 
+Chatbot:Thank you for providing the details. As per the above mentioned details you could file the complaint before the District Consumer Disputes Redressal Commission, or you could also contact the respective State Consumer Helpline Number where you can talk to an agent and address your grievance.
+User: Could you provide me the helpline number
+Chatbot: To be specific, there is a National and State Consumer Helpline Number. Which number do you want me to provide you with.
+User:  Provide me with both the Helpline Number.
+Chatbot: Could you please mention which state you reside in.
+User:  Andhra Pradesh
+Chatbot: Please find the National Consumer Helpline number- 1800-11-4000 and the State Consumer Helpline number- 1800-425-0082 / 1800-425-2977.
+User: How do I proceed, if I have to file a complaint.
+Chatbot: You could file a complaint before the District Consumer Disputes Redressal Commission. I can provide you with a step by step guideline with the procedure for filing a complaint, and also assist you in drafting the complaint. But before that I need further details. 
+Firstly, to determine before which jurisdictional forum, I would require further details. Could you please provide your details like your name, father’s name/ husband's name, age and address.
+User: Ch. Shilpa, Father’s name- Rushyendra Rao, Age-40 years, Address- D. No. 39-8-77/10, Balaji Plaza, Muralinagar, Visakhapatnam
+Chatbot: Could you please provide details of the Sahara Credit Co-Operative Society Ltd, like its full name, address of office of both Head office and branch office if any, and any authorized person you know about. 
+User:  VLCC Health Care Limited, Branch Office, D. No. 10-1-9/1, Vinayaghar Heights, first Floor, CBM Compound, Siripuram, Visakhapatnam, Authorized person- Branch Manager, VLCC Health Care Limited, Head Office, M-14, Commercial Complex, M Block Market, Greater Kailash Part-II, New Delhi- 110048, 
+Chatbot: Thank you for providing the details. As per the above mentioned details you could file the complaint before the District Consumer Disputes Redressal Commission of Visakhapatnam or New Delhi. Where would you like to file the complaint.
+User:  Visakhapatnam.
+Chatbot: Could you please further confirm whether you have the copy of the Fixed Deposit bond bearing Certificate that you mentioned earlier.
+User:  Yes.
+Chatbot: Thank you for confirming. Please preserve these copies. They are necessary for submitting as evidence.
+Here is a detailed guideline to file a complaint online in the E-Dakhil Portal.
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter Rs.509558  in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of the service center in the Opposite party name section. Select the state and district of the registered address.
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+I visited VLCC Health Care Limited on 11th December 2020 to inquire about a cosmetic treatment. Dr. Rinku Aher examined me and recommended a specific treatment involving Voluma and stem cell therapy. I agreed to proceed with the treatment, and they quoted me a price of Rs. 36,398 for it. I deposited an amount of Rs. 9,558 in advance on 12th January 2021, and the treatment was done on 13th January 2021. However, after the treatment, I experienced discomfort, and when I received the bill on 15th January 2021, I noticed that they had used Botox instead of stem cell therapy, which was not what Dr. Aher had recommended it. I spoke to the manager, Dr. Neelima Balla, on 17th January 2021, but she did not provide any satisfactory explanation. So, I followed up with her via email on 20th January 2021, asking for details about the treatment process and the brand of products they used. Dr. Balla replied on 30th January 2021, claiming that they had used a product called "Micro Gold Botox," which supposedly contained stem cells.
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+Chatbot: Would you like me to generate the complaint for you ? 
+User:  Yes, please.
+
+Chatbot: Sure you can download the complaint here. Once downloaded, review and sign the complaint. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+User:  Yes, Please. It would be really helpful 
+
+Chatbot:  Sure. Here is a draft Affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+User: No, that's all for now. Thanks.
+
+Chatbot: You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+

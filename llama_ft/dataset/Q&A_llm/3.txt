@@ -1,0 +1,84 @@
+<s><INST>  I have an issue with regards to Vehicle service. How do I resolve it.
+
+</INST> Could you please elaborate the issue, specifying the details of the vehicle and the service you received.
+</s> <s><INST>  I bought a Bajaj Pulsar Vehicle with a temporary registration no. Ap31 ZKTR 6463 on 21/10/2020 for Rs.1,26,337. It was working well until the 2nd service which happened on 22/03/2021. On 27/03/2021 at Bullayya College Main Road, the display board was damaged and the vehicle stopped working and was not starting. When I called the service center, they immediately took the vehicle and on the same day returned it by making some temporary arrangements without actually resolving the issue. I could not even drive the vehicle.
+
+</INST> I’m so sorry it happened to you. What is the remedy you are seeking for. To get it repaired in a working condition or compensation.
+</s> <s><INST>  I would like to seek compensation.
+
+</INST> How much amount would you like to claim as compensation
+</s> <s><INST>  Rs.1,26,337 with interest @ 12% p.a. and Rs. 50,000  
+
+</INST> Have you raised any concern about the service quality to the service center
+</s> <s><INST>  Yes. I have tried calling them multiple times. They never responded to my calls.
+
+</INST> Based on the issue, it is recommended to send a legal notice to the service center or you can file a complaint before the respective District Consumer Disputes Redressal Commission or you could also contact the respective State Consumer Helpline Number where you can talk to an agent and address your grievance.
+</s> <s><INST> Could you provide me the helpline number
+</INST> To be specific, there is a National and State Consumer Helpline Number. Which number do you want me to provide you with.
+</s> <s><INST>  Provide me the State Helpline Number.
+</INST> Could you please mention which state you reside in.
+</s> <s><INST>  Andhra Pradesh
+</INST> Please find the State Consumer Helpline number- 1800-425-0082 / 1800-425-2977
+</s> <s><INST>  Can I send a notice or should I hire a Lawyer for that purpose.
+
+</INST> Yes, you can draft a legal notice. Hiring a lawyer is suggested but is not necessary. Do you want me to generate one for you.
+</s> <s><INST>  Yes please. It would be really helpful. 
+</INST> Please find the notice here.
+
+</s> <s><INST>  Can I directly file a complaint, without sending a notice.
+</INST> Yes. However I need further details to draft a complaint. Could you please mention your full name, father’s name, age and address and occupation.
+</s> <s><INST>  Kona Lakshmi Prasanna Sai Aditya, Father’s name- K.A. Prabhakar Rao, Age- 27 years, Address- D.No. 12-12-20, Near Ramulavari Temple, Prakasraopeta, Mahranipeta, Visakhapatnam- 530002, I am a college student.
+
+</INST> Could you please mention details of the Service Center and details of the authorized person such as manager
+</s> <s><INST>  M/s Varun Motors Pvt. ltd., Address- D.No.10-150-22/1, Opposite to HSBC Bank, Siripuram Road, Visakhapatnam-530003. I do not know the authorized person, but they have a managing director.
+
+</INST> Do you have receipts for the purchase of the vehicle.
+</s> <s><INST>  Yes
+</INST> Please preserve these receipts, it would be useful as evidence.
+
+</INST> Do you have receipts for the service done to the vehicle by the service center.
+</s> <s><INST>  Yes
+</INST> Please preserve these receipts, it would be useful as evidence.
+ 
+</INST> could you mention the type of service done. What exactly was repaired or replaced or tended to during the last service.
+</s> <s><INST>  Most of the services I have got done for the vehicle are general service such as Engine Oil exchange, chain cleaning. HEX file check, low pick up which was adjusted. The last service was for damage to the display board and the vehicle suddenly stopped working. Regarding this the service provided was not efficient. There was a temporary arrangement done to repair the display board and it was not replaced and the vehicle continued to give the same trouble even after repair.
+
+</INST> Is your vehicle covered under any warranty benefits?  
+</s> <s><INST>  It was mentioned that if there is any manufacturing defect then a free replacement of any of the parts is done within 5 years or 75,000 kms, whichever is earlier from the date of sale. But the service center to avoid the free replacement has never mentioned whether the damage to the vehicle or why it stopped working was a result of any manufacturing defect.  
+
+</INST> Thank you for providing these details. You'll need to submit several documents, along with the complaint. I can generate a checklist for you. Would that be helpful?
+</s> <s><INST>  Yes, please.
+</INST> Here is the checklist:
+
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter Rs.176337 in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of the service center in the Opposite party name section. Select the state and district of the registered address.
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+I bought a Bajaj Pulsar Vehicle with a temporary registration no. Ap31 ZKTR 6463 on 21/10/2020 for Rs.1,26,337. It was working well until the 2nd service which happened on 22/03/2021. On 27/03/2021 at Bullayya College Main Road, the display board was damaged and the vehicle stopped working and was not starting. When I called the service center, they immediately took the vehicle and on the same day returned it by making some temporary arrangements without actually resolving the issue. I could not even drive the vehicle.
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+</INST> Would you like me to generate the complaint for you ? 
+</s> <s><INST>  Yes, please.
+
+</INST> Sure you can download the complaint here. Once downloaded, review and sign the complaint. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+</s> <s><INST>  Yes, Please. It would be really helpful 
+
+</INST>  Sure. Here is a draft Affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+</s> <s><INST> No, that's all for now. Thanks.
+
+</INST> You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+
+</s>

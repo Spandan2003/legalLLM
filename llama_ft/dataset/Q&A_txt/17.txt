@@ -1,0 +1,64 @@
+Chatbot:Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you. 
+
+User: Hi, I'm Mohammed Jahangir. I need help filing a consumer complaint regarding an issue I'm facing related to a property.
+
+Chatbot: I'll be happy to assist you with the consumer complaint. Can you explain the issue in detail? 
+
+User: Sure. Here's the background - I had purchased a residential plot in Mahabubnagar back in 2009. It was Plot No. 73, total area 150 square yards, located at Sy Nos. 260, 263 and 264 at Christianpally Sivar. This plot was registered in my wife's name, Shaheda Begum. After purchasing the plot, I constructed a house on it using my retirement benefits. Since the plot was in my wife's name, I got the house constructed in her name too.
+
+Chatbot: What problem did you face ?
+
+User: The house that I constructed on the plot was allotted a municipal door number - 14-4-154/3 by the local authorities. My wife Shaheda Begum unfortunately passed away in 2015. After her death, I was left as the legal heir of the house along with our son and 6 daughters. But when I approached the municipal authorities to get the house mutated to my name as legal heir, I found that the house was already mutated to my son's name without my knowledge and consent. 
+
+Chatbot:  How did this mutation happen without your consent? Can you elaborate.
+
+User: It turned out my son had submitted a fabricated gift deed to the municipal authorities, falsely stating that my wife had gifted the house to him before her death. This was completely false - my wife never made any such gift deed. It was forged by my son to illegally transfer the property.
+
+Chatbot: Right, that clarifies the key issue. Your son used fraudulent means to get the property mutated in his name. What steps did you take after you uncovered this?
+
+User: I immediately approached the municipal authorities and pointed out the fabrication. I gave them my wife's death certificate and my legal heir certificate proving the mutation was done illegally. I followed up with them multiple times through written and oral complaints.But they didn't take  any action.
+
+Chatbot: I can assist you with drafting the consumer complaint highlighting your main grievance against the municipal authorities. But you also have the option to send  the legal notice to the opposite party. 
+
+User: Please go ahead and draft the notice. I'll be able to review it and provide any additional inputs needed.
+
+Chatot: Could you please send your address and the address of the opposite parties. 
+
+User: My address is the same as already stated, S/o Mohammad Abdul Aziz, aged 69 years, H.No.14-4-154/3, Occupation: Retired govt employee, Shivashakthinagar,  Mahabubnagar town and district and the opposite parties address is 1. The Commissioner, Town Municipality, Mahabubnagar and 2.  Mohammad Mathin, 
+S/o Mohammad Jahangir, aged 38 years, Occupation: Business, H.No.4-1-154/3, Shiva Shakthi Nagar, Mahabubnagar town and district.
+
+Chatbot: Here is the draft notice. Do you also want me to draft the complaint?
+
+User: Thank you. But what if the legal notice does not get me any remedy. 
+
+Chatbot: Then you may file a consumer complaint. What remedy would you like to have from the consumer court. 
+
+User: I would like to ask for cancellation of the transfer of property and recognise the complainant as a legal heir of Smt. Shaheda Begum and ask for appropriate compensation for mental agony and hardship suffered by the Complainant.
+
+Chatbot: With respect to the jurisdiction, as you the complainant is a retired employee and is resident of Mahabubnagar town it is well within the jurisdiction of District consumer forum Mahabubnagar. Commission. So the complaint will  be filed in Mahabubnagar. Kindly provide the information regarding the evidence that you have to back your case against  the other party. 
+
+User: I have following proof to ascertain my claim, like, proof of construction of the house - this could include building permit records, property tax receipts etc. showing the house was constructed by you on the plot after purchase., Allotment letter from municipal authorities assigning door number 14-4-154/3 to the newly constructed house, legal heir certificate, mutation records from 2020 showing the property was mutated in your son's name, copy of the alleged fabricated gift deed, all written complaints made by you to the municipal authorities in 2020, death certificate of your wife Shaheda Begum
+
+The Chatbot: Thank you. On the basis of the documents that you have given me, I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+Aggrieved Consumer- Yes, it will be great if you can do that as well.
+The Chatbot: You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+User: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+The Chatbot: You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Andra Pradesh as the State and Mahaboob nagar as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+“Retired government employee Mohammad Jahangir filed a consumer complaint against the Town Municipality Commissioner and Mohammad Mathin, alleging illegal mutation of his property. Jahangir purchased a plot in 2009, constructed a house, and sought mutation after his wife's death in 2015. However, Mathin allegedly forged a gift deed, securing mutation in his name. Despite Jahangir's pleas, the municipality failed to rectify the illegal transfer, causing mental distress. The complainant seeks relief for the gross deficiency in service, citing an expenditure of Rs. 50,000 in pursuing the case.”
+.
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+User: Got it. I will not agree for mediation.
+The Chatbot: In that case, the consumer court in Mahabubnagar has to proceed with the case..In case you get any problem in the above process or have any doubt, I would suggest you to call the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+User:No. Thank you very much for the assistance!
+The Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.

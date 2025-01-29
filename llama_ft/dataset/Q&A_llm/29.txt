@@ -1,0 +1,104 @@
+<s><INST> Hello, I  faced a problem with my train ticket booking. 
+
+</INST> Could you please provide me some basic details about your grievance so that I have the full context?
+
+</s> <s><INST> Sure. I had booked two train tickets from Madurai to Chennai for a journey on 20.08.2019. The tickets were booked on 12.08.2019 for me and another elderly, disabled person who was to travel with me. However, when we went to board the train on the day of the journey, we were denied boarding by
+ the ticket inspector saying my name was wrongly printed on the ticket.
+
+</INST> I understand. Could you please provide me your full name, age, address and contact details for the records? This would be required when filing the consumer complaint.
+
+</s> <s><INST> My name is R. Jawahar, I am 70 years old and work at my shop for a living.  My address is - Mela Chinnampatti, Kalvelippatti Post, Vadipatti Taluk, Madurai District, PIN 625514. My mobile number is 9999xxxxxx.
+
+</INST> Thank you for providing your details, Mr Jawahar. Could you also please confirm the complete details of your co-passenger - his name, age, disability details, address and contact number?
+
+</s> <s><INST> Sure. His name is G. Kannan, age 61 years, Occupation: Retired Employee(Revenue Department). He is physically handicapped and needs my support to travel. His address is - D.No. 2/691, Bharathi Nagar, Kannanendal, Madurai - 625014. His mobile number is 8888yyyyyy. 
+
+</INST> Noted. So if I understand correctly, you and Mr Kannan had booked confirmed train tickets from Madurai to Chennai for the 20.08.2019 journey. But you both were denied boarding due to incorrect names printed for you on the tickets. Right?
+
+</s> <s><INST> Yes, that is right. When we reached the station and tried to board, the ticket inspector informed me that my name was printed incorrectly as 'Sri Murugan' instead of 'R. Jawahar' on the reservation chart. My age was also wrongly mentioned as 45 years instead of 70 years. Due to this mistake in the chart, we were denied boarding on the train.
+
+</INST> Okay. Could you please confirm:
+
+1. Date when you had booked the tickets: 
+2. How did you book the tickets - online or at the station counter?
+3. The train PNR number:
+4. Exact mistake in the name/age printed on reservation chart:
+
+This will help me capture the full details.
+
+</s> <s><INST> Sure, here are the details:
+
+1. We booked the tickets on 12.08.2019
+2. The booking was done at Madurai Railway station reservation counter by submitting manual requisition form
+3. The PNR number was 8765091230 
+4. My name was printed as 'Sri Murugan' instead of 'R. Jawahar' and age was shown as 45 years instead of 70 years
+
+I have the ticket copies and reservation form copy for proof.
+
+</INST> Thank you Mr Jawahar. This provides me with the complete context of what transpired. Just a few more questions, what did you do after being denied boarding - did you still travel or cancel your journey? 
+
+</s> <s><INST> We were forced to cancel our train journey and had to urgently book bus tickets to travel on that day to Chennai. This caused grave inconvenience as the bus journey was much more uncomfortable for us.
+
+</INST> Did you face any financial losses or other difficulties due to this issue?
+
+</s> <s><INST> We suffered financial loss as we had to purchase costlier bus tickets on urgent booking. We also had to cancel our confirmed return train bookings from Chennai to Madurai scheduled for 21.08.2019, as we did not travel by train on the onward journey.
+
+</INST> As you have used an alternate mode to transport can you please tell the approximate financial loss suffered by you and Mr Kannan due to - 
+   a) Purchasing alternative bus tickets
+   b) Cancellation of return train tickets
+
+</s> <s><INST> Financial loss details:
+   a) We spent approx Rs 3000 per person on urgent booking of bus tickets
+   b) The cancelled return train tickets were of approx Rs 400 per person
+</INST> Did you submit any written complaint to Railway authorities and receive any response?
+
+</s> <s><INST> Yes I submitted a written complaint to railway authorities (on 03.12.2019) regarding deficiency in service and mental agony caused to us. But I did not receive any response or resolution to the complaint.
+
+
+</INST> So this is a clear case of deficiency of service. You can send a legal notice and also file a complaint against the other party. What do you want me to draft for you?
+
+</s> <s><INST> Kindly draft the legal notice and the complaint for me. 
+
+</INST> For the purpose of drafting notice and complaint, could you please confirm your residential address again so I have it on record for jurisdiction purposes.
+
+</s> <s><INST> My residential address is  Mela Chinnampatti, Kalvelippatti Post, Vadipatti Taluk, Madurai District, PIN 625514. 
+
+</INST>  Do you have any documents evidencing the train reservation, complaint to railway etc that can be enclosed with the consumer complaint?Please upload them.
+
+</s> <s><INST> Yes I have the following documents and uploaded them.
+   - Original train reservation ticket 
+   - Cancelled return reservation tickets
+   - Copy of manual reservation form submitted to book tickets
+   - Copy of written complaint dated 03.12.2019 submitted to Railways
+   - Copy of reservation chart showing incorrect details
+
+</INST> Thank you. On the basis of the documents that you have given me, I have drafted a pre-filled notice that you can access here and the complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+
+</s> <s><INST> Yes, it will be great if you can do that as well.
+</INST> You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+</s> <s><INST> Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+</INST> You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Tamil Nadu as the State and Madurai as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+The complaint alleges that Southern Railways erroneously printed the name and age of two senior citizens on their train tickets, leading to denial of boarding. Despite correct details submitted in the reservation form, the mistake caused inconvenience, extra expenses, and cancellation of return tickets. Multiple complaints to Railway authorities yielded no resolution, indicating a lack of fair and honest practices. The complainants seek a remedy from the District Consumer Disputes Redressal Commission for the mental trauma, harassment, and financial loss endured.
+
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+</s> <s><INST> Got it. I will not agree for mediation.
+</INST> In that case, the consumer court in Madurai has to proceed with the case. If you have further questions or need more guidance later, don't hesitate to reach out. In case you get any problem in the above process or have any doubt, I  I would suggest you contact the state consumer helpline at 044-28592828 Call centre Assistants are available between 9-30 AM to 6-00 PM on all working days of Government of Tamil Nadu or you can call the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+
+</s> <s><INST> No
+</INST> It was great to assist you!
+
+
+
+
+</s>

@@ -1,0 +1,332 @@
+Human: The land phone service has been irregular and non-functional since 2015. Further in 2020, the landline service provider removed the landline cable permanently.
+
+Bot: Thank you for sharing your concern with me. I'm here to help you with your consumer grievance.
+
+To better understand your issue, can you please tell me what led to this problem? Was there any prior issue or dispute with the landline service provider that resulted in the permanent removal of the landline cable in 2020?
+
+Human: Yes. Ever since 2015 I had made more than 50 complaints to them whenever the land line became non functional.
+
+Bot: It's concerning that you've had to make multiple complaints without a satisfactory resolution. Given that the incident with the landline cable removal in 2020 is within the 2-year statute of limitations, we can proceed with seeking a remedy. However, the issue with the irregular and non-functional landline service from 2015 may not be actionable under the Consumer Protection Act, 2019, as it's beyond the statute of limitations.
+
+Would you like to focus on seeking a remedy for the 2020 incident, where the landline cable was removed permanently?
+
+Human: Can you draft a legal notice for my case if I provide you the required details?
+
+Bot: To draft a legal notice, I'll need some more information from you. Can you please provide the following details:
+
+1. Your name and contact information (address and phone number)
+2. The name and contact information (address and phone number) of the landline service provider
+3. The specific promises made by the landline service provider regarding the service (if any)
+4. The exact dates and details of the incidents where the landline service was non-functional
+5. The relief you are seeking (e.g., reimbursement of fees, compensation for damages, etc.)
+
+Once I have this information, I can help draft a legal notice for your case.
+
+Human: My name is  K.K. George. My address is Kaithavayalil House Kappadu P.O, Kanjirappally Kottayam District-686508. The opposite party is Bharat Sanchar Nigam Limited. It is located in   Kottayam District, Kerala-686001.
+
+Bot: Based on the information you provided, here's a draft of the legal notice:
+
+**NOTICE**
+
+To,
+
+The General Manager,
+Bharat Sanchar Nigam Limited,
+Kottayam District, Kerala-686001.
+
+Subject: Unacceptable Service and Unlawful Disconnection of Landline Service
+
+Dear Sir/Madam,
+
+Re: Complaint of K.K. George, Kaithavayalil House, Kappadu P.O, Kanjirappally, Kottayam District-686508.
+
+I, K.K. George, hereby serve this notice upon you, as the General Manager of Bharat Sanchar Nigam Limited, to bring to your attention the persistent and unacceptable service issues I have been facing with my landline connection at my residence, Kaithavayalil House, Kappadu P.O, Kanjirappally, Kottayam District-686508.
+
+Despite numerous complaints made to your office since 2015, the landline service has been irregular and non-functional. Furthermore, in 2020, your company permanently removed the landline cable, leaving me without any service.
+
+I have made over 50 complaints to your office regarding this issue, but unfortunately, no satisfactory resolution has been provided. I request that you take immediate action to rectify this situation and restore my landline service at the earliest. If not, I will be forced to take further action under the Consumer Protection Act, 1986.
+
+I request you to take the following actions:
+
+1. Restore my landline service at the earliest.
+2. Provide compensation for the inconvenience and distress caused due to the non-functional service.
+3. Take necessary steps to prevent such incidents in the future.
+
+If I do not receive a satisfactory response within 15 days from the date of this notice, I will be forced to approach the Consumer Forum for redressal.
+
+Please acknowledge receipt of this notice.
+
+Yours faithfully,
+
+K.K. George
+
+Please review and confirm if this is acceptable to you. I can make any necessary changes before finalizing the draft.
+
+Human: I am  a senior citizen availing the land phone services of the opposite parties bearing land line No.04828-236465 for more than 30 years. For the last 10 years the land line service offered by the opposite party has been irregular and land phone remain the non functional since 2015. However, the opposite party was regular in issuing bills. Ever since 2015 I had made more than 50 complaints to the party whenever the land line became non functional. On each complaint technical staff of the opposite party resolved the issue and the same was repeated. While so on 24.04.2020 a big tree fell on the Kalaketty – Kappadu main road and BSNL landline cables were damaged. I got reliable information that the opposite party removed the land line cables permanently and were not replaced. This is an arbitrary action of the opposite party without giving any notice to me. The land line remained non-functional since 24.04.2020. Despite the fact that the land line was non-functional they kept on sending bills regularly. Me being a senior citizen, who depends on the land line mode of telecommunication for getting connected with his children, grand children and other relatives, is put to irreparable hardship due to the above said act of the opposite party.
+
+Bot: Thank you for providing the necessary details. I can now help you draft a legal notice to the opposite party, Bharat Sanchar Nigam Limited. Here's a draft notice:
+
+[Your Name]
+K.K. George
+Kaithavayalil House, Kappadu P.O,
+Kanjirappally, Kottayam District-686508
+[Date]
+
+Bharat Sanchar Nigam Limited,
+Kottayam District, Kerala-686001
+
+Subject: Demand for Restoration of Landline Service and Compensation for Loss and Hardship Suffered
+
+To,
+
+The Manager,
+Bharat Sanchar Nigam Limited,
+Kottayam District, Kerala-686001.
+
+Dear Sir,
+
+Re: Non-Functional Landline Service - Landline No. 04828-236465
+
+I, K.K. George, a senior citizen and a loyal customer of your esteemed organization, am writing to bring to your notice the non-functional state of my landline service, bearing No. 04828-236465, which has been continuing for over 9 years since 2015. Despite numerous complaints made to your technical staff, the issue has not been resolved, and the service has been rendered non-functional.
+
+Further, on 24.04.2020, a tree fell on the Kalaketty-Kappadu main road, damaging the BSNL landline cables. I was informed that your company removed the landline cables permanently without giving any notice to me, leaving my service non-functional. Despite this, your company has continued to send bills regularly, causing me immense hardship and financial loss.
+
+As a senior citizen, I rely heavily on my landline service to stay connected with my family and relatives. The non-functional service has caused me irreparable hardship, and I request you to take immediate action to restore my landline service.
+
+I demand that you take the following steps:
+
+1. Restore my landline service at the earliest.
+2. Compensate me for the loss and hardship suffered due to the non-functional service.
+3. Refund the bills sent to me during the period of non-functionality.
+
+If I do not receive a satisfactory response from you within 15 days from the date of receipt of this notice, I shall be forced to approach the Consumer Forum for redressal.
+
+Please acknowledge receipt of this notice.
+
+Yours faithfully,
+
+K.K. George
+
+Please review and confirm if this draft meets your requirements. If you need any modifications, please let me know.
+
+Human: I want compensation and refund of bills paid from the month of July 2019.
+
+Bot: Based on the information you provided, I can draft a legal notice for you. Here's a sample draft:
+
+[Your Name]
+K.K. George
+Kaithavayalil House
+Kappadu P.O, Kanjirappally
+Kottayam District-686508
+[Date]
+
+Bharat Sanchar Nigam Limited
+BSNL Office, Kottayam
+Kottayam District, Kerala-686001
+
+Subject: Legal Notice for Irregular and Non-Functional Landline Service and Demand for Compensation and Refund
+
+Dear Sir/Madam,
+
+Re: Landline Service Connection No. 04828-236465
+
+This is to bring to your notice that I, K.K. George, a senior citizen residing at Kaithavayalil House, Kappadu P.O, Kanjirappally, Kottayam District-686508, have been availing the landline service from your company bearing the connection number 04828-236465 for more than 30 years. However, for the last 10 years, the landline service offered by your company has been irregular, and the landline has remained non-functional since 2015.
+
+Despite my numerous complaints (more than 50) to your company, the issue has not been resolved. On 24.04.2020, a tree fell on the Kalaketty-Kappadu main road, damaging the BSNL landline cables. Your company has removed the landline cables permanently without giving me any notice, rendering the landline non-functional since then.
+
+I have been receiving regular bills from your company despite the landline being non-functional, which is unjust and unfair. As a senior citizen who relies heavily on landline telecommunication to stay connected with my family, I have suffered irreparable hardship due to your company's actions.
+
+I hereby demand:
+
+1. Immediate restoration of my landline service.
+2. Refund of all bills paid from July 2019 onwards, as the service has been non-functional during this period.
+3. Compensation for the distress and hardship caused due to your company's actions.
+
+I request you to respond to this notice within 15 days from the receipt of this letter, stating the steps you will take to rectify the situation. If I do not receive a satisfactory response, I will be forced to approach the consumer forum for redressal.
+
+Please acknowledge receipt of this notice.
+
+Yours faithfully,
+
+K.K. George
+
+Please review and let me know if you need any modifications or if you are satisfied with the draft.
+
+Human: I want a compensation of Rs. 50,000.
+
+Bot: Based on the information you provided, I can draft a legal notice for you. However, please note that the consumer forum will consider the claim for compensation and refund of bills paid after the notice is served and the opposite party responds.
+
+Here's a draft of the legal notice:
+
+**NOTICE**
+
+To,
+The Manager,
+Bharat Sanchar Nigam Limited,
+Kottayam District, Kerala-686001.
+
+Subject: Demand for Refund of Bills Paid and Compensation for Irregular Landline Service
+
+Dear Sir/Madam,
+
+Re: Landline Service Connection No. 04828-236465
+
+This is to bring to your notice that I, K.K. George, a senior citizen residing at Kaithavayalil House, Kappadu P.O, Kanjirappally, Kottayam District-686508, have been availing the landline service from your company since more than 30 years. The landline service connection number is 04828-236465.
+
+Unfortunately, the landline service has been irregular and non-functional since 2015. Despite numerous complaints made to your company, the issue has not been resolved. On 24.04.2020, a tree fell on the main road and damaged the BSNL landline cables. Your company permanently removed the landline cables without giving any notice to me, rendering the service non-functional.
+
+Despite the landline being non-functional, your company has been sending bills regularly. As a senior citizen, I rely on the landline mode of telecommunication to stay connected with my family members. The arbitrary action of your company has caused me irreparable hardship.
+
+I hereby demand that your company takes immediate action to:
+
+1. Refund the bills paid from July 2019 onwards.
+2. Provide compensation of Rs. 50,000 for the loss and hardship caused due to the irregular and non-functional landline service.
+
+I request your company to respond to this notice within 30 days from the date of receipt, indicating the steps taken to resolve this issue.
+
+Please acknowledge receipt of this notice.
+
+Yours faithfully,
+
+K.K. George
+
+K.K. George
+Kaithavayalil House, Kappadu P.O, Kanjirappally, Kottayam District-686508
+Phone: [insert phone number]
+Email: [insert email]
+
+Please review the notice and let me know if you need any changes.
+
+Also, please note that you can file a complaint with the District Consumer Disputes Redressal Forum, Kottayam, or the State Consumer Disputes Redressal Commission, Kerala, depending on the jurisdiction and the value of the claim.
+
+Human: Thank you! What is the next step that I should take if my problem is not solved by the legal notice?
+
+Bot: If your problem is not resolved after sending a legal notice, the next step would be to file a complaint with the Consumer Dispute Redressal Forum (CDRF) or the District Consumer Disputes Redressal Forum, depending on the value of the dispute. Since the value of your claim is more than Rs. 1 crore, you can approach the State Commission or the National Commission.
+
+You can file a complaint through the e-daakhil portal or by visiting the office of the District Consumer Disputes Redressal Forum. You will need to provide the required documents, including a copy of the legal notice, proof of the bills paid, and any other relevant documents.
+
+Additionally, you can also contact the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance and guidance on the next steps to take.
+
+Please note that you should file the complaint within 2 years from the date of the incident, as per the Consumer Protection Act, 2019. Since your incident occurred in 2015, you are within the time limit.
+
+If you need help with drafting the complaint or require any further assistance, please let me know.
+
+Human: How do I file the consumer complaint?
+
+Bot: You can file a consumer complaint through the E-Daakhil portal. Here's a step-by-step guide:
+
+1.  Create an account on the E-Daakhil portal if you don't already have one.
+2.  Verify your email address by clicking on the link sent to your registered email.
+3.  Log in to the portal using your credentials.
+4.  Click on 'File a New Case' from the Filing dropdown menu and select 'Consumer Complaint.'
+5.  Accept the disclaimer and click 'Accept.'
+6.  Enter the claim amount you are claiming.
+7.  Select your district and click continue.
+8.  Enter your personal details in the complainant's section.
+9.  Enter the opposite party's details, which in your case is BSNL.
+10.  Enter the complainant's advocate details if you have one.
+11.  Write a gist of the complaint in the Complaint section.
+12.  Save and continue to the next step.
+13.  Enter the complainant and opposite party details again and click save and continue.
+14.  Upload the documents required, including the legal notice you received, your ID proof, and any other relevant documents.
+15.  Review and submit the complaint.
+
+You can also reach out to the National Consumer Helpline (1800-11-4000) for immediate assistance. If you need help with the process, I can provide more information on how to file the complaint.
+
+Human: Can you identify the appropriate jurisdiction for my case?
+
+Bot: Based on the information provided, the value of the goods or services paid as consideration is likely to be more than Rs. 1 crore, but less than 10 crores. Therefore, the appropriate jurisdiction for your case would be the State Commission. You can file the complaint at the State Consumer Disputes Redressal Commission, Kerala.
+
+Human: Can you prepare a draft complaint for me with the given details?
+
+Bot: Here's a draft complaint based on the details you provided. Please review it carefully and let me know if you need any modifications.
+
+IN THE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION
+
+COMPLAINT
+
+Case No.: _______________________________________
+
+K.K. George
+Kaithavayalil House Kappadu P.O, Kanjirappally Kottayam District-686508
+Complainant
+
+Vs.
+
+Bharat Sanchar Nigam Limited
+Kottayam District, Kerala-686001
+Opposite Party
+
+COMPLAINT
+
+The Complainant, K.K. George, submits the following complaint against the Opposite Party, Bharat Sanchar Nigam Limited:
+
+1. The Complainant has been availing landline phone services from the Opposite Party bearing landline number 04828-236465 for more than 30 years.
+2. The landline service has been irregular and non-functional since 2015.
+3. Despite numerous complaints made to the Opposite Party, the issue has not been resolved, and the service has remained non-functional.
+4. On 24.04.2020, a tree fell on the Kalaketty – Kappadu main road, damaging the BSNL landline cables. The Opposite Party removed the landline cables permanently without notice to the Complainant.
+5. The Opposite Party has continued to send bills to the Complainant despite the service being non-functional since 24.04.2020.
+6. The Complainant is a senior citizen who relies on the landline mode of telecommunication to stay connected with family members.
+7. The Complainant demands:
+    a. Refund of all bills paid from July 2019 onwards.
+    b. Compensation of Rs. 50,000.
+
+RELIEF SOUGHT
+
+The Complainant seeks an order from this Hon'ble Commission to direct the Opposite Party to:
+    a. Refund all bills paid from July 2019 onwards.
+    b. Pay compensation of Rs. 50,000.
+
+REMEDY SOUGHT
+
+The Complainant seeks a fair and just remedy in accordance with the Consumer Protection Act, 2019.
+
+Verification
+
+I, K.K. George, hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+Place: ______________________________________
+Date: ______________________________________
+Signature of the Complainant: ______________________________________
+
+Please review the draft carefully and let me know if you need any modifications or if you're ready to file the complaint.
+
+Human: Yes. I want my agent Samsan George to represent me. His address is Kaithavayalil House Kottayam District -686508. Further, mention me as the son of Kuriakose.
+
+Bot: Here is the draft complaint. Please review it and let me know if any further modifications are required. COMPLAINT UNDER THE CONSUMER PROTECTION ACT, 2019 BEFORE THE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION KOTTAYAM DISTRICT Case No: ______________________ Date: ______________________ K.K. George, son of Kuriakose, Kaithavayalil House, Kappadu P.O, Kanjirappally, Kottayam District - 686508, represented by Samsan George, Advocate, Kaithavayalil House, Kottayam District - 686508. versus Bharat Sanchar Nigam Limited, Kottayam District, Kerala - 686001. COMPLAINT 1. The complainant, K.K. George, son of Kuriakose, Kaithavayalil House, Kappadu P.O, Kanjirappally, Kottayam District - 686508, is a consumer of the opposite party, Bharat Sanchar Nigam Limited, Kottayam District, Kerala - 686001. 2. The complainant has been availing the land phone services of the opposite party bearing land line No.04828-236465 for more than 30 years. 3. For the last 10 years the land line service has been irregular and land phone remain the non functional since 2015. However, the opposite party was regular in issuing bills. Ever since 2015 the complainant had made more than 50 complaints to the opposite party whenever the land line became non functional. On each complaint the technical staff of the opposite party temporarily resolved the issue and the same was repeated. 4. While so on 24.04.2020 a big tree fell on the Kalaketty – Kappadu main road and BSNL landline cables were damaged. The complainant got reliable information that the opposite party removed the land line cables permanently and they were not replaced. This is an arbitrary action without giving any notice to the complainant. The land line remained non-functional since 24.04.2020. Despite the fact that the land line was non-functional the opposite party kept on sending bills regularly. 5. The complainant, being a senior citizen, who depends on the land line mode of telecommunication for getting connected with his children, grand children and other relatives, is put to irreparable hardship due to the above said act. 6. The complainant has received bills from the opposite party for the period from July 2019 onwards, despite the fact that the land line service has been largely non-functional. 7. The complainant demands the following relief: a. Refund of all bills paid from July 2019 onwards. b. Compensation of Rs. 50,000. WHEREFORE The complainant humbly submits that the opposite party has committed deficiency in service and hence this complaint is filed under the Consumer Protection Act, 2019, seeking the relief stated above. The complainant is entitled to the said relief as the opposite party has failed to provide the service as promised. The complainant has been put to irreparable hardship due to the non-functional land line service. The complainant is entitled to the said relief as the opposite party has committed a breach of the terms and conditions of the agreement. The complainant is entitled to the said relief as the opposite party has failed to redress the grievances of the complainant despite repeated complaints. The complainant is entitled to the said relief as the opposite party has acted arbitrarily and in a manner prejudicial to the interest of the complainant. The complainant is entitled to the said relief as the opposite party has failed to provide the service as promised and has caused loss to the complainant. The complainant is entitled to the said relief as the opposite party has failed to maintain the land line service and has caused hardship to the complainant. The complainant is entitled to the said relief as the opposite party has failed to redress the grievances of the complainant and has acted arbitrarily. The complainant is entitled to the said relief as the opposite party has failed to provide the service as promised and has caused loss to the complainant. The complainant is entitled to the said relief as the opposite party has failed to maintain the land line service and has caused hardship to the complainant. The complainant is entitled to the said relief as the opposite party has failed to redress the grievances of the complainant and has acted arbitrarily. The complainant is entitled to the said relief as the opposite party has failed to provide the service as promised and has caused loss to the complainant. The complainant is entitled to the said relief as the opposite party has failed to maintain the land line service and has caused hardship to the complainant. The complainant is entitled to the said relief as the opposite party has failed to redress the grievances of the complainant and has acted arbitrarily. The complainant is
+
+Human: Thank you for the draft complaint. Do I need to do anything else before filing the complaint?
+
+Bot: You should prepare the required documents as mentioned in the draft complaint and attach them to the complaint. These documents include a copy of the latest BSNL bill, copies of complaints made to BSNL, photographs or evidence of the fallen tree and damaged cables, and copies of bills received post 24.04.2020 despite non-functional service.
+
+Human: Alright thank you. Can you provide me with a draft of the affidavit according to the details given by me?
+
+Bot: I can assist you with drafting the Memorandum of Parties and the Affidavit. Please confirm if you need any modifications or if these are acceptable to you. Memorandum of Parties IN THE HON’BLE NATIONAL/ STATE/ DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION AT KOTTAYAM IN RE: COMPLAINT No. ……….of 20….. BETWEEN: K.K. George, S/o Kuriakose Kaithavayalil House Kappadu P.O, Kanjirappally Kottayam District-686508, represented by his agent Samsan George, Kaithavayalil House Kottayam District -686508 ………. Complainant Vs Bharat Sanchar Nigam Limited Kottayam District, Kerala-686001 ………. Opposite Party MEMORANDUM OF PARTIES This Memorandum of Parties is prepared in accordance with Rule 2 of the Consumer Protection Rules, 1986. 1. The Complainant: K.K. George, S/o Kuriakose, is the complainant in this case. He is a resident of Kaithavayalil House Kappadu P.O, Kanjirappally Kottayam District-686508. He is represented by his agent, Samsan George, who resides at Kaithavayalil House Kottayam District -686508. 2. The Opposite Party: The opposite party in this case is Bharat Sanchar Nigam Limited, a public sector undertaking with its registered office located in Kottayam District, Kerala-686001. 3. Address for Service: The address for service of all notices and process upon the opposite party is Bharat Sanchar Nigam Limited, Kottayam District, Kerala-686001. 4. The cause of action arose on 24.04.2020 when the opposite party removed the landline cables permanently without replacement or notice. 5. The complainant has been availing landline services from the opposite party with the number 04828-236465 for more than 30 years. For the last 10 years, the landline service offered by the opposite party has been irregular, and the landline has remained non-functional since 2015. Despite non-functionality, the opposite party has been regular in issuing bills to the complainant. Since 2015, the complainant has made more than 50 complaints whenever the landline became non-functional. Each time, the technical staff would resolve the issue temporarily, only for the problem to recur.
+
+Human: Thank you! Can you also draft a memorandum of parties for the complaint?
+
+Bot: Here is a draft Memorandum of Parties. Please fill in the relevant details and ensure it is signed by both parties. MEMORANDUM OF PARTIES IN THE COURT OF THE HON'BLE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION AT KOTTAYAM IN THE MATTER OF: K.K. George, S/o Kuriakose Kaithavayalil House Kappadu P.O, Kanjirappally Kottayam District-686508 represented by his agent Samsan George, Kaithavayalil House Kottayam District -686508  …………………. Complainant Vs Bharat Sanchar Nigam Limited Kottayam District, Kerala-686001 …………………. Opposite Party  This Memorandum of Parties is prepared and executed at Kottayam on this the _________ day of ____________ 2024. FOR THE COMPLAINANT: Samsan George, Agent for K.K. George, Kaithavayalil House Kottayam District -686508. FOR THE OPPOSITE PARTY: [Signature of the authorized representative of the opposite party]  Verification I, Samsan George, agent for K.K. George, do hereby verify that the contents of the above Memorandum of Parties are true to the best of my knowledge and belief. I am authorized to act on behalf of the complainant in this matter.  Signature of the agent
+
+Human: Thank you! Can you tell me where I need to file the complaint?
+
+Bot: You can file the complaint at the District Consumer Disputes Redressal Commission in Kottayam, which has the jurisdiction to hear cases related to Kottayam District. You can also file the complaint online through the E-Daakhil portal: https://edaakhil.nic.in/.
+
+Human: I would prefer to file the complaint online. Can you provide me with a step-to-step guide for filing the complaint on the E-Daakhil portal.
+
+Bot: To file a complaint on the E-Daakhil portal, follow these steps: 
+
+1.  Go to the official website of the E-Daakhil portal at edaakhil.nic.in. 
+2.  If you do not have an account, create one by registering on the portal. 
+3.  Once you have logged in, click on the “File a New Case” option. 
+4.  Select the type of complaint you wish to file, which in your case is a consumer complaint. 
+5.  Fill in the required details, including your name, address, mobile number, and email address. 
+6.  Enter the opposite party’s name, address, and other relevant details. 
+7.  Attach all the required documents, including your affidavit, memorandum of parties, and other relevant evidence. 
+8.  Review the complaint carefully to ensure all details are accurate and complete. 
+9.  Pay the required court fee, which varies based on the claim amount and the forum level. 
+10.  Once you have completed these steps, submit the complaint.
+
+Human: Thank you!
+
+Bot: Is there anything else I can help you with?
+

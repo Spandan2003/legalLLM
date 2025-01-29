@@ -1,0 +1,79 @@
+<s><INST> I am unable to use my recently-purchased vehicle due to non-registration of the same by the seller with the RTO. What is my remedy? 
+</INST> Hi, I am your consumer grievance assistance tool. How can I help you?
+</s> <s><INST> I visited the Jeevan Nagar branch of Waves, which is one of the authorized dealers of Surrealz, a leading automobile manufacturing company, located in the city of Cosmos on 04/02/2022 at 6:30 pm to purchase a two-wheeler. 
+</INST> Could you please briefly describe the vehicle that you purchased? 
+</s> <s><INST> Type: Scooter 
+           Color: Black
+           Brand: Exotic 
+           Model Number: A3478621 
+</INST> Could you please provide the payment details? 
+</s> <s><INST> I bought the scooter for Rs 75,000/- and made the payment for the same by way of NEFT (Transaction ID: 345671948) on 05/02/2022.
+</INST> Could you please clearly explain your grievance? 
+</s> <s><INST> At the time of purchase of the vehicle, I was told that the formalities with respect to vehicle registration and insurance would be completed in a few days, and that the papers for the same would be handed over as soon as possible. However, that did not happen. It’s been six months since I purchased the vehicle but the process has still not been completed. As a result, I have not been able to use my vehicle. 
+</INST> Okay. I understand. Did you approach the seller for an explanation? 
+</s> <s><INST> Yes, I did. I called them exactly one month after the date of purchase to enquire about the status, but their reply was evasive and not satisfactory. They never cited a proper reason for not completing the formalities within the promised time period. 
+</INST> Did you check with the transport department and the insurance company as to whether they received an application from the seller? 
+</s> <s><INST> Yes, I contacted them on 08/03/2022. They said they have not received any application from the seller.  
+</INST> Was there a mechanism to formally register your grievance? 
+</s> <s><INST> Yes, I raised a formal grievance on 06/03/2022 using the website’s customer grievance redressal option.
+</s> <s><INST> I also sent an email on 06/03/2022 regarding the same. I went in person on 10/03/2022 to find out about the status of my request, but to no avail. 
+</INST> Did you get a reply? 
+</s> <s><INST> No, yet to get a reply 
+</INST> Is there anything else that you would like to add? 
+</s> <s><INST> In fact, I forwarded the reply that I received from the RTO and insurance company to the seller, but it was of no help. 
+</INST> Did you consider sending them a legal notice for the deficiency in service? 
+</s> <s><INST> Yes, I sent a notice dated 25/03/2022, but to no avail. I am yet to receive a reply from them with an explanation for the inordinate delay in completing the formalities. 
+</INST> I understand. Then, would you like to file a complaint before the District Consumer Grievance Redressal Forum? 
+</s> <s><INST> Yes, I would like to 
+</INST> Okay, could you please tell me where your residence is? 
+</s> <s><INST> I live in the city of Cosmos 
+</INST> In that case, you can file a complaint before the Cosmos District Consumer Grievance Redressal Forum within a period of two years from the date of cause of action i.e 05/02/2022. You can either use the E-Daakhil portal to file your complaint, or submit a physical copy of the complaint in the commission. 
+Please note that since the value of the product purchased is less than Rs 5 lakhs, you do not have to pay any court fees, but ensure you have the following documents with you: 
+Receipt of the purchase made 
+Photographs of the product 
+Screenshot of the grievance raised on the website and the email sent to the opposite party
+Legal Notice sent to the opposite party 
+If you wish to register your complaint using the E-Daakhil portal, here’s the link that you can use: https://edaakhil.nic.in/ . The portal has an instruction manual that provides you with step-by-step procedure for registering a complaint
+</INST> Below is the process for filing a consumer complaint in the Cosmos District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: enter your credentials to login to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you need as compensation in the claim amount. 
+9.	Select the state and the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter the Opposite party’s details 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.       Fill the complaint section by describing your grievance. Please mention the dates, if 
+            applicable.
+14.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+15.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+16.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+</INST> However, please feel free to let me know if you need any assistance with respect to drafting of a consumer complaint 
+</s> <s><INST> Yes, it would be really helpful if you share a template that I could use for reference 
+</INST> Sure, that can be done. Could you please tell me your name, age and occupation, and also the opposite party’s name and address?
+</s> <s><INST> I am Bruno, and my age is 46. I work as a graphic designer. My residential address is 20/418, 2nd Cross Street, Vimala Nagar, Cosmos-100
+Name: Waves 
+Address:2nd Cross Street, Simala Nagar, Cosmos-60
+
+Name: Surrealz 
+Address: 2nd Cross Street, Vimala Nagar, Cosmos-25
+
+</INST> Thanks, here’s a draft complaint that you can further modify according to your requirements: 
+Complaint 
+MoP (Memorandum of Parties) 
+Affidavit 
+</s> <s><INST> Thanks
+</INST> Is there anything else you want me to assist you with? 
+</s> <s><INST> No, thanks 
+</INST> Welcome. Happy to help. I hope you found this conversation useful. Please feel free to contact us again in case of any queries in the future. 
+Meanwhile, you can log on to https://consumeraffairs.nic.in/ , or dial 1800-11-4000 for more information. 
+Stay Alert, Stay Safe 
+Thank you 
+
+ 
+</s>

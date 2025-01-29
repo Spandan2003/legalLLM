@@ -1,0 +1,52 @@
+Human: The earrings I ordered for my wife from Shriram Jewellers were flawed and I want a refund on the amount I paid.
+
+Bot: I’m sorry to hear that. Could you tell me more about your transaction with Shriram Jewellers?
+
+Human: I purchased earrings worth Rs. 25,000, but they were not satisfactory. I tried to contact them but there has been no response.
+
+Bot: That sounds distressing. How have you tried to resolve this?
+
+Human: They are not responding to any of my efforts to raise a complaint.
+
+Bot: Got it. Would you like to file a formal notice?
+
+Human: Yes, please.
+
+Bot: I can draft that for you. Please give me your name and address, and that of Shriram Jewellers
+
+Human: Neeraj Varma, son of RR Varma, resident of Mayer Colony, Ambikapur, Sarguja, Chhattisgarh.
+
+Bot: What about Shriram Jewellers?
+
+Human: Ravindra Soni, proprietor, Shriram Jewellers, Sadar Road, Ambikapur, Sarguja, Chhattisgarh.
+
+Bot: Got it. Here’s your Notice.. Neeraj Varma, son of RR Varma, resident of Mayer Colony, Ambikapur, Sarguja, Chhattisgarh.  [date]   Ravindra Soni, proprietor, Shriram Jewellers, Sadar Road, Ambikapur, Sarguja, Chhattisgarh.  Subject: Complaint regarding flaw in ordered jewelry.  Dear Sir/Madam,  I am writing to formally complain about the poor quality of the earrings I ordered from your store. I would like a refund for them, as they were flawed.  Please confirm the receipt of this complaint and inform me of the steps you will take and the tentative timeline associated with the process. If I do not receive a satisfactory response from you within 15 days of this complaint, I shall take this matter to the appropriate consumer redressal forum.  Sincerely, [Your Signature] Neeraj Verma
+
+Human: Thank you! What if they don’t respond?
+
+Bot: After sending this notice you can proceed with filing a consumer complaint. Should I give you more information regarding the next steps?
+
+Human: Yes please.
+
+Bot: Alright! What remedy would you like through your complaint?
+
+Human: I want a refund plus damages of 1 lakh and court and legal expenses of Rs. 10,000 and 5,000 respectively.
+
+Bot: That sounds reasonable. Do you have any evidence of your transactions?
+
+Human: I have the invoice and the certificate of quality.
+
+Bot: That should work. Since the total amount you paid for the service is Rs. 25,000 as consideration, the complaint will be filed in a District Commission. Below is the process of filing a consumer complaint before the Sarguja District Consumer Disputes Redressal Commission for the above dispute through the e-Daakhil portal: 1.	Create an Account: If not already registered, create an account on the e-Daakhil portal. 2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then: 3.	Login: Use your credentials to login to the portal. 4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 5.	Click consumer complaint. 6.	Read the disclaimer and click “accept”. 7.	Click consumer complaint. 8.	Enter the amount you are seeking as compensation in the claim amount. 9.	Select Chhattisgarh as the state and Sarguja as the district. Click continue. 10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address. 11.	Enter Shriram Jewelers, in the Opposite party name section and Sadar Road, Ambikapur, Sarguja, Chhattisgarh. in the opposite party address section. Select the state and district of the registered address. 12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 13.	In the Complaint section, write the following: “The earrings I ordered for my wife from Shriram Jewellers were flawed and I want a refund on the amount I paid.” 14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name, and the opposite party, click save and continue. 15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint. 17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. Do you also want me to draft a complaint letter for you?
+
+Human: Yes, please.
+
+Bot: Sure! Here is the pre-filled Complaint. based on the information you’ve given me. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Shall I generate the same? BEFORE THE CONSUMER DISPUTES REDRESSAL DISTRICT FORUM AT SARGUJA ORIGINAL COMPLAINT NO. ______/2023 (Filing Date: __.__.2023)  Neeraj Varma, son of RR Varma, resident of Mayer Colony, Ambikapur, Sarguja, Chhattisgarh……………………………………..Complainant  Ravindra Soni, proprietor, Shriram Jewellers, Sadar Road, Ambikapur, Sarguja, Chhattisgarh………………………………..Opposite Party   COMPLAINT UNDER S. 35 OF THE CONSUMER PROTECTION ACT, 2019  The address of the Complainant for the purpose of service of summons, notice etc is as shown in the cause title above and that of his counsel The address of the Opponents for the very purpose is the same as shown in the cause title above. Herein the above-named Complainant most respectfully submits as under:  He purchased a pair of earrings for his wife that was custom-made by the Opposite Party (OP), but soon found that the quality was substandard and that there were making defects. His attempts to solve the problem led to no avail, as OP did not respond to him at all. He has been compelled to take legal action against OP as a result of their faulty product and deficiency of service, as well as his own inconvenience and mental agony as a result of OP’s unwillingness to respond to the complaint.  Cause of Action The cause of action arose out of OP’s provision of faulty goods, as well as subsequent deficiency of service in addressing the problems with the earrings. The cause of action is still continuing due to willful negligence and failure to resolve the Complainant's grievances by the OP till date. Hence the present complaint.  Limitation Period and Court Fees The present complaint is being filed within a period of two years from the date of cause of action, as prescribed under section 69 of the Act, 2019. The Complainant declares that requisite court fees as per statutory rules is being paid on the present complaint.  Territorial Jurisdiction This Hon'ble Commission has territorial jurisdiction to entertain and adjudicate upon the present complaint as the cause of action has arisen within its jurisdictional limits where the Complainant is a permanent resident.  Pecuniary Jurisdiction The value of the present complaint is less than Rs. 50 lakhs, as the amount of compensation of Rs. 1,40,000 is well within the pecuniary jurisdiction limits prescribed for this Hon'ble Commission.  Evidence Relied Upon Invoice for the jewelry. Certificate of quality. Legal notice.  Prayer In view of the above stated facts and circumstances, and in the interest of justice, it is most respectfully prayed that this Hon'ble Commission may be pleased to: Order OP to refund the money paid for the earrings, a total of Rs. 25000. Grant a sum of Rs.100000 as compensation from OP for causing malicious mental injuries as detailed above, at 12% p.a. Interest. Grant Rs. 5,000 for litigation expenses and Rs. 1,000 for the cost of engaging legal counsel. Grant any other reliefs which this court deems necessary to secure the ends of justice.   VERIFICATION I, Neeraj Varma, resident of Mayer Colony, Ambikapur, Sarguja, hereby declare that I have not misrepresented any facts nor have tried to hide any information in my above complaint. All the facts mentioned herein are true to the best of my knowledge.   Name & signature of the complainant
+
+Human: Yes.
+
+Bot: Sure. You can find the Affidavit. here and the Memorandum of Parties here. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like? BEFORE THE CONSUMER DISPUTES REDRESSAL DISTRICT FORUM AT SARGUJA ORIGINAL COMPLAINT NO. ______/2023 (Filing Date: __.__.2023)  Neeraj Varma, son of RR Varma, resident of Mayer Colony, Ambikapur, Sarguja, Chhattisgarh……………………………………..Complainant  Ravindra Soni, proprietor, Shriram Jewellers, Sadar Road, Ambikapur, Sarguja, Chhattisgarh………………………………..Opposite Party  BEFORE THE CONSUMER DISPUTES REDRESSAL DISTRICT FORUM AT SARGUJA ORIGINAL COMPLAINT NO. ______/2023 (Filing Date: __.__.2023)  Neeraj Varma, son of RR Varma, resident of Mayer Colony, Ambikapur, Sarguja, Chhattisgarh…………………………………………………..……………………………..Complainant  Vs.  Ravindra Soni, proprietor, Shriram Jewellers, Sadar Road, Ambikapur, Sarguja, Chhattisgarh………………………………………………..……………………………..Opposite Party   AFFIDAVIT  I, Neeraj Varma, son of RR Varma, resident of Mayer Colony, Ambikapur, Sarguja,  Chhattisgarh, do hereby solemnly affirm and state as follows: -  That I am the complainant and as such, I am well acquainted with the facts and circumstances of the case. That the statements made are true to my knowledge That I have sworn, signed and verified this affidavit on _________ in Sarguja.   Sd/  Complainant  Verification Verified at, on this ____________ day of that the contents of the above affidavit are true  and correct to the best of my knowledge and belief.  Deponent
+
+Human: No, that’s it.
+
+Bot: Thank you for using the tool. Feel free to raise further queries anytime or you can log on to https://consumeraffairs.nic.in/ or dial 1800-11-4000 (National Consumer Helpline) for more information.
+

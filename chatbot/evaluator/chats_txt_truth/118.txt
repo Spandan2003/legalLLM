@@ -1,0 +1,60 @@
+Human: I purchased an oven, but within a few months, it stopped working. The seller neither fixed the issue nor replaced the product. What do I do now?
+
+Bot: Okay. To help me serve you better, could you please provide me with more details regarding the incident?
+
+Human: I purchased a microwave oven on 04/02/2022. Within a few weeks, it stopped working, well within the warranty period. The technician from the seller’s company informed that a few parts would have to be replaced, and that it would be done in about a week as the parts were not in stock. Many days went by, but the new parts never arrived.
+
+Bot: I’m sorry this happened, when did the oven stop working?
+
+Human: It stopped working on 15/03/2022
+
+Bot: How much did you pay for the oven?
+
+Human: Rs 10,000
+
+Bot: Okay. Is there anything else you would want me to know about the incident?
+
+Human: When I contacted the service center, I was told the matter would be taken up with higher authorities and that it would be resolved soon, but I never heard from them after that.
+
+Bot: Did you escalate the issue to the next level?
+
+Human: Yes, I did. Sent emails but received no favourable response.
+
+Bot: Did you consider sending a legal notice?
+
+Human: Yes, sent a legal notice on 23/04/2022 (23rd February, 2022) whereby the opposite party was asked to replace the defective components, or refund the purchase cost of the product, and also pay Rs 15,000/- as compensation, but received no response.
+
+Bot: Okay. You have the option to contact the National Consumer Helpline using the helpline number 1800-11-4000. The Consumer Helpline will give assistance regarding how you can approach the present dispute. Alternatively, You can file a complaint before the consumer court having jurisdiction to hear the case. How do you want to proceed?
+
+Human: A complaint.
+
+Bot: Okay, could you please tell me where your residence is?
+
+Human: I live in the city of Cosmos
+
+Bot: Okay. You have the option to contact the National Consumer Helpline using the helpline number 1800-11-4000. The Consumer Helpline will give assistance regarding how you can approach the present dispute. Alternatively, You can file a complaint before the consumer court having jurisdiction to hear the case. How do you want to proceed?
+
+Human: I want to file a complaint
+
+Bot: In that case, you can file a complaint before the Cosmos District Consumer Grievance Redressal Forum within a period of two years from the date of cause of action i.e 08/02/2022. You can either use the E-Daakhil portal to file your complaint, or submit a physical copy of the complaint in the commission. Please note that since the value of the consideration is less than Rs 5 lakhs, you do not have to pay any court fees, but ensure you have the following documents with yoUser: Original bill/invoice Warranty card Photograph of the product received Copy of the emails sent to the opposite party Original legal notice  If you wish to register your complaint using the E-Daakhil portal, here’s the link that you can use: https://edaakhil.nic.in/ . Below is the process for filing a consumer complaint in the Cosmos District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform: 1.	Create Account: If not already registered, create an account on the e-Daakhil portal. 2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then: 3.	Login: Use your credentials to login to the portal. 4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 5.	Click consumer complaint. 6.	Read the disclaimer and click “accept”. 7.	Click consumer complaint. 8.	Enter the amount you need as compensation in the claim amount. 9.	Select the state and the district. Click continue. 10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address. 11.	Enter the Opposite party’s details 12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 13.       Fill the complaint section by describing your grievance. Please mention the dates, if applicable. 14.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 15.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint. 16.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint.  However, please feel free to let me know if you need any assistance with respect to drafting a consumer complaint
+
+Human: Yes, it would be really helpful if you share a template that I could use for reference
+
+Bot: Sure, that can be done. Could you please tell me you name, age, occupation, address and the company’s name and address?
+
+Human: I am Bruno, and my age is 45. I work as a graphic designer. My residential address is 56/879, 4th street, Sunset Avenue, Cosmos- 32. my contact info is Bruno1888@gmail.com, 9234567891 Name: ABC Appliances Private Limited Address: 2nd Cross Street, Jeevan Nagar, Cosmos-60 aestheticszz@gmail.com
+
+Bot: What is the relief that you want?
+
+Human: Replace the component or refund the purchase cost of the product, and also pay Rs 15,000/- as compensation
+
+Bot: Thanks, here’s a draft complaint along with Memorandum of Parties (MoP) and Affidavit that you can further modify based on the information provided by yoUser: Complaint BEFORE THE HON’BLE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION, COSMOS IN RE: COMPLAINT No. 20 of 2022 IN THE MATTER OF:  Bruno 45 years of age, male 56/879, 4th street, Sunset Avenue, Cosmos- 32. Bruno1888@gmail.com 9234567891………………………………………………………,,.COMPLAINANT  Vs.    ABC Appliances Private Limited Represented by its Manager 2nd Cross Street, Jeevan Nagar, Cosmos-60 aestheticszz@gmail.com……………………………...………….OPPOSITE PARTY   COMPLAINT UNDER SECTION 35 of CONSUMER PROTECTION ACT, 2019 RESPECTFULLY SHOWETH: The complainant, Bruno (PAN Card No. xxxxx xxxxx), aged 46, residing at 20/918, III street, Vimala Nagar, Cosmos – 100, is a graphic designer by profession, and has been working in H2O Designs Private Limited for the last seven years. On 04/02/2022, the Complainant purchased a microwave oven from the seller, well within the warranty period. However, within a few weeks of purchase on 15/03/2022, the oven malfunctioned, prompting the Complainant to seek assistance from the seller's service center. A technician from the seller's company acknowledged the issue and informed the Complainant that certain parts needed replacement, assuring that the matter would be resolved within a week once the parts were procured. Unfortunately, despite the assurance, the replacement parts never arrived within the stipulated time frame. Subsequent attempts to resolve the issue through communication with the service center proved futile. Despite promises of escalation and resolution from higher authorities, no concrete action was taken. Frustrated by the lack of progress, the Complainant resorted to sending emails, but these attempts also failed to yield a favorable response. The Complainant sent multiple representations to the Opposite Party to no avail. The Complainant has taken every possible action to settle the dispute. The Complainant lodged a grievance on the company's website, but no resolution was reached. The Complainant was therefore constrained to send a legal notice on 23/04/2022 (23rd February, 2022) demanding the replacement of defective components or a refund of the purchase cost, along with compensation amounting to Rs 15,000. However, even after sending the legal notice, there was no response from the seller, leaving the Complainant in a state of dissatisfaction and inconvenience. The complainant, therefore, humbly submits that the present incident is a clear case of violation of the right of the complainant as a consumer to have a product under warranty be repaired/replaced and also a defect in good as described under section 2(10) of the Consumer Protection Act of 2019 thereby meriting remedy under the relevant provisions of the Act. The cause of action arose in the first instance on 15/03/2022 when the oven malfuunctioned. The following documents have been attached as Annexures for the perusal of the hon’ble commission: Original bill/invoice Product box displaying MRP sticker Copy of the emails sent to the opposite party Original legal notice Jurisdiction: As the consideration paid for the goods is Rs. 10,000 (less than Rupees 50 lakhs), and the cause of action is in the city of Cosmos, the complaint is being filed with the Hon’ble District Consumer Disputes Redressal Commission, Cosmos. Limitation: That the present complaint is being filed within a period of two years from the date of cause of action i.e date of the incident, as prescribed under section 69 of the Act, 2019 Court Fees: In line with Rule 7 of Consumer Protection (Consumer Dispute Redressal Commission) Rules, 2020, no court fee has been paid as the value of the impugned product is less than Rs 5 lakhs, and stipulated three copies of the complaint have been   submitted.         PRAYER The complainant therefore prays: - That the opposite party be directed to replace the defective component or refund the purchase cost of the product i.e. Rs. 10,000 The the opposite party be directed to pay Rs 15,000 as compensation for the mental distress caused, and the legal expenses incurred by the complainant that such orders be passed as the Hon’ble Consumer Forum may deem fit in the circumstances of the case.     PLACE:	Signature DATED:	NAME OF THE COMPLAINANT     VERIFICATION  I, Bruno, aged 45, residing at 56/879, 4th street, Sunset Avenue, Cosmos- 32,  hereby declare that I have not misrepresented any facts nor have I tried to hide any information in my above complaint. All the facts mentioned herein are true to the best of my knowledge.   Name  Signature  MoP Affidavit  AFFIDAVIT I, Bruno, aged 40, resident of 56/879, 4th street, Sunset Avenue, Cosmos- 32, do hereby solemnly affirm and declare as under: That the facts stated in the complaint petition paras 1 to 11 in Bruno v ABC Applicances Private Ltd, represented by its manager, being filed before the Hon’ble District Consumer Disputes Redressal Commission (Cosmos) are true to the best of my knowledge and based on the records maintained by me, which I believe to be true. Deponent        Verification Verified at, on this 23rd day of April, 2022 that the contents of the above affidavit are true and correct to the best of my knowledge and belief. Deponent  Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal.
+
+Human: Thanks
+
+Bot: Is there anything else you want me to assist you with?
+
+Human: No, thanks
+
+Bot: Thank you for using the tool. Feel free to raise further queries anytime or you can log on to https://consumeraffairs.nic.in/ or dial 1800-11-4000 (National Consumer Helpline) for more information.
+

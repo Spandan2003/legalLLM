@@ -1,0 +1,58 @@
+<s><INST>  I've been facing a lot of trouble with a parcel I sent to my husband in Mexico.
+</INST> Could you elaborate the issue by mentioning the details.
+</s> <s><INST> I packed all the items my husband requested and went to International Couriers Services Shipping World Wide on 10th June 2021. They informed me that the parcel would be sent through Jet Dart Express Couriers, who have branches abroad.
+</INST> And did you submit all the necessary documents for the shipment?
+</s> <s><INST> Yes, I arranged for an invoice as requested by International Couriers Services on 12th August 2021, and submitted it to them on 13th August 2021. They assured me that the parcel would reach my husband on time and issued a receipt for Rs.7,900, fixing the delivery date as 23rd October 2021.
+</INST> What happened after that?
+</s> <s><INST> Unfortunately, the parcel was never delivered to my husband. Despite being sent two months before the scheduled delivery date, it never reached him. I tried contacting Jet Dart Express Couriers, but their helpline numbers were always busy.
+</INST> I see. And what did you do after realizing that the parcel was not delivered?
+</s> <s><INST> I issued a legal notice to both International Couriers Services and Jet Dart Express Couriers on 9th February 2022, but they didn't respond. That's why I've decided to file  a complaint.
+</INST> Thank you for providing me with all this information. I could assist you with drafting a complaint and provide a step by step guideline to file a complaint. However, I would like to suggest that you also have an option of contacting the agent through the Consumer Helpline Number and address your grievance.
+</s> <s><INST> Could you provide me the helpline number
+</INST> To be specific, there is a National and State Consumer Helpline Number. Which number do you want me to provide you with.
+</s> <s><INST>  Provide me with both the Helpline Number.
+</INST> Could you please mention which state you reside in.
+</s> <s><INST>  Andhra Pradesh
+</INST> Please find the National Consumer Helpline number- 1800-11-4000 and the State Consumer Helpline number- 1800-425-0082 / 1800-425-2977.
+</s> <s><INST> I would still like to proceed with filing a complaint. Can you provide me with the process.
+</INST> Sure. Here is a detailed guideline to file a complaint online in the E-Dakhil Portal.
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter Rs. 407900 in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of the service center in the Opposite party name section. Select the state and district of the registered address.
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+I, Gorle Dhanalakshmi arranged to send items to her husband in Mexico via International Couriers Services, directed through Jet Dart Express Couriers. Despite assurances and payment of Rs.7,900, the parcel was not delivered by the promised date of 23/10/2021. Attempts to contact Jet Dart Express were futile. The delay caused significant inconvenience. Legal notice issued on 09/02/2022 received no response. The complaint seeks redress for the failure of the courier services to deliver the parcel and address the grievances. 
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+</INST> Would you like me to generate the complaint for you ? 
+
+</s> <s><INST>  Yes, please.
+
+</INST> To draft the complaint I need further details like your name, father’s name/ husband's name, age and address.
+
+</s> <s><INST> Sure, Gorle Dhanalakshmi, Gorle Ramesh Murthy, 32 years, D. No. 12-47-10, Indira Colony, Gajuwaka, Visakhapatnam
+
+</INST> Could you please provide details of the courier company, like its full name, address of office of both Head office and branch office if any, and any authorized person you know about.
+
+</s> <s><INST> It does not have any branch office. International Couriers Services Shipping World Wide, Authorized Signatory Ponaganti Satyanarayana, Aged 45 years, D.No. 7-16-85, Behind Lenskart, Gajuwaka Main Road, Old Gajuwaka, Visakhapatnam. Courier company- Jet Dart Express Couriers, H. No. 10/A, MIGH, B.K. Guda, Opposite to Venkateswara Temple, S.R.Nagar, Hyderabad, Telangana-500038. 
+
+</INST> Thank you for providing these details. You can download the complaint here. Once downloaded, review and sign the complaint. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+</s> <s><INST>  Yes, Please. It would be really helpful 
+
+</INST>  Sure. Here is a draft Affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+</s> <s><INST> No, that's all for now. Thanks.
+
+</INST> You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+</s>

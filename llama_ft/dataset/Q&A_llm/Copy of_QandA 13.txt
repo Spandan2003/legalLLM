@@ -1,0 +1,54 @@
+<s><INST> The bank, from which I availed loan has been charging high interest 
+</INST> That should not be the case. I would try to be of as much help as possible. Can you please tell me more about the incident?
+</s> <s><INST> Yes, thank you. I had taken a home loan of Rs. 7 lakhs (Account no. 531506650018340) from Union Bank in 2005 for construction of my house.
+</INST> Do you have the loan agreement and other documents?
+</s> <s><INST> Yes I have the full loan agreement. As per it, the interest rate was fixed at Rs. 3,158 per month for 240 months and the EMI was Rs. 6,100.
+</INST> Alright. How much have you paid against the loan until now?
+</s> <s><INST> I have paid over Rs. 12 lakhs over the last 15+ years but as per the bank's statements, they are showing an outstanding amount as Rs. 6,56,000!
+</INST> How is that possible when you have already paid much more than the original loan amount?
+</s> <s><INST> Exactly! I have been following up with the bank for the last 6 months but they are insisting that I still owe them this amount as per their records.
+</INST> This seems to be a clear case of harassment and fabrication of documents by the bank. Do you have the payment receipts and bank statements?
+</s> <s><INST> Yes I have all the documents ready to show the payments made.
+</INST> You can file a complaint before the consumer court having jurisdiction to hear the case. For that, you must first send a fifteen-day notice to Union Bank of India. The same can be sent electronically or by post. Or else, you can also contact the  National  Consumer Helpline using the helpline number 1800-11-4000. The Consumer Helpline will give assistance regarding how you can approach the present dispute. What would you prefer?
+</s> <s><INST> I prefer sending legal notice. 
+</INST> Certainly. I will need some more information from you related to the matter. Can you please tell me the following: your full name with address, age, and occupation, and the registered address of Union Bank of India. 
+</s> <s><INST> Sure. My details are Mr. Manoj Kumar Pradhan, S/o S. Pradhan, aged about 34 years, resident of Temi Bazaar, Namchi, Sikkim, I am a professional Football Coach Opposite Party details are: 2 The Branch Manager  Union Bank of India, Gangtok Branch Gangtok, Sikkim
+</INST> Thank you. I would need some more information from you related to the matter to assist you better. What is the relief that you would wish to pursue through the complaint?
+</s> <s><INST> I would want to waive the interest costing me up to Rs. 6,56,000 and pay an additional Rs. 50,000/- as compensation for mental harassment and additional litigation expenses of Rs. 50,000/-
+</INST> Thank you for supplying the information! Please find the notice for filing of consumer complaint here. Please note that these are templates that may require certain corrections or modifications and certain details (particularly the date and signature) will need to be filled at your end. 
+</s> <s><INST> Thank you. I want to file a consumer complaint; can you guide me?
+</INST> Sure. Since the value of the consideration amount of loan amount is Rs. 7,00,000 which is less than 50 Lakh Rupees, the complaint will have to be filed in a District Commission. You, as a complainant, reside in Namchi district and the cause of action arises in Gangtok. The opposite party carries on business in Gangtok,. You have the option to file the complaint to the Gangtok District Consumer Disputes Redressal Commission. 
+</s> <s><INST> Okay, Please share details about the complaint filing process. 
+</INST> Sure. Below is the process for filing a consumer complaint at the Gangotk District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create an Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to log in to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you have as compensation in the claim amount. 
+9.	Select Sikkim as the state and Gangtok as the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter The Branch Manager  Union Bank of India, Gangtok Branch Gangtok, Sikkim in the Opposite Party details. Select the state and district of the registered address. 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.	In the Complaint section, write the following: 
+“I had availed a home loan of Rs. 7,00,000 (Account No. 531506650018340) from the Union bank of India in the year 2005 for the construction of my house. As per the loan agreement, the rate of interest was fixed at 3,158 INR per month for a tenure of 240 months with an EMI of Rs. 6,100. I have paid over Rs. 12 lakhs against the said loan till date. However, as per the Bank's statements, the outstanding amount is falsely shown as Rs. 6,56,000.”
+14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name, and the opposite party, click save and continue. 
+15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+Do you also want me to draft a complaint letter for you?
+
+</s> <s><INST> Yes, that would be really helpful.
+
+</INST> Excellent, I've generated a pre-filled complaint for you with all the details you've provided. You can find it here. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now?
+ 
+</s> <s><INST> Yes, Please. 
+
+</INST>  Sure. Here is a draft affidavit and Memorandum of Parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+
+</s> <s><INST> No, that's all for now. Thanks.
+
+</INST> You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+</s>

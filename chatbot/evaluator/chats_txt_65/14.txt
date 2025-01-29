@@ -1,0 +1,121 @@
+Human: I have issues with my SB Account. Can you help me resolve it.
+
+Bot: Thank you for sharing your concern. I'd be happy to help you with your State Bank of India (SB) account issue.
+
+To better understand the problem, can you please tell me what specifically is causing the issue with your SB account? Is it related to transactions, account balance, account access, or something else?
+
+Human: I've had an SB Account with the State Bank of India, Dondaparthi Branch for many years. Recently, Mr. Sharma, a Senior Associate of the bank,  advised me to open fixed deposits to receive better benefits. Trusting his advice and my faith in the bank, I handed over three cheques, each drawn for Rs. 7,00,000, to Mr. Sharma to have deposits made in the names of my three children.
+
+Bot: It seems like you've had an issue with your SB Account at the State Bank of India, Dondaparthi Branch. 
+
+Could you please tell me what happened after you handed over the cheques to Mr. Sharma? Did the deposits get made in the names of your children as intended?
+
+Human: Unfortunately, I did not receive any fixed deposit certificates as expected. Despite my repeated requests and visits to Mr. Sharma, he kept postponing the issuance of the certificates, stating that they were still under process. However, I later discovered that Rs. 3441 each was being credited to my account from 28/11/2017 onwards against an annuity pension scheme, which I never agreed to or signed up for.
+
+Bot: It seems like there's been a discrepancy with your account. Can you please tell me the date when you first noticed these unauthorized transactions and credited amounts?
+
+Human: Yes, I approached the Branch Manager in February 2018 and informed them that I never requested or agreed to any policies. I also mentioned that even if policies were issued, I never received any documents related to them. I explained that had I been served with the documents, I would have been able to cancel the policies within the free look period.
+
+Bot: It seems like you've been trying to address the issue with the bank since February 2018. Have you received any response or resolution from the bank regarding this matter? Also, can you please tell me the current date? (Today's date is 26th September 2024)
+
+Human: Unfortunately, despite sending several reminders between 01/10/2019 and 24/07/2021, the opposite parties did not address my concerns or take any action. Finally, on 07/02/2020, they rejected my request to cancel the policies.
+
+Bot: It seems like the bank has not addressed your concerns properly. You mentioned that the incidents occurred in 2017 and 2018, and the bank's response was delayed. As per the Consumer Protection Act, there is a time limit of 2 years to file a complaint. Since your incident occurred more than 2 years ago, you might need to be cautious about the statute of limitations. However, I would recommend you to consult with a lawyer or the banking ombudsman to get a clear understanding of your options. 
+
+Considering your desired relief, would you like me to draft a legal notice to the bank, or would you like to explore soft remedies first?
+
+Human: I would like to seek a refund of Rs.21,00,000/- for the three policies and credit the same into my SB account No. 32906316511, Rs. 3,00,000/- as compensation for mental agony and Rs.20,000/- for costs
+
+Bot: I understand that you want to seek a refund of Rs. 21,00,000, compensation for mental agony, and costs. Before we proceed, I would like to inform you that the Consumer Protection Act, 2019 has a time limit of 2 years to file a complaint. Since your incident dates back to 2017, it might be challenging to file a complaint now. However, I can guide you on the next steps.
+
+Considering your situation, I would recommend sending a legal notice to the State Bank of India, Dondaparthi Branch, and Mr. Sharma, the Senior Associate, requesting them to refund the amount and provide compensation for mental agony. Would you like me to help you draft a sample legal notice?
+
+Human: Could you provide me the helpline number
+
+Bot: You can contact the National Consumer Helpline at 1800-11-4000 or 1915. They will be able to assist you with your grievance. Additionally, you can also file a complaint online at https://consumerhelpline.gov.in/user/signup.php or through the UMANG App.
+
+If you'd like, I can also help you draft a legal notice to send to the State Bank of India, outlining your grievances and the relief you are seeking. Would you like me to assist with that?
+
+Human: Provide me with both the Helpline Number.
+
+Bot: You can contact the National Consumer Helpline at 1800-11-4000 or 1915, available all days except national holidays, from 8:00 AM to 8:00 PM. Additionally, you can also contact the State Consumer Helpline for your respective state. 
+
+If you need the state-specific helpline number, please let me know your state and I can provide you with the same.
+
+Human: Andhra Pradesh
+
+Bot: The State Consumer Helpline Number for Andhra Pradesh is 1800-425-6111 and the National Consumer Helpline Number is 1800-11-4000. You can also use the UMANG App for immediate assistance. 
+
+If you need a location-based helpline number, I can provide you with that as well.
+
+Human: How do I proceed, if I have to file a complaint.
+
+Bot: To file a complaint, you can follow these steps:
+
+1.  Visit the website of the State Consumer Disputes Redressal Commission of Andhra Pradesh: [http://apconsumer.in](http://apconsumer.in)
+2.  Click on the "File a Complaint" tab and fill in the required details.
+3.  You can also visit the e-daakhil portal: [https://edaaakhil.ccmc.gov.in](https://edaaakhil.ccmc.gov.in) to file your complaint online.
+4.  If you prefer to file a complaint in person, you can visit the District Consumer Disputes Redressal Forum in your area.
+5.  Make sure to attach all the necessary documents, including proof of purchase, receipts, and communication with the bank.
+
+Before filing a complaint, please note that the complaint must be filed within 2 years from the date of the incident.
+
+Human: Saragadam hanumantha rao s/o Late S.J.Naidu, aged 75 years, residing at Flat No.404, 4th floor, Vivek Towers, Narsimhanagar, Beside Rythu Bazar, Akkayyapalem, Visakhapatnam
+
+Bot: Based on the details you provided, since the amount involved is more than one crore, you can approach the State Commission. 
+
+I can help you draft a complaint. Would you like me to draft a complaint for you?
+
+Human: The Chief Manager, State Bank of India,Dondaparthi Branch, Mani Residency, Opp: Srikanya Theatre, Visakhapatnam-530016. The Branch Manager/Authorized Signatory, SBI Life Insurance Company Ltd., No.12-1, Near Green Park Hotel, Waltair Main Road, Visakhapatnam-530002. The Regional Director, SBI Life Insurance Company Ltd, 4th floor, D. No. 40-1-52/6, KP Towers, MG Road, Vijayawada-520010. The Managing Director, SBI Life Insurance Company Ltd., 8th Level, Seawoods Grand Central, Tower-2, Plot No.R-1, Sector-40, Seawoods, Nerul Node, Navi Mumbai-400706
+
+Bot: I have noted down the details of the opposite parties. 
+
+Before we proceed further, let's ensure that the time limit for filing a complaint has not expired. The Consumer Protection Act, 2019, has a time limit of 2 years from the date of the cause of action. In your case, the cause of action arose in 2017. Since the current year is 2024, it seems that the time limit has not expired.
+
+To draft a complaint, we will need to prepare a Memorandum of Parties, a complaint, and an affidavit. Would you like me to assist you with drafting these documents?
+
+Human: Yes, please.
+
+Bot: Here's a draft of your complaint:
+
+**IN THE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION, VISAKHAPATNAM**
+
+**COMPLAINT NO.**
+
+**Saragadam Hanumantha Rao, S/o Late S.J. Naidu, Aged 75 years, Residing at Flat No.404, 4th floor, Vivek Towers, Narsimhanagar, Beside Rythu Bazar, Akkayyapalem, Visakhapatnam**
+
+**VERSUS**
+
+**1. The Chief Manager, State Bank of India, Dondaparthi Branch, Mani Residency, Opp: Srikanya Theatre, Visakhapatnam-530016**
+**2. The Branch Manager/Authorized Signatory, SBI Life Insurance Company Ltd., No.12-1, Near Green Park Hotel, Waltair Main Road, Visakhapatnam-530002**
+**3. The Regional Director, SBI Life Insurance Company Ltd, 4th floor, D. No. 40-1-52/6, KP Towers, MG Road, Vijayawada-520010**
+**4. The Managing Director, SBI Life Insurance Company Ltd., 8th Level, Seawoods Grand Central, Tower-2, Plot No.R-1, Sector-40, Seawoods, Nerul Node, Navi Mumbai-400706**
+
+**COMPLAINT**
+
+1. The complainant, holding SB Account No. 32906316511 with the 1st opposite party for years, followed advice from Mr. Sharma, a Senior Associate, to deposit three cheques of Rs. 7,00,000 each for better benefits without specifying bearer's names.
+2. He expected fixed deposit certificates but didn't receive them. Instead, Rs. 3441 each started crediting to his account from 28/11/2017 for an annuity pension scheme, which he never opted for.
+3. Despite informing the 2nd Opposite Party in February 2018, and multiple reminders till 24/07/2021, they failed to cancel the policies, allegedly exploiting the complainant's old age for personal gain.
+
+**RELIEF SOUGHT**
+
+The complainant seeks a refund of Rs. 21,00,000/- for the three policies, credit the same into his SB account No. 32906316511, Rs. 3,00,000/- as compensation for mental agony, and Rs. 20,000/- for costs.
+
+**VERIFICATION**
+
+I, Saragadam Hanumantha Rao, do hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+**VERIFICATION**
+
+I, Saragadam Hanumantha Rao, do hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+Please note that this is a draft and may require modifications based on your specific needs. You should also attach all relevant documents and evidence to support your complaint.
+
+Human: Yes, Please. It would be really helpful
+
+Bot: The affidavit is a sworn statement that the information provided in the complaint is true to the best of your knowledge. Here is the affidavit. AFFIDAVIT IN THE NAME OF GOD, BE MERCIFUL TO US. I, Saragadam hanumantha rao s/o Late S.J.Naidu, aged 75 years, residing at Flat No.404, 4th floor, Vivek Towers, Narsimhanagar, Beside Rythu Bazar, Akkayyapalem, Visakhapatnam do solemnly affirm and state as under:  I am the complainant in the above complaint.  I am well conversant with the English language and am competent to attest and verify this affidavit.  I am putting my signature below on oath that the facts stated in the complaint are true to the best of my knowledge and belief.  I have read the contents of the complaint and I am aware of the facts and circumstances of the case.  I have not misrepresented any facts nor have I tried to hide any information in the complaint.  I have not been pressurized or induced by any person or authority to file this complaint.  I am aware that the complaint is being filed within the period of limitation as prescribed under section 69 of the Act, 2019.  I am aware that the requisite court fee has been paid as per Rule 7 of Consumer Protection (Consumer Dispute Redressal Commission) Rules 2020.  I am aware that the evidence attached to the complaint are true to the best of my knowledge and belief.  I request the Hon’ble Commission to pass orders in the above complaint. IN WITNESS WHEREOF, I have hereunto put my right hand this the day of 2024. Signature of the Complainant.  PLEASE NOTE: The above affidavit is a sample and you should consult a lawyer to draft an affidavit as per your specific requirements.
+
+Human: No, that's all for now. Thanks.
+
+Bot: You are welcome. Please feel free to reach out if you need any further assistance.
+

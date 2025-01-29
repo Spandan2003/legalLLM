@@ -1,0 +1,239 @@
+Human: This doctor of the medical college operated on my right leg without my consent when I had asked for treatment of only my left leg. Later, I started developing pain in my right leg.
+
+Bot: Thank you for sharing your concern with me. I'm here to help you with your consumer grievance.
+
+Can you please tell me what led to the issue with the doctor operating on your right leg without your consent? Was it a miscommunication, a misunderstanding, or something else?
+
+Human: What other remedies do I have against the medical college as a consumer?
+
+Bot: As a consumer, you have several options to seek redressal for the medical negligence. Can you please tell me, what was the date of the incident when the doctor operated on your right leg without your consent?
+
+Human: Can you draft a legal notice for my case if I provide you the required details?
+
+Bot: To draft a legal notice, I'll need some more information from you. Can you please provide the following details:
+
+1. Your name and address
+2. The name and address of the medical college where the operation was performed
+3. The name of the doctor who performed the operation
+4. A brief description of the incident, including the date and time of the operation
+5. The specific promises made to you by the medical college or doctor that were not fulfilled
+6. The relief you are seeking, such as compensation for the pain and suffering you have endured, reimbursement of medical expenses, or any other specific remedy you are seeking.
+
+Once I have this information, I can help you draft a legal notice.
+
+Human: My name is Lalitha Mohanan. My address is Mangalathu House,  Murikkarsherry P.O. Idukki. The name of the opposite party is Dr. Tomichan M.C, professor and head of the department of Orthopedics of Medical College Hospital, Kottayam. His address is Kochumattom, Arookkara East P.O. Kottayam.
+
+Bot: To draft a legal notice, I would need a few more details from you. Could you please provide the following information:
+
+1. Date of the incident when the surgery was performed without your consent.
+2. A brief description of the treatment you were seeking for your left leg and how the doctor proceeded to operate on your right leg.
+3. The specific pain or complications you have been experiencing in your right leg since the surgery.
+4. The amount of compensation you are seeking from Dr. Tomichan M.C. and the Medical College Hospital.
+5. Any other relevant details or documentation that you think would be helpful to include in the notice.
+
+Please provide these details so I can draft a comprehensive legal notice for you.
+
+Human: I approached Dr. Tomichan with difficulty in walking due to pain in the left leg on 07-11-2021. He had advised me to undergo a surgery on my left leg. Thus the surgery was fixed to 25-01-2022. After the surgery, Dr. Tomichan informed that during the procedure he had cut open the right leg first to see if there was any issue and then went on to operate the left leg. He assured me that he would take care of any complications arising there from. After the surgery, I started developing pain on her right leg. Though I was having difficulty in slight movement I was discharged on 29-01-2022. As the pain was not subsiding I visited the doctor on 04-04-2022. But Dr. Tomichan behaved indifferently and did not suggest anything to redress the pain and difficulties of the complainant with her right leg. Even after three months, I was unable to walk.
+
+Bot: Here's a draft of the legal notice:
+
+**NOTICE**
+
+To,
+Dr. Tomichan M.C,
+Professor and Head of the Department of Orthopedics,
+Medical College Hospital,
+Kochumattom, Arookkara East P.O.
+Kottayam.
+
+Subject: Unauthorized Operation and Negligence of Medical Services
+
+Dear Dr. Tomichan,
+
+Re: Your treatment of Lalitha Mohanan (Complainant)
+
+You are hereby put to notice that I, Lalitha Mohanan, had visited your hospital on 07-11-2021, for treatment of pain in my left leg. You advised me to undergo a surgery on my left leg, which was scheduled for 25-01-2022. During the surgery, you unauthorizedly operated on my right leg, claiming that you were checking for any underlying issues. You assured me that you would take care of any complications arising from this action.
+
+However, after the surgery, I started experiencing severe pain in my right leg, which has persisted even after three months. Despite my follow-up visit to your hospital on 04-04-2022, you showed no concern and did not provide any adequate treatment to address my condition.
+
+I am extremely dissatisfied with the services rendered by you and your hospital, and I hold you liable for the unauthorized operation and subsequent negligence in providing medical care. I am seeking compensation for the damages suffered by me due to your actions.
+
+I demand that you take immediate action to rectify the situation and provide me with adequate medical treatment to address my ongoing pain and disability. I also seek compensation for the losses suffered by me, including but not limited to, medical expenses, loss of income, and pain and suffering.
+
+If I do not receive a satisfactory response from you within 15 days from the date of receipt of this notice, I shall be forced to approach the Consumer Forum for redressal of my grievances.
+
+Please acknowledge receipt of this notice and confirm your intention to address my concerns.
+
+Yours faithfully,
+
+Lalitha Mohanan
+
+Mangalathu House,
+Murikkarsherry P.O.
+Idukki.
+
+Please review and let me know if you need any modifications or additions.
+
+Human: I want compensation of Rs.2 lakhs for mental agony and hardship and litigation cost.
+
+Bot: Based on the information you provided, I can draft a legal notice for you. Here's a sample:
+
+**NOTICE**
+
+To,
+Dr. Tomichan M.C,
+Professor and Head of the Department of Orthopedics,
+Medical College Hospital, Kochumattom, Arookkara East P.O. Kottayam.
+
+Subject: Deficiency in Service and Breach of Medical Ethics
+
+You are hereby notified that Lalitha Mohanan, residing at Mangalathu House, Murikkarsherry P.O. Idukki, has suffered a serious breach of medical ethics and deficiency in service at the hands of you, Dr. Tomichan M.C, while undergoing treatment at the Medical College Hospital, Kottayam.
+
+On 07-11-2021, the complainant approached you with difficulty in walking due to pain in the left leg. You advised her to undergo a surgery on her left leg, which was scheduled for 25-01-2022. However, during the surgery, you unilaterally decided to cut open the right leg first without the complainant's consent, resulting in unnecessary pain and complications. Despite assurances of taking care of any complications arising therefrom, the complainant started developing pain on her right leg, which persisted even after discharge on 29-01-2022.
+
+The complainant visited you on 04-04-2022, but you behaved indifferently and did not suggest anything to redress the pain and difficulties of the complainant with her right leg. As a result, the complainant has suffered mental agony and hardship, and has been unable to walk even after three months.
+
+The complainant hereby demands compensation of Rs. 2,00,000/- (Rupees Two Lakhs only) for the mental agony and hardship suffered, and litigation costs.
+
+You are hereby required to respond to this notice within 30 days from the date of receipt of this notice, indicating your intention to settle the matter amicably, failing which the complainant shall be forced to approach the Consumer Forum for redressal.
+
+Please acknowledge receipt of this notice.
+
+Sd/- 
+Lalitha Mohanan
+
+Please review and confirm if this meets your requirements. I can make any necessary changes before finalizing the notice.
+
+Human: Thank you! What is the next step that I should take if my problem is not solved by the legal notice?
+
+Bot: If the problem is not resolved after sending a legal notice, the next step would be to file a complaint with the Consumer Dispute Redressal Forum (CDRF) or the District Consumer Disputes Redressal Forum, depending on the value of the complaint. You can file a complaint with the District Consumer Disputes Redressal Forum as the value of the goods or services paid as consideration does not exceed more than one crore rupees.
+
+To file a complaint, you can approach the District Consumer Disputes Redressal Forum, Idukki, and submit the required documents, including the legal notice, and a copy of the complaint. You can also seek the help of a lawyer to guide you through the process.
+
+Additionally, you can also contact the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance and guidance on the next steps to be taken.
+
+Human: How do I file the consumer complaint?
+
+Bot: To file a consumer complaint, you can follow these steps on the E-Daakhil portal:
+
+1.  Create an account on the E-Daakhil portal if you don't have one.
+2.  Verify your email address by clicking on the link sent to your registered email.
+3.  Log in to the portal using your credentials.
+4.  Click on 'File a New Case' from the Filing dropdown menu and select 'Consumer Complaint.'
+5.  Accept the disclaimer and click "accept."
+6.  Enter the claim amount you are claiming.
+7.  Choose your district and click continue.
+8.  Enter your personal details, including name, address, mobile number, and email address (optional).
+9.  Enter the opposite party's details, including name, address, state, and district of the registered address.
+10. Enter your advocate's details (if you have one) or leave it blank.
+11. Write a gist of the complaint in the Complaint section.
+12. Save and continue to proceed to the next step.
+13. Enter complaint details again and click save and continue.
+14. Upload documents, such as the index, complaint, memo of parties, affidavit, and any other evidence.
+15. Review and submit your complaint.
+16. Pay the fees for your complaint on the pending complaints page.
+
+You can also contact the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance. If you need help with filing the complaint, I can guide you through the process.
+
+Human: Can you identify the appropriate jurisdiction for my case?
+
+Bot: Based on the information provided, the value of the goods or services paid as consideration does not exceed more than one crore rupees. Therefore, the District Commission has jurisdiction over your case. You can file a complaint at the District Consumer Disputes Redressal Forum, Kottayam.
+
+Human: Can you prepare a draft complaint for me with the given details?
+
+Bot: Here is a draft complaint for you. Please review and fill in the necessary details before submitting it to the District Consumer Disputes Redressal Commission.
+
+**DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION**
+
+**CASE NO.** 
+
+**IN THE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION**
+
+**Application for Redressal of Consumer Dispute**
+
+**Name of the Complainant:** Lalitha Mohanan
+**Address:** Mangalathu House, Murikkarsherry P.O. Idukki
+**Name of the Opposite Party:** Dr. Tomichan M.C, Professor and Head of the Department of Orthopedics, Medical College Hospital, Kottayam
+**Address:** Kochumattom, Arookkara East P.O. Kottayam
+
+**Subject:** Deficiency in Service and Wrongful Treatment
+
+**Complaint:**
+
+I, Lalitha Mohanan, wife of Mohanan, residing at Mangalathu House, Murikkarsherry P.O. Idukki, do hereby submit this complaint against Dr. Tomichan M.C, Professor and Head of the Department of Orthopedics, Medical College Hospital, Kottayam, for deficiency in service and wrongful treatment.
+
+**Facts of the Case:**
+
+1.  I went to Dr. Tomichan for treatment of pain in my left leg on 07-11-2021.
+2.  Dr. Tomichan advised me to undergo a surgery on my left leg, which was done on 25-01-2022.
+3.  During the surgery, Dr. Tomichan wrongly operated on my right leg, which had no issue.
+4.  After the surgery, I started developing pain in my right leg.
+5.  Dr. Tomichan assured me that he would take care of any complications arising from the operation but failed to do so.
+6.  I visited Dr. Tomichan on 04-04-2022, but he behaved indifferently and did not suggest anything to redress the pain and difficulties with my right leg.
+
+**Relief Sought:**
+
+I, therefore, pray that this Honorable Commission may be pleased to:
+
+1.  Pass an order directing the opposite party to pay a compensation of Rs. 2,00,000 for the mental agony and hardship caused due to wrong operation on my right leg.
+2.  Pass an order directing the opposite party to pay litigation cost of this complaint.
+
+**Verification:**
+
+I, Lalitha Mohanan, do hereby verify that the contents of this complaint are true and correct to the best of my knowledge and belief.
+
+**Signature of the Complainant:** (Lalitha Mohanan)
+
+**Date:** (Today's Date)
+
+Please note that this is just a draft, and you should verify the details before submitting it to the District Consumer Disputes Redressal Commission. Also, you may need to attach supporting documents and evidence with the complaint.
+
+Human: Thank you for the draft complaint. Do I need to do anything else before filing the complaint?
+
+Bot: Before filing the complaint, ensure you have the following: 
+
+1. 3 copies of the complaint.
+2. 3 copies of the affidavit.
+3. 3 copies of the annexures.
+4. 3 copies of the court fee.
+5. 3 copies of the proof of service of the notice on the opposite party.
+6. You must also attach a copy of the legal notice sent to the opposite party along with the proof of service.
+7. You may also need to file an application for condonation of delay if the complaint is filed after the statutory period of 2 years from the date of the cause of action.
+8.  You should also ensure that you have attached all the relevant documents, including medical reports, X-ray reports, hospital bills, and other evidence to support your case.
+
+You can file the complaint through the e-daakhil portal or in person at the consumer forum.
+
+Human: Alright thank you. Can you provide me with a draft of the affidavit according to the details given by me?
+
+Bot: Please find the draft affidavit. You need to sign it in the presence of an oath commissioner or a notary public. I am not able to provide you with a notarized document. Affidavit of Lalitha Mohanan, wife of Mohanan, residing at Mangalathu House, Murikkarsherry P.O. Idukki. I, Lalitha Mohanan, wife of Mohanan, residing at Mangalathu House, Murikkarsherry P.O. Idukki, do hereby solemnly affirm and declare as under: 1. I am the complainant in the above-mentioned complaint and I am competent to swear to this affidavit. 2. I have read and understood the contents of the complaint and the facts stated therein are true to the best of my knowledge and belief. 3. I am not aware of any other proceedings or cases pending before any court of law or any other forum in respect of the subject matter of the complaint. 4. I have not taken any loan or advance from any person or institution in respect of the subject matter of the complaint. 5. I am not a defaulter in respect of any loan or advance taken from any person or institution. 6. I am not a party to any compromise or settlement in respect of the subject matter of the complaint. 7. I have not made any settlement or compromise with the opposite party in respect of the subject matter of the complaint. 8. I have not filed any other complaint in respect of the subject matter of the complaint in any other court of law or forum. 9. I have not received any compensation or settlement from the opposite party in respect of the subject matter of the complaint. 10. I have not any other grievance against the opposite party. I hereby declare that the contents of the above affidavit are true to the best of my knowledge and belief and nothing material has been concealed therefrom. IN WITNESS WHEREOF I have hereunto set my hand this the 26th day of July 2024. Signature of the Affidavit: _______________________________
+
+Human: Thank you! Can you also draft a memorandum of parties for the complaint?
+
+Bot: Certainly, please find a draft Memorandum of Parties. This document lists the parties involved in the case and their respective addresses. The Memorandum of Parties is a crucial document that accompanies the complaint and affidavit. Please ensure that the details are accurate and complete. MEMORANDUM OF PARTIES  IN THE HON'BLE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION AT KOTTAYAM  IN THE MATTER OF Lalitha Mohanan, W/o. Mohanan, Residing at Mangalathu House, Murikkarsherry P.O. Idukki, Kottayam District. Vs. Dr. Tomichan M.C., Professor and Head of the Department of Orthopedics, Medical College Hospital, Kochumattom, Arookkara East P.O. Kottayam.  MEMORANDUM OF PARTIES  1. The Complainant: Lalitha Mohanan, W/o. Mohanan, Residing at Mangalathu House, Murikkarsherry P.O. Idukki, Kottayam District.  2. The Opposite Party: Dr. Tomichan M.C., Professor and Head of the Department of Orthopedics, Medical College Hospital, Kochumattom, Arookkara East P.O. Kottayam.  3. The Advocate for the Complainant:  4. The Advocate for the Opposite Party:  Verified at, on this ____________ day of that the contents of the above Memorandum of Parties are true and correct to the best of my knowledge and belief.  Deponent
+
+Human: Thank you! Can you tell me where I need to file the complaint?
+
+Bot: You can file the complaint at the District Consumer Disputes Redressal Commission at Kottayam. You can submit the complaint in person or through an authorized agent. Alternatively, you can also file the complaint online through the e-daakhil portal. The e-daakhil portal is a user-friendly platform that allows you to file complaints and track the status of your case. The portal can be accessed through the following link: https://edaakhil.nic.in/. If you need any further assistance with filing the complaint, please let me know.
+
+Human: I would prefer to file the complaint online. Can you provide me with a step-to-step guide for filing the complaint on the E-Daakhil portal.
+
+Bot: Here is a step-by-step guide for filing a complaint on the E-Daakhil portal. 
+
+1.  Go to the official website of E-Daakhil: https://edaakhil.nic.in/ 
+2.  Click on the 'File a New Case' button on the homepage.
+3.  Select the type of complaint you want to file: 'Consumer Complaint'.
+4.  Fill in your personal details such as name, address, mobile number, and email address.
+5.  Enter the details of the opposite party, including their name, address, state, and district.
+6.  Write a brief summary of your complaint in the 'Complaint Summary' section.
+7.  Attach the required documents, such as the affidavit, memorandum of parties, and any other supporting evidence.
+8.  Review and submit your complaint.
+9.  Pay the required court fee online.
+10.  Once the payment is successful, you will receive a confirmation message and a complaint number.
+11.  You can track the status of your complaint on the E-Daakhil portal using the complaint number.
+
+You can also contact the National Consumer Helpline at 1800-11-4000 or the UMANG App for immediate assistance.
+
+Human: Thank you!
+
+Bot: You're welcome. If you have any further questions or need assistance with anything else, feel free to ask.
+

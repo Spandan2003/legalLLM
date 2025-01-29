@@ -1,0 +1,109 @@
+<s><INST>  I have an issue with regards to my insurance policy. How do I resolve it.
+
+</INST> Could you please elaborate the issue.
+
+</s> <s><INST>  My husband is an employee at Rashtriya Ispat Nigam Ltd., (RINL). The RINL in order to safeguard the interests of the employees obtained Group Personal Accident Insurance Policies New India Assurance Company Limited and for the same RINL used to deduct a certain amount from my husband’s salary to pay the premium for several years. In 2016, My husband fell down from a two wheeler and sustained a head injury. He was immediately admitted in the hospital, where he underwent the treatment. He was treated in different hospitals for the past two years and he eventually died. When I went to claim insurance it was denied. 
+
+</INST> I’m so sorry this happened to you. Could you please mention when did this incident happen
+
+</s> <s><INST>  It happened on 05/04/2016.
+
+</INST> could you please mention further details such as employment details of your husband such as what is his post, what is his salary and of the insurance policy, specifically the amount, policy number, the period of policy.
+
+</s> <s><INST>  My Husband worked in RINL as a Senior Foreman, CMM Section with Employee No. 11379. His salary was Rs.50,000. I do not know the premium amount deducted from his salary. But the coverage is for Rs.31,00,000 and the policy commences from 1st april to 31st march of every financial year. Thus considering the period 01/04/2016 to 31/03/2017. The policy number is 62030042160100000008. 
+
+</INST> Thank you for sharing those details. Could you please further mention if you have reported the incident to police or got an FIR registered. If so, could you provide those details.
+
+</s> <s><INST>  Yes. I have reported to Tekkali Police about the accident on 05/04/2016 who registered the same under Crime No. 48/2016.
+
+</INST> Could you mention the details about your husband’s treatment. 
+
+</s> <s><INST>  My husband was admitted in the Seven Hills Hospital immediately when the accident took place and got the treatment. Later he was shifted to other hospitals to Apollo Hospital and Manipal Hospital between 06/04/2016 to 23/12/2018 and was shifted back again to the Seven Hills Hospital where he underwent the treatment last. 
+
+</INST> Could you please mention further details of the death of your Husband
+
+</s> <s><INST> My Husband died on 27/12/2018 in the Seven Hills Hospital.
+
+</INST> Could you mention the reason given by the insurance company for the rejection of the claim for insurance and when and how they refuse the claim.
+</s> <s><INST>  The insurance company rejected the claim through a letter dated 27/12/2018 stating that the claim is not payable as the death did not occur within the 12 calendar months and the death was not due to injury of the accident but because of aspiration pneumonia sepsis with septic shock. 
+
+</INST> Could you please mention if you have approached the insurance company post rejection of claim or have taken any action against them in any form. If so could you please mention those details.
+
+</s> <s><INST>  I have approached the Insurance Ombudsman on 05/03/2020 which was dismissed on 29/06/2020.
+
+</INST> What is the remedy that you would like to seek.
+
+</s> <s><INST>  I wanted a full claim of the insurance and compensation for the trouble that the insurance company has caused to me.
+
+</INST> How much compensation would you like to claim
+
+</s> <s><INST>  I would like to claim full insurance amount i.e, Rs.31,00,000 along with interest at 12% p.a from date of death till date and a compensation of Rs.4,00,000. 
+  
+</INST> Noted.. Could you please mention your name , age and address and your husband’s details and the details of other persons whom you want to be parties along with you in the complaint to draft a complaint.
+
+</s> <s><INST>  My husband’s name is Nandesam. My name is Bammidi Venkata Lakshmi Lalitha, age- 44 years, my daughter’s name is Bammidi Harita, age 23 years, my son’s name is Bammidi Naga Sai Prakash, 21 years. We all reside at D. No. 39-22-80/2, Kunchamamba Temple, Madhavadhara, Visakhapatnam-07 
+
+</INST> Could you please mention details of the RINL and the insurance company. If the RINL or insurance company has any branch office, mention the details of such branch office also. 
+
+</s> <s><INST>  Rashtriya Ispat Nigam Limited, Ukkunagaram, Visakhapatnam- 530032. Insurance company- The New India Assurance Company Limited, D.O-III, Senior Divisional Office, 2nd Floor, Daliraju Super Market, Akkayyapalem Main Road, Visakhapatnam- 530016. The New India Assurance Company Limited, Claims Hub, Regional Office, 4th floor, Pavan Paradise, Dwarakanagar, Visakhapatnam-16. The New India Assurance Company Limited, Head Office, No.87, M.G. Road, Fort, Mumbai- 400001
+
+</INST> Thank you for providing these details. Would you like to send a notice to the insurance company.
+
+</s> <s><INST>  Can I still send a notice. 
+
+</INST> Yes. Would you like me to generate a notice for you.
+
+</s> <s><INST>  Yes. It would be really helpful.
+
+</INST> Here is the notice. 
+
+</s> <s><INST>  Is there any other way I can resolve this issue.
+</INST> Sure, you can file a complaint before the District Consumer Disputes Redressal Commission or you can contact the agent through the consumer helpline number.
+</s> <s><INST>  Could you provide the consumer helpline number to me.
+</INST> To be specific, there is a National and State Consumer Helpline Number. Which number do you want me to provide you with.
+</s> <s><INST>  Provide me with both the Helpline Numbers.
+</INST> Could you please mention which state you reside in.
+</s> <s><INST>  Andhra Pradesh
+</INST> Please find the National Consumer Helpline number- 1800-11-4000 and the State Consumer Helpline number- 1800-425-0082 / 1800-425-2977
+
+</s> <s><INST>  Can I still file a complaint directly.
+
+</INST> Yes. Based on your situation, you can file a complaint before the District Consumer Disputes Redressal Commission, Visakhapatnam. You'll need to submit several documents, along with the complaint. I can generate a checklist for you. Would that be helpful?
+
+</s> <s><INST>  Yes, please.
+
+</INST> Here is the checklist:
+
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter 3420000 in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of RINL and the Insurance company in the Opposite party name section. Select the state and district of the registered address.
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+My husband is an employee at Rashtriya Ispat Nigam Ltd., (RINL). The RINL in order to safeguard the interests of the employees obtained Group Personal Accident Insurance Policies New India Assurance Company Limited and for the same RINL used to deduct a certain amount from my husband’s salary to pay the premium for several years. In 2016, My husband fell down from a two wheeler and sustained a head injury. He was immediately admitted in the hospital, where he underwent the treatment. He was treated in different hospitals for the past two years and he eventually died. When I went to claim insurance it was denied. 
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+</INST> Would you like me to generate the complaint for you ? 
+
+</s> <s><INST>  Yes, please.
+
+</INST> Sure you can download the complaint here. Once downloaded, review and sign the complaint. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+</s> <s><INST>  Yes, Please. It would be really helpful 
+
+</INST>  Sure. Here is a draft affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and ha
+ve the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+</s> <s><INST> No, that's all for now. Thanks.
+
+</INST> You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+</s>

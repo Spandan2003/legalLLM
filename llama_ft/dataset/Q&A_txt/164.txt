@@ -1,0 +1,57 @@
+The Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you. Please give your name and where you are from.
+Aggrieved Consumer: Hello, I am Shruti Goyal, and I am from Moga, Punjab. I have a consumer issue with a makeup artist named Arushi Oswal.
+The Chatbot: I'm sorry to hear that. Can you provide more details about the issue you faced with Arushi Oswal's makeup services?
+Aggrieved Consumer: Certainly. I paid Arushi Rs. 5000 in cash and Rs. 5000 by bank transfer for makeup services. However, she hasn't provided me with a receipt for the cash payment.
+The Chatbot: I understand your concern. To assist you better, can you please elaborate on the issue? 
+Aggrieved Consumer: I don’t remember the date I availed of the makeup services. I went to her salon, which is named the Arushi Oswal Make-up Academy. She told me that since several other customers were waiting, she would send the receipt to me via WhatsApp later.  I have raised multiple requests for the receipt but I have not received a response. 
+The Chatbot: Thank you for providing those details. Is it possible for you to recollect the month when you availed services from here?
+Aggrieved Consumer: The month is August 2022. That much I remember.
+The Chatbot: Got it. Since you availed the services of the academy, it will be the opposite party and not Arushi Oswal in her capacity. Do you have any messages or emails exchanged between you and Arushi Oswal regarding the makeup services and the payment? 
+Aggrieved Consumer: Yes, I do. I sent her several WhatsApp messages for the receipt but she has not replied.
+The Chatbot: Based on what you've told me, it appears there's a lack of documentation for the cash payment, causing you mental agony. You have a valid grievance for which you can seek redressal, i.e., get relief. Let me know what kind of remedy you are seeking and how much you want for the same.
+Aggrieved Consumer: I want compensation for mental agony and a refund of 10,000 Rs.. Compensation for mental agony can be 20,000 Rs. 
+The Chatbot: In order to get the relief that you are seeking, you can file a complaint before the Consumer Forum that has jurisdiction to hear your case. You can also go for mediation or contact the Punjab State Consumer Helpline to assist you in this regard. You can find the helpline number here. Please feel free to ask me any clarifications regarding each of the options I have presented to you. 
+Aggrieved Consumer: What will happen if I call the state consumer helpline?
+The Chatbot: The Punjab State Consumer Helpline will hear your grievance and will guide you by providing the steps involved in filing a case. They will also render advice regarding the strength of your case. 
+Aggrieved Consumer: What about mediation?
+The Chatbot: mediation is a form of settling disputes outside courts. In mediation, neutral third persons called mediators assist the parties in arriving at an amicable settlement. The mediators cannot decide the case but can only aim for an amicable settlement between the parties. If the parties do not agree for a settlement, then the mediation process comes to an end, resulting in the parties having to seek other methods of settling their dispute, including going to court.
+Aggrieved Consumer: Let me directly go to court.
+The Chatbot: Got it. Before you file a complaint before the forum, you would have to send a fifteen-day notice to Arushi Oswal. If you don't receive a satisfactory response or if you don't receive a response from her after a period of fifteen days, you can initiate legal action by approaching the consumer court. Do you want me to draft a notice for you?
+Aggrieved Consumer: Yes, it would be helpful if you could draft a notice.
+The Chatbot: In order to draft a notice, I would require you to send me your full name and address and the opposite party’s, i.e.; the  make-up academy’s full name and address. 
+Aggrieved Consumer: My full name is Shruti Goyal and I live in House No. 689, Street No. 6 of Vedant Nagar, Moga, Punjab. I only have Aarushi Oswal’s Make-up Academy’s address, which is located at 148/1, Oswal Bhawan, Seth Sohan Lal Ln, MJR, Civil Lines, Ludhiana, Punjab-141001. Is this enough?
+The Chatbot: yes, it is not a problem that you have given Aarushi’s Academy’s address. In the notice, the relief that you are seeking must be mentioned. Here you are seeking a refund along with compensation for mental agony. Is it okay if the notice directs the initiation of a refund of 10,000 Rs. and payment of compensation for mental agony within fifteen days?
+Aggrieved Consumer: Yes, that is what I want. I can wait for fifteen days.
+The Chatbot: Got it. Now, do you want to send the notice by post or by email? If you want it to be via email, please give me your email ID which can be used by Arushi Oswal if she wants to send a reply. What would you prefer?
+Aggrieved Consumer: I prefer email. You can use my email address: shruti@gmail.com.
+The Chatbot: Thank you. You can access the notice here. Please keep in mind that your signature is required in the notice. You can either take a printout of the notice and sign it, or else you can e-sign it. Also mention the date in the notice before you send it. If you don't receive a satisfactory response or if you don't receive a response within fifteen days, you can initiate legal action by filing a complaint before the consumer forum. Do you want me to guide you on how you can file a complaint?
+Aggrieved Consumer: Yes, please provide me with the steps on how I can file a complaint before the consumer forum.
+The Chatbot: First, I would have to determine which consumer forum has the jurisdiction, i.e., the authority to hear your case. In your case, you reside in Moga while the Opposite Party carries on business in Ludhiana. Due to this, you can file a complaint in the consumer forum that is in Moga or in Ludhiana. Which option do you prefer?
+Aggrieved Consumer: I prefer filing in Moga.
+The Chatbot: Great. In that case, do you want me to draft a pre-filled complaint that you can use?
+Aggrieved Consumer: Yes, it will be great if you can draft a complaint which I can use.
+The Chatbot: For that, I'll need some documents, including any messages or emails exchanged between you and Arushi Oswal regarding the makeup services and payment and the receipt of the bank transfer that you made. I would also require your father or husband’s name, your age and your occupation. You can upload the documents here.
+(Upon uploading documents)
+Aggrieved Consumer: My husband’s name is Radhe Mohan Garg. I am 29 years old and I work as an architect. 
+The Chatbot: Thank you. You can access the pre-filled complaint here. In addition to the complaint, you must also submit an affidavit and a document called the "Memorandum of Parties." Do you want me to provide you with the pre-filled versions of the same?
+Aggrieved Consumer: Yes, it will be great if you can do that as well.
+The Chatbot: You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both documents. Further, you must get the affidavit notarized. In case of any queries regarding how you can get the Affidavit notarized, feel free to approach me anytime. After filling out all the documents and getting the affidavit notarized, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+Aggrieved Consumer: Yes, it would be great if you could give me a step-by-step guide on how I can file this.
+The Chatbot: You have to follow these steps in order to file a complaint:-
+1. Create an account on E-daakhil.
+2. Verify your email address and login.
+3. Go to "Consumer Complaint" and accept the terms and conditions by clicking the "accept" button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+4. Click "Consumer Complaint" and enter the claim amount that you are seeking.
+5. Select Punjab as the State and the Moga as the district. Click continue to proceed to the "Case Details" page.
+6. On the "Case Details" page, enter all the necessary details, and in case of any queries, please let me know.
+7. In the "Party Name" section, enter "Arushi Oswal Make-up Academy." In the "Advocate" Section, enter the details of your advocate, and if you do not have an advocate, you can leave it blank.
+8. In the "Complaint Section," you can provide the following as your complaint:
+   "The Complainant availed makeup services from the Opposite Party and made a payment of Rs. 5000 in cash and Rs. 5000 through bank transfer. Despite repeated requests, the Opposite Party has failed to provide a receipt for the cash payment, causing mental agony to the Complainant."
+9. In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties.
+10. In the next section, verify the details of your complaint and submit your complaint.
+11. On the "Pending Complaints" page, you will be required to pay the necessary fees.
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. The process is identical to what I have already told you, with the difference being that the mediation will be conducted by the court-attached mediators. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+Aggrieved Consumer: Got it. I will not agree to mediation.
+The Chatbot: In that case, the consumer court in Moga has to proceed with the case.
+Aggrieved Consumer: Got it. Thanks!
+The Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.

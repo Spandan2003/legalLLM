@@ -1,0 +1,82 @@
+<s><INST> The bank has increased my EMI and modified the tenure of my loan without prior notice? Do I have a remedy? 
+</INST> Hi, I’m your consumer grievance assistance tool. How can I help you?
+</s> <s><INST> I visited the Jeevan Nagar branch of Cenza Bank Private Limited located in the city of Cosmos on 04/02/2022 at 10:30 am for information regarding auto loans. On 06/02/2022, the bank sanctioned a loan amount of Rs 10,00,000/- for the purchase of a car. 
+</INST> Is there anything else that you would like to add?
+</s> <s><INST> Details regarding the EMI were sent via SMS, and as per the message sent, I was supposed to pay Rs 25,000 per month for the time period of  50 months beginning March 2022. However, at the time of the first EMI payment, I received an email which stated that I would have to pay Rs 30,000 per month for the period of 40 months beginning March 2022. 
+</INST> When was the loan agreement entered into? 
+</s> <s><INST> On 08/06/2022, and the hire-purchase agreement was also signed on 10/06/2022 
+</INST> What kind of interest rate did you opt for? 
+</s> <s><INST> Fixed 
+</INST> What does the loan agreement state in terms of the EMI to be paid? Does it have clauses that subject it to periodic revision? 
+</s> <s><INST> As per the loan agreement, it was Rs 5,000 per month  for the time period of 24 months. The only caveat was that it could be modified under special circumstances. 
+</INST> Were you informed of any special circumstances that merited changes in the interest rate? 
+</s> <s><INST> No 
+</s> <s><INST> Also, the financier promised to make the necessary changes in RC book and insurance policy but hasn’t done it yet. 
+</INST> Okay. With respect to the EMI payments, it is to be noted that between the SMS received and the loan agreement, the latter would have an overriding effect, so if the EMI notification received in March 2022 is not as per the loan agreement, you may be able to raise a valid grievance. 
+</INST> With respect to the name changes in the RC book and insurance policy for a vehicle purchased under a hire-purchase agreement, it might help to take note of the fact that applications for name changes have to be initiated not by the financier alone, but along with the owner of the vehicle or any authorized agent. 
+Please refer to Chapter III of Central Motor Vehicles Rules, 1989. 
+</INST> Have you authorized the financier to file an application on your behalf? 
+</s> <s><INST> No
+</INST> Then, I am afraid you may not be able to claim relief for the delay in name transfer. 
+</s> <s><INST> Also, I work as a driver so I purchased the vehicle for not just personal use. Will I still be able to claim relief under the consumer protection act?  
+</INST> Thanks for the question. You will be able to approach the consumer protection forum as you purchased the vehicle in furtherance of your livelihood. 
+Please refer to section 2(7) of the 2019 Consumer Protection Act for more information. 
+Hope that answers your query. 
+</s> <s><INST> Okay. How do I proceed to obtain compensation in respect of the EMI issue? 
+</INST> If the bank has not been responsive to your requests, you can approach the banking ombudsman. 
+For more information, log on to https://rbi.org.in/Scripts/Complaints.aspx 
+</INST> Alternatively, you can approach the consumer dispute redressal forum for deficiency in service 
+</s> <s><INST> I would like to approach the consumer protection forum 
+</INST> Okay, before that, have you considered sending them a notice? 
+</s> <s><INST> Yes, I sent them a notice dated 15/04/2022, but I have not received any reply from them yet
+</INST> Then, would you like to file a complaint before the District Consumer Grievance Redressal Forum? 
+</s> <s><INST> Yes, I would like to 
+</INST> Okay, could you please tell me where your residence is? 
+</s> <s><INST> I live in the city of Cosmos 
+</INST> In that case, you can file a complaint before the Cosmos District Consumer Grievance Redressal Forum within a period of two years from the date of cause of action i.e 04/02/2022. You can either use the E-Daakhil portal to file your complaint, or submit a physical copy of the complaint in the commission. 
+Please note that since the value of the product purchased is less than Rs 5 lakhs, you do not have to pay any court fees, but ensure you have the following documents with you: 
+Loan agreement 
+Copy of the emails sent to the bank seeking clarification 
+Legal Notice sent to the opposite party 
+If you wish to register your complaint using the E-Daakhil portal, here’s the link that you can use: https://edaakhil.nic.in/. 
+</INST> Below is the process for filing a consumer complaint in the Cosmos District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use  your credentials to login to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you need as compensation in the claim amount. 
+9.	Select the state and the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter the Opposite party’s details 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.       Fill the complaint section by describing your grievance. Please mention the dates, if 
+            applicable.
+14.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+15.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+16.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+</INST> However, please feel free to let me know if you need any assistance with respect to drafting of a consumer complaint 
+</s> <s><INST> Yes, it would be really helpful if you share a template that I could use for reference 
+</INST> Sure, that can be done. Could you please tell me your name, age and occupation, and also the opposite party’s name and address?
+</s> <s><INST> I am Bruno, and my age is 46. I work as a Graphic Designer. My residential address is 20/918, III street, Vimala Nagar, Cosmos – 100
+Name: Cenza Bank Private Limited 
+Address: 2nd Cross Street, Simala Nagar, Cosmos-60
+
+</INST> Thanks, here’s a draft complaint along with MoP and affidavit that you can further modify according to your requirements: 
+Complaint 
+MoP (Memorandum of Parties) 
+Affidavit 
+</s> <s><INST> Thanks
+</INST> Is there anything else you want me to assist you with? 
+</s> <s><INST> No, thanks 
+</INST> Welcome. Happy to help. I hope you found this conversation useful. Please feel free to contact us again in case of any queries in the future. 
+Meanwhile, you can log on to https://consumeraffairs.nic.in/ , or dial 1800-11-4000 (National Consumer Helpline) for more information 
+Stay Alert, Stay Safe 
+Thank you 
+
+
+
+</s>

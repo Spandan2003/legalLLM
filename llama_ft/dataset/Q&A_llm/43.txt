@@ -1,0 +1,80 @@
+<s><INST> My pant got torn due to a sharp object that was present in one of the seats in a bus. Can I get compensation? 
+</INST> Hi, I’m your consumer grievance assistance tool. How can I help you? 
+</s> <s><INST> I was traveling from Cosmos to Infinity in a bus that belonged to ABC Travels Private Limited when my pant came in contact with a sharp object attached to one of the seats in the second row. 
+</INST> Could you please specify the date of the incident? 
+</s> <s><INST> 03/03/2022
+</INST> Did you pay for the ride? 
+</s> <s><INST> Yes 
+</INST> How much? 
+</s> <s><INST> Rs 250 
+</INST> Do you have the ticket with you? 
+</s> <s><INST> Yes, I do 
+</INST> Would you be able to describe the object? Was it permanently fixed or temporarily attached? 
+</s> <s><INST> I’m not sure, but does that even matter? 
+</INST> I understand. Your answer would help me decide whether the incident that occurred could have been avoided but for the presence of the object. 
+</s> <s><INST> I would not have been able to avoid coming into contact with the object as I was allotted a seat in the second row 
+</INST> Was there an option for you to change your seat? 
+</s> <s><INST> The bus was full, and hence there was no option to change my seat. 
+</INST> When did you notice a defect in the seat? When did you bring it to the notice of the conductor? 
+</s> <s><INST> As soon as I boarded the bus 
+</INST> What was their response? 
+</s> <s><INST> They pacified me by stating that it was a blunt object and that it would not cause any damage to any of my belongings or injury to me. Besides, I was left with no choice as I was traveling to attend an important event that was scheduled to take place the very next day in the city of Infinity. 
+When my destination arrived, I got up to take my bags, and that’s when the object came in contact with my pant and tore it.
+</INST> Did you inform the conductor?  
+</s> <s><INST> Yes, I did, he said that I would have to raise the matter with the management, and that he would not be able to do anything about it 
+</INST> Did you raise the matter with the management? 
+</s> <s><INST> Yes, I did that too. On 04/02/2022, I got in touch with the management via email and asked them for compensation for the damage caused to my pant. 
+</INST> What was their reply? 
+</s> <s><INST> They simply stated that I should have been more careful, and that it was not their fault. 
+</INST> Did you consider sending them a notice? 
+</s> <s><INST> Yes, I sent a notice dated 10/03/2022 requesting compensation for the damage caused to my pant, but did not receive a reply. 
+</INST> Then, would you like to file a complaint before the District Consumer Grievance Redressal Forum? 
+</s> <s><INST>: Yes, I would like to 
+</INST> Okay, could you please tell me where your residence is? 
+</s> <s><INST> I live in the city of Cosmos 
+</INST> In that case, you can file a complaint before the Cosmos District Consumer Grievance Redressal Forum within a period of two years from the date of cause of action i.e 03/02/2022. You can either use the E-Daakhil portal to file your complaint, or submit a physical copy of the complaint in the commission. 
+Please note that since the value of the product purchased is less than Rs 5 lakhs, you do not have to pay any court fees, but ensure you have the following documents with you: 
+Receipt for the booking done 
+ Ticket (original)
+Photograph of the object 
+Copy of the email sent to the opposite party 
+Legal Notice sent to the opposite party 
+If you wish to register your complaint using the E-Daakhil portal, here’s the link that you can use: https://edaakhil.nic.in/ . The portal has an instruction manual that provides you with step-by-step procedure for registering a complaint
+</INST> Below is the process for filing a consumer complaint in the Cosmos District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to login to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you need as compensation in the claim amount. 
+9.	Select the state and the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter the Opposite party’s details 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.       Fill the complaint section by describing your grievance. Please mention the dates, if 
+            applicable.
+14.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+15.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+16.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+However, please feel free to let me know if you need any assistance with respect to drafting of a consumer complaint 
+</s> <s><INST> Yes, it would be really helpful if you share a template that I could use for reference 
+</INST> Sure, that can be done. Could you please tell me your name, age and occupation, and also the opposite party’s name and address?  
+</s> <s><INST> I am Bruno, and my age is 46. I work as a graphic designer. My residential address is 20/918, III street, Vimala Nagar, Cosmos – 100
+ABC Travels Private Limited, Represented by its Manager, 2nd Cross Street, Simala Nagar, Cosmos-60
+
+</INST> Thanks, here’s a draft complaint along with MoP (Memorandum of Parties) and Affidavit that you can further modify according to your requirements: 
+Complaint 
+Affidavit
+Memorandum of Parties 
+</s> <s><INST> Thanks
+</INST> Is there anything else you want me to assist you with? 
+</s> <s><INST> No, thanks 
+</INST> Welcome. Happy to help. I hope you found this conversation useful. Please feel free to contact us again in case of any queries in the future. 
+Meanwhile, you can log on to https://consumeraffairs.nic.in/ , or dial 1800-11-4000 (National Consumer Helpline) for more information 
+Thank you 
+
+ 
+</s>

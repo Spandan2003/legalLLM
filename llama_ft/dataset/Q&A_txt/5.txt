@@ -1,0 +1,68 @@
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User:  I've been trying to retrieve the maturity amount from a fixed deposit I made with Sahara Credit Co-Operative Society Ltd. How do I resolve it.
+Chatbot: I see. Could you walk me through the events starting from when you first made the deposit?
+User:  Certainly. I decided to deposit some money into a fixed deposit scheme after consulting with one of their staff members. So, on 30th March 2019, I deposited Rs. 4,98,000 for a period of 18 months. They have issued a  Fixed Deposit bond bearing Certificate for the same  on 30/09/2019.
+Chatbot: And when was the maturity date for this fixed deposit?
+User:  The fixed deposit matured on 30th September 2020, and the maturity amount was supposed to be Rs. 5,71,206  which the co-operative society has failed to pay despite several attempts on  my part to collect it.
+Chatbot: Did you receive the maturity amount on time?
+User:  No, unfortunately, the Co-Operative Society has failed to pay the maturity amount despite several attempts on my part to collect it.
+Chatbot: What steps did you take after realizing that they hadn't paid the maturity amount? Could you specify dates.
+User:  I personally visited their office multiple times to inquire about the payment, but they always came up with various technical excuses and didn't pay me. I do not remember the dates of all the time 
+Chatbot: I understand. Did you try to communicate with them formally?
+User:  Yes, I sent them a notice on 12th March 2021 demanding the payment of the maturity amount, but it was returned unserved.
+Chatbot: Thank you for providing me with all this information. What is the remedy that you are looking for.
+User:  What all possible remedies can I get. 
+Chatbot: Based on the information provided, you can seek for retrieving the fixed deposit amount along with interest, compensation, costs for litigation.
+User:  Ok. Is it possible I can seek all of the remedies mentioned above.
+Chatbot: Yes. Could you please further confirm what is the amount that you are seeking for compensation, what is the interest rate that you are charging and for what period.
+User:  I would like to retrieve the FD matured amount of Rs.5,71,206 along with interest of 14.5% p.a. from 30/09/2020 to till date. Along with this I would like to seek a total of Rs. 30,000 as compensation and costs.
+Chatbot:Thank you for providing the details. As per the above mentioned details you could file the complaint before the District Consumer Disputes Redressal Commission, or you could also contact the Consumer Helpline Number where you can talk to an agent and address your grievance.
+User: Could you provide me the helpline number
+Chatbot: To be specific, there is a National and State Consumer Helpline Number. Which number do you want me to provide you with.
+User:  Provide me with both the Helpline Number.
+Chatbot: Could you please mention which state you reside in.
+User:  Andhra Pradesh
+Chatbot: Please find the National Consumer Helpline number- 1800-11-4000 and the State Consumer Helpline number- 1800-425-0082 / 1800-425-2977.
+User: How do I proceed, if I have to file a complaint.
+Chatbot: You could file a complaint before the District Consumer Disputes Redressal Commission. I can provide you with a step by step guideline with the procedure for filing a complaint, and also assist you in drafting the complaint. But before that I need further details. 
+Firstly, to determine before which jurisdictional forum, I would require further details. Could you please provide your details like your name, father’s name/ husband's name, age and address.
+User:  Sure. Pullekurthy Anasuya, Husband’s name- Pullekurthy Jagan Mohan Rao, age- 47 years, D. No 15-4-5, Mythri Apartments, Flat No.3-A, 3rd Floor, Krishnanagar, Maharanipeta, Visakhapatnam - 530002
+Chatbot: Could you please provide details of the Sahara Credit Co-Operative Society Ltd, like its full name, address of office of both Head office and branch office if any, and any authorized person you know about. 
+User:  M/s Sahara Credit Co-Operative Society Ltd., registered Office at Sahara Bhavan-1, Kapoorthala Complex, Aliganga, Lucknow-226024, authorized person- Managing Director,  M/s Sahara Credit Co-Operative Society Ltd., beside building of K.N. Towers, 2nd Floor, Dabagardens Road, Jagadamba Junction, Visakhapatnam, authorized person Branch Manager.
+Chatbot: Thank you for providing the details. As per the above mentioned details you could file the complaint before the District Consumer Disputes Redressal Commission of Visakhapatnam or Mumbai. Where would you like to file the complaint.
+User:  Visakhapatnam.
+Chatbot: Could you please further confirm whether you have the copy of the Fixed Deposit bond bearing Certificate that you mentioned earlier.
+User:  Yes.
+Chatbot: Thank you for confirming. Please preserve these copies. They are necessary for submitting as evidence. With the information provided above I could assist you in drafting a complaint. You could file it in person before the District Consumer Disputes Redressal Commission of Visakhapatnam or online through E- Dakhil portal. How would you like to file it.
+User:  I would like to file the complaint online.
+Chatbot: Here is a detailed guideline to file a complaint online in the E-Dakhil Portal.
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter Rs.6,01,206 in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of the service center in the Opposite party name section. Select the state and district of the registered address.
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+I have deposited some money into a fixed deposit scheme of Sahara Credit Co-Operative Society Ltd. On 30th March 2019, I deposited Rs. 4,98,000 for a period of 18 months. The fixed deposit matured on 30th September 2020, and the maturity amount was supposed to be Rs. 5,71,206  which the co-operative society has failed to pay despite several attempts on  my part to collect it.  I personally visited their office multiple times to inquire about the payment, but they always came up with various technical excuses and didn't pay me. I sent them a notice on 12th March 2021 demanding the payment of the maturity amount, but it was returned unserved.
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+Chatbot: Would you like me to generate the complaint for you ? 
+User:  Yes, please.
+
+Chatbot: Sure you can download the complaint here. Once downloaded, review and sign the complaint. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+User:  Yes, Please. It would be really helpful 
+
+Chatbot:  Sure. Here is a draft Affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+User: No, that's all for now. Thanks.
+
+Chatbot: You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+

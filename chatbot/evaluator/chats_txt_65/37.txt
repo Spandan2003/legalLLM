@@ -1,0 +1,157 @@
+Human: I incurred extra expenses on my flight journey from the US to India due to negligent conduct of the travel agency. What should I do now?
+
+Bot: Thank you for sharing your concern. I'd like to help you with this issue. To better understand your situation, can you please tell me what led to the extra expenses you incurred due to the travel agency's negligence? Was it related to a flight cancellation, delay, or something else?
+
+Human: As per the original itinerary, my return journey from the US to India was scheduled to take place on the 15th of March, 2022. However, due to unforeseen circumstances, I had to arrive earlier than expected, so I had asked the travel agent to prepone the date of departure to 8th March, 2022. However, due to some issues with respect to the transit visa arrangements, I had to shell out an extra sum of money, and also  could not reach India on time to fulfill my personal commitments.
+
+Bot: It seems like you had to make some last-minute changes to your travel plans due to unforeseen circumstances. The incident occurred on March 8th, 2022. Since you're seeking assistance with a consumer grievance, I'd like to know more about the travel agency's response to your situation. Did they acknowledge your concerns and offer any compensation or assistance for the additional expenses you incurred?
+
+Human: I was asked to pay Rs 80,000 which I paid on 04/03/2022.
+
+Bot: You paid Rs 80,000 on March 4, 2022, as an additional expense due to the travel agency's alleged negligence. Did you inform the travel agency about the issues you faced and the extra expenses you incurred?
+
+Human: Vista Travel Agency Private Limited
+
+Bot: I've taken note of the details. Considering the incident occurred on 04/03/2022, it's within the 2-year time frame for filing a consumer complaint. I'd recommend drafting a formal complaint against Vista Travel Agency Private Limited for their alleged negligence. Would you like me to assist you in drafting a notice or complaint to be sent to the agency?
+
+Human: Airline: Sunset Airlines PNR details: India UserSA – XXXXXX UserSA to India - XXXXXX Date of departure from India: - 01/03/2022 Original date of departure from the UserS: - 15/03/2022 Rescheduled date of departure from the UserS – 08/03/2022 Flight fare (India to US) – Rs 1, 05, 000/- Flight fare (US to India) – Rs 1, 10, 000/-
+
+Bot: It seems like you paid extra for the prepaid visa and other arrangements. The extra amount of Rs 80,000 you paid is not part of the flight fare, which is Rs 2, 15, 000 in total.
+
+You have 2 years from the date of payment (04/03/2022) to file a complaint. Since the incident occurred on 04/03/2022, you are well within the time frame.
+
+Considering your situation, it seems like you may have a case against the travel agency for their negligence. Would you like me to help you draft a legal notice to the travel agency?
+
+Human: Yes, I did. I contacted their customer care on 15/03/2022. They said there was no mistake on their side, and that they had done all that was necessary.
+
+Bot: It seems like the travel agency is not taking responsibility for the extra expenses you incurred. Considering the circumstances, you had to preponed the flight and then paid extra for the transit visa arrangements, which was not your fault.
+
+Since the incident occurred on March 8, 2022, and you're reporting it now, it's within the 2-year statute of limitations for filing a consumer complaint in India.
+
+Would you like to consider filing a complaint against Vista Travel Agency Private Limited for their alleged negligence and seeking a refund or compensation for the extra expenses you incurred?
+
+Human: They could not help me as the journey details were not updated in their system, so I was forced to pay an extra sum of money to the airline directly for rebooking the flight ticket. I had to pay Rs 80,000 for the same.
+
+Bot: It seems like the airline and travel agency are not taking responsibility for the issue.
+
+As you have already contacted the travel agency and they have denied any mistake, you may want to consider filing a complaint with the National Consumer Disputes Redressal Commission (NCDRC) or the State Consumer Dispute Redressal Commission (SDRC) against Vista Travel Agency Private Limited.
+
+Before that, I can help you draft a legal notice to the travel agency. Would you like me to provide you with a draft notice?
+
+Human: Yes, I sent a notice dated 20/03/2022 to the travel agency,  but never received a reply to the notice
+
+Bot: It seems like the travel agency hasn't taken any action to rectify the situation. Considering the time that has passed, I would like to remind you that the statute of limitations for consumer complaints in India is 2 years from the date of the incident. Since your incident occurred on March 8, 2022, you still have time to pursue the matter.
+
+Would you like me to provide you with a draft of a legal notice to send to the travel agency, or would you like to consider other options such as filing a complaint with the National Consumer Helpline or the District Consumer Disputes Redressal Forum?
+
+Human: Yes, it would be really helpful if you could share a template that I could use for reference
+
+Bot: Here's a template for a consumer complaint:
+
+**MEMORANDUM OF PARTIES**
+
+To,
+Vista Travel Agency Private Limited
+[Address of the opposite party]
+
+**Complainant**
+
+[Your Name]
+[Your Address]
+[Your Contact Number]
+[Email ID]
+
+**Subject: Complaint regarding extra charges for rescheduling of return flight ticket**
+
+We, the undersigned, [Your Name], residing at [Your Address], do hereby file this complaint against Vista Travel Agency Private Limited, with its registered office at [Address of the opposite party], for the following reasons:
+
+**FACTS OF THE CASE**
+
+1.  We had booked a return flight ticket from the USA to India with Vista Travel Agency Private Limited on [Date of booking] for the following travel dates: [Original date of departure and return].
+2.  Due to unforeseen circumstances, we had to prepone our return journey to [Date of preponed departure].
+3.  We informed Vista Travel Agency Private Limited about the change in our travel dates and requested them to reschedule our return flight ticket.
+4.  However, Vista Travel Agency Private Limited failed to update our travel details in their system, and we were forced to pay an additional amount of Rs. 80,000 to the airline directly for rebooking the flight ticket.
+5.  We had sent a notice to Vista Travel Agency Private Limited on [Date of notice] demanding a refund of the extra amount paid by us, but they have not responded to our notice.
+
+**RELIEF SOUGHT**
+
+We pray that the Hon'ble [District Consumer Disputes Redressal Forum] may be pleased to pass an order directing Vista Travel Agency Private Limited to refund the extra amount of Rs. 80,000 paid by us for rescheduling our return flight ticket, along with compensation for the harassment and inconvenience caused to us.
+
+**VERIFICATION**
+
+We, the undersigned, do hereby verify that the contents of this complaint are true to the best of our knowledge and belief.
+
+**Signature of the Complainant**
+
+Please note that this is just a template, and you should modify it to suit your specific case. You should also attach all relevant documents, such as receipts, tickets, and communication with the travel agency, to support your complaint.
+
+Also, please note that the National Consumer Helpline (1800-11-4000) or the UMANG App can provide you with immediate assistance. You can also file your complaint online through the e-daakhil portal (https://edaakhil.nic.in/).
+
+Human: I am Bruno, and my age is 46. I work as a graphic designer. My residential address is 24/718, 4th street, Simala Nagar, Cosmos-21 Name of the travel agency – Vista Travel Agency Address – 32, 7th street, Simala Nagar, Cosmos-40
+
+Bot: Here's a draft of the consumer complaint that you can use as a template:
+
+**IN THE DISTRICT CONSUMER DISPUTES REDRESSAL FORUM, COSMOS**
+
+**CASE NO.**
+
+**BRUNO**
+**46 years, Graphic Designer**
+**Residing at:** 24/718, 4th Street, Simala Nagar, Cosmos-21
+
+**Plaintiff**
+
+**VISTA TRAVEL AGENCY PRIVATE LIMITED**
+**Address:** 32, 7th Street, Simala Nagar, Cosmos-40
+
+**Defendant**
+
+**COMPLAINT**
+
+To the Hon'ble President of the District Consumer Disputes Redressal Forum, Cosmos,
+
+I, Bruno, son of late Mr. and Mrs. X, residing at 24/718, 4th Street, Simala Nagar, Cosmos-21, hereby file this complaint against Vista Travel Agency Private Limited, whose address is 32, 7th Street, Simala Nagar, Cosmos-40, for the following reasons:
+
+**FACTS OF THE CASE**
+
+1. I had booked a return ticket from the US to India with Vista Travel Agency Private Limited on 15th March, 2022, for a sum of Rs 2,15,000/-.
+2. Due to unforeseen circumstances, I had to prepone my return journey to 8th March, 2022, and I was asked to pay an additional amount of Rs 80,000/- for the rescheduling of my return ticket.
+3. I was forced to pay the additional amount directly to the airline as the travel agency's system was not updated with the changes in my travel plans.
+4. Despite sending a legal notice to the travel agency on 20th March, 2022, I have not received any response from them.
+
+**RELIEF SOUGHT**
+
+I pray that this Hon'ble Forum may pass an order directing the defendant to refund the additional amount of Rs 80,000/- that I paid for the rescheduling of my return ticket, along with a compensation of Rs 50,000/- for the harassment and inconvenience caused to me.
+
+**RELIEF**
+
+I request this Hon'ble Forum to pass an order in my favor and against the defendant, and direct them to refund the amount of Rs 80,000/- along with a compensation of Rs 50,000/-.
+
+**VERIFICATION**
+
+I, Bruno, do hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+**PLACE**
+
+Simala Nagar, Cosmos-21
+
+**DATE**
+
+26th July 2024
+
+**SIGNATURE**
+
+Bruno
+
+Please note that this is just a draft, and you should modify it according to your specific needs and requirements. Also, please ensure that you attach all the necessary documents, including receipts, bank statements, and communication records, to support your complaint.
+
+Also, please note that you have 2 years from the date of cause of action to file a complaint, which in your case is 08/03/2022. So, you have till 08/03/2024 to file your complaint.
+
+Human: Thanks
+
+Bot: You're welcome. If you have any further questions or need any more assistance, please don't hesitate to ask. Also, I would like to remind you that you can reach out to the National Consumer Helpline at 1800-11-4000 for immediate assistance. You can also use the UMANG App for the same. If you need any location-based helpline number, please let me know and I can provide it to you. Is there anything else I can help you with?
+
+Human: No, thanks
+
+Bot: If you have any other consumer-related issues or need further assistance in the future, please feel free to reach out to me. You can also contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance. Additionally, you can find location-based helpline numbers on the Consumer Affairs website. Have a good day!
+

@@ -1,0 +1,60 @@
+(This hypothetical chatbot Q&A is based on CC/22/2022 from Before the District Consumer Disputes Redressal Commission, North Goa at Porvorim)
+
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you?
+User: The insurance company has not been updating about my insurance claim.
+Chatbot: That should not be the case. I would try to be of as much help as possible. Can you please tell me more about the incident?
+User: Thank you. I had obtained Star Health Insurance’s Family Health Optima policy covering myself, wife Gargi, and daughter valid from 12/03/2020 to 11/03/2021. 
+Chatbout: Can you please provide policy details.
+User: The policy number is P/111113/01/2020/027207.
+Chatbot: Okay. What happened next?
+User: On 1st April 2020, my wife developed a lump and pain in her right breast. She had to undergo investigations and treatment for which intimation was given and claim registered as CLI/2021/111113/0167463 for Rs. 2,27,321/-.
+Chatbot: Do you have the treatment records and claim intimation documents?
+User: Yes I have all the documents ready. As per their requests, I have submitted medical reports multiple times.
+Chatbot: Alright. What is the current status of your claim then?
+User: Despite providing all documents, the insurance company has not settled the claim yet. It has been over 2 years now.
+Chatbot: You can file a complaint before the consumer court having jurisdiction to hear the case. For that, you must first send a fifteen-day notice to Star Health Insurance. The same can be sent electronically or by post. Or else, you can also contact the  National  Consumer Helpline using the helpline number 1800-11-4000. The Consumer Helpline will give assistance regarding how you can approach the present dispute. What would you prefer?
+User: I will go for a complaint. 
+Chatbot: Certainly. I will need some more information from you related to the matter. Can you please tell me the following: your full name with address, age, and occupation, and the registered address of the Insurance Company?
+User: Sure. 1. Kunal Sagarkar, residing at H.No 924/59, Shree Navdurga Homes in Woods, Near Kadamba Depot, Porvorim, Goa, I am a Shopkeeper 2. The Branch Manager Star Health& Allied Insurance Co. LtdNo. 15, Sri Balalji Complex, 1st Floor White Lane, Royapettah Chennai -600014 2. The Branch Manager, Star Health& Allied Insurance Co. Ltd, S-68,32,34 & 36-C2nd Floor, Alfran Plaza, Opp. Don Bosco High School, Panaji –Goa 403001. 
+Chatbot: Thank you. I would need some more information from you related to the matter to assist you better. What is the relief that you would wish to pursue through the complaint?
+User: I would want my insurance claim of Rs. 2,27,321/- to be released and compensate me for mental harassment, as well as pay my litigation cost. 
+Chatbot: Thank you for supplying the information! Please find the notice for filing of consumer complaint here. Please note that these are templates that may require certain corrections or modifications and certain details (particularly the date and signature) will need to be filled at your end. 
+User: Thank you. I want to file a consumer complaint; can you guide me?
+Chatbot: Sure. Since the value of the insurance premium is Rs. 2,27,321/-. which is less than One Crore Rupees, the complaint will have to be filed in a District Commission. You, as a complainant, reside in Porvorim district and the cause of action arises in Porvorim. The opposite party carries on business in Panjim. You have the option to file the complaint to the North Goa District Consumer Disputes Redressal Commission. 
+User: Okay, please provide further details about the complaint filing. 
+Chatbot: Sure. Below is the process for filing a consumer complaint at the North Goa District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create an Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to login to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you are seeking as compensation in the claim amount. 
+9.	Select Goa as the state and North Goa as the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter The Branch Manager Star Health & Allied Insurance Co. LtdNo. 15, Sri Balalji Complex, 1st Floor White Lane, Royapettah Chennai -600014 2. The Branch Manager, Star Health & Allied Insurance Co. Ltd, S-68,32,34 & 36-C2nd Floor, Alfran Plaza, Opp. Don Bosco High School, Panaji –Goa 403001, in the Opposite Party details. 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.	In the Complaint section, write the following: 
+“I, had obtained Star Health Family Health Optima Insurance Policy No. P/111113/01/2020/027207 valid from 12/03/2020 to 11/03/2021 covering myself, my wife Mrs. Gargi Sagarkar, and my minor daughter. My wife developed pain and a lump in her right breast in April 2020 for which she had to undergo investigations and treatment. All details were duly intimated to the insurance company and the claim was registered as CLI/2021/111113/0167463 for Rs. 2,27,321/-. In relation to my claim, you have sought medical documents on several occasions, and as per your directions, I have accordingly submitted all the relevant documents for your kind consideration, however, to date you have not taken any action to release my insurance claim.”
+14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name, and the opposite party, click save and continue. 
+15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+Do you also want me to draft a complaint letter for you?
+
+User: Yes, that would be really helpful.
+
+Chatbot: Excellent, I've generated a pre-filled complaint for you with all the details you've provided. You can find it here. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now?
+ 
+User: Yes, Please. 
+
+Chatbot:  Sure. Here is a draft affidavit and Memorandum of Parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+
+User: No, that's all for now. Thanks.
+
+Chatbot: You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+
+
+

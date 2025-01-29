@@ -1,0 +1,60 @@
+Human: My Sintex tank is broken after being installed, how can I get a new one?
+
+Bot: Hi, I understand you have a consumer complaint related to a Sintex tank. Could you please provide me with details of when you purchased the product?
+
+Human: A few months ago, on 13.04.2021.
+
+Bot: Where did you purchase the product from?
+
+Human: Om Hardwares, Ambikapur. I want to file the complaint against them.
+
+Bot: Got it. Could you give me the details of your payment, such as the amount and any other details of your transaction?
+
+Human: I have paid Rs. 10,500.53 for the tank, and I have the receipts from the store.
+
+Bot: Got it, thank you! What were the assurances that Om Hardware gave you about their product?
+
+Human: I was told that it was an authentic tank and would be delivered in proper condition.
+
+Bot: I understand. The damage sounds very distressing. Can you tell me about your attempts to resolve this?
+
+Human: I went to the store but they refused to refund or replace the tank. I want to file a legal notice against them.
+
+Bot: Got it. Would you like me to help you with that? I can prepare a format for the notice.
+
+Human: Yes, please!
+
+Bot: I’ll need your name and address, as well as that of the hardware store.
+
+Human: My name is Mr. Vikas Tiwari, son of Raviprakash Tiwari, aged about 30 years, and I live near Tiwari Building, Ambikapur, Sarguja, Chhattisgarh. The store is Om Hardwares, Ambikapur, Sarguja, Chhattisgarh.
+
+Bot: Here is your Notice.. Is there anything else that I can help you with? Mr. Vikas Tiwari, son of Raviprakash Tiwari, aged about 30 years Near Tiwari Building, Ambikapur, Sarguja, Chhattisgarh…………………………………………………………………….. Complainant [Date]   Proprietor, Om Hardwares, Ambikapur, Sarguja, Chhattisgarh……...…………………………………………………………….Opposite Party  Subject: Complaint regarding improper installation and breakage of Sintex tank.  Dear Sir/Madam,  I am writing to formally complain about the broken tank and shoddy installation process from your hardware store. I purchased this tank from you on 13.04.2021, to be delivered at my residence. However, on receipt, the tank was broken and not properly installed. I would request you to provide me with a new tank or compensate me for the broken one.  Please confirm the receipt of this complaint and inform me of the steps you will take and the tentative timeline associated with the process. If I do not receive a satisfactory response from you within 15 days of this complaint, I shall take this matter to the appropriate consumer redressal forum.  Sincerely, [Your Signature] Vikas Tiwari
+
+Human: What if they don’t respond?
+
+Bot: After sending this notice you can proceed with filing a consumer complaint. Should I give you more information regarding the next steps?
+
+Human: Yes please.
+
+Bot: Alright! What remedy would you like through your complaint?
+
+Human: I want my tank replaced and the shop to pay me Rs. 20,000 for mental agony.
+
+Bot: That sounds reasonable. Do you have any evidence of your transactions?
+
+Human: I have the original bill and the picture of the broken tank, will that work?
+
+Bot: Yes, that’s fine. Since the total amount you paid for the service is Rs. 10,500.53 as consideration, the complaint will be filed in a District Commission. You, as the complainant, reside in Sarguja, and the respondent also carries out business there. Below is the process of filing a consumer complaint before the Sarguja District Consumer Disputes Redressal Commission for the above dispute through the e-Daakhil portal: 1.	Create an Account: If not already registered, create an account on the e-Daakhil portal. 2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then: 3.	Login: Use your credentials to login to the portal. 4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 5.	Click consumer complaint. 6.	Read the disclaimer and click “accept”. 7.	Click consumer complaint. 8.	Enter the amount you are seeking as compensation in the claim amount. 9.	Select Chhattisgarh as the state and Sarguja as the district. Click continue. 10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address. 11.	Enter Om Hardwares, in the Opposite party name section and Ambikapur, Sarguja, Chhattisgarh in the opposite party address section. Select the state and district of the registered address. 12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 13.	In the Complaint section, write the following: “I purchased a Sintex tank on 13.04.2021 from Om Hardwares Ambikapur. The tank turned out to be broken, and was not properly installed.” 14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name, and the opposite party, click save and continue. 15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint. 17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. Do you also want me to draft a complaint letter for you?
+
+Human: Yes, please.
+
+Bot: Sure! Here is the pre-filled Complaint. based on the information you’ve given me. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Shall I generate the same? BEFORE THE CONSUMER DISPUTES REDRESSAL DISTRICT FORUM AT SARGUJA ORIGINAL COMPLAINT NO. ______/2023 (Filing Date: __.__.2023)  Mr. Vikas Tiwari, son of Raviprakash Tiwari, aged about 30 years Near Tiwari Building, Ambikapur, Sarguja, Chhattisgarh…………………………………………………………………….. Complainant  Versus  Proprietor, Om Hardwares, Ambikapur, Sarguja, Chhattisgarh……...…………………………………………………………….Opposite Party  COMPLAINT UNDER S. 35 OF THE CONSUMER PROTECTION ACT, 2019  The address of the Complainant for the purpose of service of summons, notice etc is as shown in the cause title above and that of his counsel The address of the Opponents for the very purpose is the same as shown in the cause title above. Herein the above-named Complainant most respectfully submits as under:  1. The Complainant respectfully submits that he purchased a Sintex tank from the Opposing Party (OP) on 13/04/2021, and was promised that the product would be of good quality, and installed in a safe and reliable manner. 2. However, the Complainant encountered several issues as a result of OP’s faulty installation processes, amounting to a deficiency in service. The tank itself was broken, and was not properly installed, rendering it unusable. 3. Apart from the hardship as a result of the broken product itself, the Complainant has faced additional inconvenience and mental agony as a result of OP’s unwillingness to respond to the complaint.  Cause of Action The cause of action arose out of OP’s provision of damaged goods and improper installation, as well as subsequent deficiency of service in addressing the problems with the tank. The cause of action is still continuing due to willful negligence and failure to resolve the Complainant's grievances by the OP till date. Hence the present complaint.  Limitation Period and Court Fees The present complaint is being filed within a period of two years from the date of cause of action, as prescribed under section 69 of the Act, 2019. The Complainant declares that requisite court fees as per statutory rules is being paid on the present complaint.  Territorial Jurisdiction  This Hon'ble Commission has territorial jurisdiction to entertain and adjudicate upon the present complaint as the cause of action has arisen within its jurisdictional limits where the Complainant is a permanent resident.  Pecuniary Jurisdiction  The value of the present complaint is less than Rs. 50 lakhs, as the amount of compensation of Rs. 30,500.53, including Rs. 10,500.53 for expenditures towards the tank, and Rs. 20,000 as damages, is well within the pecuniary jurisdiction limits prescribed for this Hon'ble Commission.  Evidence Relied Upon Original tax invoice from Om Hardwares, dated 13/04/2021. Picture of the broken tank after installation.  Prayer In view of the above stated facts and circumstances, and in the interest of justice, it is most respectfully prayed that this Hon'ble Commission may be pleased to: Order OP to change the tank and provide the complainant with a new one. Grant a sum of Rs.20,000/- as compensation from OP for causing malicious mental injuries as detailed above, at 12% p.a. interest. Grant any other reliefs which this court deems necessary to secure the ends of justice.    VERIFICATION I, Vikas Tiwari, resident of Tiwari Building, Ambikapur, Sarguja, Chhattisgarh, hereby declare that I have not misrepresented any facts nor have tried to hide any information in my above complaint. All the facts mentioned herein are true to the best of my knowledge.   Name & signature of the complainant
+
+Human: Yes
+
+Bot: Sure. You can find the Affidavit. here and the Memorandum of Parties here. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like? BEFORE THE CONSUMER DISPUTES REDRESSAL DISTRICT FORUM AT SARGUJA   Mr. Vikas Tiwari, son of Raviprakash Tiwari, aged about 30 years Near Tiwari Building, Ambikapur, Sarguja, Chhattisgarh…………………………………………………………………….. Complainant  Versus  Proprietor, Om Hardwares, Ambikapur, Sarguja, Chhattisgarh……...…………………………………………………………….Opposite Party   BEFORE THE CONSUMER DISPUTES REDRESSAL DISTRICT FORUM AT SARGUJA   Mr. Vikas Tiwari, son of Raviprakash Tiwari, aged about 30 years Near Tiwari Building, Ambikapur, Sarguja, Chhattisgarh…………………………………………………………………….. Complainant  Versus  Proprietor, Om Hardwares, Ambikapur, Sarguja, Chhattisgarh……...…………………………………………………………….Opposite Party   AFFIDAVIT  I, Vikas Tiwari, son of Raviprakash Tiwari, Resident near Tiwari Building, Ambikapur, Sarguja, Chhattisgarh do hereby solemnly affirm and state as follows: -  That I am the complainant and as such, I am well acquainted with the facts and circumstances of the case. That the statements made are true to my knowledge That I  have sworn, signed and verified this affidavit on _________ in Ambikapur.   Sd/  Complainant  Verification Verified at, on this ____________ day of that the contents of the above affidavit are true  and correct to the best of my knowledge and belief.  Deponent
+
+Human: No, that’s it.
+
+Bot: Thank you for using the tool. Feel free to raise further queries anytime or you can log on to https://consumeraffairs.nic.in/ or dial 1800-11-4000 (National Consumer Helpline) for more information.
+

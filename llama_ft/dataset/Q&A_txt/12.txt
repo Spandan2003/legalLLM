@@ -1,0 +1,61 @@
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User: I have an issue with one of my insurance policies. Help me in claiming the amount.
+Chabot: Let's start by discussing the details of your case. 
+User:  I have taken 5 insurance policies from LIC over the years while I was working in different bus departments before retiring in July 2019. When I went to pay the premiums in July 2019, I was informed by LIC that the policy was not in my name but in the name of "Adapa Nookaratnam," a resident of Anakapalli.	
+Chatbot: That sounds like a concerning situation. Could you please mention the details of the insurance policy in concern. 
+User:Policy number 692299503 has a 25-year term with a death benefit of Rs. 50,000 and Rs. 19,500 respectively for a monthly premium of Rs. 65. The premium is due on the 28th of every month, and it also includes a free insurance cover of Rs. 25,000. 
+Chatbot: Could you please mention the maturity date of the policy.
+User: The date of policy maturity is 28/08/2021, and the last premium payment date was scheduled on 28/07/2021.
+Chabot: Did LIC provide any explanation for this discrepancy?
+User: No, they did not provide any satisfactory reasons when I inquired about it. They simply delayed addressing the issue until the policy's maturity date. 
+Chabot: I see. And did LIC provide you with any information regarding the maturity benefits of the policy?
+User: Yes, Upon repeated requests on 01/06/2021 the LIC gave a statement under reference:6981 showing an amount of Rs. 4,875 as the maturity benefit. However, this amount was not in accordance with the policy's terms and conditions, and when I raised my concerns, LIC and their subordinates did not respond appropriately.
+Chabot: Can you tell me about your attempts to resolve this issue with LIC 
+User: I have visited LIC's offices around 20 times in the past two years, despite receiving a meager pension of Rs. 6,000 per month. It has caused me a lot of mental agony, and despite my efforts, LIC has not addressed the issue satisfactorily. Thus, I have issued a Legal notice on 03/12/2021.
+Chatbot: Did you receive any response from LIC after issuing a legal notice?
+User: Yes, LIC responded to the legal notice on 24/12/2021, stating that they did not receive premiums for 2 years due to my long leave, which was not communicated to me earlier. They also refused to supply the statement of premiums paid by me from 2013 to my retirement in July 2019. However, a letter was issued on 25/02/2022 stating that they have received premiums for 116 months, i.e, for 9.6 years since inception and the amount payable to the complainant is around Rs.7,500. They have deliberately not intimated the non receipt premiums to the and also refused to supply the statement of premiums which I paid from the year 2013, till the date of my retirement i.e, on 31/07/2019. 
+Chabot: I understand your concerns. Could you please mention what is the remedy that you are seeking for?
+User: I would like to seek the insurance amount Rs.19,500 assured under the policy No. 692299503, Rs.2,00,000 as compensation for the mental agony and Rs.10,000 as costs.
+Chatbot: Based on the information you've provided, you can file a complaint on the grounds of deficiency of service or you could also contact the respective State Consumer Helpline Number where you can talk to an agent and address your grievance.
+User: Could you provide me the helpline number
+Chatbot: To be specific, there is a National and State Consumer Helpline Number. Which number do you want me to provide you with.
+User:  Provide me with both the Helpline Number.
+Chatbot: Could you please mention which state you reside in.
+User:  Andhra Pradesh
+Chatbot: Please find the National Consumer Helpline number- 1800-11-4000 and the State Consumer Helpline number- 1800-425-0082 / 1800-425-2977.
+User: How do I proceed, if I have to file a complaint.
+Chatbot: I could assist you in drafting a complaint. However, I need to gather some additional details to draft the complaint. Could you please mention your full name, father’s/ husband’s name, age, address and occupation.
+User:  Padala Sreeramulu, Father’s name- Sri P. Veerabadrudu, Age- 61 years, Address- Old Street, Near Pedda Rama Kovela, Yellamanchili, Visakhapatnam- 531055, Occupation- employee at Bus Depo, Visakhapatnam.
+Chatbot: Can you provide me with other relevant information, such as the addresses of the LIC offices and any correspondence you've received from them?
+User: Yes, of course. The address of the LIC's Shipyard Branch, is Shipyard Branch, Visakhapatnam-530026. The address of the LIC Buildings, Near RTC Complex inner road, Visakhapatnam-530004. I have copies of all the correspondence I've received from LIC.
+Chatbot: Thank you for providing the details. As per the above mentioned details you could file the complaint before the District Consumer Disputes Redressal Commission of Visakhapatnam. Here is a detailed guideline to file a complaint online in the E-Dakhil Portal.
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter Rs. 229500 in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of the service center in the Opposite party name section. Select the state and district of the registered address.
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+The complainant, a retired RTC employee, had five insurance policies with the opposite parties, including Policy No. 692299503, with a 25-year term and Rs. 50,000 death benefit. Despite regular premium payments deducted from his salary account, upon retirement in July 2019, he discovered the policy was registered under another person's name. Despite repeated inquiries and requests, the opposite parties provided inadequate responses and delayed resolution. Legal notice issued on 03/12/2021 received a response on 24/12/2021, citing non-receipt of premiums for two years due to the complainant's extended leave, but failed to notify him. The complainant, experiencing mental distress, seeks redress for deficient service, demanding transparency and rightful compensation.
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+Chatbot: Would you like me to generate the complaint for you ? 
+User:  Yes, please.
+
+Chatbot: Sure you can download the complaint here. Once downloaded, review and sign the complaint. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+User:  Yes, Please. It would be really helpful 
+
+Chatbot:  Sure. Here is a draft Affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+User: No, that's all for now. Thanks.
+
+Chatbot: You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+

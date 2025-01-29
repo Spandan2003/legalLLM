@@ -1,0 +1,57 @@
+<s><INST> I was cheated by a real estate agency 
+</INST> That should not be the case. I would try to be of as much help as possible. Can you please tell me more about the issues that you are facing?
+</s> <s><INST> Yes, thank you. In 2005, the local agents Mr. and Mrs. Nanoskar convinced me that Parees Enterprises was very profitable. Trusting them, I ended up investing a total Rs. 2,88,225 over the next few years.
+</INST> Do you remember the dates and amounts you invested?
+</s> <s><INST> Let me recall...I invested on 10/02/10 an amount of Rs. 96,075/-, then on 10/02/15 an amount of Rs. 96,075/-  and finally on 10/02/20 an amount: Rs. 96,075/- 
+</INST> Okay. Did they provide you with any receipts for these investments?
+</s> <s><INST> Yes, they provided some handwritten receipts on Parees letterhead for the amounts I paid. I can share copies.
+</INST> That will be helpful. So what was the maturity date they promised?
+</s> <s><INST> They said the investment will mature in 2020 and I can redeem my money after that. But when I approached them in early 2020, they started avoiding me.
+</INST> Did you issue any written communication to them for the redemption?
+</s> <s><INST> I sent them multiple emails in 2020 but they simply ignored all communication. It has been over 2 years now but I have not received a single rupee back.
+</INST> Okay, thank you for the information. You can file a complaint before the consumer court having jurisdiction to hear the case. For that, you must first send a fifteen-day notice to Parees Enterprises. The same can be sent electronically or by post. Or else, you can also contact the  National  Consumer Helpline using the helpline number 1800-11-4000. The Consumer Helpline will give assistance regarding how you can approach the present dispute. What would you prefer?
+</s> <s><INST> I prefer sending a legal notice. 
+</INST> Certainly. I will need some more information from you related to the matter. Can you please tell me the following: your full name with address, age, and occupation, and the registered office address of the Telephone company as well as the details of your landline phone?
+</s> <s><INST> Sure. 1. Mrs. Aparna Malvankar W/o Gurudas Malvankar, aged 52 years, married Housewife, R/o H No. 1211, Bammon Wada Siolim, Bardez Goa, I am a doctor by profession 2. M/s Parees Enterprises Corporation Ltd. Represented by its agent cum Partners and Directors 2nd Floor, Philip Mansion, Opposite KTC Bus Stand, Vasco-Da-Gama, Goa	
+</INST> Thank you. I would need some more information from you related to the matter to assist you better. What is the relief that you would wish to pursue?
+</s> <s><INST> I would want the maturity amount of Rs. 2,88,225/- as promised and compensation for mental harassment as well as litigation costs. 
+</INST> Thank you for supplying the information! Please find the notice for filing of consumer complaint here. Please note that these are templates that may require certain corrections or modifications and certain details (particularly the date and signature) will need to be filled at your end. 
+</s> <s><INST> Thank you. I want to file a consumer complaint; can you guide me?
+</INST> Sure! Since the total amount you would claim would be Rs. 2,88,225/- which is less than Fifty Lakh rupees, the complaint will have to be filed in a District Commission. You, as a complainant, reside in Bardez district and the cause of action arises in Bardez. The opposite party carries on business in Vasco-Da-Gama. You have the option to file the complaint to the North Goa District Consumer Disputes Redressal Commission.
+</s> <s><INST> Okay, please give details about the complaint process 
+</INST> Sure. Below is the process for filing a consumer complaint at the North Goa District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create an Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to login to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you as compensation in the claim amount. 
+9.	Select Goa as the state and North  Goa as the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter Parees Enterprises Corporation Ltd., 2nd Floor, Philip mansion, opposite KTC Bus Stand, Vasco Da Gama, Goa in the Opposite party name section. Ground Floor, Dempo House. Select the state and district of the registered address. 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.	In the Complaint section, write the following: 
+“In 2005, the local agents, Mr. and Mrs. Nanoskar convinced me that Opposite Party is a very profitable investment company. Trusting them, I ended up investing around Rs. 2,88,225 over a few years through cheque. But after the maturity date in 2020, they started avoiding me. I have not received a single rupee back till now.”
+14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name, and the opposite party, click save and continue. 
+15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+Do you also want me to draft a complaint letter for you?
+
+</s> <s><INST> Yes, that would be really helpful.
+
+</INST> Excellent, I've generated a pre-filled complaint for you with all the details you've provided. You can find it here. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now?
+ 
+</s> <s><INST> Yes, Please. 
+
+</INST>  Sure. Here is a draft affidavit and Memorandum of Parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+
+</s> <s><INST> No, that's all for now. Thanks.
+
+</INST> You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+
+
+</s>

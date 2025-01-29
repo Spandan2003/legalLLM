@@ -1,0 +1,53 @@
+<s><INST> I have been delivered with a defective electric bike.
+</INST> That should not be the case. I would try to be of as much help as possible. Can you please tell me more about the incident?
+</s> <s><INST> Yes, I purchased an electric bike from M/s I Pacific and paid Rs. 1,15,000 as full payment on 30.06.2022 vide invoice number ABC123.
+</INST> Do you have the purchase invoice?
+</s> <s><INST> Yes I have the original purchase invoice with me. However, within 4-5 months of purchase, the bike started having issues like frequent battery discharge, problems in starting, and lack of pick-up speed.
+</INST> Did you try contacting the dealer for servicing when these problems started?
+</s> <s><INST> Yes, I approached M/s I Pacific multiple times since December 2022 for inspection and servicing but found their establishment closed down. There was no response on calling them either.
+</INST> Okay, so they essentially shut down operations without any notice or intimation to customers?
+</s> <s><INST> Yes, that's right. It seems like the company has shut down but I was not informed at all as a customer. The bike is still under warranty period but I have no one to reach out to for servicing now.
+</INST> Okay, thank you for the information. You can file a complaint before the consumer court having jurisdiction to hear the case. For that, you must first send a fifteen-day notice to M/s I Pacific. The same can be sent electronically or by post. Or else, you can also contact the  National  Consumer Helpline using the helpline number 1800-11-4000. The Consumer Helpline will give assistance regarding how you can approach the present dispute. What would you prefer?
+</s> <s><INST> I will go for a complaint. 
+</INST> Certainly. I will need some more information from you related to the matter. Can you please tell me the following: your full name with address, age, and occupation, and the registered address and authorised person of M/s I Pacific. 
+</s> <s><INST> Sure. My details are: 1. Miss Asawari Gharo Paryekar, R/o Varchiwadi, Ayee, Dodamarg, Sindhudurg, and I am professional Singer : 2. Mrs. Shobha Ladu Mhalkar, Proprietor, M/s I Pacific, H. No. 21, Bordem, Bicholim, Goa
+</INST> Thank you for supplying the information! Can please tell me what relief you are seeking? 
+</s> <s><INST> I would want a refund of the amount of Rs. 1,15,000/- towards Eelctric Bike and compensation of Rs. 50,000/- for mental harassment as well as litigation cost of 10,000/-
+</INST> Thank you for supplying the information! Please find the notice for filing of consumer complaint here. Please note that these are templates that may require certain corrections or modifications and certain details (particularly the date and signature) will need to be filled at your end. 
+</s> <s><INST> Thank you. I want to file a consumer complaint; can you guide me?
+</INST> Sure. Since the value of the electric bike is Rs. 1,15,000/-.which is less than 50 lakh rupees, the complaint will have to be filed in a District Commission. You, as a complainant, reside in Sindhudurg district and the cause of action arises in Sindhudurg. The opposite party carries on business in Bicholim. You have the option to file the complaint to the North Goa Consumer Disputes Redressal Commission. 
+</s> <s><INST> Okay, please share and explain the complaint filing process. 
+</INST> Sure. Below is the process for filing a consumer complaint at the North Goa District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create an Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to log in to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the total amount you seek compensation in the claim amount. 
+9.	Select Goa as the state and North Goa as the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter Mrs. Shobha Ladu Mhalkar, Proprietor, M/s I Pacific, H. No. 21, Bordem, Bicholim, Goa in the opposite party details. Select the state and district of the registered address. 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.	In the Complaint section, write the following: 
+“I was delivered with defective Electric bike from the Opposite part paid by me for the consideration amount of Rs. Rs. 1,15,000/-, however when I approached opposite party for repair or replacement, their establishment was closed and are unbale to reach.”
+14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name, and the opposite party, click save and continue. 
+15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+Do you also want me to draft a complaint letter for you?
+
+</s> <s><INST> Yes, that would be really helpful.
+
+</INST> Excellent, I've generated a pre-filled complaint for you with all the details you've provided. You can find it here. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now?
+ 
+</s> <s><INST> Yes, Please. 
+
+</INST>  Sure. Here is a draft affidavit and Memorandum of Parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+
+</s> <s><INST> No, that's all for now. Thanks.
+
+</INST> You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+</s>

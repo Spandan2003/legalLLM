@@ -1,0 +1,60 @@
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you. 
+
+User : Hello. I'm Mr. P.V. Dhananjayudu, an ex-serviceman of the Indian Army. I need help regarding an issue I'm facing with the Municipal Corporation of Mahabubnagar. They are not providing me the tax exemption on my house that I'm eligible for as an ex-serviceman.
+
+Chatbot: I understand. Let's discuss this in detail so I can understand the full context and provide the best assistance. Could you please confirm your name, age, address and occupation for my records?
+
+User: Sure,I'm 71 years old and reside at Plot No.3, H.No.8-6-8/A/20, Srinivasa Colony, Mahabubnagar town and district. I'm an ex-serviceman of the Indian Army.
+
+Chatbot:. Could you please explain from the beginning how you became eligible for this tax exemption?
+
+User : Yes, of course. So as part of the rehabilitation program for ex-servicemen, the State Government had allotted me 200 sq yards of land in Survey No. 211/2 at Srinivasa Colony, Mahabubnagar under the ex-servicemen quota. After the land allotment, I constructed a house after taking the required permission from the Mahabubnagar Municipal Corporation, who are the Opposite Party in my complaint. They had provided the construction permission vide letter no. L.R.No.61/BA/298/1046/99 dated 04.02.2000.The Municipal Corporation allotted house number 8-6-8/A/20 for the property after it was constructed. As per government order G.O.Ms.No.83 issued by the Municipal Administration and Urban Development Department, dated 15.03.1997, ex-servicemen of the armed forces are eligible for exemption from payment of house tax for one residential property. So based on this government, I am eligible for exemption as an ex-serviceman.
+
+Chatbot: What steps did you take to apply for this tax exemption from the Municipal Corporation?
+
+User : I had submitted all the required documents to the Municipal Corporation requesting them to provide me the tax exemption. This includes my ex-serviceman ID proofs, property documents and the Government Order document itself. I submitted this request first on 26.09.2020. Unfortunately, the Municipal Corporation did not accept my application. In fact, on 18.09.2022, before I applied, they had sent me a tax demand notice asking me to pay Rs. 2637 as the annual house tax.. After they sent that demand notice, I submitted another request on 27.09.2022 explaining my eligibility criteria again and asking them to reconsider.
+
+Chatbot: You have the option to send a legal notice or file a complaint. 
+
+User: Kindly draft me a legal notice. 
+
+Chatbot: For this I will  need the address of the Municipal corporation, kindly provide its address. 
+
+User:The Municipal Commissioner, Mahabubnagar Municipality, Mahabubnagar, Telangana.
+
+Chatbot: Here is the draft notice that you can send to the Municipality in order to get the tax exemption. Remember to put your signature before you send it in hard copy and put e-signature in case you are sending the soft copy. In case you get any problem in the above process or have any doubt, I would suggest you contact the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+
+User: Thank you. But what if the legal notice does not get me any remedy. 
+
+Chatbot: Then you may file a consumer complaint. What remedy would you like to have from the consumer court. 
+
+User: As a relief I want the opposite party to cancel the house tax demand and issue house tax exemption certificate to the complainant also  ask for Rs. 10000/- Rs as compensation for mental agony and inconvenience caused;
+
+Chatbot: I will draft the complaint.. The jurisdiction for the complaint will be Mahabubnagar as the complainant resides there and the opposite party has office at Mahabubnagar . Kindly, upload the relevant documents. The complaint will be filed in District Consumer Disputes Redressal Mahabubnagar as it has the jurisdiction in the present matter. 
+
+User : Yes, please do assist me in lodging a proper complaint against them. I am uploading all the necessary documents.
+
+Chatbot: Thank you. On the basis of the documents that you have given me, I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+
+User: Yes, it will be great if you can do that as well.
+Chatbot: You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+User: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+Chatbot: You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Telangana as the State and Mahaboob nagar as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+The complainant filed a consumer complaint against Mahabubnagar Municipality for their failure to issue a house tax exemption certificate, despite his eligibility under G.O.Ms.No.83. The complainant, having constructed a house on the allotted land with proper permissions, submitted multiple requests and representations since 2020. The Opposite Party, instead of issuing the certificate, issued a demand notice on 18.9.2022 for Rs.2,637 as house tax. Despite a legal notice in 2023, the Opposite Party's non-response and failure to provide the entitled exemption led to unnecessary harassment and financial loss, constituting deficiency in service.
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+User: Got it. I will not agree for mediation.
+Chatbot: In that case, the consumer court in Mahabubnagar has to proceed with the case.
+Consumer:No. Thank you very much for the assistance!
+Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.
+

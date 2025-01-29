@@ -1,0 +1,69 @@
+The Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you. Please give your name and where you are from.
+Aggrieved Consumer: Hello, I am the proprietor of Sharma Superstore and I am from Moga, Punjab. I purchased an AC from Home Solutions for my shop. The AC, since the first day, has not been cooling properly. I informed the customer care service and they told me that the AC did not have gas. After getting the AC filled with gas the problems have continued and Home Solutions has not sent a technician despite telling me that they will. What do I do?
+The Chatbot: I am sorry for what you have gone through. Can you give me additional details regarding the date you purchased the Air Conditioner, its cost, and its model?
+Aggrieved Consumer:  I bought the AC on 13th August 2021. It is an IFB AC that is 1.5 tons. It cost me 36,000 Rs. On 22nd April 2022. 
+The chatbox: Thank you so much. please confirm when you were informed that the Air Conditioner did not have gas and what the technicians told you the last time they checked the Air Conditioner.
+Aggrieved Consumer: I was told by the technicians that there was no gas. After filling the AC with gas, it worked for a while and then started causing issues again. The last time the technicians came, they told me that the AC had a microleakage problem. 
+The Chatbot: After you were informed that there is a microleakage issue, did the technicians tell you that they will get the same rectified?
+Aggrieved Consumer: Yes, they said that they would get it fixed. They have not sent anyone since then. I have made a customer care complaint and that has been of no use.
+The Chatbot: To whom did you make the customer care complaint?
+Aggrieved Consumer: I made it to both Home Solutions and IFB and I also have their acknowledgement of the same. 
+The Chatbot: Have you contacted Home Solutions and IFB since then to request them to get the AC fixed?
+Aggrieved Consumer: Yes, I have contacted them several times but they have not responded. 
+The Chatbot: Based on what you have told me, you have been given a defective Air Conditioner. Further, since they have not responded properly to your requests and have not rectified the microleakage problem, there is also a deficiency of service. For this, you can seek redressal, i.e., relief from Home Solutions, which has sold the AC to you, and also from IFB Industries, whose AC is defective.  Let me know what kind of remedy you are seeking and how much you want for the same.
+Aggrieved Consumer: I want a replacement along with compensation for mental agony and litigation expenses. For mental agony, I think 50,000 Rs. is reasonable. 
+The Chatbot: In order to get the relief that you are seeking, you can file a complaint before the Consumer Forum which has jurisdiction to hear your case. You can also go for mediation or contact the Punjab State Consumer Helpline to assist you in this regard. You can find the contact number of the Punjab State Consumer Helpline here. Please feel free to ask me for any clarifications regarding each of the options I have presented to you.  
+Aggrieved Consumer: What will happen if I call the state consumer helpline?
+The Chatbot: The Punjab State Consumer Helpline will hear your grievance and will guide you by providing the steps involved in filing a case. They will also render advice regarding the strength of your case. 
+Aggrieved Consumer: What about mediation?
+The Chatbot: mediation is a form of settling disputes outside courts. In mediation, neutral third persons called mediators assist the parties in arriving at an amicable settlement. The mediators cannot decide the case but can only aim for an amicable settlement between the parties. If the parties do not agree for a settlement, then the mediation process comes to an end, resulting in the parties having to seek other methods of settling their dispute, including going to court.
+Aggrieved Consumer; What is the guarantee that Home Solutions and IFB will come for an amicable settlement?
+The Chatbot: It is difficult to predict if Home Solutions and IFB will come for a settlement. The same depends on the mediation process and the terms and conditions that are placed by both sides for settlement. While there is a chance that there will be an amicable settlement based on the terms you are seeking, there is no guarantee for the same.
+Aggrieved Consumer: If there is no guarantee, then I want to file a complaint before the Consumer Forum. 
+The Chatbot: Got it. Before you file a complaint before the forum, you would have to send a fifteen-day notice to Home Solutions and IFB. If you do not receive a satisfactory response, or if you do not receive a response from them after a period of fifteen days, you can initiate legal action by approaching the consumer court. Do you want me to draft a notice for you?
+Aggrieved Consumer: Yes, it will be nice if you can draft a notice.
+The Chatbot: In that case, I require additional details such as your full name, address, and contact details. 
+Aggrieved Consumer: My name is Gurdarshan Sharma, and I reside in Ward No. 27, Jalandhar Colony, Kotkapura Road, Moga. My father’s name is Jagdish Rai. My phone number is 7894232566. 
+The Chatbox: additionally, can you confirm the full name and address of Home Solutions and the full name of IFB Industries and its address? I also require the Invoice number and the other particulars of the purchase. Or else, you can upload the invoice here.  
+Aggrieved Consumer: The full name of Home Solutions is Home Solutions Street. Address- No.9, New Town, Opposite Dharamshala Lal Chand, Moga. IFB Industries Limited (Home Appliances Division), L 1, Verna Electronic City, Verna, Salcete, Goa, 403722. 
+(upon uploading the invoice)
+The Chatbot: Thank you. The notice must specify the relief that you are seeking. Here, you are seeking a replacement for the Air Conditioner along with compensation for mental agony. Is it okay if the notice directs the initiation of the replacement and the payment of compensation for mental agony within fifteen days of the opposite party receiving it? This is because the period of the notice is fifteen days. 
+Aggrieved Consumer: Yes, that is not an issue at all. 
+The Chatbot: Thank you. Do you want to send the notice electronically or by post? I would require your address if you want to send a physical copy, or your email ID if you want to send the notice electronically. The email ID that you gave me can be used by Home Solutions and IFB Industries if they want to send a reply.
+Aggrieved Consumer: I want to send it by email. Their response can also be via email.
+The Chatbot: If that is the case, kindly give me the email address to which you want them to send a reply.
+Aggrieved Consumer: abc@gmail.com
+The Chatbot: Based on the information you have provided me, you can find the notice here. Please keep in mind that your signature is required in the notice. You can either take a printout of the notice and sign it, or else you can e-sign it. Also mention the date in the notice before you send it. If you do not get a satisfactory response or if you do not get a response within fifteen days, you can file a complaint before the consumer forum. Do you want me to guide you on how you can file a complaint before the consumer forum?
+Aggrieved Consumer; Yes, please provide me with the steps on how I can file a complaint before the consumer forum.
+The Chatbot: First, I would have to determine which consumer forum has the jurisdiction, i.e., the authority to hear your case. The court can be identified on the basis of the location where either Home Solutions and IFB Industries or any of its branches are situated, or where you are residing or working. Here, you and Home Solutions are situated in Moga, while IFB Industries’ Office is in Goa. Due to this, you can either file your complaint before the consumer forum in Moga or in Goa. Which consumer forum do you prefer?
+Aggrieved Consumer: I prefer Moga.
+The Chatbot: Got it. In that case, do you want me to draft a pre-filled complaint that you can use?
+Aggrieved Consumer: Yes, it will be great if you can draft a complaint which I can use.
+The Chatbot: Great! In addition to the invoice that you have already given me, do you have any other documents to prove that there was deficiency of service.  Any messages exchanged between you and the opposite parties about getting the AC repaired and any proof that you made a customer care complaint is sufficient for the same.
+Aggrieved Consumer: Yes, I have messages that I sent to Home Solutions and to IFB saying that the AC is defective. I also have their response saying that they will send a technician to repair the micro leakage problem. I also have the customer care complaint and their acknowledgement
+The Chatbot: Great, you can attach the messages, the invoice and the customer care complaint with its acknowledgement here. 
+(Upon uploading documents)
+The Chatbot: Thank you. On the basis of the documents that you have given me, I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+Aggrieved Consumer- Yes, it will be great if you can do that as well.
+The Chatbot: You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+Aggrieved Consumer: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+The Chatbot: You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Punjab as the State and Moga as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter “Home Solutions” and “IFB Industries”. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+“This complaint is regarding a defective Air Conditioner from Home Solutions. The Air Conditioner did not cool properly and the Complainant was informed that the same as due to the Air Conditioner not being filled with gas. Despite technicians getting the Air Conditioner filled with gas, the problem persisted. Upon being appraised of the same, the Opposite Party’s technician stated that there was a micro leakage issue for which a technician would be sent. However, despite repeated requests, technicians have not been sent to rectify the said issue.”
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. The process is identical to what I have already told you with the difference being that the mediation will be conducted by the court-attached mediators. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+Aggrieved Consumer: Got it. I will not agree for mediation.
+The Chatbot: In that case, the consumer court in Moga has to proceed with the case.
+Aggrieved Consumer: Got it. Thank you very much!
+The Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.
+
+

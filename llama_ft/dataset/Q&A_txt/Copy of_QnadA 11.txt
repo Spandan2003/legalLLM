@@ -1,0 +1,61 @@
+(This hypothetical chatbot Q&A is based on CC/41/2020 from Before the District Consumer Disputes Redressal Commission, North Goa at Porvorim)
+
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you?
+User: I was cheated by the Tourist agency 
+Chatbot: That should not be the case. I would try to be of as much help as possible. Can you please tell me more about the incident?
+User: Yes, my husband and I booked our'Magical Kenya & Tanzania' package (booking no. 8787 dated 10/09/2018) for our honeymoon offered by M/s Trail Blazer Tours Pvt Ltd. The total package cost was Rs. 5,98,600 for visiting places in Kenya and Tanzania and accordingly we paid the entire amount. 
+Chatbot: Do you have the full itinerary and booking invoices?
+User: Yes, I have all the documents. But there were major issues right from flight ticket booking.
+Chatbot: What issues did you face with the flight booking?
+User: Due to their negligence in booking, we had to pay Rs. 1,04,280 extra to rebook flight tickets. Also, they suddenly changed the tour itinerary after we landed there, without even informing us!
+Chatbot: That is clearly deficiency in service. What other problems did you face during the tour?
+User: The hotel accommodation provided was far inferior to what was agreed in the itinerary. During a jungle safari, the vehicle broke down halfway leaving us stranded. It was a life threatening experience!
+Chatbot: My goodness, this seems very traumatic overall. Were there any other issues you faced?
+User: Yes, the food quality at various accommodation camps was terrible. And finally, they dropped us at the airport 7 hours before departure! It was a nightmare trip.
+Chatbot: This is absolutely unacceptable. Don't worry, we have a very strong legal case here. 
+User: The experience became hell when we were dropped at the airport 7 hours in advance before flight departure time. Poor quality of food served at accommodation camps.
+Chatbot: You can file a complaint before the consumer court having jurisdiction to hear the case. For that, you must first send a fifteen-day notice to Trail Blazer Tours (India) Pvt. Ltd.The same can be sent electronically or by post. Or else, you can also contact the  National  Consumer Helpline using the helpline number 1800-11-4000. The Consumer Helpline will give assistance regarding how you can approach the present dispute. What would you prefer?
+User: I will go for a complaint. 
+Chatbot: Certainly. I will need some more information from you related to the matter. Can you please tell me the following: your full name with address, age, and occupation, and the registered address of company? 
+User: Sure. My details are 1. TMrs. Ranjana Ferrao Corderio  R/o Flat No. S-3, Building No. 6 Kamat Complex, Caranzalem, Goa and I am professional Chef and Opposite party details are: 2. M/s Trail Blazer Tours Pvt Ltd 201 & 204, 2nd Floor Gera’s Imperium II Patto Plaza, Panaji Goa – 403001
+Chatbot: Thank you. I would need some more information from you related to the matter to assist you better. What is the relief that you would wish to pursue through the complaint?
+User: I would want a refund of the entire amount of Rs. 17,00,000/- and compensation of Rs. 1,00,000/- for mental harassment, as well as litigation charges of Rs. 50,000/-
+Chatbot: Thank you for supplying the information! Please find the notice for filing of consumer complaint here. Please note that these are templates that may require certain corrections or modifications and certain details (particularly the date and signature) will need to be filled at your end. 
+User: Thank you. I want to file a consumer complaint; can you guide me?
+Chatbot: Sure. Since the value of the consideration amount you paid is Rs. 17,00,000/- which is less than 50 Lakh rupees, the complaint will have to be filed in a District Commission. You, as a complainant, reside in Caranzalem district and the cause of action arises in Caranzalem. The opposite party carries on business in Panaji. You have the option to file the complaint to the North Goa Consumer Disputes Redressal Commission. 
+User: Okay inform me about the complaint filing procedure 
+Chatbot: Sure. Below is the process for filing a consumer complaint at the North Goa District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create an Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to log in to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you have as compensation in the claim amount. 
+9.	Select Goa as the state and North Goa as the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter The Managing Director M/s Trail Blazer Tours (India) Pvt. Ltd. 201 & 204, 2nd Floor, Gera’s Imperium II Patto Plaza,  Panaji, Goa – 403001.  in the opposite party address section. Select the state and district of the registered address. 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.	In the Complaint section, write the following: 
+“I along with my husband had booked the ‘Magical Kenya and Tanzania’ honeymoon tour package advertised by Trail Blazer Tours (India) Pvt. Ltd. vide booking no. 8787 dated 10/09/2018 for USD 4113 per person totalling Rs. 5,98,600/- (Rupees Five Lakhs Ninety-Eight Thousand Six Hundred Only) for visiting Nairobi, Mount Kenya, Lake Nakuru, Masai Mara in Kenya and Arusha, Lake Manyara, Serengeti, Ngorongoro in Tanzania. However, the tour planning led to great mental harassment and trauma. There was negligence in flight ticket booking which led to an extra expense of Rs. 1,04,280/- to rebook flight tickets and also there was a sudden change in the tour itinerary after the tour started without our consent. The hotel accommodation provided was not as per the agreed itinerary and was of poor standards, similarly, a Safari vehicle broke down midway during a jungle safari jeopardizing our lives. The experience became hell when we were dropped at the airport 7 hours in advance before flight departure time. Poor quality of food served at accommodation camps..”
+14.	Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name, and the opposite party, click save and continue. 
+15.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+16.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+17.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+Do you also want me to draft a complaint letter for you?
+
+User: Yes, that would be really helpful.
+
+Chatbot: Excellent, I've generated a pre-filled complaint for you with all the details you've provided. You can find it here. Once downloaded, fill in all blank details, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now?
+ 
+User: Yes, Please. 
+
+Chatbot:  Sure. Here is a draft affidavit and Memorandum of Parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+
+User: No, that's all for now. Thanks.
+
+Chatbot: You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+
+

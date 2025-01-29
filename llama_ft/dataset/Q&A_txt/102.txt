@@ -1,0 +1,73 @@
+Chatbot:Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you. 
+Consumer: Hi Chatbot, I purchased a water purifier online last year which has been giving me trouble since day 1. 
+
+Chatbot: I understand, let's take this step-by-step so I can gather all the details. Could you start by providing your name, age, occupation and location details?
+
+Consumer: Sure, my name is Gouni Consumer Reddy, I'm 20 years old and currently a student. I reside at House no. 16-61, Sai Ram Veterinary Medical Stores, Opposite Bus Stand In-gate, Srinivasa Colony, Atmakur Mandal in Wanaparthy District.
+
+Chatbot: Thank you for the introduction Mr. Gouni Consumer Reddy. Can you now explain the purchasing details as to the water purifier you had purchased?
+Consumer: I purchased an Aquasure Delight RO+UV+MTDS water purifier made by Eureka Forbes Limited. I bought it online through Amazon India on 6th August 2020 for the amount of Rs. 8,990/-. There was a delay in installation due to Covid restrictions at that time. The installation happened only on 25th August 2020, almost 20 days after delivery. But as soon as it was installed I noticed there was some leakage happening from the purifier. I complained about this defect on the same day, 25th August 2020.
+
+Chatbot: What response did you get from the company when you first complained about this leakage?
+
+Consumer: I called their customer care multiple times but there was no proper response. After continuously following up for 10 days, a service technician finally came after a month and was able to fix the leakage temporarily. The issues continued. While the leakage was fixed, now the purifier started taking too much time to purify water and also started wasting a lot of water during the process. I again started calling the Eureka Forbes customer care regularly to complain. They would assure me everytime that they were sending a technician within 24 hours, but no one would turn up for weeks.After waiting for a month, the technician came and said I need to install an additional filter in the purifier, which would cost me Rs. 380 extra. I had no choice but to agree and get it installed.
+
+Chatbot:. Did installing this extra filter solve all the water purifier problems?
+
+Consumer: No, even after installing the additional filter, I continued to face problems frequently. I had to call them multiple times again for the same issues. Then another technician came after a month and said the RO membrane had to be replaced. There was some improvement after the membrane was changed. But after about 1 week, the purifier stopped working again. Each time it would work only for a few days and then break down again.
+
+Chatbot: Very frustrating experience you have had. After all these issues, what did the company technicians finally say? 
+
+Consumer: Technician was of the opinion that it is better to go for replacement of the product. Based on this the complainant asked for the refund or replacement but the company said that the water purifier can not be replaced or returned only within 30 days of purchase as per the company’s terms and conditions. After this I registered a grievance on the consumer helpline website on 15-04-2021, vide No.2679203, after 3 months, I got a mail stating that “intimated customer as per policy can not refund or replace the unit after purchase of 10 months”.
+
+Chatbot: See the machine was not working since day one and there have been multiple attempts to approach the opposite party. I would also recommend you send the legal notice to the opposite party.
+
+Consumer: Yes, please draft the notice and ask for the replacement of the water purifier. 
+
+Chatbot: I would draft the complaint and the notice. But for this I need some additional information, like the name of the parties, your name and the name and address of the opposite party. Kindly noted that we will have 2 opposite parties, Eureka Forbes Ltd and Amazon India. 
+
+Consumer: You can mention my address as Gouni Sai Charan Reddy, S/o Gouni Harshavardhan Reddy, aged 20 years, Occ: Student, R/o H.No.16-61, Sai Ram Veterinary Medical Stores, Opposite Bus Stand In-gate, Srinivasa Colony, Atmakur mandal, Wanaparthy District. 
+The opposite parties address are: 1.. The Authorised Signatory, Eureka Forbes Ltd., Corporate Office B1/B2, 701, 7th Floor, Marathon Innova Marathon NextGen, Off Ganpatrao Kadam Marg, Lower Parel, Mumbai - 400 013. 2. The Authorised Signatory, Amazon India, Brigade Gateway, 8th Floor, 26/1, Dr. Rajkumar Road, Malleshwaram (W), Bangalore - 560055, Karnataka.
+
+Chatbot: Here is the notice that you can send to both the opposite parties. In case you get any problem in the above process or have any doubt, I would suggest you contact the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need?
+
+Consumer: What if you do not get any reply to the legal notice. What other remedy do I have?
+
+Chatbot: You can draft a consumer complaint against both the opposite parties. 
+
+Consumer: Thank you for your advice. Can you draft a consumer complaint so that I can file a complaint in case I do not get a positive reply through the medium of notice? 
+
+Chatbot: Yes, sure. I would also like to inform you that you can file the complaint in Mumbai, Mahabubnagar and Bangalore. Which option do you prefer?
+
+Consumer: I would like to file the complaint in Mahabubnagar. 
+
+Chatbot:  Could you please tell what relief you expect from the court, for deficiency in service on the part of the opposite party. 
+
+Consumer- I would like  to get a water purifier of  the same model or return costs of the water purifier along with interest and to Rs.20,000/- towards compensation for adopting unfair trade practice, mental agony and deficiency of service and Rs.10,000/- towards costs of the complaint to the complainant.
+
+Chatbot: I have carefully documented all the facts and timeline. I will help draft a consumer complaint so you can get a replacement or refund at the earliest. Let's proceed with filing it. Please provide information about the evidence that you have like the invoice and other proofs.
+
+Consumer: I have evidence such  as the invoice, call log, the proof of consumer grievances redressal with the company technicians and other documents. Please share the draft.
+
+Chatbot: You're most welcome Mr. Consumer. Thank you. On the basis of the information that you have given me, I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+
+Consumer- Yes, it will be great if you can do that as well.
+The Chatbot: You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+Consumer: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+The Chatbot: You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Telangana as the State and Mahaboob nagar as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the brief of  your complaint:-
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+Aggrieved Consumer: Got it. I will not agree for mediation.
+The Chatbot: In that case, the consumer court in Mahabubnagar has to proceed with the case.
+Aggrieved Consumer: Got it. Thank you very much!
+The Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.

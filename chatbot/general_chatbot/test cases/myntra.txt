@@ -1,0 +1,87 @@
+AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+
+Human: I recieved torn clothes from Myntra and they are refusing to refund the amount
+
+AI: Thank you for sharing your concern. Can you please provide more details about what led to this issue? For instance, did you return the clothes to Myntra, and if so, what was their response?
+
+Human: I tried to return them at their shop. However they said that this is intentional damage and hence they cannot replace it.
+
+AI: It seems like Myntra is disputing the damage. Can you please provide me with more information about the opposing party, i.e., Myntra? What is their contact information, and do you have a reference number or order number for the purchase?
+
+Human: It is the big fashion company. My order number is 1214jaodfao21
+
+AI: With the order number, you can try to escalate the issue to Myntra's customer service or their return department. 
+
+Considering Myntra is refusing to replace the damaged product, you may want to consider seeking legal action. I can help you draft a legal notice to Myntra, outlining the issue and requesting a replacement or refund.
+
+Would you like me to assist you in drafting a legal notice?
+
+Human: Yes please
+
+AI: To draft a legal notice, I'll need some more information from you. Can you please provide me with the following details:
+
+1. A brief description of the damaged product and its original price.
+2. The date when you received the damaged product.
+3. The date when you returned the product to Myntra.
+4. Any communication you've had with Myntra regarding the return and their response.
+5. The relief you are seeking from Myntra (replacement, refund, or something else).
+
+Once I have this information, I can help you draft a formal legal notice to Myntra.
+
+Also, please note that you can also contact the National Consumer Helpline (1800-11-4000) for immediate assistance or use the UMANG App for further guidance on the matter.
+
+Human: It is a tshirt. I received it on 2 august and returned on 3rd august.  They refused to return it. I want a refund from Myntra
+
+AI: Here's a draft of the legal notice:
+
+**NOTICE**
+
+To,
+Myntra Online Retail Private Limited,
+[Address of Myntra's Registered Office]
+
+Subject: Demand for Refund for Damaged Product - Order No. 1214jaodfao21
+
+Dear Sir/Madam,
+
+Re: Return of Damaged T-Shirt - Order No. 1214jaodfao21
+
+This is to bring to your notice that I had placed an order for a T-Shirt with Order No. 1214jaodfao21, which was delivered to me on 02nd August [Year]. Unfortunately, upon receipt, I found the product to be damaged.
+
+I returned the product to your store on 03rd August [Year], but your staff refused to accept the return, stating that the damage was intentional. I strongly disagree with this assertion and request that you reconsider your decision.
+
+I hereby demand a full refund of the amount paid for the product, which was [Amount]. I request that you process the refund at the earliest and credit the amount back to my original mode of payment.
+
+Please acknowledge receipt of this notice and confirm the steps you will take to resolve this matter.
+
+Yours faithfully,
+
+[Your Name]
+[Your Address]
+[Your Contact Number]
+[Your Email ID]
+
+Please note that this is a draft, and you should modify it according to your specific needs. Also, make sure to keep a copy of the notice for your records.
+
+Before sending the notice, I would recommend trying to contact Myntra's customer service again to resolve the issue amicably. If they still refuse to cooperate, you can send the notice and follow up with them.
+
+Additionally, you can also contact the National Consumer Helpline (1800-11-4000) or use the UMANG App for further guidance on the matter.
+
+Is there anything else I can help you with?
+
+Human: Can you please fill in their address?
+
+AI: I don't have the specific address of Myntra's Registered Office. However, you can find it on their official website or contact their customer service to obtain the correct address.
+
+Alternatively, you can use the following address for the notice:
+
+Myntra Online Retail Private Limited
+ [insert the address you find from their website or customer service]
+
+If you are unable to find the address, you can also consider using the address of their local office or the address of their nearest store.
+
+Please note that you should verify the address before sending the notice to ensure it is correct.
+
+Also, I would recommend reaching out to Myntra's customer service to obtain their current address and any other necessary information.
+
+Is there anything else I can help you with?

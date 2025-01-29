@@ -1,0 +1,305 @@
+Human: Hello, I recently had a very unpleasant experience while travelling on an international flight and lost my luggage. The airline has failed to find or compensate me for it even after months of followup. I want to file a consumer complaint in the consumer court against the airline but need help drafting it. Can you guide me through the process?
+
+Bot: Thank you for sharing your concern with me. I'm here to help you with the process of filing a consumer complaint against the airline.
+
+To better understand your situation, can you please tell me what led to the loss of your luggage? Was it a delay in baggage handling, or did you notice any signs of damage or tampering during the flight?
+
+Human: My name is A. Sivanupandian,
+
+Bot: Thank you, Mr. Sivanupandian. Now, could you please tell me what led to the loss of your luggage? Was it due to the airline's negligence, or was it misplaced during transit, or something else?
+
+Human: Arumugam
+
+Bot: Could you please tell me the date of the incident when you lost your luggage? This will help me determine if the complaint can be filed within the statutory time limit of 2 years.
+
+Human: Age: 35 What is your occupation? Occupation: Teacher What is your address? I reside at D.No.136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu.
+
+Bot: Thank you for providing the necessary details. 
+
+Now, let's focus on the airline issue. You mentioned that the airline failed to find or compensate you for your lost luggage. Can you please tell me more about what happened? What was the date of your flight, and when did you first report the loss of your luggage to the airline?
+
+Human: I travelled from Colombo, Sri Lanka to Madurai, India on 15th August 2017 on Srilankan Airlines flight UL139. My ticket details are E-ticket no. 6034996832446, Seat no. 29E.
+
+Bot: The incident occurred on August 15th, 2017. As per the Consumer Protection Act, 2019, the time limit to file a complaint is 2 years from the date of the incident. Since the incident happened in 2017, it's been over 6 years. I want to caution you that you might not be able to file a complaint under the Consumer Protection Act, 2019. However, you can still try to file a complaint under other applicable laws or seek assistance from the airline's customer service.
+
+If you still want to proceed, could you please provide the details of the airline's customer service interactions you've had so far? What were the names of the representatives you spoke to, and what were their contact numbers?
+
+Human: I had checked in one bag weighing around 8kgs during departure at Colombo airport. It contained clothes, dry fruits, chocolates, dry fish, honey and other food items that I had purchased as gifts for family and friends during my Sri Lanka tour. The total value of the contents would be around Rs. 2 lakhs. When I arrived at Madurai airport after landing, I waited at the belt for over 2 hours, but my bag never came. That's when I understood it was lost.
+
+Bot: The incident occurred on August 15, 2017, which is more than 2 years ago. As per the Consumer Protection Act, 2019, you have a time limit of 2 years to file a complaint. Since this incident occurred before the Act came into effect, you may still be able to file a complaint under the Consumer Protection Act, 1986. However, please note that the airline may argue that the statute of limitations has expired.
+
+Considering the value of the contents in your bag, it's a substantial loss. You should have claimed compensation for the lost items from the airline immediately after the incident.
+
+Let's move forward with drafting the complaint. I can help you with a draft notice to the airline. Would you like to proceed with filing a complaint and seeking compensation for the lost luggage and its contents?
+
+Human: Yes, I immediately informed the airport authorities and also the Srilankan Airlines staff about my missing bag. They said they would search but could not find it. The airline staff gave me a Property Irregularity Report (PIR) to list the contents of my lost bag and record the incident.
+
+Bot: You have taken the first step by reporting the incident and getting a PIR. Since the incident occurred on August 15, 2017, and it's now 2024, please note that the Consumer Protection Act of 2019 has a 2-year time limit for filing a complaint. Considering this, you might be a bit late to file a complaint under the Consumer Protection Act. However, you can still approach the airline's customer service or their headquarters to see if they can assist you in resolving the issue.
+
+Considering the compensation for lost luggage, Srilankan Airlines is supposed to compensate you for the contents of your bag. Did you receive any compensation from the airline for your lost luggage?
+
+Human: I sent multiple emails on 17th Aug, 18th Aug and 20th Sept 2017 to follow up on my missing bag but the airline did not give any proper response.
+
+Bot: It seems like the airline didn't respond properly to your follow-ups. Did you also try contacting them over the phone or in person, or just through email? Also, did you make any attempts to escalate the issue to a higher authority or a consumer court?
+
+Human: The airline office is located at Madurai Airport itself. I had booked the flight tickets directly via their website around 1 month before travel in July 2017.
+
+Bot: Since you booked directly with the airline, their office at the Madurai airport would be the best point of contact. However, I don't have the exact address of the Madurai airport office. You may want to check the airline's website or contact them again to get the exact address.
+
+Let's focus on drafting the complaint now. I'll guide you through the process. Would you like me to draft a complaint under the Consumer Protection Act, 2019, or do you want to approach the District Consumer Disputes Redressal Forum?
+
+Human: Kindly draft a legal notice.
+
+Bot: Here's a draft legal notice you can use as a starting point:
+
+**NOTICE OF DEMAND FOR COMPENSATION FOR LOST LUGGAGE**
+
+To,
+
+Sri Lankan Airlines
+Madurai Airport, Madurai, Tamil Nadu
+
+Subject: Demand for Compensation for Lost Luggage (E-ticket no. 6034996832446, Flight UL139, Date of Travel: 15th August 2017)
+
+Respected Sir/Madam,
+
+Re: Loss of Luggage (8 kgs) during travel from Colombo to Madurai on 15th August 2017
+
+I, A. Sivanupandian, a resident of D.No.136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu, hereby serve this notice to you, Sri Lankan Airlines, in respect of the loss of my luggage during my travel from Colombo to Madurai on 15th August 2017.
+
+I had checked in one bag weighing around 8 kgs at Colombo airport, which contained clothes, dry fruits, chocolates, dry fish, honey and other food items worth approximately Rs. 2 lakhs. Unfortunately, the bag did not arrive at the Madurai airport despite my waiting for over 2 hours after landing.
+
+I immediately informed the airport authorities and the airline staff about the missing bag and was given a Property Irregularity Report (PIR) to record the incident. Despite my follow-up emails on 17th August, 18th August and 20th September 2017, I have not received any response or compensation from the airline.
+
+I hereby demand compensation for the loss of my luggage, including the value of the items contained therein, as per the applicable regulations and the Montreal Convention. I also request you to provide me with a written acknowledgement of this notice and a confirmation of the steps you will take to resolve this matter.
+
+If I do not receive a satisfactory response from you within 30 days from the date of this notice, I will be forced to initiate legal proceedings against you to recover the compensation due to me.
+
+Please acknowledge receipt of this notice and confirm the steps you will take to resolve this matter.
+
+Yours faithfully,
+
+A. Sivanupandian
+
+Dated: [Current Date]
+
+Please note that this is just a draft and you may need to modify it as per your specific requirements and circumstances. Also, please ensure that you send the notice by registered post with acknowledgement due and keep a record of the same.
+
+Is there anything else I can help you with?
+
+Human: What if I don’t get any reply for this notice? What remedy do I have?
+
+Bot: If you don't receive a response from the airline after sending the legal notice, you can consider the following steps:
+
+1.  File a complaint with the District Consumer Disputes Redressal Forum (DCDRF): As the value of the lost baggage is less than one crore rupees, you can approach the District Consumer Disputes Redressal Forum (DCDRF) in Tirunelveli. You can file a complaint against Srilankan Airlines, stating the facts of the case, and seeking compensation for the lost baggage and mental agony.
+2.  File a complaint with the State Consumer Disputes Redressal Commission (SCDR): If you are not satisfied with the decision of the DCDRF, you can appeal to the State Consumer Disputes Redressal Commission (SCDR) in Tamil Nadu. The SCDRC has jurisdiction over cases where the value of the goods or services is more than one crore rupees but less than ten crores.
+3.  File a complaint with the National Consumer Disputes Redressal Commission (NCDRC): If the value of the lost baggage is more than ten crores, you can approach the National Consumer Disputes Redressal Commission (NCDRC) in New Delhi. The NCDRC has jurisdiction over cases where the value of the goods or services is more than ten crores.
+4.  File a complaint with the Central Consumer Protection Authority (CCPA): The CCPA is a central authority that deals with consumer grievances and complaints. You can file a complaint with the CCPA if you feel that Srilankan Airlines has engaged in unfair trade practices or has violated any consumer protection laws.
+
+Before filing a complaint, ensure that you have all the necessary documents, including the PIR, email correspondence, and other relevant evidence. You can also seek the help of a consumer activist or a lawyer to guide you through the process.
+
+Additionally, you can also approach the National Consumer Helpline (NCH) at 1800-11-4000 or the UMANG App for immediate assistance. They can provide you with guidance and support in filing a complaint and navigating the consumer grievance redressal process.
+
+Human: Yes, draft a complaint  for me.
+
+Bot: Here is the complaint that you can file. 
+
+IN THE DISTRICT CONSUMER DISPUTES REDRESSAL FORUM
+
+TIRUNELVELI
+
+COMPLAINT PETITION NO. 
+
+IN THE MATTER OF:
+ Mr. A. Sivanupandian, S/o Arumugam, Age:35, Occupation: Teacher, D.No. 136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu (hereinafter referred to as the "Complainant")
+
+Vs.
+
+Srilankan Airlines Limited, represented by its Station Manager, Madurai Airport, Madurai (hereinafter referred to as the "Opposite Party")
+
+FOR THE RELIEF:
+
+The Complainant, Mr. A. Sivanupandian, S/o Arumugam, Age:35, Occupation: Teacher, D.No. 136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu, submits the following complaint:
+
+1. That the Complainant is a consumer of the Opposite Party, Srilankan Airlines Limited, and had booked a ticket (E-Ticket No. 6034996832446, Seat No. 29E) for travel from Colombo to Madurai on 15th August 2017.
+
+2. That upon arrival at Madurai airport, the Complainant found that his checked-in baggage weighing approximately 8 kg and containing items worth Rs. 2,00,000/- was not delivered and had gone missing.
+
+3. That the Complainant immediately lodged a complaint regarding the missing baggage at the airport and the Opposite Party's airline staff issued a Property Irregularity Report (PIR).
+
+4. That the Complainant has subsequently followed up multiple times via email on 17.08.2017, 18.08.2017 and 20.09.2017 regarding the status of his lost baggage. However, even after 5 years, neither has his baggage been returned nor has he been duly compensated for the loss and mental agony caused to him.
+
+5. That the Opposite Party's failure to return the Complainant's baggage and the valuables contained therein, and not responding satisfactorily to the Complainant's queries and complaints, amounts to clear deficiency in service and unfair trade practice on the part of the Opposite Party.
+
+6. That the Complainant has suffered a loss of Rs. 2,00,000/- due to the missing baggage and has also undergone immense mental agony, harassment and hardship over the last 5 years.
+
+7. That the Opposite Party is liable to compensate the Complainant for the full value of the lost baggage amounting to Rs. 2,00,000/- as well as for the mental agony and hardship suffered by the Complainant.
+
+WHEREFORE, the Complainant, Mr. A. Sivanupandian, S/o Arumugam, Age:35, Occupation: Teacher, D.No. 136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu, humbly submits that the Opposite Party, Srilankan Airlines Limited, be directed to pay a compensation of Rs. 4,00,000/- (Rupees Four Lakh only), with the break-up being Rs. 2,00,000/- towards the value of lost baggage and Rs. 2,00,000/- for the mental agony and hardship suffered by the Complainant.
+
+RELIEF SOUGHT:
+
+The Complainant seeks the following relief:
+
+a) Compensation of Rs. 4,00,000/- (Rupees Four Lakh only) from the Opposite Party.
+
+b) Compensation for the mental agony and hardship suffered by the Complainant.
+
+c) Any further relief as the Hon'ble Forum may deem fit and proper in the circumstances of the case.
+
+VERIFICATION:
+
+I, Mr. A. Sivanupandian, S/o Arumugam, Age:35, Occupation: Teacher, D.No. 136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu, hereby verify that the contents of the complaint are true to the best of my knowledge and belief.
+
+Place: Tirunelveli
+
+Date: 26/09/2024
+
+Signature of the Complainant.
+
+Please note that this is a sample complaint and you should consult a lawyer to ensure it is correct and complete before filing it.
+
+Human: I would like to file the complaint at Madurai.
+
+Bot: Here is the complaint. that you can file at the District Consumer Disputes Redressal Commission, Madurai. Please note that you should sign the complaint before submitting it to the commission. In case you get any problem in the above process or have any doubt, I would suggest you contact the state consumer helpline at 044-28592828 Call centre Assistants are available between 9-30 AM to 6-00 PM on all working days of Government of Tamil Nadu or you can call the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app. Is there anything else you need? 
+
+Consumer Complaint 
+
+District Consumer Disputes Redressal Commission, Madurai 
+
+To,
+
+The Hon'ble President, District Consumer Disputes Redressal Commission, Madurai. 
+
+Subject: Consumer Complaint against Srilankan Airlines Limited for deficiency in service and unfair trade practice. 
+
+This complaint is filed under the Consumer Protection Act, 2019. 
+
+Complainant: Mr. A. Sivanupandian, S/o Arumugam, Age: 35, Occupation: Teacher, D.No. 136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu. 
+
+Opposite Party: Srilankan Airlines Limited, represented by its Station Manager, Madurai Airport, Madurai. 
+
+1. The complainant travelled on Srilankan Airlines flight UL 139 from Colombo to Madurai on 15th August 2017 (E-Ticket No. 6034996832446, Seat No. 29E). 
+
+2. Upon arrival at Madurai airport, the complainant found that his checked-in baggage weighing approximately 8 kg and containing items worth Rs. 2,00,000/- was not delivered and had gone missing. 
+
+3. The complainant immediately lodged a complaint regarding the missing baggage at the airport and the airline staff issued a Property Irregularity Report (PIR). 
+
+4. The complainant has subsequently followed up multiple times via email on 17.08.2017, 18.08.2017 and 20.09.2017 regarding the status of his lost baggage. However, even after 5 years, neither has his baggage been returned nor has he been duly compensated for the loss and mental agony caused to him. 
+
+5. The complainant has sent a legal notice to the opposite party on [insert date] but the opposite party has not responded. 
+
+6. The opposite party is liable to compensate the complainant for the full value of the lost baggage amounting to Rs. 2,00,000/- as well as for the immense mental agony, harassment and hardship the complainant has had to undergo over the last 5 years. 
+
+7. The complainant seeks compensation of Rs. 4,00,000/- (Rupees Four Lakh only) with the break-up being Rs. 2,00,000/- towards the value of lost baggage and Rs. 2,00,000/- for the mental agony and hardship. 
+
+Relief sought: 
+
+The complainant seeks the following relief: 
+
+a. Compensation of Rs. 4,00,000/- (Rupees Four Lakh only) with the break-up being Rs. 2,00,000/- towards the value of lost baggage and Rs. 2,00,000/- for the mental agony and hardship. 
+
+b. Costs of the complaint. 
+
+c. Any other relief that this Hon'ble Commission may deem fit in the circumstances of the case. 
+
+Verification: 
+
+I, Mr. A. Sivanupandian, S/o Arumugam, hereby verify that the contents of this complaint are true to the best of my knowledge and belief. 
+
+Signature of the complainant: ______________________ 
+
+Date: ______________________
+
+Human: I would like to ask for a sum of Rs. 2,00,000/- towards the value of the lost baggage and contents thereof and a sum of Rs. 2,00,000/- towards compensation for mental agony, harassment caused to the Complainant.
+
+Bot: Here is the complaint that you can file at the District Consumer Disputes Redressal Commission, Madurai.
+
+ Complainant: Mr. A. Sivanupandian, S/o Arumugam, Age:35, Occupation: Teacher, D.No. 136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu.
+
+ Opposite Party: Srilankan Airlines Limited, represented by its Station Manager, Madurai Airport, Madurai.
+
+ Before the District Consumer Disputes Redressal Commission, Madurai.
+
+ Complaint under the Consumer Protection Act, 1986.
+
+ Case No: _______________________.
+
+  COMPLAINT
+
+To, The District Consumer Disputes Redressal Commission, Madurai.
+
+Subject: Complaint for compensation for lost baggage and deficiency in service by Srilankan Airlines.
+
+ 1. The Complainant, Mr. A. Sivanupandian, S/o Arumugam, Age:35, Occupation: Teacher, D.No. 136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu, files this complaint against Srilankan Airlines Limited, represented by its Station Manager, Madurai Airport, Madurai, (hereinafter referred to as the Opposite Party) for deficiency in service and unfair trade practice in connection with the loss of his baggage on 15th August 2017.
+
+ 2. The Complainant had booked a ticket (E-Ticket No. 6034996832446, Seat No. 29E) for travel from Colombo to Madurai on 15th August 2017 with the Opposite Party. Upon arrival at Madurai airport, the Complainant found that his checked-in baggage weighing approximately 8 kg and containing items worth Rs. 2,00,000/- was not delivered and had gone missing.
+
+ 3. The Complainant immediately lodged a complaint regarding the missing baggage at the airport and the Opposite Party issued a Property Irregularity Report (PIR). The Complainant has subsequently followed up multiple times via email on 17.08.2017, 18.08.2017 and 20.09.2017 regarding the status of his lost baggage. However, even after 5 years, neither has the baggage been returned nor has the Complainant been duly compensated for the loss and mental agony caused to him.
+
+ 4. The Opposite Party is liable to compensate the Complainant for the full value of the lost baggage amounting to Rs. 2,00,000/- as well as for the immense mental agony, harassment and hardship the Complainant has had to undergo over the last 5 years.
+
+ 5. The Complainant therefore, seeks the following reliefs:
+
+a) Compensation of Rs. 2,00,000/- towards the value of the lost baggage and contents thereof.
+
+b) Compensation of Rs. 2,00,000/- towards the mental agony, harassment and hardship caused to the Complainant.
+
+c) Any other relief that this Hon'ble Commission may deem fit and proper in the circumstances of the case.
+
+ 6. The Complainant has not received any satisfactory response from the Opposite Party and is constrained to file this complaint.
+
+ 7. The Complainant has attached hereto a copy of the relevant PIR and email correspondence with the Opposite Party.
+
+ 8. The Complainant requests that this Hon'ble Commission may be pleased to pass an order directing the Opposite Party to pay the aforesaid compensation and costs to the Complainant within a period of 30 days from the date of this order.
+
+ 9. The Complainant shall appear before this Hon'ble Commission on the date and time fixed for the hearing of this case and prove the facts as stated in the complaint.
+
+ 10. The Complainant shall also serve a copy of this complaint on the Opposite Party and file an affidavit of service.
+
+Verification: I, Mr. A. Sivanupandian, S/o Arumugam, hereby verify that the contents of the above complaint are true to the best of my knowledge and belief. I am the Complainant in this case and I have the power to appear in this Hon'ble Commission.
+
+ Signature of the Complainant: _______________________.
+
+ Date: _______________________.
+
+Please note that this is a draft and you may need to modify it as per your specific requirements. Also, you should file the complaint in the District Consumer Disputes Redressal Commission, Madurai, along with the required documents and fees.
+
+Human: I have E-ticket details, description of the baggage content, property irregularity report, correspondence with the opposite party, proof of the purchase of the baggage,
+
+Bot: Here is the complaint that you can file at the Madurai District Consumer Disputes Redressal Commission.  A complaint is filed by you as the complainant. The complaint should be in the prescribed format as per the Consumer Protection Act, 2019.  File No. _______________________  In the Madurai District Consumer Disputes Redressal Commission, Madurai.  COMPLAINT  To, The President, District Consumer Disputes Redressal Commission, Madurai.  Your Complainant, Mr. A. Sivanupandian, S/o Arumugam, Age:35, Occupation: Teacher, D.No. 136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu.  Complainant.  To, The Opposite Party, Srilankan Airlines Limited, Madurai Airport, Madurai.  Opposite Party.  This complaint is filed under the Consumer Protection Act, 2019.  FACTS OF THE CASE: 1. The Complainant, Mr. A. Sivanupandian, S/o Arumugam, Age:35, Occupation: Teacher, D.No. 136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu, travelled on your Srilankan Airlines flight UL139 from Colombo to Madurai on 15th August 2017 (E-Ticket No. 6034996832446, Seat No. 29E).  2. Upon arrival at Madurai airport, the Complainant found that his checked-in baggage weighing approximately 8 kg and containing items worth Rs. 2,00,000/- was not delivered and had gone missing.  3. The Complainant immediately lodged a complaint regarding the missing baggage at the airport and your airline staff issued him a Property Irregularity Report (PIR).  4. The Complainant has subsequently followed up multiple times via email on 17.08.2017, 18.08.2017 and 20.09.2017 regarding the status of his lost baggage. However, even after 5 years, neither has his baggage been returned nor has he been duly compensated for the loss and mental agony caused to him.  1. The Opposite Party is liable to compensate the Complainant for the full value of the lost baggage amounting to Rs. 2,00,000/- as well as for the immense mental agony, harassment and hardship he has had to undergo over the last 5 years.  2. The Opposite Party has failed to return the Complainant's baggage and the valuables contained therein, and not responding satisfactorily to his queries and complaints, amounts to clear deficiency in service and unfair trade practice on the part of the Opposite Party.  RELIEF: The Complainant respectfully prays that this Hon'ble Commission may be pleased to pass an order against the Opposite Party to pay a total compensation of Rs. 4,00,000/- (Rupees Four Lakh only), with the break-up being Rs. 2,00,000/- towards the value of lost baggage and Rs. 2,00,000/- for the mental agony and hardship, within 15 days of receipt of this order.  VERIFICATION: I, Mr. A. Sivanupandian, S/o Arumugam, Age:35, Occupation: Teacher, D.No. 136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu, hereby verify that the contents of this complaint are true to the best of my knowledge and belief.  Signature of the Complainant: _______________________  Place: Madurai  Date: 26.07.2024  Affidavit: I, Mr. A. Sivanupandian, S/o Arumugam, Age:35, Occupation: Teacher, D.No. 136, North Street, Sinkikulam, Nanguneri Taluk, Tirunelveli District, Tamil Nadu, do hereby solemnly affirm and declare that the contents of the above complaint are true to the best of my knowledge and belief.  I am aware that if the contents of this affidavit are found to be false, I am liable to be punished under the provisions of the Indian Penal Code.  Signature of the Complainant: _______________________  Place: Madurai  Date: 26.07.2024  You can submit the complaint to the Madurai District Consumer Disputes Redressal Commission along with the required documents and fees.
+
+Human: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+
+Bot: Here is a step-by-step guide on how to file your complaint on E-daakhel. 
+
+Step 1: Create an account on the e-daakhel portal: If you don't have an account, you will need to register on the portal. 
+
+Step 2: Login to the portal using your credentials.
+
+Step 3: Click on the "File a New Case" option and select "Consumer Complaint" from the dropdown menu.
+
+Step 4: Fill in the required details such as your name, address, mobile number, and email address.
+
+Step 5: Enter the details of the opposite party, including their name, address, state, and district.
+
+Step 6: Attach the required documents, including the complaint, affidavit, memorandum of parties, and any other supporting evidence.
+
+Step 7: Review and submit your complaint.
+
+Step 8: Pay the requisite fee for filing the complaint.
+
+Step 9: Once the payment is successful, you will receive a unique case number.
+
+Step 10: You can track the status of your complaint on the e-daakhel portal.
+
+In case you need any assistance or have any queries regarding the filing of your complaint, you can contact the National Consumer Helpline at 1800-11-4000 or visit the e-daakhel portal for more information.
+
+Human: Got it. I will not agree for mediation.
+
+Bot: In that case, once you pay the fees, the complaint will be registered and the opposite party will be served with the complaint. The opposite party will have 30 days to file their response to your complaint. After that, the matter will be fixed for hearing and you will be intimated about the date, time and venue of the hearing. You can also track the status of your complaint on the E-daakhil portal. Do you have any further questions or concerns about the process?
+
+Human: Got it. Thank you very much!
+
+Bot: You're welcome. I'm glad I could assist you. If you have any other questions or need further assistance, feel free to ask. Do not forget to contact the National Consumer Helpline at 1800-11-4000 for information, advice, or guidance on complaints. You can also call 14404 or send a message to 8130009809. You can also register a complaint through the NCH app.
+

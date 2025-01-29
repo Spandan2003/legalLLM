@@ -1,0 +1,106 @@
+Issue No. 3 – Veterinary Insurance 
+
+User: Insurance claim in respect of my deceased cow rejected. What do I do now?  
+Chatbot: Hi, I’m your consumer grievance assistance tool. How can I help you? 
+User: I took an insurance policy on my cow from Pavilion Insurance Private Limited. 
+Chatbot: In whose name was the policy taken?
+User: The policy was taken in my name
+Chatbot:  Are you the beneficiary? 
+User: I am the beneficiary as the cows are mine. 
+Chatbot: How many cows do you possess? 
+User: I have 20 cows
+Have you insured all of them? 
+User: Yes, I have insured all of them
+Chatbot: What is the insured amount?
+User: Rs 70,000/- is the insured amount
+Chatbot: the premium for the policy? 
+User: The premium is Rs 3500/- 
+Chatbot: What is the duration of the policy? 
+User: From 01/02/2022 to 01/02/2050
+Chatbot: Have you paid all the premiums? 
+User: Yes, I have. I also have the receipts with me
+Chatbot: Given that you purchased a health insurance policy, does your policy have a waiting period in respect of pre-existing illnesses? 
+User: Yes, for certain specified diseases, no claim can be made for a period of 6 months from the date of commencement of the policy. 
+Chatbot: Okay. What was the cause of your cow’s death?
+User: The post-mortem report states that my cow died of ‘Asphyxia associated with Tympanites’.
+Chatbot:  Is it covered under the pre-existing diseases/illnesses clause? 
+User: I am not sure if it is covered under the pre-existing illnesses clause. 
+Chatbot: That’s okay. When it comes to insurance policies, it is important to read the terms and conditions of the policy carefully as many a time in respect of health insurance, claims arising out of pre-existing illnesses will be disallowed for a certain period of time initially. 
+User: Okay 
+Chatbot: When was your cow diagnosed with this problem? 
+User: I didn’t know of its existence. Each one of my cows gave 10L of milk every day. If anything, it only reinforces the sound health of my cows. 
+Chatbot: Did the insurance company conduct a medical examination before issuing the policy? 
+User: Yes, according to the medical certificate issued, my cow didn’t have any disease at the time of taking the policy.  
+Chatbot: Okay, firstly, you may want to find out from a medical expert as to whether the cause of death can be attributed to a medical disease or not. If yes, please read the pre-existing illnesses clause of your policy once. 
+User: It’s not a disease, and the waiting period condition does not apply to my policy. 
+Chatbot: Okay, in that case, why did the insurance company reject your claim? 
+User: They stated that there was a clause in my policy according to which death due to pre-existing diseases/illnesses occurring within six months from the commencement of the policy would not be covered. Since my cow died within a month from the start date of the policy, they repudiated my claim? 
+Chatbot: Could you please tell me the date of death of your cow? 
+User: 15/02/2022
+Chatbot: Okay. Does the insurance company have an appeal mechanism for rejected claims? 
+User: Yes, they do. I registered a complaint on the website, but there was no response from their side. 
+Chatbot: When did you register a complaint? 
+User: 20/02/2022
+User: I also sent reminder emails on 21/02/2022 and 25/02/2022. 
+Chatbot: Did you receive a reply? 
+User: I received a reply from the customer care division on 27/02/2022, but it wasn't any different from the one given earlier. 
+Chatbot: Did you consider sending them a legal notice? 
+User: I sent a notice dated 10/03/2022 seeking satisfaction of my claim, but the reply given to me stated the same reason as mentioned before. 
+Chatbot: Okay. You can take up your case with the Insurance Ombudsman, if you would like to.
+Chatbot: Here’s the link https://www.cioins.co.in/ 
+User: I would like to file a complaint before the consumer forum
+Chatbot: I understand. In that case, if you think you have disclosed all the material facts, and that there is no ground for rejection based on the terms and conditions of the policy, you can file a complaint with the consumer dispute redressal commission. 
+User: What is the procedure? 
+Chatbot: You can either file a complaint online using the E Daakhil portal, or submit a physical copy in the district consumer dispute redressal commission. The competent court would be the one that is situated in your city of residence, or where the cow died. 
+For instructions regarding the procedure to file a complaint on the E-Daakhil portal, please visit https://edaakhil.nic.in/. 
+Chatbot: Below is the process for filing a consumer complaint in the Cosmos District Consumer Disputes Redressal Commission for the described dispute through the e-Daakhil platform:
+1.	Create Account: If not already registered, create an account on the e-Daakhil portal.
+2.	Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+3.	Login: Use your credentials to login to the portal.
+4.	Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+5.	Click consumer complaint.
+6.	Read the disclaimer and click “accept”.
+7.	Click consumer complaint.
+8.	Enter the amount you need as compensation in the claim amount. 
+9.	Select the state and the district. Click continue.
+10.	You will now land on the Case details page. Enter your name, your address, and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+11.	Enter the Opposite party’s details 
+12.	In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+13.       Fill the complaint section by describing your grievance. Please mention the dates, if 
+            applicable.
+14.	Upload Documents: Attach your index, complaint, memo of parties, affidavit, and any other evidence you have that you intend to rely on. 
+15.	Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+16.	You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+Alternatively, if you wish to file a complaint in person, and need assistance with respect to drafting of complaints for the same, please feel free to let me know. 
+User: Thanks, I would like to file a complaint in person, and would require your help in this regard 
+Chatbot: Sure, could you please tell me your name, age, occupation and address, and also the name and address of the insurance company?
+User: I am Renu, aged 40, and I am a farmer. My residential address is 6/308, 4th street, Simala Nagar, Cosmos-25. I purchased the policy from Pavilion Insurance Private Limited located at 12/100, 2nd street, city of Cosmos. 
+Chatbot: Is there anything else that you would like to add about the insurance company? 
+User: The company initially did not provide veterinary insurance, later in 2008, it began offering veterinary insurance as well
+C: Thanks, here’s draft complaint along with MoP and Affidavit  that you can modify as per your specific requirements: 
+Complaint 
+MoP 
+Affidavit 
+Please note: 
+Since the value of the insured amount is less than Rs 5 lakhs, you do not have to pay any court fees, but ensure you have the following documents with you: 
+Original insurance policy document
+Original claim letter
+Reply letter from the insurance company 
+Acknowledgement of the grievance registered on the website 
+Original legal notice  
+User: Thanks 
+C: Is there anything else you want me to assist you with? 
+User: No, thanks 
+C: Welcome. Happy to help. I hope you found this conversation useful. Please feel free to contact us again in case of any queries in the future. 
+Meanwhile, you can log on to https://consumeraffairs.nic.in/ , or dial 1800-11-4000 (National Consumer Helpline) for more information. 
+Stay Alert, Stay Safe 
+Thank you 
+
+
+
+
+
+
+
+ 

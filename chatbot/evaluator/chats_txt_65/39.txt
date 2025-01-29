@@ -1,0 +1,281 @@
+Human: I placed an order for an oven from a home appliances company but didn’t receive the product.
+
+Bot: Thank you for sharing your concern. I'd like to help you with this issue. Can you please tell me more about what happened? What led to this situation - did you not receive any communication from the company, or did they not deliver the product as scheduled?
+
+Human: I purchased the product from ABC Home Appliances Private Limited on 05/03/2022. I was told that the product would be delivered within 5 working days from the date of purchase, but it has been over 15 days now, but I have not received it yet.
+
+Bot: The incident occurred on 05/03/2022, which is more than 2 years ago. Unfortunately, the statute of limitations for consumer complaints in India is 2 years from the date of the incident. This means that you may not be eligible to file a complaint with the consumer court for this issue.
+
+However, I can still try to help you with some soft remedies or alternatives. Can you tell me if you have tried contacting the company's customer service or sales team to inquire about the status of your order? Have you received any communication from them regarding the delay or the delivery of the product?
+
+Human: Made a down payment of the purchase cost  by way of NEFT (Transaction ID: 12456783) on 05/03/2022; received an e-receipt on 06/02/2022 by way of email
+
+Bot: It seems like there might be a discrepancy in the dates you provided. You mentioned you made a down payment on 05/03/2022, but you received an e-receipt on 06/02/2022. Could you clarify this for me?
+
+Also, have you tried contacting the company, ABC Home Appliances Private Limited, to inquire about the status of your order?
+
+Human: I paid Rs 30,000 for it.
+
+Bot: You paid Rs 30,000 as a down payment on 05/03/2022. Since it's been over 15 days since the delivery date promised by the company, have you tried contacting the company's customer care or customer service department to report the issue and ask about the status of your order?
+
+Human: No, I made a down payment of the entire cost of the product.
+
+Bot: You made a down payment of Rs 30,000 on 05/03/2022, and the product was supposed to be delivered within 5 working days from the date of purchase. However, it has been over 15 days, and you still haven't received the product. This seems to be a clear case of delayed delivery of goods.
+
+Considering the incident occurred on 05/03/2022, which is more than 2 years ago, the statute of limitations for filing a complaint under the Consumer Protection Act, 2019, has already expired. However, you can still try to resolve the issue through a complaint to the company or consumer forum, but it will be considered as a time-barred complaint.
+
+Would you like to draft a legal notice to the company or explore other options?
+
+Human: Yes. On 10/03/2022, I sent a reminder to the seller, but there was no response to the email sent. Then, on 15/03/2022, I raised the issue with the customer care division of the company. I was told that the matter would be resolved within two working days, but I have still not received the product. On 24/03/2022, I received a call from the customer support team, this time only to inform that the matter would be closed. When I pointed out that I had still not received the product, they simply stated that they would escalate the issue to the relevant persons for looking into the issue.
+
+Bot: It seems like the seller is not responding to your queries and is not taking any concrete steps to resolve the issue. The fact that they are closing the case without delivering the product is also not acceptable.
+
+Considering the incident occurred on 05/03/2022, you have over 2 years to file a complaint. However, since you have been trying to resolve this issue since 10/03/2022, I would recommend that you file a complaint as soon as possible.
+
+Would you like me to guide you on drafting a legal notice to the seller or would you like to file a complaint through the National Consumer Helpline (1800-11-4000) or the UMANG App?
+
+Human: Yes, I sent a legal notice dated 20/03/2022 but it went in vain. I did not receive a reply from the company.
+
+Bot: The incident occurred on 05/03/2022, which is more than 2 years ago. However, considering you have already taken steps to resolve the issue, I would recommend that you consider filing a complaint with the National Consumer Helpline (1800-11-4000) or through the UMANG App for immediate assistance. You can also visit the e-daakhil portal to file a consumer case. Would you like me to guide you through the process of drafting a complaint or a legal notice?
+
+Human: Yes, I would like to.
+
+Bot: Before we proceed, I would like to inform you that the incident occurred on 05/03/2022, and it's been more than 2 years. You may want to note that the Consumer Protection Act has a 2-year statute of limitations for filing complaints. However, we can still try to move forward with the complaint.
+
+To draft a complaint, we would need to provide details such as the opposing party's name (ABC Home Appliances Private Limited), your details, and the relief you are seeking. Would you like me to guide you through drafting a complaint or would you like to file a complaint through the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance?
+
+Human: I live in the city of Cosmos
+
+Bot: I'm not aware of a city called "Cosmos" in India. Could you please provide the name of the state or district where you reside? This will help me guide you on how to file a complaint before the District Consumer Grievance Redressal Forum. 
+
+Also, I would like to remind you that the incident occurred on 05/03/2022, and it's now 26/09/2024, so you have filed your complaint within the statutory time limit of 2 years. 
+
+If you provide the correct location, I can help you with the next steps.
+
+Human: Yes, it would be really helpful if you share a template that I could use for reference
+
+Bot: Here's a template that you can use as a reference for drafting your consumer complaint:
+
+**MEMORANDUM OF PARTIES**
+
+To,
+
+The President,
+Cosmos District Consumer Disputes Redressal Forum,
+
+Subject: Complaint against ABC Home Appliances Private Limited for non-delivery of oven
+
+**PARTIES**
+
+1. The Complainant: [Your Name]
+Address: [Your Address]
+2. The Opposite Party: ABC Home Appliances Private Limited
+Address: [Their Address]
+
+**FACTS OF THE CASE**
+
+1. The complainant purchased an oven from the opposite party on 05/03/2022 for a total amount of Rs 30,000.
+2. The opposite party assured delivery of the product within 5 working days from the date of purchase.
+3. Despite multiple reminders, the opposite party failed to deliver the product.
+4. The complainant sent a legal notice to the opposite party on 20/03/2022, but did not receive any response.
+
+**RELIEF SOUGHT**
+
+The complainant seeks the following relief:
+
+1. Immediate delivery of the oven.
+2. Compensation for the mental agony and harassment caused by the opposite party.
+3. Refund of the entire amount paid by the complainant.
+
+**STATEMENT OF CAUSE OF ACTION**
+
+The cause of action arose on 05/03/2022 when the complainant made the purchase, and the opposite party failed to deliver the product.
+
+**RELIEF SOUGHT**
+
+The complainant seeks the following relief:
+
+1. Immediate delivery of the oven.
+2. Compensation for the mental agony and harassment caused by the opposite party.
+3. Refund of the entire amount paid by the complainant.
+
+You can modify this template according to your needs and facts of the case. Please note that this is just a sample and you should consult a lawyer before filing the complaint.
+
+Also, please note that you should attach all relevant documents with your complaint, including the receipt of purchase, email correspondence with the company, and the legal notice sent to the company.
+
+If you need any further assistance, please let me know.
+
+Also, please note that you can also file your complaint on the National Consumer Helpline (1800-11-4000) or through the UMANG App for immediate assistance.
+
+Is there anything else I can help you with?
+
+Human: I am Bruno, and my age is 46. I work as a graphic designer. My residential address is  20/918, III street, Vimala Nagar, Cosmos – 100
+
+Bot: Here is a template for a consumer complaint that you can use as a reference:
+
+**IN THE DISTRICT CONSUMER DISPUTES REDRESSAL FORUM, COSMOS**
+
+**COMPLAINT PETITION NO.**
+
+**BRUNO**
+**Age: 46**
+**Occupation: Graphic Designer**
+**Residential Address: 20/918, III Street, Vimala Nagar, Cosmos – 100**
+
+**VERSUS**
+
+**ABC HOME APPLIANCES PRIVATE LIMITED**
+**Address: [Insert Address of the company]**
+
+**COMPLAINT**
+
+To the Hon'ble President, District Consumer Disputes Redressal Forum, Cosmos
+
+The above-named complainant, Bruno, submits the following complaint:
+
+1. I had purchased an oven from the opposite party, ABC Home Appliances Private Limited, on 05/03/2022 for a consideration of Rs 30,000.
+2. The opposite party had promised to deliver the product within 5 working days from the date of purchase. However, despite repeated reminders, I have not received the product even after 15 days.
+3. I had made a down payment of the entire cost of the product through NEFT on 05/03/2022, as evidenced by the Transaction ID: 12456783 and e-receipt received on 06/02/2022.
+4. Despite my efforts to contact the opposite party, including sending a reminder on 10/03/2022 and raising the issue with their customer care division on 15/03/2022, they have failed to deliver the product.
+5. On 20/03/2022, I sent a legal notice to the opposite party, but they failed to respond.
+6. I have been put to unnecessary harassment and inconvenience due to the opposite party's failure to deliver the product.
+
+**RELIEF SOUGHT**
+
+The complainant seeks the following relief:
+
+a. Direct the opposite party to deliver the oven to me within 15 days from the date of the order.
+b. Pay a compensation of Rs 10,000 towards the harassment and inconvenience caused to me.
+c. Pay a sum of Rs 5,000 towards the cost of the complaint.
+
+**VERIFICATION**
+
+I, Bruno, hereby verify that the contents of this complaint are true to the best of my knowledge and belief.
+
+**PLACE**
+
+Cosmos
+
+**DATE**
+
+26/07/2024
+
+You can modify this template to suit your needs and submit it to the District Consumer Disputes Redressal Forum, Cosmos. Please note that you will need to attach the supporting documents, such as the receipt of the purchase, email correspondence with the company, and legal notice, along with the complaint petition.
+
+Human: Product type – microwave oven Brand name – XYZ Model number – AX673421
+
+Bot: I can now help you draft a template for your consumer complaint. Here's a draft complaint that you can use as a reference:
+
+**IN THE COSMOS DISTRICT CONSUMER DISPUTES REDRESSAL FORUM**
+
+**CASE NO.____________**
+
+**COMPLAINT PETITION**
+
+**IN THE MATTER OF:**
+
+**BRUNO**
+**Residing at:** 20/918, III Street, Vimala Nagar, Cosmos – 100
+**Age: 46**
+**Occupation: Graphic Designer**
+
+**VERSUS**
+
+**ABC HOME APPLIANCES PRIVATE LIMITED**
+**Address:** [Insert the address of the company]
+
+**COMPLAINT**
+
+That the opposite party, ABC Home Appliances Private Limited, sold a microwave oven of the brand XYZ, model number AX673421 to the complainant on 05/03/2022 for a consideration of Rs 30,000/-. The opposite party assured the complainant that the product would be delivered within 5 working days from the date of purchase. However, despite repeated requests and reminders, the opposite party has failed to deliver the product.
+
+The complainant had paid the entire amount of Rs 30,000/- by way of NEFT on 05/03/2022. The opposite party had sent an e-receipt to the complainant on 06/03/2022. However, the opposite party has failed to deliver the product despite repeated requests and reminders.
+
+The opposite party's customer care team had assured the complainant that the matter would be resolved within two working days on 15/03/2022. However, the opposite party failed to do so. On 24/03/2022, the opposite party's customer support team called the complainant and informed that the matter would be escalated to the relevant persons for looking into the issue. However, the opposite party has failed to take any further action.
+
+The complainant had also sent a legal notice to the opposite party on 20/03/2022, but the opposite party has failed to respond.
+
+The complainant has been put to a loss of Rs 30,000/- due to the opposite party's negligence and failure to deliver the product.
+
+**RELIEF**
+
+The complainant prays that the opposite party be directed to deliver the microwave oven within 7 days from the date of the order. In the event that the opposite party is unable to deliver the product, the complainant prays that the opposite party be directed to refund the amount of Rs 30,000/- along with interest at the rate of 12% per annum from the date of payment till the date of refund.
+
+**VERIFICATION**
+
+I, Bruno, the complainant, hereby verify that the contents of the above complaint are true and correct to the best of my knowledge and belief.
+
+**VERIFICATION**
+
+I, Bruno, the complainant, hereby declare that I have not filed any other complaint in respect of the same cause of action.
+
+**AFFIDAVIT**
+
+I, Bruno, the complainant, do hereby solemnly affirm and declare that the contents of the above complaint are true and correct to the best of my knowledge and belief.
+
+**PLACE**
+Cosmos
+**DATE**
+[Today's Date]
+
+Please note that this is a draft template and you may need to modify it according to your specific situation. You may also need to attach supporting documents such as the receipt of the purchase, the e-receipt, the legal notice, and any other relevant documents.
+
+Also, please note that you should file the complaint within 2 years from the date of cause of action, which in this case is 05/03/2022.
+
+Do you need any further assistance?
+
+Human: ABC Home Appliances Private Limited. Registered office address is 32/429, 6th street, Simala Nagar, Cosmos-65
+
+Bot: Here's a draft of the complaint that you can use as a reference:
+
+**CONSUMER COMPLAINT**
+
+**Case No.** : 
+**File No.** : 
+**District Consumer Disputes Redressal Forum, Cosmos**
+
+**Complainant's Details:**
+
+* Name: Bruno
+* Age: 46
+* Occupation: Graphic Designer
+* Address: 20/918, III street, Vimala Nagar, Cosmos – 100
+
+**Opposite Party's Details:**
+
+* Name: ABC Home Appliances Private Limited
+* Registered Office Address: 32/429, 6th street, Simala Nagar, Cosmos-65
+
+**Statement of the Case:**
+
+That the opposite party, ABC Home Appliances Private Limited, had sold a microwave oven, model number AX673421, to the complainant on 05/03/2022 for a total consideration of Rs. 30,000/-. The opposite party had assured delivery of the product within 5 working days from the date of purchase. However, despite repeated reminders, the opposite party has failed to deliver the product.
+
+**Grievances:**
+
+1. The opposite party has failed to deliver the product despite the agreed timeline.
+2. The opposite party has not responded to the complainant's reminders and complaints.
+3. The opposite party has failed to provide a satisfactory explanation for the delay in delivery.
+
+**Relief Sought:**
+
+The complainant seeks the following reliefs:
+
+1. Compensation of Rs. 30,000/- for the non-delivery of the product.
+2. Damages for the mental agony and harassment caused by the opposite party's actions.
+3. Any other relief that the Forum may deem fit and proper.
+
+You can modify this draft as per your needs and submit it to the District Consumer Disputes Redressal Forum. Please note that you should attach all the supporting documents, including the receipt of the purchase, email correspondence with the company, and the legal notice sent to the company.
+
+Do you want me to help you with anything else?
+
+Human: Thanks
+
+Bot: You're welcome. Please note that the above draft is a template and may need to be modified to suit your specific needs. I recommend consulting a consumer protection lawyer to review and finalize the complaint before filing it with the District Consumer Disputes Redressal Commission. 
+
+Also, please note that you can reach out to the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance. Additionally, you can use the E-Daakhil portal to file your complaint: https://edaakhil.nic.in/. If you need any further assistance, please let me know.
+
+Is there anything else I can help you with?
+
+Human: No, thanks
+
+Bot: You can also contact the National Consumer Helpline at 1800-11-4000 or use the UMANG App for immediate assistance. If you need any further help or guidance, feel free to reach out to me anytime.
+

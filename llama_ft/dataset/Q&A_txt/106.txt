@@ -1,0 +1,47 @@
+Chatbot: Hello, a Chatbot assistant created to help consumers resolve their grievances. How may I assist you today?
+Sura: Hi. I want to file a complaint against a two-wheeler dealership regarding an issue I faced during purchase of a new vehicle.
+Chatbot: Okay. I can help you with filing a consumer complaint. But first, let me understand the full details of your case. Could you please provide me some basic information like your name, age, address etc?
+Sura: Sure. My name is Sura Dasharatha and I am 35 years old. I reside at House Number 3-138, Peddamandadi Village, Peddamandadi Mandal, Wanaparthy District, Telangana - 509103.
+Chatbot: Thank you for providing the details. Now, please explain what the complaint is about and what happened exactly?
+Sura: So I purchased a new two-wheeler - a Honda CD 110 from a dealership named Narmada Honda located at Polytechnic Road, Wanaparthy. The authorized dealer's name is Bondili Venugopal Singh. On 15th November 2020, I paid Rs. 30,000 as downpayment and opted for financing the remaining amount from a bank.
+Chatbot: Okay. Please provide me the full address of the dealership and the name of the authorized dealer against whom you want to file the complaint.
+Sura: The dealership address is - Narmada Honda, #44-24/19, 20, 21, Raja Rameshwar Rao Complex, Polytechnic Road, Wanaparthy, Telangana - 509103. And the authorized dealer is Mr. Bondili Venugopal Singh, son of Bondili Madan Mohan Singh.
+Chatbot: Noted. You can proceed to explain the issue you faced.
+Sura: At the time of purchasing the two-wheeler, the dealer offered a Diwali gift hamper of a LED TV worth Rs. 13,999. This offer was part of their festive promotion and was advertised through pamphlets. On the day of delivery of my vehicle, they provided a LED TV worth only Rs. 6,000 instead of the promised Rs. 13,999 LED TV.
+Chatbot: Okay. So they had advertised an offer but did not fulfill it properly during delivery. Did you speak to them about this at that time?
+Sura: Yes, when they gave me the Rs. 6,000 LED TV, I immediately informed that this is not as per the promised offer. I requested them to provide the LED TV worth Rs. 13,999 as advertised. But they refused. I made many requests later on also, but they did not agree to give the correct LED TV per the offer.
+Chatbot: Hmm...I understand this must have been very disappointing and caused you inconvenience. What was their response when you requested them to honor the original offer?
+Sura: They simply denied my request and said they can't provide the higher value LED TV. No proper explanation was given in spite of my multiple requests through phone calls and personal visits.
+Chatbot: Did you make the requests to them in writing via email or letter?
+Sura: No, I did not write to them formally but I have proof of the offer they made in the pamphlet and the lower value LED TV bill which clearly shows their deficiency in service.
+Chatbot: Okay thanks for explaining it clearly. Just a couple more questions - when exactly did you purchase the two-wheeler and when did you get delivery? Also, do you have the purchase invoice and any other documents related to this transaction?
+Sura: I purchased the two-wheeler on 15th November 2020 and took delivery also on the same date. Yes I have the original purchase invoice, the booking form copy and a copy of the promotional Diwali offer pamphlet given by the dealership. I can provide you copies of these documents.
+Chatbot: That would be very helpful. Please provide me scanned copies of the invoice, booking form/receipt, promotional pamphlet and any other proofs related to this purchase. These documents will support your complaint.
+Sura: Sure, I will send you soft copies of all the documents by email. I also have the original hard copies if required later.
+Chatbot: Wonderful. This is very good documentation to prove your case. Just a couple more questions - have you filed any formal complaints against the dealership before approaching me? If yes, please provide details.
+Sura: No I have not filed any formal complaint against them anywhere yet. You are the first one I am approaching for help to resolve this issue.
+Chatbot: Okay thanks for clarifying. Last question - how much compensation or relief amount are you seeking from the dealership through your complaint?
+Sura: I want them to provide the LED TV worth Rs. 13,999 as per their promotional offer. I do not have any specific compensation amount in mind, but I believe I should be reimbursed for the mental agony and harassment caused by their unfair trade practice. I also want to be compensated for the costs involved in filing this complaint.
+Chatbot: Duly noted. Thank you Mr. Sura for providing all the details clearly. I now have a good understanding of your grievance and the issue. I will draft a consumer complaint on your behalf highlighting all these points and also suggesting appropriate compensation and relief amounts. I will send it to you for review before we proceed to file it with the consumer court. Do let me know if you need any other assistance.
+The Chatbot: Thank you. On the basis of the documents that you have given me, I have drafted a pre-filled complaint that you can access here. Please fill in the details that have been left blank, such as the date and your signature. In addition to the complaint, you must also submit an affidavit and a document called the “Memorandum of Parties”. Do you want me to provide you with the pre-filled versions of the same?
+Aggrieved Consumer- Yes, it will be great if you can do that as well.
+The Chatbot: You can access the Affidavit here and the Memorandum of Parties here. You are required to fill in the details that have been left empty in both the documents. Further, you must get the affidavit notarised. In case of any queries regarding how you can get the Affidavit notarised, feel free to approach me anytime. After filling all the documents and getting the affidavit notarised, you can file your complaint on E-daakhil, the portal for consumer redressal. Do you want me to provide you with a step-by-step guide on how to file your complaint on E-daakhil?
+Aggrieved Consumer: Yes, it will be great if you can give me a step-by-step guide on how I can file this.
+The Chatbot: You have to follow these steps in order to file a complaint:-
+Create an account on E-daakhil.
+Verify your email address and login
+Go to “Consumer Complaint” and accept the terms and conditions by clicking the “accept” button after carefully reading the terms. If you have any queries regarding the terms, please let me know.
+Click “Consumer Complaint” and enter the claim amount that you are seeking.  
+Select Telangana as the State and Mahaboob nagar as the district. Click continue to proceed to the “Case Details” page.
+On the “Case Details” page, enter all the necessary details and in case of any queries, please let me know.
+In the “Party Name” section, enter the name of the parties. In the “Advocate” Section, enter the details of your advocate and if you do not have an advocate, you can leave it blank.
+ In the “Complaint Section”, you can provide the following as your complaint:-
+“Sura Dasharatha, the complainant, alleges that after purchasing a CD 110 two-wheeler from Narmada Honda on 15.11.2020, he was promised a Diwali gift hamper, including an LED TV worth Rs. 13,999. However, upon delivery, the Opposite Party provided an LED TV worth only Rs. 6,000, despite several requests for the promised amount. This constitutes deficiency in service and unfair trade practice, causing financial losses and mental agony to the complainant. The complaint seeks the LED TV as per the original offer, compensation for suffering, costs of proceedings, and any other just orders from the District Consumer Disputes Redressal Commission in Mahabubnagar”
+In the next section, enter the necessary details and attach a filled copy of the Complaint and the Affidavit along with the Memorandum of Parties. 
+In the next section, verify the details of your complaint and submit your complaint.
+On the “Pending Complaints” page, you will be required to pay the necessary fees.  
+Please note that under the Consumer Protection Act 2019, the Consumer Court can request the parties to go for mediation. However, both parties must agree for the matter to be sent for mediation. However, if the parties do not arrive at an amicable settlement, the matter is sent back to the court.
+Aggrieved Consumer: Got it. I will not agree for mediation.
+The Chatbot: In that case, the consumer court in Mahabubnagar has to proceed with the case.
+Aggrieved Consumer: Got it. Thank you very much!
+The Chatbot: You are welcome. Feel free to raise further queries anytime. Best wishes.

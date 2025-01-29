@@ -1,0 +1,66 @@
+<s><INST> I have an issue regarding my late husband's insurance policy with Bajaj Allianz Life Insurance Co. Ltd. 
+</INST> Could you please provide me with some more details regarding the matter?
+</s> <s><INST>  Certainly. My husband was approached by an agent from Bajaj Allianz Life Insurance Co. Ltd. on 20th February 2020, who convinced him to buy a health insurance policy. After some discussions, my husband agreed, and on 2nd March 2020, the agent collected Rs. 2,00,000 from us and issued the policy.
+</INST> Do you have any documentation regarding the policy?
+</s> <s><INST> : Yes, we have the policy document. 
+</INST> Thank you. Now, could you tell me what happened later.
+</s> <s><INST> My husband fell ill and was admitted to Apollo Hospital with Covid-19 pneumonia on 13th September 2020, we informed the insurance company about the situation and requested a claim form.
+</INST> And did they provide you with the necessary information and forms?
+</s> <s><INST>  No, unfortunately, they didn't respond to our request.
+</INST> I see. What steps did you take after that?
+</s> <s><INST> : We wrote a letter to the insurance company on 15th March 2021, asking them to settle the claim, but still received no response.
+</INST> And did you take any further action?
+</s> <s><INST>  Yes, we sent a registered legal notice to the company on 14th December 2021, but once again, they did not reply.
+</INST> I understand. Did you receive any communication from the insurance company during this time?
+</s> <s><INST> We didn't receive any response to our letters or legal notice. However, upon checking my father's bank statement, we noticed that the insurance company had transferred only Rs. 2,00,000 to his account on 29th December 2020, which is far less than the insured amount of Rs. 20,00,000.
+</INST> Thank you for providing me with all this information. Could you please mention what is the remedy that you are looking for.
+</s> <s><INST> I would like to seek the full claim of insurance, Rs.18,00,000 along with interest @ 12% p.a., after deduction of the Rs.2,00,000 deposited in the account. I would like to seek an additional compensation of Rs. 3,00,000.
+</INST> You could also seek for the costs of the litigation, i.e expenses incurred.
+</s> <s><INST> In that case, I would like to seek Rs.35,000 as costs.
+</INST> Based on the above information provided you could file a complaint before the District Consumer Disputes Redressal Commission, or you could also contact the respective State Consumer Helpline Number where you can talk to an agent and address your grievance.
+
+</s> <s><INST> Could you provide me the helpline number
+</INST> To be specific, there is a National and State Consumer Helpline Number. Which number do you want me to provide you with.
+</s> <s><INST>  Provide me with both the Helpline Number.
+</INST> Could you please mention which state you reside in.
+</s> <s><INST>  Andhra Pradesh
+</INST> Please find the National Consumer Helpline number- 1800-11-4000 and the State Consumer Helpline number- 1800-425-0082 / 1800-425-2977.
+</s> <s><INST> How do I proceed, if I have to file a complaint.
+</INST> You could file a complaint before the respective District Consumer Disputes Redressal Commission. However, I need further details to assist you. Could you please mention your details like your name, father’s name/ husband's name, age and address.
+</s> <s><INST> I would also like to include my daughter’s and son’s name in the complaint. My Name:  Mrs. Veerapaneni Sudha Madhavi, My Husband's Name: Late. Sri Ravikumar, Age-57 years, Address-D. No. 39-21-23, Vidyanagar, Madhavadhara, Visakhapatnam- 530007. My daughter’s name: Mrs. Veerapaneni Dhanya, her husband’s name: Sri. Kodali Vamsi Krishna, her age: 33 years. My second daughter’s name - Kum. Veerapaneni Divya, her father’s name- D/o Late. Sri Ravikumar, Age- 29 years. We all reside in the same place.
+</INST> Could you please provide details of the insurance company, like its full name, address of office of both Head office and branch office if any, and any authorized person you know about.
+</s> <s><INST> Name-Bajaj Allianz Life Insurance Co. Ltd., Address-Kotu Empire, D. No. 9-14-5, Blalajinagar, Block no.1, T.S.No.5/2, VIP Road, Visakhapatnam-530003. Authorized person- Branch manager
+
+</INST> Thank you for providing the details. As per the above mentioned details you could file the complaint before the District Consumer Disputes Redressal Commission of Visakhapatnam. Here is a detailed guideline to file a complaint online in the E-Dakhil Portal.
+Create Account: If not already registered, create an account on the e-Daakhil portal.
+Email Verification: Verify your email address by clicking the link sent to your registered email. Then:
+Login: Use your credentials to login to the portal.
+Start New Case: Click on 'File a New Case' from the Filing dropdown menu to initiate your complaint. 
+Click consumer complaint.
+Read the disclaimer and click “accept”.
+Click consumer complaint.
+Enter Rs.6,01,206 in the claim amount. 
+Select Andhra Pradesh as the state and Visakhapatnam as the district. Click continue.
+You will now land on the Case details page. Enter your name, your address and your mobile number in the complainant's section. If you want notifications on your email address, you can write your email address.
+Enter the name and address of and other details of the service center in the Opposite party name section. Select the state and district of the registered address.
+In the Complainant Advocate section, enter details of your advocate. You can leave it blank if you do not have an advocate. 
+In the Complaint section, write the following: 
+I have deposited some money into a fixed deposit scheme of Sahara Credit Co-Operative Society Ltd. On 30th March 2019, I deposited Rs. 4,98,000 for a period of 18 months. The fixed deposit matured on 30th September 2020, and the maturity amount was supposed to be Rs. 5,71,206  which the co-operative society has failed to pay despite several attempts on  my part to collect it.  I personally visited their office multiple times to inquire about the payment, but they always came up with various technical excuses and didn't pay me. I sent them a notice on 12th March 2021 demanding the payment of the maturity amount, but it was returned unserved.
+Click continue. You will be taken to the complaint details page. You can enter the following information: Complainant name, complainant address, opposite party name and opposite party, click save and continue. 
+Upload Documents: Attach your index, complaint, memo of parties, affidavit and any other evidence you have that you intend to rely on. You'll also attach the airline's response if received.
+Click continue and verify the details of your complaint. Once you are satisfied, you can submit your complaint.
+You will now be taken to the pending complaints page, where you can pay the fees for your complaint. 
+
+</INST> Would you like me to generate the complaint for you ? 
+</s> <s><INST>  Yes, please.
+
+</INST> Sure you can download the complaint here. Once downloaded, review and sign the complaint and verification before a notary public. Then scan the document as a pdf and upload it to the e-daakhil upload documents section. You also need to submit an affidavit and a memo of parties. Do you want me to generate that now? 
+</s> <s><INST>  Yes, Please. It would be really helpful 
+
+</INST>  Sure. Here is a draft Affidavit and Memorandum of parties. Please print and verify the names and addresses on the memorandum of parties. For the affidavit, please sign it before a notary public and have the affidavit notarized. Both documents should be scanned and uploaded to the e-daakhil portal. Do you have any other questions or is there more information you'd like?
+</s> <s><INST> No, that's all for now. Thanks.
+
+</INST> You're welcome. If you have further questions or need more guidance later, don't hesitate to reach out. Good luck with your complaint.
+
+
+</s>
