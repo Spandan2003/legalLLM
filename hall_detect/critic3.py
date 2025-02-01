@@ -681,12 +681,12 @@ If you're still having trouble finding the website or the complaint form, you ca
 Is there anything else I can help you with?'''
 # In 5th (start 0) chat, there is hallucination with the karnataka drc number and email id.
 chat_sequence = process_chat_sequence(chat)
-folder_path = "./code/legalLLM/hall_detect/rag"
+folder_path = "./hall_detect/rag"
 
 # Create the RAG-based QA chain
 print("START")
 # Example query
-data = pd.read_csv("./code/legalLLM/hall_detect/data1.csv", index_col=0)
+data = pd.read_csv("./hall_detect/data1.csv", index_col=0)
 data.dropna(inplace=True, subset = ["Chat"])
 data.reset_index(inplace=True, drop=True)
 chats = data["Chat"].to_list()

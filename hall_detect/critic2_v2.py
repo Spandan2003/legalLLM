@@ -85,7 +85,7 @@ def create_rag_qa_chain_with_response_analysis(
         llm1 = HuggingFacePipeline.from_model_id(
             model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
             task="text-generation",
-            device=3,  # Use GPU if available
+            device=0,  # Use GPU if available
             callbacks=callbacks,  # For streaming outputs
             pipeline_kwargs=dict(
                 return_full_text=False,  # Return only the new tokens
@@ -220,12 +220,19 @@ def create_rag_qa_chain_with_response_analysis(
                 "2. Any response that has information or facts which do not exist in the context\n"
                 "3. Any response that has information like contact number or address or so on of a company, organization or government body that has not been mentioned in the context\n"
                 "Your goal is to review the response and find out whether there are inconsistencies or falsehood in the chatbot.\n"
-'''On the basis of this you are to assign a Degree of Inconsistency to each response
+'''Each output should have the following components:
+1. Inconsistency Present: Yes or No
+2. Inconsistencies: [List of inconsistencies only if Yes in Inconsistency Present. If No then leave it blank]
+3. Degree of Inconsistency: [1 to 5]
+4. Explaination: [Reason behind assigning degree based on 2. Inconsistencies]
+
+On the basis of this you are to assign a Degree of Inconsistency to each response
 Rules for Assigning Degree of Inconsistency
 
 1. Degree of Inconsistency: 1  
    - The response aligns perfectly with the context and does not introduce any additional information or assumptions not supported by the context.  
    - No factual inaccuracies, contradictions, or unsupported statements are present.
+   - The `Inconsistency Present: No` is present earlier 
 
 2. Degree of Inconsistency: 2  
    - Minor assumptions are made that are not explicitly supported by the context but are logically plausible and do not impact the response significantly.  
@@ -257,11 +264,13 @@ Key Considerations:
 - Fabricated Details:  
   Responses with fabricated factual information, such as legal provisions, company details, or numbers, should always fall in the 4 or 5 range depending on their impact.
 
+- Commonsense Knowledge
+  Responses containing commonsense or obvious knowledge not present in the context should be given low scores.
+
 - No Repetition:  
   Ensure the explanation of the degree of inconsistency is concise and focused only on the key issues.
 
-Additional Task:
-After specifying the Degree of Inconsistency, provide a short and concise explanation justifying the assigned degree. The explanation should highlight the specific issues or inaccuracies in the response that led to the assigned degree. The explanation should avoid repetition and focus on the most critical points.
+After specifying the Degree of Inconsistency, provide a short and concise explanation justifying the assigned degree with respect to the Inconsistencies defined. The explanation should highlight the specific issues or inaccuracies in the response that led to the assigned degree. The explanation should avoid repetition and focus on the most critical points.
 
 End the evaluation with <|endoftext|> to signify its completion.'''
                 "\nExample 1:\n"
@@ -280,6 +289,8 @@ End the evaluation with <|endoftext|> to signify its completion.'''
                 "Inconsistencies:\n"
                 "1. The response mentions maternity benefits under the Employment Rights Act 1996, but the context explicitly states that the Act does not mention provisions about maternity benefits.\n"
                 "2. The details about \"26 weeks of maternity leave\" and \"statutory maternity pay\" are fabricated and not supported by the context.\n<|endoftext|>"
+                "Degree of Inconsistency: 5\n"
+                "Explanation: The response fabricates a maternety leave detail not supported by the context and falsely claims the Act includes benefits in its provisions. This is a major inconsistency.\n<|endoftext|>"
 
                     "\nExample 2:\n"
 "Context:\n"
@@ -386,7 +397,7 @@ Response:
 The Consumer Protection Act 1987 does not specify exact compensation amounts but establishes liability for manufacturers, allowing injured parties to seek compensation through the courts.
 
 Inconsistencies Present: No
-
+Inconsistencies:
 Degree of Inconsistency: 1
 Explanation: The response aligns perfectly with the context, accurately stating that the Act does not specify compensation amounts but establishes liability. No unsupported information or contradictions are present.
 <|endoftext|>
@@ -407,7 +418,7 @@ Response:
 The Employment Rights Act 1996 protects employees by outlining their rights against unfair dismissal and providing statutory redundancy pay. It does not cover flexible working hours.
 
 Inconsistencies Present: No
-
+Inconsistencies:
 Degree of Inconsistency: 1
 Explanation: The response is consistent with the context, accurately summarizing the protections offered by the Act and clarifying that flexible working hours are not included.
 <|endoftext|>
@@ -520,7 +531,7 @@ Explanation: The response introduces assumptions about possible exceptions (e.g.
                 degree_line = [line for line in result.split("\n") if "Degree of Inconsistency:" in line]
                 if degree_line:
                     degree = int(degree_line[0].split(":")[1].strip())
-                    if degree >= 4:  # Include only if degree is 4 or 5
+                    if degree >= 0:  # Include only if degree is 4 or 5
                         analysis.append("\nTurn " + str(i + 1) + "\n" + result)
             analysis_text = "".join(analysis)
             
@@ -552,6 +563,7 @@ Explanation: The response introduces assumptions about possible exceptions (e.g.
                     "2. The response claims that the Consumer Protection Act 1986 is still valid, which contradicts the fact that it was repealed by the 2019 Act.\n"
                     "Turn 2\n"
                     "Inconsistencies Present: No\n"
+                    "Inconsistencies:\n"
                     "Turn 3\n"
                     "Inconsistencies Present: Yes\n"
                     "Inconsistencies:\n"
@@ -721,6 +733,8 @@ Explanation: The response introduces assumptions about possible exceptions (e.g.
             )
             # Use the prompt and LLM in a chain
             combination_chain = prompt | llm
+
+            #print("Analysis Total: abcdefg\n")
             return {"analysis": analysis_text,"result": cutoff_at_stop_token(combination_chain.invoke({"analysis": analysis_text}))}
         # Return a chain wrapping the transformation function
         return TransformChain(input_variables=["chat"], output_variables=["result"], transform=transform_fn)
@@ -1188,7 +1202,7 @@ If you're still having trouble finding the website or the complaint form, you ca
 Is there anything else I can help you with?'''
 # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
 chat_sequence = process_chat_sequence(chat)
-folder_path = "./code/legalLLM/hall_detect/rag"
+folder_path = "./hall_detect/rag"
 
 # Create the RAG-based QA chain
 print("START")

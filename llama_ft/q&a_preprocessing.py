@@ -6,7 +6,7 @@ import pandas as pd
 
 # Get the current directory
 current_directory = os.getcwd()
-file_path = r"./code/legalLLM/llama_ft/dataset/"
+file_path = r"./llama_ft/dataset/"
 
 
 

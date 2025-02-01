@@ -33,7 +33,7 @@ base_model_name = "meta-llama/Llama-2-7b-chat-hf"
 # #     # os.path.join('./results_modified_sarvam', "checkpoint-5000")
 # # )
 
-# llm_dir = r"./code/legalLLM/llama_ft/dataset/Q&A_llm"
+# llm_dir = r"./llama_ft/dataset/Q&A_llm"
 # filenames = []
 # for filename in os.listdir(llm_dir):
 #     filenames.append(llm_dir + "/" + filename)
@@ -86,5 +86,5 @@ base_model_name = "meta-llama/Llama-2-7b-chat-hf"
 
 # print("Rouge Score:", rouge_scores)
 
-dt = load_dataset('./code/legalLLM/llama_ft/dataset/Q&A_llm/')
+dt = load_dataset('./llama_ft/dataset/Q&A_llm/')
 print(dt)

@@ -94,8 +94,8 @@ def corpus_score(data, trace=0):
 
 
 # Define folder paths
-folder1 = './code/legalLLM/chatbot/evaluator/chats_txt_truth'
-folder2 = './code/legalLLM/chatbot/evaluator/chats_txt_65'
+folder1 = './chatbot/evaluator/chats_txt_truth'
+folder2 = './chatbot/evaluator/chats_txt_65'
 
 folder1 = os.path.join(os.getcwd(), folder1)
 folder2 = os.path.join(os.getcwd(), folder2)

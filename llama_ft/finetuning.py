@@ -20,7 +20,7 @@ torch.cuda.empty_cache()
 # val_data = load_dataset('bigscience-data/roots_indic-mr_wikibooks', split='train')
 # training_data = load_dataset('nisaar/LLAMA2_Legal_Dataset_4.4k_Instructions', split='train[:70%]')
 # val_data = load_dataset('nisaar/LLAMA2_Legal_Dataset_4.4k_Instructions', split='train[70%:]')
-training_data = load_dataset("./code/legalLLM/llama_ft/dataset/Q&A-singleturn.csv")
+training_data = load_dataset("./llama_ft/dataset/Q&A-singleturn.csv")
 # print(type(training_data), type(val_data))
 # exit()
 # num_tokens = 0
@@ -77,7 +77,7 @@ peft_parameters = LoraConfig(
 
 # Training Params
 train_params = TrainingArguments(
-    output_dir="./code/legalLLM/llama_ft/model",
+    output_dir="./llama_ft/model",
     num_train_epochs=2,
     per_device_train_batch_size=4,
     gradient_accumulation_steps=16,

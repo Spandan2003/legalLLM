@@ -413,7 +413,7 @@ if __name__ == "__main__":
     start_time = time.time()
     
     initialize()
-    data = pd.read_csv("./code/legalLLM/chatbot/chat_generation/chats.csv")
+    data = pd.read_csv("./chatbot/chat_generation/chats.csv")
     chats = data["Chat"].tolist()
     results = []
     errors = []
@@ -440,7 +440,7 @@ if __name__ == "__main__":
             results_df = pd.DataFrame(results)
 
             # Save the DataFrame incrementally to the output file
-            results_df.to_csv("./code/legalLLM/chatbot/chat_generation/simulations1.csv")
+            results_df.to_csv("./chatbot/chat_generation/simulations1.csv")
 
         except Exception as e:
             print(f"Error processing chat: {chat}")

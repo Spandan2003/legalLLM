@@ -395,7 +395,7 @@ def extract_first_line(conversation_text):
 # Example usage
 if __name__ == "__main__":
     # initialize()
-    data = pd.read_csv("./code/legalLLM/chatbot/chat_generation/chats.csv")
+    data = pd.read_csv("./chatbot/chat_generation/chats.csv")
     chats = data["Chat"].tolist()
     
     session_id = str(uuid.uuid4())

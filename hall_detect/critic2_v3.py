@@ -85,7 +85,7 @@ def create_rag_qa_chain_with_response_analysis(
         llm1 = HuggingFacePipeline.from_model_id(
             model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
             task="text-generation",
-            device=3,  # Use GPU if available
+            device=0,  # Use GPU if available
             callbacks=callbacks,  # For streaming outputs
             pipeline_kwargs=dict(
                 return_full_text=False,  # Return only the new tokens
@@ -214,191 +214,412 @@ def create_rag_qa_chain_with_response_analysis(
         # Prompt for the analysis
         analysis_prompt_template = PromptTemplate(
             template=(
-                "You are an evaluator in an AI company whose job is to determine the quality of a legal chatbot which is to give correct and flawless legal advice to the user. For this you are provided the context (the textual knowledge related to the query), History (the previous chat between the user and the chatbot), the Query (question or statement by the user on which the response is based) and the Response (by the chatbot)\n"
-                "Your goal is to review the response and point out the inconsistencies or falsehood in the chatbot. This is a list of the possible faults\n"
-                "1. Any response which contradicts the context or any part of the context\n"
-                "2. Any response that has information or facts which do not exist in the context\n"
-                "3. Any response that has information like contact number or address or so on of a company, organization or government body that has not been mentioned in the context\n"
-                "Your goal is to review the response and find out whether there are inconsistencies or falsehood in the chatbot.\n"
-                "Ensure that if there are inconsistencies then they should be written in a concise manner and only the major inconsistencies should be pointed out"
-                "Only state the assumptions which are based upon false statements. If any assumption is based upon logic, do not mention it.\n"
-                "Ensure that the response is short, concise, without repetition and ends with an `<|endoftext|>` token"
-                "\nExample 1:\n"
-                "Context:\n"
-                "The Employment Rights Act 1996 provides employees with certain rights, such as the right to request flexible working, protection against unfair dismissal, and statutory redundancy pay. It does not mention any provisions about maternity benefits or sick pay directly.\n\n"
-                "History:\n"
-                "User: What rights do employees have under the Employment Rights Act 1996?\n"
-                "Chatbot: Employees have the right to flexible working, protection against unfair dismissal, and statutory redundancy pay.\n"
-                "User: Does it include maternity benefits?\n"
-                "Chatbot: Yes, the Act includes maternity benefits for employees.\n\n"
-                "Query:\n"
-                "Can you provide more details about maternity benefits under this Act?\n\n"
-                "Response:\n"
-                "Maternity benefits under the Employment Rights Act 1996 include 26 weeks of maternity leave and statutory maternity pay for eligible employees.\n\n"
-                "Inconsistencies Present: Yes\n"
-                "Inconsistencies:\n"
-                "1. The response mentions maternity benefits under the Employment Rights Act 1996, but the context explicitly states that the Act does not mention provisions about maternity benefits.\n"
-                "2. The details about \"26 weeks of maternity leave\" and \"statutory maternity pay\" are fabricated and not supported by the context.\n<|endoftext|>"
+                """You are an evaluator in an AI company whose job is to determine the quality of a legal chatbot that provides correct and flawless legal advice to the user. You will analyze a chatbot's response based on the given information and identify any inconsistencies.
 
-                "\nExample 2:\n"
-                "Context:\n"
-                "Under the Consumer Rights Act 2015, consumers are entitled to a refund, repair, or replacement for goods that are faulty or not as described. The Act does not include any references to warranty periods being extended for defective goods.\n\n"
-                "History:\n"
-                "User: Can I get an extended warranty if my product is faulty under the Consumer Rights Act 2015?\n"
-                "Chatbot: Yes, the Act allows for an extended warranty period for defective goods.\n"
-                "User: What kind of extended warranty can I expect?\n"
-                "Chatbot: The warranty duration depends on the product type and its condition.\n\n"
-                "Query:\n"
-                "How long is the extended warranty period?\n\n"
-                "Response:\n"
-                "The Consumer Rights Act 2015 provides a 12-month extended warranty for defective goods.\n\n"
-                "Inconsistencies Present: Yes\n"
-                "Inconsistencies:\n"
-                "1. The response falsely claims that the Act provides for an extended warranty period, which is explicitly not mentioned in the context.\n"
-                "2. The \"12-month extended warranty\" detail is fabricated and unsupported by the context.\n<|endoftext|>"
+You are provided with:
+- Context: The textual knowledge related to the query.
+- History: The previous conversation between the user and the chatbot.
+- Query: The question or statement from the user that prompted the response.
+- Response: The chatbot’s reply to the query.
 
-                "\nExample 3:\n"
-                "Context:\n"
-                "Section 21 of the Housing Act 1988 allows landlords to evict tenants without providing a reason, as long as the proper notice period is given. The notice period is currently two months.\n\n"
-                "History:\n"
-                "User: Can a landlord evict a tenant without giving a reason under Section 21?\n"
-                "Chatbot: Yes, under Section 21, landlords can evict tenants without giving a reason.\n"
-                "User: What is the notice period for this kind of eviction?\n"
-                "Chatbot: I believe it’s one month, but I’ll confirm.\n\n"
-                "Query:\n"
-                "Can you confirm if one month is the required notice period?\n\n"
-                "Response:\n"
-                "Yes, the notice period under Section 21 is one month.\n\n"
-                "Inconsistencies Present: Yes\n"
-                "Inconsistencies:\n"
-                "1. The response incorrectly states that the notice period under Section 21 is one month, while the context explicitly states it is two months.\n<|endoftext|>"
+Evaluation Criteria:
+You must determine whether the chatbot’s response contains inconsistencies based on the following:
+1. Contradiction: Any part of the response that contradicts the given context and history.
+2. Unsupported Information: Any facts or details that do not appear in the context or history but are presented as factual.
+3. Fabricated Details: Any made-up information such as contact numbers, addresses, legal provisions, or company names that are not in the context.
 
-                "\nExample 4:\n"
-                "Context:\n"
-                "The Data Protection Act 2018 governs how personal data should be processed and stored. It includes principles such as lawfulness, fairness, transparency, and data minimization. The Act does not mention specific fines for breaches.\n\n"
-                "History:\n"
-                "User: What is the main purpose of the Data Protection Act 2018?\n"
-                "Chatbot: The Act ensures personal data is processed lawfully and transparently.\n"
-                "User: Are there any fines for breaches mentioned in the Act?\n"
-                "Chatbot: Yes, there are specific fines.\n\n"
-                "Query:\n"
-                "What are the fines for breaches under this Act?\n\n"
-                "Response:\n"
-                "The Data Protection Act 2018 specifies fines of up to £20 million for breaches.\n\n"
-                "Inconsistencies Present: Yes\n"
-                "Inconsistencies:\n"
-                "1. The response falsely claims that the Data Protection Act 2018 specifies fines of up to £20 million, while the context explicitly states that the Act does not mention specific fines.\n<|endoftext|>"
+These are not inconsistencies and should not be detected as such:
+1. Irrelevant details: Details not requested by the user but not contradicting the context are not inconsistencies
+2. Missing Information: Any details which are not mentioned even though present in context is not an inconsistency as long as it does not contradict the context or history
+3. Natural Assumptions: Any assumptions which are natural and not contradicting the context or history which might include user wants and preferences.
 
-                "\nExample 5:\n"
-                "Context:\n"
-                "The Road Traffic Act 1988 mandates that all drivers must have third-party liability insurance. It does not specify penalties for not having insurance.\n\n"
-                "History:\n"
-                "User: Does the Road Traffic Act 1988 require insurance?\n"
-                "Chatbot: Yes, all drivers must have third-party liability insurance.\n"
-                "User: What happens if someone doesn’t have insurance?\n"
-                "Chatbot: I’m not sure about the exact penalties.\n\n"
-                "Query:\n"
-                "Can you confirm the penalties under this Act?\n\n"
-                "Response:\n"
-                "Under the Road Traffic Act 1988, driving without insurance results in a penalty of £300 and six points on the driver’s license.\n\n"
-                "Inconsistencies Present: Yes\n"
-                "Inconsistencies:\n"
-                "1. The response incorrectly states that the penalty is mentioned in the Act, whereas the context explicitly states that the Act does not specify penalties.\n<|endoftext|>"
+Output Format:
+Based on your evaluation, generate the following structured output:
+1. Inconsistency Present: Yes or No
+2. Inconsistencies: [List of inconsistencies only if Yes in Inconsistency Present. If No, leave it blank]
 
-                "\nExample 6:\n"
-                "Context:\n"
-                "The Health and Safety at Work Act 1974 ensures the safety, health, and welfare of employees at work. Employers must conduct regular risk assessments and provide necessary safety equipment. The Act does not mention mental health initiatives or stress management requirements explicitly.\n\n"
-                "History:\n"
-                "AI: Hello! How can I assist with workplace safety issues?\n"
-                "User: My employer doesn't provide safety equipment.\n"
-                "AI: Employers are required to provide necessary safety equipment under the Health and Safety at Work Act 1974. Can you share more about the equipment missing or the risks involved?\n\n"
-                "Query:\n"
-                "The equipment is missing entirely.\n\n"
-                "Response:\n"
-                "If your employer has not provided any safety equipment, they are in violation of the Health and Safety at Work Act 1974. You can report this to the Health and Safety Executive (HSE). Additionally, the Act mandates that employers must address workplace stress and mental health issues, which can also be reported.\n\n"
-                "Inconsistencies Present: Yes\n"
-                "Inconsistencies:\n"
-                "1. The response claims that the Act mandates addressing workplace stress and mental health issues, which is not supported by the context.\n<|endoftext|>"
+Example 1:
+Context:
+The Employment Rights Act 1996 provides employees with certain rights, such as the right to request flexible working, protection against unfair dismissal, and statutory redundancy pay. It does not mention any provisions about maternity benefits or sick pay directly.
 
-                "\nExample 7:\n"
-                "Context:\n"
-                "The General Data Protection Regulation (GDPR) provides individuals with the right to access, correct, and delete their personal data. It also mandates that data breaches must be reported to the relevant authority within 72 hours. The GDPR does not specify penalties for breaches.\n\n"
-                "History:\n"
-                "AI: Hi! How can I assist with data protection concerns?\n"
-                "User: I suspect my personal data was leaked by a company.\n"
-                "AI: I’m sorry to hear that. Have you reported the issue to the company or checked their data breach policy?\n\n"
-                "Query:\n"
-                "I haven’t reported it yet.\n\n"
-                "Response:\n"
-                "If you suspect a data breach, you should notify the company and request details under GDPR regulations. Additionally, the GDPR allows individuals to claim compensation for data breaches directly from the company.\n\n"
-                "Inconsistencies Present: Yes\n"
-                "Inconsistencies:\n"
-                "1. The response incorrectly claims that GDPR allows individuals to claim compensation for breaches directly, which is not mentioned in the context.\n<|endoftext|>"
+History:
+User: What rights do employees have under the Employment Rights Act 1996?
+Chatbot: Employees have the right to flexible working, protection against unfair dismissal, and statutory redundancy pay.
+User: Does it include maternity benefits?
+Chatbot: Yes, the Act includes maternity benefits for employees.
 
-                "\nExample 8:\n"
-                "Context:\n"
-                "The Sale of Goods Act 1979 gives consumers the right to reject goods that are not of satisfactory quality, not fit for purpose, or not as described. Consumers must act within 30 days of purchase to claim a refund. The Act does not cover services or digital products.\n\n"
-                "History:\n"
-                "AI: How can I help with your recent purchase?\n"
-                "User: I bought a defective laptop.\n"
-                "AI: Under the Sale of Goods Act 1979, you’re entitled to a remedy if the laptop is defective. Did you report this issue within 30 days of purchase?\n\n"
-                "Query:\n"
-                "Yes, I reported it within the time limit.\n\n"
-                "Response:\n"
-                "If you reported the defect within 30 days, you are entitled to a full refund under the Sale of Goods Act 1979. If the seller refuses, you can escalate the matter to trading standards. Would you like assistance with drafting a complaint or contacting trading standards?\n\n"
-                "Inconsistencies Present: No\n<|endoftext|>"
+Query:
+Can you provide more details about maternity benefits under this Act?
 
-                "\nExample 9:\n"
-                "Context:\n"
-                "Section 21 of the Housing Act 1988 allows landlords to evict tenants without giving a reason, provided they give a notice period of at least two months. The Act does not mention any rights to compensation for tenants upon eviction.\n\n"
-                "History:\n"
-                "AI: Hi! How can I help with your housing issue today?\n"
-                "User: My landlord has served me a Section 21 notice.\n"
-                "AI: I see. Was the notice served with at least a two-month period as required under the Housing Act 1988?\n\n"
-                "Query:\n"
-                "No, it was less than two months.\n\n"
-                "Response:\n"
-                "If the notice period is less than two months, it is not valid under Section 21 of the Housing Act 1988. Additionally, you may be entitled to compensation if the landlord has breached any of the regulations under this Act.\n\n"
-                "Inconsistencies Present: Yes\n"
-                "Inconsistencies:\n"
-                "1. The response incorrectly states that tenants may be entitled to compensation under the Housing Act 1988, which is not mentioned in the context.\n<|endoftext|>"
+Response:
+Maternity benefits under the Employment Rights Act 1996 include 26 weeks of maternity leave and statutory maternity pay for eligible employees.
 
-                "\nExample 10:\n"
-                "Context:\n"
-                "The Equality Act 2010 protects individuals from discrimination in employment, education, and access to services. It prohibits unfair treatment based on characteristics such as age, disability, gender, and race. The Act does not include provisions for harassment on social media.\n\n"
-                "History:\n"
-                "AI: How can I assist you with discrimination concerns?\n"
-                "User: I faced discrimination due to my disability at work.\n"
-                "AI: I’m sorry to hear that. Did you file a formal complaint with your employer?\n\n"
-                "Query:\n"
-                "Yes, I filed a complaint.\n\n"
-                "Response:\n"
-                "Filing a formal complaint is a great first step. Under the Equality Act 2010, your employer is required to investigate and address the issue. If no action is taken, you can escalate the matter to an employment tribunal. Would you like guidance on how to proceed with the tribunal?\n\n"
-                "Inconsistencies Present: No\n<|endoftext|>"
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response states that the Employment Rights Act 1996 includes maternity benefits, but the context explicitly states that it does not mention them.
+2. The details about “26 weeks of maternity leave” and “statutory maternity pay” are not supported by the context.
+<|endoftext|>
+Example 2:
+Context:
+Under the Consumer Rights Act 2015, consumers are entitled to a refund, repair, or replacement for goods that are faulty or not as described. The Act does not include any references to warranty periods being extended for defective goods.
 
-                "\nExample 11:\n"
-                "Context:\n"
-                "The Road Traffic Act 1988 mandates that all drivers must have third-party liability insurance. It does not specify penalties for failing to have insurance, but uninsured driving is illegal and subject to separate legal penalties.\n\n"
-                "History:\n"
-                "AI: Hello! How can I help with road traffic issues?\n"
-                "User: I was caught driving without insurance.\n"
-                "AI: Driving without insurance is illegal. Were you informed of any penalties by the authorities?\n\n"
-                "Query:\n"
-                "No, they didn’t mention any penalties.\n\n"
-                "Response:\n"
-                "Under the Road Traffic Act 1988, uninsured driving is prohibited. While the Act doesn’t specify penalties, common consequences include fines or points on your license under other laws. Would you like help contacting legal aid or understanding the process further?\n\n"
-                "Inconsistencies Present: No\n<|endoftext|>"
+History:
+User: Can I get an extended warranty if my product is faulty under the Consumer Rights Act 2015?
+Chatbot: Yes, the Act allows for an extended warranty period for defective goods.
+User: What kind of extended warranty can I expect?
+Chatbot: The warranty duration depends on the product type and its condition.
+
+Query:
+How long is the extended warranty period?
+
+Response:
+The Consumer Rights Act 2015 provides a 12-month extended warranty for defective goods.
+
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response falsely claims that the Act provides for an extended warranty period, which is explicitly not mentioned in the context.
+2. The "12-month extended warranty" detail is fabricated and unsupported by the context.
+<|endoftext|>
+
+Example 3:
+Context:
+Section 21 of the Housing Act 1988 allows landlords to evict tenants without providing a reason, as long as the proper notice period is given. The notice period is currently two months.
+
+History:
+User: Can a landlord evict a tenant without giving a reason under Section 21?
+Chatbot: Yes, under Section 21, landlords can evict tenants without giving a reason.
+User: What is the notice period for this kind of eviction?
+Chatbot: I believe it’s one month, but I’ll confirm.
+
+Query:
+Can you confirm if one month is the required notice period?
+
+Response:
+Yes, the notice period under Section 21 is one month.
+
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response incorrectly states that the notice period under Section 21 is one month, while the context explicitly states it is two months.
+<|endoftext|>
+
+Example 4:
+Context:
+The Data Protection Act 2018 governs how personal data should be processed and stored. It includes principles such as lawfulness, fairness, transparency, and data minimization. The Act does not mention specific fines for breaches.
+
+History:
+User: What is the main purpose of the Data Protection Act 2018?
+Chatbot: The Act ensures personal data is processed lawfully and transparently.
+User: Are there any fines for breaches mentioned in the Act?
+Chatbot: Yes, there are specific fines.
+
+Query:
+What are the fines for breaches under this Act?
+
+Response:
+The Data Protection Act 2018 specifies fines of up to £20 million for breaches.
+
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response falsely claims that the Data Protection Act 2018 specifies fines of up to £20 million, while the context explicitly states that the Act does not mention specific fines.
+<|endoftext|>
+
+Example 5:
+Context:
+The Road Traffic Act 1988 mandates that all drivers must have third-party liability insurance. It does not specify penalties for not having insurance.
+
+History:
+User: Does the Road Traffic Act 1988 require insurance?
+Chatbot: Yes, all drivers must have third-party liability insurance.
+User: What happens if someone doesn’t have insurance?
+Chatbot: I’m not sure about the exact penalties.
+
+Query:
+Can you confirm the penalties under this Act?
+
+Response:
+Under the Road Traffic Act 1988, driving without insurance results in a penalty of £300 and six points on the driver’s license.
+
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response incorrectly states that the penalty is mentioned in the Act, whereas the context explicitly states that the Act does not specify penalties.
+<|endoftext|>
+
+Example 6:
+Context:
+The Health and Safety at Work Act 1974 ensures the safety, health, and welfare of employees at work. Employers must conduct regular risk assessments and provide necessary safety equipment. The Act does not mention mental health initiatives or stress management requirements explicitly.
+
+History:
+AI: Hello! How can I assist with workplace safety issues?
+User: My employer doesn't provide safety equipment.
+AI: Employers are required to provide necessary safety equipment under the Health and Safety at Work Act 1974. Can you share more about the equipment missing or the risks involved?
+
+Query:
+The equipment is missing entirely.
+
+Response:
+If your employer has not provided any safety equipment, they are in violation of the Health and Safety at Work Act 1974. You can report this to the Health and Safety Executive (HSE). Additionally, the Act mandates that employers must address workplace stress and mental health issues, which can also be reported.
+
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response claims that the Act mandates addressing workplace stress and mental health issues, which is not supported by the context.
+<|endoftext|>
+
+Example 7:
+Context:
+The Consumer Protection Act 1987 ensures that consumers are protected against defective products that cause injury or harm. The Act outlines the liability of manufacturers but does not detail specific compensation amounts or procedures.
+
+History:
+User: What does the Consumer Protection Act 1987 cover?
+Chatbot: It ensures protection against defective products that cause injury or harm and specifies manufacturer liability.
+
+Query:
+Does it specify compensation amounts?
+
+Response:
+The Consumer Protection Act 1987 does not specify exact compensation amounts but establishes liability for manufacturers, allowing injured parties to seek compensation through the courts.
+
+Inconsistencies Present: No
+Inconsistencies:
+<|endoftext|>
+
+Example 8:
+Context:
+The Employment Rights Act 1996 outlines employees' rights, including protection from unfair dismissal and the right to statutory redundancy pay. It does not mention provisions related to remote work or flexible working hours.
+
+History:
+User: Does the Employment Rights Act cover flexible working hours?
+Chatbot: No, the Act does not mention provisions for flexible working hours.
+
+Query:
+Can you clarify how the Act protects employees?
+
+Response:
+The Employment Rights Act 1996 protects employees by outlining their rights against unfair dismissal and providing statutory redundancy pay. It does not cover flexible working hours.
+
+Inconsistencies Present: No
+Inconsistencies:
+<|endoftext|>
+
+Example 9:
+Context:
+The Data Protection Act 2018 governs the processing of personal data in the UK. It requires organizations to obtain explicit consent for data processing and outlines individuals' rights regarding access, correction, and deletion of their data. It does not detail penalties for non-compliance.
+
+History:
+User: What are the key points of the Data Protection Act 2018?
+Chatbot: It governs personal data processing, mandates explicit consent, and provides rights for access, correction, and deletion of data.
+
+Query:
+Are there penalties for organizations that fail to comply?
+
+Response:
+The Data Protection Act 2018 governs personal data processing and requires explicit consent for such actions. While it outlines individual rights, it does not explicitly detail penalties for non-compliance.
+
+Inconsistencies Present: Yes
+Inconsistencies:
+<|endoftext|>
+
+Example 10:
+Context:
+The Equal Pay Act 1970 prohibits discrimination between men and women in terms of pay and employment conditions. It does not specify exceptions or provide details on enforcement mechanisms.
+
+History:
+User: Can employers pay men and women differently for the same job?
+Chatbot: No, the Equal Pay Act 1970 prohibits such discrimination.
+
+Query:
+Are there any exceptions under this Act?
+
+Response:
+The Equal Pay Act 1970 prohibits pay discrimination between men and women for the same job. However, exceptions might exist if justified by factors such as seniority or performance.
+
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response introduces assumptions about possible exceptions (e.g., seniority or performance) that are not mentioned in the context.
+<|endoftext|>
+"""
 
 
-                "Context:\n {context}\nNational Consumer Helpline (1800-11-4000) or UMANG App for more assistance\n"
-                "History:\n {history}\n"
-                "Query:\n {query}\n"
-                "Response:\n {response}\n"
+
+                "Context:\n {context}\nIt is better to contact the National Consumer Helpline (1800-11-4000) or UMANG App for more assistance\n"
+                "History:\n {history}\n\n"
+                "Query:\n {query}\n\n"
+                "Response:\n {response}\n\n"
             ),
             input_variables=["context", "history", "query", "response"]
         )
 
         analysis_chain = analysis_prompt_template | llm2
+
+        analysis_prompt_template2 = PromptTemplate(
+            template=(
+                """You are an evaluator in an AI company whose job is to determine the quality of a legal chatbot. You have already identified whether inconsistencies exist in the chatbot’s response. Now, your goal is to analyze the identified inconsistencies, remove the wrong inconsistencies and assign a Degree of Inconsistency to the response.
+
+Input Provided to You:
+1. Inconsistency Present: Yes or No
+2. Inconsistencies: [List of identified inconsistencies]
+
+Conditions for Wrong Inconsistency:
+1. General Knowledge: The inconsistency is based upon general knowledge and not with regards to legal or consumer laws. The context only deals with legal knowledge and hence the inconsistencies detected are incorrect. General Knowledge does not include information based upon details of a company, organisation or government body as they are required to be present in the context to be deemed correct.
+2. Logical Assumptions: Assumptions derived using logic and reason from whatever knowledge present are not inconsistencies. These assumptions are not wrong as conversations are full of assumptions which are all correct unless they clearly contradict the context. Assumptions missing in context or history are not inconsistencies.
+3. Partial Information: If inconsistency is due to the full information in the context not being in the response but rather only a partial or incomplete information then it is not an inconsistency as long as the given partial information does not have inaccuracies.
+Rewrite the list by removing the wrong inconsistency.
+
+Degree of Inconsistency Rules:
+1. Degree 1: No inconsistencies. The response aligns perfectly with the context.
+2. Degree 2: Minor unsupported assumptions that are plausible and do not significantly impact accuracy.
+3. Degree 3: Noticeable unsupported claims or minor contradictions with the context.
+4. Degree 4: Clear contradictions or fabrications that impact accuracy but do not entirely undermine the response.
+5. Degree 5: Severe contradictions or fabrications that completely misrepresent the context.
+
+Output Format:
+Based on the inconsistencies provided, generate the following structured output:
+1. Degree of Inconsistency: [1 to 5]
+2. Explanation: [Short and concise reason based on the listed inconsistencies]
+
+Example 1:
+Input:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response states that the Employment Rights Act 1996 includes maternity benefits, but the context explicitly states that it does not mention them.
+2. The response assumes that the user wants to avail the maternity benefits but this has not been specified in the history or context.
+3. The details about “26 weeks of maternity leave” and “statutory maternity pay” are not supported by the context.
+
+
+Output:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response states that the Employment Rights Act 1996 includes maternity benefits, but the context explicitly states that it does not mention them.
+2. The details about “26 weeks of maternity leave” and “statutory maternity pay” are not supported by the context.
+Degree of Inconsistency: 5
+Explanation: The response fabricates maternity leave details not supported by the context and falsely claims that the Act includes these benefits. This is a major inconsistency.
+<|endoftext|>
+
+Example 2:
+Input:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response falsely claims that the Act provides for an extended warranty period, which is explicitly not mentioned in the context.
+2. The "12-month extended warranty" detail is fabricated and unsupported by the context.
+
+Output:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response falsely claims that the Act provides for an extended warranty period, which is explicitly not mentioned in the context.
+2. The "12-month extended warranty" detail is fabricated and unsupported by the context.
+Degree of Inconsistency: 5
+Explanation: The response fabricates a "12-month extended warranty" detail not supported by the context and falsely claims the Act includes extended warranty provisions. This is a major inconsistency.
+<|endoftext|>
+
+Example 3:
+Input:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response incorrectly states that the notice period under Section 21 is one month, while the context explicitly states it is two months.
+2. The response states that the user can ask more doubts but this has never been mentioned in the context or history.
+
+Output:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response incorrectly states that the notice period under Section 21 is one month, while the context explicitly states it is two months.
+Degree of Inconsistency: 4
+Explanation: The response provides an incorrect notice period of one month, directly contradicting the context that states it is two months. This significantly impacts the accuracy of the response.
+<|endoftext|>
+
+Example 4:
+Input:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response falsely claims that the Data Protection Act 2018 specifies fines of up to £20 million, while the context explicitly states that the Act does not mention specific fines.
+2. The response mentions that the user wants to get back the damages he has encountered but this is not supported by context.
+
+Output:
+Input:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response falsely claims that the Data Protection Act 2018 specifies fines of up to £20 million, while the context explicitly states that the Act does not mention specific fines.
+Degree of Inconsistency: 5
+Explanation: The response introduces fabricated details about fines of up to £20 million, which are not mentioned in the context. This is a major inconsistency.
+<|endoftext|>
+
+Example 5:
+Input:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response incorrectly states that the penalty is mentioned in the Act, whereas the context explicitly states that the Act does not specify penalties.
+
+Output:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response incorrectly states that the penalty is mentioned in the Act, whereas the context explicitly states that the Act does not specify penalties.
+Degree of Inconsistency: 5
+Explanation: The response fabricates details about penalties that are explicitly not mentioned in the context. This is a major inconsistency.
+<|endoftext|>
+
+Example 6:
+Input:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response claims that the Act mandates addressing workplace stress and mental health issues, which is not supported by the context.
+2. The response claims that the user has been experiencing stress and gives solutions to it but this has not been mentioned in the context or history.
+
+Output:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response claims that the Act mandates addressing workplace stress and mental health issues, which is not supported by the context.
+Degree of Inconsistency: 4
+Explanation: The response incorrectly states that the Act mandates addressing workplace stress and mental health issues, introducing unsupported details. This is a significant inconsistency.
+<|endoftext|>
+
+Example 7:
+Input:
+Inconsistency Present: No
+Inconsistencies:
+
+Output:
+Inconsistency Present: No
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: The response aligns perfectly with the context.
+<|endoftext|>
+
+Example 8:
+Input:
+Inconsistency Present: No
+Inconsistencies:
+
+Output:
+Inconsistency Present: No
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: The response is consistent with the context.
+<|endoftext|>
+
+Example 9:
+Input:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response introduces assumptions about possible exceptions (e.g., seniority or performance) that are not mentioned in the context.
+
+Output:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response introduces assumptions about possible exceptions (e.g., seniority or performance) that are not mentioned in the context.
+Degree of Inconsistency: 3
+Explanation: The response introduces assumptions about exceptions that are not explicitly stated in the context. While plausible, these assumptions extend beyond the provided information and introduce noticeable inaccuracies.
+<|endoftext|>
+
+
+Input:
+"""
+                    
+
+
+                "{inconsistency}"
+            ),
+            input_variables=["inconsistency"]
+        )
+
+        analysis_chain2 = analysis_prompt_template2 | llm2
 
         # Define a custom chain that combines reformulating and analysis
         class ResponseAnalysisChain:
@@ -406,6 +627,7 @@ def create_rag_qa_chain_with_response_analysis(
                 self.retriever = retriever
                 self.reformulate_chain = reformulate_chain | StrOutputParser()
                 self.analysis_chain = analysis_chain | StrOutputParser()
+                self.analysis_chain2 = analysis_chain2 | StrOutputParser()
 
 
             def __call__(self, inputs):
@@ -424,17 +646,23 @@ def create_rag_qa_chain_with_response_analysis(
 
                 # Pass everything to the analysis chain
                 final_inputs = {
-                    "context": context,
+                    "context": context.replace("\n", " "),
                     "history": history,
                     "query": query,
                     "reformulated": reformulated_query,
                     "response": response,
                 }
+                analysis_temp = cutoff_at_stop_token(self.analysis_chain.invoke(final_inputs))
+                analysis = cutoff_at_stop_token(self.analysis_chain2.invoke({"inconsistency":analysis_temp}))
+                final_inputs['analysis'] = analysis_temp + '\n-----------------\n' + analysis
+                final_inputs.pop('history')
+                final_inputs.pop('reformulated')
+                disp_dict(final_inputs)
                 global first
                 if first==True:
                     # print(final_inputs['context'].replace('/n', ' '))
                     first = False
-                return cutoff_at_stop_token(self.analysis_chain.invoke(final_inputs))
+                return analysis
 
         return ResponseAnalysisChain(retriever, reformulate_chain, analysis_chain)
 
@@ -444,7 +672,13 @@ def create_rag_qa_chain_with_response_analysis(
             chat = inputs["chat"]  # Expect the input to have a key "chat"
             analysis = []
             for i, chat_triple in enumerate(chat[1:]):
-                analysis.append("\nTurn " + str(i + 1) + "\n" + chain(chat_triple))
+                result = chain(chat_triple)
+                # Extract the degree of inconsistency from the result (assuming it's explicitly stated in the result text).
+                degree_line = [line for line in result.split("\n") if "Degree of Inconsistency:" in line]
+                if degree_line:
+                    degree = int(degree_line[0].split(":")[1].strip())
+                    if degree >= 0:  # Include only if degree is 4 or 5
+                        analysis.append("\nTurn " + str(i + 1) + "\n" + result)
             analysis_text = "".join(analysis)
             
             # Create the analysis prompt
@@ -475,6 +709,7 @@ def create_rag_qa_chain_with_response_analysis(
                     "2. The response claims that the Consumer Protection Act 1986 is still valid, which contradicts the fact that it was repealed by the 2019 Act.\n"
                     "Turn 2\n"
                     "Inconsistencies Present: No\n"
+                    "Inconsistencies:\n"
                     "Turn 3\n"
                     "Inconsistencies Present: Yes\n"
                     "Inconsistencies:\n"
@@ -644,6 +879,8 @@ def create_rag_qa_chain_with_response_analysis(
             )
             # Use the prompt and LLM in a chain
             combination_chain = prompt | llm
+
+            #print("Analysis Total: abcdefg\n")
             return {"analysis": analysis_text,"result": cutoff_at_stop_token(combination_chain.invoke({"analysis": analysis_text}))}
         # Return a chain wrapping the transformation function
         return TransformChain(input_variables=["chat"], output_variables=["result"], transform=transform_fn)
@@ -652,7 +889,7 @@ def create_rag_qa_chain_with_response_analysis(
     text = get_pdf_text(folder_path)
     text_chunks = get_text_chunks(text)
     vectorstore = get_vectorstore(text_chunks)
-    retriever = vectorstore.as_retriever() #search_kwargs={"k": 3})
+    retriever = vectorstore.as_retriever(search_kwargs={"k": 8})
     llm1, llm2 = get_llm()
     response_analysis_chain = get_response_analysis_chain(retriever, llm1, llm2)
     final_chain = detect_hallucination_per_chat(response_analysis_chain, llm1)
@@ -718,7 +955,12 @@ def process_chat_sequence(chat_sequence):
     elements = split_chat_into_elements(chat_sequence)
     return build_history_query_pairs(elements)
 
-
+# Create the RAG-based QA chain
+print("START")
+# Example query
+first = True
+folder_path = "./hall_detect/rag"
+response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path)
 
 chat = '''
 AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
@@ -1110,23 +1352,16 @@ If you're still having trouble finding the website or the complaint form, you ca
 
 Is there anything else I can help you with?'''
 # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
-chat_sequence = process_chat_sequence(chat)
-folder_path = "./hall_detect/rag"
-
-# Create the RAG-based QA chain
-print("START")
-# Example query
-first = True
-response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path)
-res = response_analysis_chain.invoke({"chat":chat_sequence})
-print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-print("Analysis-")
-print(res['analysis'])
-print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-print("Result-")
-print(res['result'])
-print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+# chat_sequence = process_chat_sequence(chat)
+# res = response_analysis_chain.invoke({"chat":chat_sequence})
+# print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+# print("Analysis-")
+# print(res['analysis'])
+# print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+# print("Result-")
+# print(res['result'])
+# print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+# print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
 
 chat = '''AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 

@@ -40,7 +40,7 @@ def summarize_chats(chat_samples, llm_model="meta-llama/Meta-Llama-3.1-8B-Instru
     return summaries
 
 
-data = pd.read_csv("./code/legalLLM/hall_detect/data1_modified.csv")
+data = pd.read_csv("./hall_detect/data1_modified.csv")
 data = data["Chat"]
 data.dropna(inplace=True)
 start_letter = data.iloc[0][:4]
@@ -53,4 +53,4 @@ data.reset_index(inplace=True, drop=True)
 
 # Combine sampled chats and their summaries
 result = pd.DataFrame({"Chat": data.values})#, "Summary": summaries})
-result.to_csv("./code/legalLLM/chatbot/chat_generation/chats.csv")
+result.to_csv("./chatbot/chat_generation/chats.csv")
