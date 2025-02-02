@@ -242,7 +242,10 @@ Based on your evaluation, generate the following structured output:
 2. Inconsistencies: [List of inconsistencies only if Yes in Inconsistency Present. If No, leave it blank]
 <|end_of_text|>
 
-Example 1:
+Remember to end with a <|end_of_text|> token
+
+Example 1
+Input:
 Context:
 The Employment Rights Act 1996 provides employees with certain rights, such as the right to request flexible working, protection against unfair dismissal, and statutory redundancy pay. It does not mention any provisions about maternity benefits or sick pay directly.
 
@@ -258,12 +261,16 @@ Can you provide more details about maternity benefits under this Act?
 Response:
 Maternity benefits under the Employment Rights Act 1996 include 26 weeks of maternity leave and statutory maternity pay for eligible employees.
 
+Output:
 Inconsistency Present: Yes
 Inconsistencies:
 1. The response states that the Employment Rights Act 1996 includes maternity benefits, but the context explicitly states that it does not mention them.
 2. The details about “26 weeks of maternity leave” and “statutory maternity pay” are not supported by the context.
 <|endoftext|>
-Example 2:
+
+
+Example 2
+Input:
 Context:
 Under the Consumer Rights Act 2015, consumers are entitled to a refund, repair, or replacement for goods that are faulty or not as described. The Act does not include any references to warranty periods being extended for defective goods.
 
@@ -279,13 +286,16 @@ How long is the extended warranty period?
 Response:
 The Consumer Rights Act 2015 provides a 12-month extended warranty for defective goods.
 
+Output:
 Inconsistencies Present: Yes
 Inconsistencies:
 1. The response falsely claims that the Act provides for an extended warranty period, which is explicitly not mentioned in the context.
 2. The "12-month extended warranty" detail is fabricated and unsupported by the context.
 <|endoftext|>
 
-Example 3:
+
+Example 3
+Input:
 Context:
 Section 21 of the Housing Act 1988 allows landlords to evict tenants without providing a reason, as long as the proper notice period is given. The notice period is currently two months.
 
@@ -301,12 +311,15 @@ Can you confirm if one month is the required notice period?
 Response:
 Yes, the notice period under Section 21 is one month.
 
+Output:
 Inconsistencies Present: Yes
 Inconsistencies:
 1. The response incorrectly states that the notice period under Section 21 is one month, while the context explicitly states it is two months.
 <|endoftext|>
 
-Example 4:
+
+Example 4
+Input:
 Context:
 The Data Protection Act 2018 governs how personal data should be processed and stored. It includes principles such as lawfulness, fairness, transparency, and data minimization. The Act does not mention specific fines for breaches.
 
@@ -322,12 +335,15 @@ What are the fines for breaches under this Act?
 Response:
 The Data Protection Act 2018 specifies fines of up to £20 million for breaches.
 
+Output:
 Inconsistencies Present: Yes
 Inconsistencies:
 1. The response falsely claims that the Data Protection Act 2018 specifies fines of up to £20 million, while the context explicitly states that the Act does not mention specific fines.
 <|endoftext|>
 
-Example 5:
+
+Example 5
+Input:
 Context:
 The Road Traffic Act 1988 mandates that all drivers must have third-party liability insurance. It does not specify penalties for not having insurance.
 
@@ -343,12 +359,15 @@ Can you confirm the penalties under this Act?
 Response:
 Under the Road Traffic Act 1988, driving without insurance results in a penalty of £300 and six points on the driver’s license.
 
+Output:
 Inconsistencies Present: Yes
 Inconsistencies:
 1. The response incorrectly states that the penalty is mentioned in the Act, whereas the context explicitly states that the Act does not specify penalties.
 <|endoftext|>
 
-Example 6:
+
+Example 6
+Input:
 Context:
 The Health and Safety at Work Act 1974 ensures the safety, health, and welfare of employees at work. Employers must conduct regular risk assessments and provide necessary safety equipment. The Act does not mention mental health initiatives or stress management requirements explicitly.
 
@@ -363,12 +382,15 @@ The equipment is missing entirely.
 Response:
 If your employer has not provided any safety equipment, they are in violation of the Health and Safety at Work Act 1974. You can report this to the Health and Safety Executive (HSE). Additionally, the Act mandates that employers must address workplace stress and mental health issues, which can also be reported.
 
+Output:
 Inconsistencies Present: Yes
 Inconsistencies:
 1. The response claims that the Act mandates addressing workplace stress and mental health issues, which is not supported by the context.
 <|endoftext|>
 
-Example 7:
+
+Example 7
+Input:
 Context:
 The Consumer Protection Act 1987 ensures that consumers are protected against defective products that cause injury or harm. The Act outlines the liability of manufacturers but does not detail specific compensation amounts or procedures.
 
@@ -382,11 +404,14 @@ Does it specify compensation amounts?
 Response:
 The Consumer Protection Act 1987 does not specify exact compensation amounts but establishes liability for manufacturers, allowing injured parties to seek compensation through the courts.
 
+Output:
 Inconsistencies Present: No
 Inconsistencies:
 <|endoftext|>
 
-Example 8:
+
+Example 8
+Input:
 Context:
 The Employment Rights Act 1996 outlines employees' rights, including protection from unfair dismissal and the right to statutory redundancy pay. It does not mention provisions related to remote work or flexible working hours.
 
@@ -400,11 +425,14 @@ Can you clarify how the Act protects employees?
 Response:
 The Employment Rights Act 1996 protects employees by outlining their rights against unfair dismissal and providing statutory redundancy pay. It does not cover flexible working hours.
 
+Output:
 Inconsistencies Present: No
 Inconsistencies:
 <|endoftext|>
 
-Example 9:
+
+Example 9
+Input:
 Context:
 The Data Protection Act 2018 governs the processing of personal data in the UK. It requires organizations to obtain explicit consent for data processing and outlines individuals' rights regarding access, correction, and deletion of their data. It does not detail penalties for non-compliance.
 
@@ -416,13 +444,16 @@ Query:
 Are there penalties for organizations that fail to comply?
 
 Response:
-The Data Protection Act 2018 governs personal data processing and requires explicit consent for such actions. While it outlines individual rights, it does not explicitly detail penalties for non-compliance.
+The Data Protection Act 1995 governs personal data processing and requires explicit consent for such actions. While it outlines individual rights, it does not explicitly detail penalties for non-compliance.
 
-Inconsistencies Present: Yes
+Output:
+Inconsistencies Present: No
 Inconsistencies:
 <|endoftext|>
 
-Example 10:
+
+Example 10
+Input:
 Context:
 The Equal Pay Act 1970 prohibits discrimination between men and women in terms of pay and employment conditions. It does not specify exceptions or provide details on enforcement mechanisms.
 
@@ -436,18 +467,23 @@ Are there any exceptions under this Act?
 Response:
 The Equal Pay Act 1970 prohibits pay discrimination between men and women for the same job. However, exceptions might exist if justified by factors such as seniority or performance.
 
+Output:
 Inconsistencies Present: Yes
 Inconsistencies:
 1. The response introduces assumptions about possible exceptions (e.g., seniority or performance) that are not mentioned in the context.
 <|endoftext|>
+
+Based on these examples do the same for the following,
+
+Input:
 """
 
 
 
-                "Context:\n {context}\nIt is better to contact the National Consumer Helpline (1800-11-4000) or UMANG App for more assistance\n"
+                "Context:\n {context}\nThe one with the grievence can also contact the National Consumer Helpline (1800-11-4000) or UMANG App for more assistance\n"
                 "History:\n {history}\n\n"
                 "Query:\n {query}\n\n"
-                "Response:\n {response}\n\n"
+                "Response:\n {response}\n\nOutput:"
             ),
             input_variables=["context", "history", "query", "response"]
         )
@@ -483,146 +519,117 @@ Output Format:
 Based on the inconsistencies provided, generate the following structured output:
 1. Inconsistency Present: Yes or No
 2. Inconsistencies: [List of corrected inconsistencies]
-3. Degree of Inconsistency: [1 to 5]
-4. Explanation: [Short and concise reason based on the listed inconsistencies]
-5. <|end_of_text|>
+3. Explanation for Correction: [Short and concise reason for the corrections made to the inconsistencies]
+4. Degree of Inconsistency: [1 to 5]
+5. Explanation: [Short and concise reason for assigning degree based on the corrected inconsistencies]
+6. <|end_of_text|>
 
 Ensure the output always ends with an `<|end_of_text|>` token
 
 
-Example 1:
+Example 1
 Input:
 Inconsistency Present: Yes
 Inconsistencies:
-1. The response states that the Employment Rights Act 1996 includes maternity benefits, but the context explicitly states that it does not mention them.
-2. The response assumes that the user wants to avail the maternity benefits but this has not been specified in the history or context.
-3. The details about “26 weeks of maternity leave” and “statutory maternity pay” are not supported by the context.
-
+1. The response states that FastEats is a well-known food chain, but the context does not mention this.
+2. The response claims that FastEats has a customer service department, but this is not explicitly stated in the context.
+3. The response states that FastEats' refund policy requires complaints to be filed within 30 days, but the context does not specify a timeframe.
+4. The response claims that the FastEats' phone number is +91-9123123123 but this information is not supported by the context
 
 Output:
 Inconsistency Present: Yes
 Inconsistencies:
-1. The response states that the Employment Rights Act 1996 includes maternity benefits, but the context explicitly states that it does not mention them.
-2. The details about “26 weeks of maternity leave” and “statutory maternity pay” are not supported by the context.
-Degree of Inconsistency: 5
-Explanation: The response fabricates maternity leave details not supported by the context and falsely claims that the Act includes these benefits. This is a major inconsistency.
-<|endoftext|>
-
-Example 2:
-Input:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response falsely claims that the Act provides for an extended warranty period, which is explicitly not mentioned in the context.
-2. The "12-month extended warranty" detail is fabricated and unsupported by the context.
-
-Output:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response falsely claims that the Act provides for an extended warranty period, which is explicitly not mentioned in the context.
-2. The "12-month extended warranty" detail is fabricated and unsupported by the context.
-Degree of Inconsistency: 5
-Explanation: The response fabricates a "12-month extended warranty" detail not supported by the context and falsely claims the Act includes extended warranty provisions. This is a major inconsistency.
-<|endoftext|>
-
-Example 3:
-Input:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response incorrectly states that the notice period under Section 21 is one month, while the context explicitly states it is two months.
-2. The response states that the user can ask more doubts but this has never been mentioned in the context or history.
-
-Output:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response incorrectly states that the notice period under Section 21 is one month, while the context explicitly states it is two months.
-Degree of Inconsistency: 4
-Explanation: The response provides an incorrect notice period of one month, directly contradicting the context that states it is two months. This significantly impacts the accuracy of the response.
-<|endoftext|>
-
-Example 4:
-Input:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response falsely claims that the Data Protection Act 2018 specifies fines of up to £20 million, while the context explicitly states that the Act does not mention specific fines.
-2. The response mentions that the user wants to get back the damages he has encountered but this is not supported by context.
-
-Output:
-Input:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response falsely claims that the Data Protection Act 2018 specifies fines of up to £20 million, while the context explicitly states that the Act does not mention specific fines.
-Degree of Inconsistency: 5
-Explanation: The response introduces fabricated details about fines of up to £20 million, which are not mentioned in the context. This is a major inconsistency.
-<|endoftext|>
-
-Example 5:
-Input:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response incorrectly states that the penalty is mentioned in the Act, whereas the context explicitly states that the Act does not specify penalties.
-
-Output:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response incorrectly states that the penalty is mentioned in the Act, whereas the context explicitly states that the Act does not specify penalties.
-Degree of Inconsistency: 5
-Explanation: The response fabricates details about penalties that are explicitly not mentioned in the context. This is a major inconsistency.
-<|endoftext|>
-
-Example 6:
-Input:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response claims that the Act mandates addressing workplace stress and mental health issues, which is not supported by the context.
-2. The response claims that the user has been experiencing stress and gives solutions to it but this has not been mentioned in the context or history.
-
-Output:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response claims that the Act mandates addressing workplace stress and mental health issues, which is not supported by the context.
-Degree of Inconsistency: 4
-Explanation: The response incorrectly states that the Act mandates addressing workplace stress and mental health issues, introducing unsupported details. This is a significant inconsistency.
-<|endoftext|>
-
-Example 7:
-Input:
-Inconsistency Present: No
-Inconsistencies:
-
-Output:
-Inconsistency Present: No
-Inconsistencies:
-Degree of Inconsistency: 1
-Explanation: The response aligns perfectly with the context.
-<|endoftext|>
-
-Example 8:
-Input:
-Inconsistency Present: No
-Inconsistencies:
-
-Output:
-Inconsistency Present: No
-Inconsistencies:
-Degree of Inconsistency: 1
-Explanation: The response is consistent with the context.
-<|endoftext|>
-
-Example 9:
-Input:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response introduces assumptions about possible exceptions (e.g., seniority or performance) that are not mentioned in the context.
-
-Output:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response introduces assumptions about possible exceptions (e.g., seniority or performance) that are not mentioned in the context.
+1. The response states that FastEats' refund policy requires complaints to be filed within 30 days, but the context does not specify a timeframe.
+2. The response claims that the FastEats' phone number is +91-9123123123 but this information is not supported by the context
+Explanation for Correction: The fact that FastEats is a popular food chain and has customer service is general knowledge and does not contradict the context; thus, these are not inconsistencies.
 Degree of Inconsistency: 3
-Explanation: The response introduces assumptions about exceptions that are not explicitly stated in the context. While plausible, these assumptions extend beyond the provided information and introduce noticeable inaccuracies.
-<|endoftext|>
+Explanation: The response introduces an unsupported claim about FastEats’ refund policy, which may mislead the user, but it does not fabricate information.
+<|end_of_text|>
+
+Example 2
+Input:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response states that the consumer can escalate their complaint to the State Consumer Forum if not resolved at the district level, but the context does not explicitly mention this.
+2. The response suggests that filing an online complaint could be a quicker resolution method, but this is not referenced in the context.
+3. The response mentions that the consumer can also approach the company’s grievance cell before filing a formal complaint, which is not in the context.
+
+Output:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response states that the consumer can escalate their complaint to the State Consumer Forum if not resolved at the district level, but the context does not explicitly mention this.
+Explanation for Correction: The suggestions about online complaint filing and approaching the company’s grievance cell are plausible and do not contradict the context, so they are not inconsistencies.
+Degree of Inconsistency: 2
+Explanation: The response makes a minor unsupported assumption about escalation but does not introduce a major contradiction.
+<|end_of_text|>
 
 
+Example 3
+Input:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response assumes that the consumer wants a refund, even though this was not explicitly stated.
+2. The response states that a legal notice can be sent before filing a consumer complaint, but this step is not mentioned in the context.
+3. The response claims that if the company does not respond within 15 days, the consumer can escalate to a higher authority, but the timeframe is not in the context.
+
+Output:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response claims that if the company does not respond within 15 days, the consumer can escalate to a higher authority, but the timeframe is not in the context.
+Explanation for Correction: Assuming that the consumer wants a refund is a reasonable assumption based on the grievance context. Additionally, mentioning that a legal notice can be sent is a valid legal recourse and not an inconsistency.
+Degree of Inconsistency: 3
+Explanation: The response introduces an unsupported timeframe for escalation, which could mislead the user but does not fundamentally misrepresent the legal process.
+<|end_of_text|>
+
+
+Example 4
+Input:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response states that a consumer can file a complaint via email, but the context does not mention this.
+2. The response states that complaints about defective appliances can be filed under the Consumer Protection Act, though the context only discusses defective food products.
+3. The response includes an additional step about obtaining an invoice copy before lodging a complaint, which is not in the context.
+
+Output:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response states that complaints about defective appliances can be filed under the Consumer Protection Act, though the context only discusses defective food products.
+Explanation for Correction: The ability to file complaints via email is a reasonable assumption, and including an invoice copy as a precautionary step is logical, even if not explicitly mentioned in the context.
+Degree of Inconsistency: 3
+Explanation: The response expands the scope of consumer complaints beyond what the context specifies, which may cause minor confusion but is not a major contradiction.
+<|end_of_text|>
+
+
+Example 5
+Input:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response states that the consumer has a right to request a replacement instead of a refund, but the context does not specify this.
+2. The response suggests that the consumer should first contact customer service before filing a formal complaint, though this step is not in the context.
+3. The response does not mention that the consumer can approach a legal advisor, despite this being in the context.
+
+Output:
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response states that the consumer has a right to request a replacement instead of a refund, but the context does not specify this.
+Explanation for Correction: Suggesting that the consumer contact customer service before filing a formal complaint is a logical and reasonable step, not an inconsistency. Additionally, missing a mention of legal advisors does not contradict the context.
+Degree of Inconsistency: 2
+Explanation: The response introduces a minor unsupported claim about replacement rights, but it does not significantly mislead the user.
+<|end_of_text|>
+
+Example 6
+Input:
+Inconsistency Present: No
+Inconsistencies:
+
+Output:
+Inconsistency Present: No
+Inconsistencies:
+Explanation for Correction: No inconsistencies present
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present
+
+Now based on these examples work for the following,
 Input:
 """
                     
@@ -686,14 +693,19 @@ Input:
         def transform_fn(inputs):
             chat = inputs["chat"]  # Expect the input to have a key "chat"
             analysis = []
-            for i, chat_triple in enumerate(chat[1:]):
+            for i, chat_triple in enumerate(chat):
                 result = chain(chat_triple)
                 # Extract the degree of inconsistency from the result (assuming it's explicitly stated in the result text).
                 degree_line = [line for line in result.split("\n") if "Degree of Inconsistency:" in line]
                 if degree_line:
                     degree = int(degree_line[0].split(":")[1].strip())
-                    if degree >= 0:  # Include only if degree is 4 or 5
-                        analysis.append("\nTurn " + str(i + 1) + "\n" + result)
+                    match = re.search(r"Inconsistencies:(.*?)(Explanation for Correction:)", text, re.DOTALL)
+                    if match:
+                        inconsistencies_text = match.group(1).strip()
+                    else:
+                        inconsistencies_text = result
+                    if degree >= 4:  # Include only if degree is 4 or 5
+                        analysis.append("\nTurn " + str(i + 1) + "\n" + inconsistencies_text)
             analysis_text = "".join(analysis)
             
             # Create the analysis prompt
@@ -1367,16 +1379,16 @@ If you're still having trouble finding the website or the complaint form, you ca
 
 Is there anything else I can help you with?'''
 # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
-# chat_sequence = process_chat_sequence(chat)
-# res = response_analysis_chain.invoke({"chat":chat_sequence})
-# print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-# print("Analysis-")
-# print(res['analysis'])
-# print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-# print("Result-")
-# print(res['result'])
-# print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-# print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+chat_sequence = process_chat_sequence(chat)
+res = response_analysis_chain.invoke({"chat":chat_sequence})
+print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+print("Analysis-")
+print(res['analysis'])
+print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+print("Result-")
+print(res['result'])
+print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
 
 chat = '''AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
@@ -1508,6 +1520,7 @@ Also, don't forget to contact the National Consumer Helpline at 1800-11-4000 for
 Is there anything else I can help you with?
 '''
 chat_sequence = process_chat_sequence(chat)
+# print(chat_sequence)
 res = response_analysis_chain.invoke({"chat":chat_sequence})
 print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
 print("Analysis-")
