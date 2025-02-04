@@ -101,9 +101,9 @@ def get_llm():
     return llm_engine_hf
 
 def process_chain(answer_chain, llm_engine_hf):
-    return answer_chain | RunnablePassthrough.assign(final_response=lambda l: l["answer"]) # If we need no processing
+    # return answer_chain | RunnablePassthrough.assign(final_response=lambda l: l["answer"]) # If we need no processing
     # Processing Chain
-    process_system_prompt = '''Rewrite the following as if said by a 6 year old: {answer}'''
+    process_system_prompt = '''Rewrite the following response by an Consumer grievance chatbot, ensuring that the context matches the output: {answer}'''
     process_template = PromptTemplate(input_variables=["answer"], template=process_system_prompt, output_varables=["final_response"])
     
     processing_chain =  process_template | llm_engine_hf  | StrOutputParser()
