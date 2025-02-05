@@ -56,6 +56,7 @@
 from langchain.prompts import PromptTemplate
 from langchain_huggingface import HuggingFacePipeline
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
+import re
 
 def test_llm_inference():
     """
@@ -102,7 +103,19 @@ def test_llm_inference():
     print("\nLLM Output:")
     print(output)
 
+def get_data():
+    file_path = "/data/nlp/spandan/code/legalLLM/hall_detect/exp_test_files/analysis_test_results.txt"
+    with open(file_path, 'r') as file:
+        data = file.read().split("<|end_of_element|>")
+    return data
 # Run the test
 if __name__ == "__main__":
-    test_llm_inference()
+    #test_llm_inference()
+    x = get_data()[3]
+    pattern = re.compile(r'Inconsistency:(.*?)Degree of Inconsistency: (\d+)', re.DOTALL)
+    matches = pattern.findall(x)
 
+    analysis = []
+    for i, (match, degree) in enumerate(matches, start=1):
+        analysis.append((match.strip(), int(degree)))
+    print(analysis)

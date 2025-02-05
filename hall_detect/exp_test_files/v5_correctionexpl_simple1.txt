@@ -1,0 +1,626 @@
+START
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+to the National Consumer Disputes Redressal Commission under Section 2(1)(f) of the Consumer Protection Act (defective goods) of the lack of adequate quality control in the manufacturing and bottling of intravenous fluids given to patients, leading to defects in the fluids. In this case, the defect was the presence of fungus due to the poor quality of the fluid itself and the inadequate cleaning and sealing of the bottle containing it. The Drug Controller was ordered by the Commission to constitute an expert committee to review the provisions of the existing legislation regulating quality control and make recommendations. The Committee madecertain recommendations for protecting the public against the possibility of contamination of I. V. fluids. This case reiterates the fact that the rational drug policy must be accompanied by sustained campaign to enhance awareness of consumers. The literate and enlightened consumers have a greater role and responsibility for materialising the above under CPA is in addition and not in derogation of other available remedies. Another remedy available to consumers is mediation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ 8. Where can I complain about food bought from a shop or restaurant or report a potential food safety incident? You should complain to the Food Safety Officer/Designated Officer/DC of your area or Food Safety Commissioner of the State. 9. What are the regulatory bodies in this sector? The regulatory agency in charge of this industry is the Food Safety and Standards Authority of India (FSSAI). It is an independent organization created by the Indian government's Ministry of Health and Family Affairs. By regulating and monitoring food safety , FSSAI is in charge of preserving and advancing public health. The FSSAI was established to Commission following the procedure prescribed by them. For more information he may visit http://www .ncdrc.nic.in/districtlist.htmlFOOD SAFETY 1. What is Food Safety? Food safety is a scientific field that outlines how to prepare, handle, and store food in order to avoid getting sick or contracting diseases from it. This includes a number of routines that should be followed to avoid potentially severe health hazards. Every consumer has a right to information about the safety and quality of the food they eat. The Food Safety and Standards Authority of India (FSSAI) is an independent organization created by the Indian government's Ministry of Health and Family Welfare. It was founded in accordance with India's Food Safety and Standards Act of 2006, which deals with food safety and regulation. The FSSAI is in charge of regulating and monitoring food safety in order to safeguard and advance public health. 2. What is food? Food is any substance consumed to provide nutritional support for any harmful or toxic substances. e. if any substance is mixed so as to reduce its quality or strength. f. if it bears any colour for the purpose of colouring only, a colour which is not prescribed 2. Overcharging3. Selling of untested drugs/drugs of poor quality. 4. Overcharging of medical devices. 5. Refusal to sell drugs. 6. Shortage or non-availability of drugs. 7. Allergic reactions or harmful side effects not adequately disclosed. 8. False or exaggerated claims about product benefits. 9. Missing or unclear information on ingredients/ Insufficient usage instructions. 10. Claims about the product's effectiveness that are not substantiated. 11. Poor product quality or defects. 12. Selling products beyond their expiration date. 13. Lack of proper warnings for potential risks associated with product use. 4. What are the modes or methods of complaint available? 1. The first step is to approach the manufacturing company through their customer care to register the grievance. 2. The link provides the toll-free number and other contact details for registering complaints: https://foodregulatory .fssai.gov .in/contact The current online Food License and Registration System (“FLRS”) includes a facility for FSSAI to address food safety concerns called "Food Safety Connect." This online forum enables customers to voice their concerns and provide input about food safety issues such as tainted, dangerous, or subpar food, food labelling flaws, and false or deceptive claims and ads for various food products. When a food concern is successfully registered, the consumer receives a special concern number by SMS at the cellphone number supplied at the time of registration. This reference number may be used in the future to follow the customer's issue in the online system.The following is the link for Food Safety Connect Portal: https://foscos.fssai.gov .in/consumer grievance/ Moreover , the following link contains the contact details of the grievance redressal mechanism at the Beverages Pvt. Ltd. v. Purushottam Gaur In this case, the consumer found insects in his fanta bottle. The NCDRC held that since the company did not provide any assistance to the laboratory or did not make any attempt to address the questions on origin of bottle, the case stand proved against the company , and it is held liable.12. What is the format of the complaint to be made under this sector? https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - DCDRC format. https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - SCDRC format. https://ncdrc.nic.in/cc.html - NCDRC filing. 13. What are the important links and resources? ● FSSAI Consumer Rights: https://foscos.fssai.gov .in/consumer grievance/know-your -rights ● FSSAI Grievance Redressal https://foodregulatory .fssai.gov .in/grievance-redressal ● FSSAI Tips for Safe Food: https://foscos.fssai.gov .in/consumer grievance/tips-for -safe-food 14. What is FSSA, 2006 & why this Act is needed? Food Safety and Standards Authority , 2006 is The FSSAI is in charge of regulating and monitoring food safety in order to safeguard and advance public health. 2. What is food? Food is any substance consumed to provide nutritional support for the body . It is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. 3. What is food adulteration? Food adulteration is the process in which the quality of food is lowered either by the addition of inferior quality material or by extraction of valuable ingredients. It not only includes the intentional addition or substitution of the substances but biological and chemical contamination during the period of growth, storage, processing, transport and distribution of the food products, is also responsible for the lowering or degradation of the quality of food products. 4. What are during the period of growth, storage, processing, transport and distribution of the food products, is also responsible for the lowering or degradation of the quality of food products. 4. What are adulterants? Adulterants are those substances which are used for making the food products unsafe for human consumption and affects the retail public. Commercial buyers for whom this is an issue have simply taken the export system as a de facto standard and are willing to pay premium prices for produce from growers certified under the NPOP .5. Which agency is responsible for investigating food borne illness and foreign object complaints? Food Safety and Standards Authority of India and State Food Authorities will investigate such complaints. 6. Which agencies regulate food business in India? Food Safety and Standards Authority of India and State Food Authorities will regulate the food business in India. 7. What are the modes or methods of complaint available? Complaint Redr essal Mechanism:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+i got food poisoning
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+I'm so sorry to hear that you've experienced food poisoning. That can be a very uncomfortable and concerning situation.
+
+
+To help you, I'd like to know more about what happened. Can you please tell me what led to your food poisoning? Was it food from a restaurant, a shop, or something you cooked at home?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No
+Inconsistencies:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present
+
+
+Code:
+```python
+def evaluate_inconsistencies(inconsistencies_present, inconsistencies):
+    # Remove inconsistencies based on rules
+    corrected_inconsistencies = []
+    for inconsistency in inconsistencies:
+        # Rule 1: General Knowledge
+        if "general knowledge" in inconsistency.lower():
+            continue
+        # Rule 2: New Claims About Actions/Recourse
+        if "action" in inconsistency.lower() and "not mentioned" not in inconsistency.lower():
+            continue
+        # Rule 3: Logical Assumptions
+        if "assumption" in inconsistency.lower():
+            continue
+        # Rule 4: Irrelevant Details
+        if "national consumer helpline" in inconsistency.lower() or "Umang app" in inconsistency.lower():
+            continue
+        # Rule 5: Missing Information
+        if "missing information" in inconsistency.lower():
+            continue
+        # Rule 6: Partial Information
+        if "partial information" in inconsistency.lower():
+            continue
+        # Rule 7: Wrong Behavior
+        if "behavior" in inconsistency.lower():
+            continue
+        corrected_inconsistencies.append(inconsistency)
+
+    # Assign Degree of Inconsistency
+    degrees_of_inconsistency = {
+        "1": "No inconsistencies. The response aligns perfectly with the context.",
+        "2": "Minor unsupported assumptions that are plausible and do not significantly impact accuracy.",
+        "3": "Noticeable unsupported claims or minor contradictions with the context.",
+        "4": "Clear contradictions or fabrications that impact accuracy but do not entirely undermine the response.",
+        "5": "Severe contradictions or fabrications that completely misrepresent the context."
+    }
+
+    # Output
+    output = {
+        "Inconsistency Present": "No" if not inconsistencies_present else "Yes",
+        "Explanation for Correction": "No inconsistencies present" if not inconsistencies_present else "The fact that FastEats is a popular food chain and has customer service is general knowledge and does not contradict the context; thus, these are not inconsistencies.",
+        "Inconsistencies": []
+    }
+    for i, inconsistency in enumerate(corrected_inconsistencies):
+        output["Inconsistencies"].append({
+            "Inconsistency": inconsistency,
+            "Degree of Inconsistency": "1" if not corrected_incons
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+5. Component   of   End   Product:   The   product   was   sold   as   a   component   of   an   end   product,   and   necessary   warnings   or   instructions   were   provided   by   the   manufacturer ,   but   the   harm   was   caused   by   the   end   product's   use.6. Expert   Supervision:   The   product   was   legally   meant   to   be   used   or   dispensed   only   by   or   under   the   supervision   of   an   expert,   and   the   manufacturer   provided   reasonable   warnings   or   instructions   to   such   expert   or   class   of   experts. 7. Consumer's   State   While   Using   the   Product:   The   consumer   was   under   the   influence   of   alcohol   or   a   prescription   drug   not   prescribed   by   a   medical   practitioner   while   using   the   product. 8. Lack   of   Harm:   Even   if   the   product   was   defective,   it   did   not   cause   any   harm   to   the   consumer   who   used   it.” Question:   “   Under   what   conditions appeal   is   permissible   after   the   settlement   of   a   dispute   through   mediation.” Question:   “   What   are   the   contents   of   a   consumer   complaint   particulars   should   be   furnished   in   the   complaint?”   Answer:   “   Contents   of   a   consumer   complaint: ● Cause-title● Name,   description,   and   address   of   the   complainant ● Name,   description,   and   address   of   the   opposite   party   or   parties ● Facts   relating   to   the   complaint   and   where   and   when   it   arose ● Copies   of   written   complaints   and   notices   sent   to   the   service   provider ● Explanation   of   how   the   opposite   parties   are   liable   and   why   they   are   answerable   or   accountable ● Documents   supporting   allegations,   with   a   list   of   these   documents   signed   by   the   complainant ● Specification   of   how   the   case   falls   within   the   jurisdiction   of   the   tribunal ●   Relief   or   remedy under CPA is in addition and not in derogation of other available remedies. Another remedy available to consumers is mediation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ 8. Where can I complain about food bought from a shop or restaurant or report a potential food safety incident? You should complain to the Food Safety Officer/Designated Officer/DC of your area or Food Safety Commissioner of the State. 9. What are the regulatory bodies in this sector? The regulatory agency in charge of this industry is the Food Safety and Standards Authority of India (FSSAI). It is an independent organization created by the Indian government's Ministry of Health and Family Affairs. By regulating and monitoring food safety , FSSAI is in charge of preserving and advancing public health. The FSSAI was established to they   obtained   the   goods   for   resale   or   commercial   purposes,   or   received   the   product   free   of   charge. 2. Misuse,   Alteration,   or   Modification:   The   product   was   misused,   altered,   or   modified   by   the   consumer ,   which   contributed   to   the   harm. 3. Obvious   or   Commonly   Known   Danger:   The   danger   posed   by   the   product   is   obvious   or   commonly   known   to   the   user   or   consumer ,   or   should   have   been   known   considering   the   characteristics   of   the   product. 4. Warnings   or   Instructions:   The   product   manufacturer   provided   warnings   or   instructions   to   the   employer   of   the   consumer ,   and   the   harm   resulted   from   the   employer's   use   of   the   product. 5. Component   of   End   Product:   The   product   was   sold   as   a   component   of   an   end   product,   and   necessary   warnings   or   instructions   were   provided   by   the are   still   considered   a   consumer .   This   means   that   small   business   owners,   artisans,   or   individuals   using   goods   for   personal   business   activities   to   sustain   their   livelihood   are   protected   under   the   Act.” — Question:   “What   are   goods?” Answer:   “Goods   refer   to   every   kind   of   movable   property .   This   definition   encompasses   all   items   that   can   be   physically   moved,   regardless   of   their   nature   or   purpose.   Additionally ,   "goods"   explicitly   include   "food"   as   defined   in   clause   (j)   of   sub-section   (1)   of   section   3   of   the   Food   Safety   and   Standards   Act,   2006.   This   means   that   all   consumable   items   classified   as   food   under   this   Act   are   also   considered   goods.   However ,   immovable   items   such   as   property   are   not   covered   under   goods” _ Question:   “What   is   deficiency   under   the   Consumer Beverages Pvt. Ltd. v. Purushottam Gaur In this case, the consumer found insects in his fanta bottle. The NCDRC held that since the company did not provide any assistance to the laboratory or did not make any attempt to address the questions on origin of bottle, the case stand proved against the company , and it is held liable.12. What is the format of the complaint to be made under this sector? https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - DCDRC format. https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - SCDRC format. https://ncdrc.nic.in/cc.html - NCDRC filing. 13. What are the important links and resources? ● FSSAI Consumer Rights: https://foscos.fssai.gov .in/consumer grievance/know-your -rights ● FSSAI Grievance Redressal https://foodregulatory .fssai.gov .in/grievance-redressal ● FSSAI Tips for Safe Food: https://foscos.fssai.gov .in/consumer grievance/tips-for -safe-food 14. What is FSSA, 2006 & why this Act is needed? Food Safety and Standards Authority , 2006 is a   list   of   these   documents   signed   by   the   complainant ● Specification   of   how   the   case   falls   within   the   jurisdiction   of   the   tribunal ●   Relief   or   remedy   claimed   by   the   complainant”   — Question:   “Does   a   consumer   need   an   advocate   to   represent   their   case   before   a   commission? Answer:   “Consumers   do   not   need   an   advocate   to   represent   their   case   in   the   Consumer   Commission.   These   commissions   are   designed   to   provide   simple   and   speedy   justice,   free   from   the   complexities   of   regular   court   procedures.   The   process   is   informal   and   does   not   require   the   involvement   of   an   advocate   or   pleader .   Consumers   can   file   and   represent   their   complaint   themselves   or   through   a   representative.” — Question:   “What   is   the   time   limit   for   filing   the   complaint?”   Answer:   “The   time   limit   for   filing   a were   not   negligent   or   fraudulent   in   providing   an   express   warranty   for   the   product.” — Question:   “   What   grounds   can   I   claim   compensation   for   a   product   service   provider?” Answer:   “A   product   service   provider   can   be   held   liable   in   a   product   liability   action   if: a.   Faulty ,   Imperfect,   or   Deficient   Service:   The   service   provided   was   faulty ,   imperfect,   deficient,   or   inadequate   in   quality ,   nature,   or   manner   of   performance   as   required   by   law,   contract,   or   otherwise. b.   Act   of   Omission,   Commission,   or   Negligence:   The   service   provider   committed   an   act   of   omission,   commission,   negligence,   or   consciously   withheld   information   that   caused   harm. c.   Failure   to   Provide   Adequate   Instructions   or   Warnings:   The   service   provider   did   not   issue   adequate   instructions   or   warnings   to   prevent
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+it was a sandwich
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+Food poisoning from a sandwich can be a real concern. To help you with your consumer grievance, I'd like to know more about the incident. Can you please tell me which shop or restaurant you bought the sandwich from?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response introduces the possibility of the sandwich being from a shop or restaurant, which is not supported by the query that specifically mentions it was a sandwich. 
+2. The response asks for the shop or restaurant name which is not relevant to the query.
+3. The response includes a link to the National Consumer Helpline and UMANG App which is not relevant to the query. 
+
+Note: The response does not address the query directly and introduces new information that is not relevant to the query. The response also asks for information that is not necessary to resolve the query.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: Yes
+Explanation for Correction: The introduction of the possibility of the sandwich being from a shop or restaurant is an irrelevant detail since the query specifically mentions it was a sandwich. The response asking for the shop or restaurant name is also irrelevant as it is not necessary to resolve the query. The link to the National Consumer Helpline and UMANG App is also an extra detail that is not relevant to the query.
+Inconsistencies:
+1. Inconsistency: The response introduces the possibility of the sandwich being from a shop or restaurant, which is not supported by the query that specifically mentions it was a sandwich.
+Degree of Inconsistency: 1
+Explanation: The response introduces an irrelevant detail that does not contradict the context but is unnecessary for resolving the query.
+2. Inconsistency: The response asks for the shop or restaurant name which is not relevant to the query.
+Degree of Inconsistency: 1
+Explanation: The response asks for an unnecessary piece of information that does not contribute to resolving the query.
+3. Inconsistency: The response includes a link to the National Consumer Helpline and UMANG App which is not relevant to the query.
+Degree of Inconsistency: 1
+Explanation: The response includes an extra detail that is not relevant to the query and does not contribute to resolving it.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+promises STD calls for 40 paise per minute, but omits to say that this rate is applicable only when calls are made to numbers serviced by the same provider, then it constitutes misrepresentation. When a manufacturer claims that the refrigerator marketed by him is the best or that it keeps the food inside germ-free, that claim should be backed by adequate data to substantiate the claim. Or else, it becomes a false statement. When an advertisement for a detergent says that it can remove grease in just one wash- it should be able to do just that and the manufacturer should be able to prove this. Or else, it is an incorrect statement or a false advertisement. When an advertisement promises to give you a ?free gift? every time you buy the advertised product, the free gift should really be so. If the manufacturer is recovering either fully or even partly, the cost of the so-called free gift, then the advertisement becomes false and misleading. If a retailer claims that he is offering a weights and measures carry a stamp indicating the month and year along with the officer's identification code. Additionally , a certificate is issued by the verifying officer. 21. How should tare weight be excluded from the actual measurement? Consumers must see zero reading before any purchase. 22. Who is a packer? Any person or a firm, which pre-packs any commodity whether in any bottle, tin, wrapper or otherwise in units suitable for sale, is a Packer. 23. What is pre-packed Commodity? Pre-packed Commodity means a Commodity , which without the purchaser being present, is placed in a package of whatever nature whether sealed or opened, so that the commodity contained therein has a predetermined value and includes those commodities which could be taken out of the package for testing or examining or inspecting the commodity . 24. What is calibration? Verification and stamping of the capacity of the Vehicle Tank or its compartment or any equipment is called Calibration. 25. What are Parcel be opened by Customs? Yes, Custom Authorities are authorised to open an International Parcel. 15. What are banned articles on Courier Services? Dangerous articles like packaged Explosive, Toxic gases, compressed air in appliances, Liquids, Semi Liquids, Flammables, Perishables, Poisonous Articles, Radioactive Materials. 16. What is the responsibility of the Consumer before sending the courier? The consumer must always read and check the terms and conditions of the courier rules of the company while making the payment and must keep the tracking ID as well as payment receipt. 17. What is the liability of signing for a package? Signing the package means the shipment has been delivered and the receiver has got the same in good condition. Do not Sign the delivery slip if the packet is not sealed and looks tampered.18. Where should consumers approach in case of any problem relating to Speed Post-delivery or Speed Post tracking? Consumers can send a letter or an email to the under CPA is in addition and not in derogation of other available remedies. Another remedy available to consumers is mediation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ 8. Where can I complain about food bought from a shop or restaurant or report a potential food safety incident? You should complain to the Food Safety Officer/Designated Officer/DC of your area or Food Safety Commissioner of the State. 9. What are the regulatory bodies in this sector? The regulatory agency in charge of this industry is the Food Safety and Standards Authority of India (FSSAI). It is an independent organization created by the Indian government's Ministry of Health and Family Affairs. By regulating and monitoring food safety , FSSAI is in charge of preserving and advancing public health. The FSSAI was established to number and email address, if available. This is mandatory. 17. Can manufacturers affix stickers for mandatory declarations on the packages? No, it is not permitted to affix stickers for mandatory declarations. It is considered an offence and can be penalised. 18. How can I know the dimension of certain commodities? For items like aluminium foil, facial tissues, waxed paper, or toilet paper, the declaration should include the number of usable sheets and the dimensions of each sheet. 19. Are all taxes included in the MRP written on the package? Yes, MRP should be inclusive of all taxes as indicated by the label "Max. Retail Price (inclusive of all taxes)". Overcharging is an offence for which the trader can be prosecuted. 20. How can I verify the genuineness of weights and measures?Verified weights and measures carry a stamp indicating the month and year along with the officer's identification code. Additionally , a certificate is issued by the verifying officer. 21. How should tare Beverages Pvt. Ltd. v. Purushottam Gaur In this case, the consumer found insects in his fanta bottle. The NCDRC held that since the company did not provide any assistance to the laboratory or did not make any attempt to address the questions on origin of bottle, the case stand proved against the company , and it is held liable.12. What is the format of the complaint to be made under this sector? https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - DCDRC format. https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - SCDRC format. https://ncdrc.nic.in/cc.html - NCDRC filing. 13. What are the important links and resources? ● FSSAI Consumer Rights: https://foscos.fssai.gov .in/consumer grievance/know-your -rights ● FSSAI Grievance Redressal https://foodregulatory .fssai.gov .in/grievance-redressal ● FSSAI Tips for Safe Food: https://foscos.fssai.gov .in/consumer grievance/tips-for -safe-food 14. What is FSSA, 2006 & why this Act is needed? Food Safety and Standards Authority , 2006 is so. If the manufacturer is recovering either fully or even partly, the cost of the so-called free gift, then the advertisement becomes false and misleading. If a retailer claims that he is offering a special discount on his goods as part of a festival celebration, while he is actually using the festival as an excuse to get rid of old and outdated goods, then he is deceiving consumers. When a toothpaste advertisement says that it prevents cavities, one expects the manufacturer to have the data to prove this. If he fails to do that, then he is making an unsubstantiated claim or a false statement. If an advertisement for a face cream claims that it removes dark spots on the face and even prevents them from coming back, the manufacturer should be able to prove this. Or else, it is a deceptive advertisement. Even reducing crucial information about the product to minute letters at the bottom of the advertisement could be termed as an unfair trade practice, particularly if such information items insured. Consumers should also check authencity of Insurance companies especially if it is third party insurance. 8. Are any guidelines or regulator available for Packers and Movers companies? No, guidelines are not available for the operation of Packers and Movers. Also, at present, there is no regulator for this sector , where consumers can approach for the resolution of their grievances. 9. What is the grievance redressal mechanism for Packers and Movers companies? 1. Consumers can approach company by contacting the customer care of the company . If no satisfactory response is received, he must send a written complaint to the head office of the company . 2. If Consumer has not received any response or satisfactory response from company , consumer may approach directly to Consumer Commission following the procedure prescribed by them. For more information he may visit http://www .ncdrc.nic.in/districtlist.htmlFOOD SAFETY 1. What is Food Safety? Food safety is a scientific
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+it ws from concu
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+Concu is a popular food chain. I'd like to help you with your consumer grievance.
+
+
+If you haven't already, I would recommend contacting the customer service team of Concu directly to report the incident and seek a resolution. If they are unresponsive or not helpful, you can also consider filing a complaint with the local consumer forum or district consumer dispute redressal forum in your area.
+
+
+Before we proceed with any further steps, have you already tried contacting Concu's customer service team about this incident?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistency Present: No 
+Inconsistencies: 
+
+The response does not contain any inconsistencies with the context and history. It is a plausible and helpful response that does not contradict any information provided. The chatbot is suggesting a course of action that is reasonable and in line with consumer protection laws, and it does not introduce any new or unsupported information.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No 
+Explanation for Correction: No inconsistencies present 
+Inconsistencies: 
+Degree of Inconsistency: 1 
+Explanation: No inconsistencies present
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+5. Component   of   End   Product:   The   product   was   sold   as   a   component   of   an   end   product,   and   necessary   warnings   or   instructions   were   provided   by   the   manufacturer ,   but   the   harm   was   caused   by   the   end   product's   use.6. Expert   Supervision:   The   product   was   legally   meant   to   be   used   or   dispensed   only   by   or   under   the   supervision   of   an   expert,   and   the   manufacturer   provided   reasonable   warnings   or   instructions   to   such   expert   or   class   of   experts. 7. Consumer's   State   While   Using   the   Product:   The   consumer   was   under   the   influence   of   alcohol   or   a   prescription   drug   not   prescribed   by   a   medical   practitioner   while   using   the   product. 8. Lack   of   Harm:   Even   if   the   product   was   defective,   it   did   not   cause   any   harm   to   the   consumer   who   used   it.” Question:   “   Under   what   conditions faulty materials, or products that lack proper safety warnings or instructions. ● Counterfeit or fake products: refers to products that are replicas or imitations of genuine brands, often made with inferior materials and potentially unsafe. ● Durability issues: involves products that wear out quickly , break easily , or don't hold up to their intended use. ● Discrimination or accessibility issues: involves products or services that are not inclusive for people with disabilities or specific needs, or marketing practices that are discriminatory or offensive. ● Poor customer service: includes long wait times, unhelpful staff, rude or unprofessional behavior , or difficulty resolving issues. ● Warranty problems: involves difficulties getting products repaired or replaced under warranty , receiving inadequate service, or delays in processing claims. ● Delivery issues: involves late deliveries, damaged goods during shipping, or incorrect or● Pricing errors or misleading costs: involves misleading advertisements providing false expectations about technology services. ● Inaccurate Information: Provision of inaccurate information by service providers, creating confusion among users. ● Lengthy Procedures: Consumers experience long procedure in getting refund or even denial of refund. ● Inadequate Protection: Concerns about the insufficient protection of user data, leading to potential privacy breaches. ● Unauthorized Access: Instances of unauthorized access or data breaches compromising user privacy and confidentiality .● Inefficient Responses: Consumers encounter subpar responses while enquiring on phones. ● Lack of Transparency: Absence of transparency in addressing and resolving customer concerns, leading to dissatisfaction. ● Inadequate Compensation: Inadequate compensation for service outages or data breaches, leaving consumers dissatisfied. 3. When complaints would not be accepted? There are various situations which might cause the complaint to be rejected. These mental   anguish   or   emotional   distress   experienced   as   a   result   of   personal   injury ,   illness,   or   damage   to   property   caused   by   a   defective   product.4. Loss   of   Consortium   or   Services:   Harm   also   includes   any   loss   of   consortium   (companionship   or   support)   or   services   resulting   from   the   harm   caused   by   a   defective   product. Exclusions:   Harm   does   not   include   harm   caused   to   the   product   itself   or   damage   to   property   due   to   breach   of   warranty   conditions.   It   also   does   not   include   any   commercial   or   economic   loss,   including   direct,   incidental,   or   consequential   loss   relating   to   the   harm.” _ Question:   “Who   is   a   product   seller   ?”   Answer:   “A   product   seller   is   a   person   engaged   in   the   business   of   importing,   selling,   distributing,   leasing,   installing,   preparing,   packaging,   labelling, products, etc. 13. What are the Precautionary Measures to be taken care by the consumers in Direct Selling? · Verify the company's contact details like physical address and landline telephone number. Don’t rely on just an email address or a post box number. Check the Website domain. · Make sure that the web address of the page starts https:// before you enter any personal information or payment details. · The ’s’ stands for 'secure'. There should also be a small padlock that appears in the bottom of your screen. Avoid entering personal information if you found the website suspicious. 14. What is the Grievance Redressal Mechanism for the direct selling companies? The Grievance Redressal mechanism for the direct selling company –Tier-1- Written grievance to be sent by post at the Head office address of the Company and wait for 15 days for the response. Tier-2- Reminder letter to be sent at the registered office address of the company by speed post and wait for another 15 days. Tier-3- they   obtained   the   goods   for   resale   or   commercial   purposes,   or   received   the   product   free   of   charge. 2. Misuse,   Alteration,   or   Modification:   The   product   was   misused,   altered,   or   modified   by   the   consumer ,   which   contributed   to   the   harm. 3. Obvious   or   Commonly   Known   Danger:   The   danger   posed   by   the   product   is   obvious   or   commonly   known   to   the   user   or   consumer ,   or   should   have   been   known   considering   the   characteristics   of   the   product. 4. Warnings   or   Instructions:   The   product   manufacturer   provided   warnings   or   instructions   to   the   employer   of   the   consumer ,   and   the   harm   resulted   from   the   employer's   use   of   the   product. 5. Component   of   End   Product:   The   product   was   sold   as   a   component   of   an   end   product,   and   necessary   warnings   or   instructions   were   provided   by   the grievance with the manufacturing company and with the drug controller of that concerned state and get the product checked by the government analyst. For more information, refer the following link:- https://cdsco.gov .in/opencms/opencms/en/State-Drugs-Control/ 14. Is a bill necessary for any grievance registration related to drug and cosmetics? Yes, a receipt or bill is mandatory. 15. Tier wise escalation level for consumer complaints handling. Tier 1 Send first written complaint to the Company Customer Care by email, website or by post Tier 2 If consumer does not receive any reply or is not satisfied with the response, he/she can file complaint to the Controller of Drugs & Cosmetic of the State/ Union territory.Tier 3 In case the consumer is not satisfied with the resolution provided, he/she may file case with Consumer Dispute Redressal Commission, following the procedure prescribed by them. For more information, you may visit http://www .ncdrc.nic.in/districtlist.htmlE-COMMERCE relevant service records, conducting interviews, or even arranging for on-site inspections if necessary . The goal is to identify the root cause and determine an appropriate resolution.● Resolution Communication - Once the investigation is complete, the service provider communicates the resolution to the customer . This communication includes details about the actions taken to address the complaint and any compensation or corrective measures implemented. ● Feedback and Follow-Up - Service providers often seek feedback from customers regarding the resolution process to assess customer satisfaction. Follow-up communications ensure that the issue has been fully resolved and that the customer is content with the outcome. ● Escalation Mechanism - In cases where the customer is dissatisfied with the resolution or believes that the complaint has not been adequately addressed, there may be an escalation mechanism. This could involve contacting a higher -level customer service representative
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+they apologised but failed to compensate me
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+It's disappointing when a company apologizes but doesn't take adequate action to make things right.
+
+
+In this case, since Concu has already apologized but failed to compensate you, you may want to consider taking further action to seek a resolution. One option is to send a legal notice to Concu, detailing the incident, the relief you're seeking, and a deadline for them to respond and compensate you.
+
+
+If you're not comfortable sending a legal notice yourself, I can help you draft a sample notice. Alternatively, you can also consider filing a complaint with the local consumer forum or district consumer dispute redressal forum in your area.
+
+
+Before we proceed, would you like me to guide you on how to draft a sample legal notice or would you like to file a complaint with the consumer forum?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistency Present: Yes
+Inconsistencies:
+1. The response suggests sending a legal notice to Concu, but the context does not support this action as a necessary step for the consumer grievance process.
+2. The response implies that the consumer can draft a sample notice, but the context does not provide any information on how to do so or what the notice should contain.
+3. The response suggests filing a complaint with the local consumer forum, but the context does not provide any information on the procedures or requirements for doing so.
+4. The response introduces the concept of a legal notice, which is not mentioned in the context, and implies that it is a necessary step in the consumer grievance process.
+5. The response implies that the consumer can seek compensation through a legal notice, but the context does not provide any information on the potential outcomes or consequences of this action.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: Yes
+Explanation for Correction: The suggestions about drafting a sample notice and filing a complaint with the local consumer forum are plausible and do not contradict the context; thus, these are not inconsistencies. However, introducing the concept of a legal notice and implying it is necessary without context is an inconsistency.
+Inconsistencies:
+1. Inconsistency: The response suggests sending a legal notice to Concu, but the context does not support this action as a necessary step for the consumer grievance process.
+Degree of Inconsistency: 3
+Explanation: The response introduces an unsupported claim about the necessity of a legal notice, which could mislead the user but does not fundamentally misrepresent the legal process.
+2. Inconsistency: The response implies that the consumer can seek compensation through a legal notice, but the context does not provide any information on the potential outcomes or consequences of this action.
+Degree of Inconsistency: 4
+Explanation: The response introduces a clear contradiction regarding the potential outcomes of a legal notice, which significantly impacts the accuracy of the response.
+3. Inconsistency: The response introduces the concept of a legal notice, which is not mentioned in the context, and implies that it is a necessary step in the consumer grievance process.
+Degree of Inconsistency: 4
+Explanation: The response introduces a clear contradiction by implying the necessity of a legal notice without context, which significantly impacts the accuracy of the response.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+the service provider of legal recourse in the event of non-compliance of terms and conditions of the notice. File Consumer complaint before appropriate Forum- If the service provider fails to comply with the terms and conditions mentioned in the legal notice or disagrees to compensate for the loss caused, the complainant has the right to file a legal complaint in the Consumer forum. It is pertinent to state that, sending of legal notice is not mandatory and therefore, a complainant has the right to directly approach respective consumer forum for filing of complaint. When complaints won’t be accepted? Limitation period to file Consumer Complaint- As per Section 35 of the Act, a consumer complaint must be filed to respective District Forum within a span of two years from the date on which the cause of action or deficiency in service or defect in goods arises. Nevertheless, the law permits the Consumer or aggrieved to file a complaint even after the statutory period of two years if the a   list   of   these   documents   signed   by   the   complainant ● Specification   of   how   the   case   falls   within   the   jurisdiction   of   the   tribunal ●   Relief   or   remedy   claimed   by   the   complainant”   — Question:   “Does   a   consumer   need   an   advocate   to   represent   their   case   before   a   commission? Answer:   “Consumers   do   not   need   an   advocate   to   represent   their   case   in   the   Consumer   Commission.   These   commissions   are   designed   to   provide   simple   and   speedy   justice,   free   from   the   complexities   of   regular   court   procedures.   The   process   is   informal   and   does   not   require   the   involvement   of   an   advocate   or   pleader .   Consumers   can   file   and   represent   their   complaint   themselves   or   through   a   representative.” — Question:   “What   is   the   time   limit   for   filing   the   complaint?”   Answer:   “The   time   limit   for   filing   a the Grievance redressal mechanism or authority of the service provider . For instance, most of the Insurance companies and organizations have their Internal grievance redressal mechanism and an aggrieved consumer can approach this mechanism or authority with his complaints before initiating any legal action against the service provider . Sending of Legal Notice: Prior to availing of statutory remedies and approaching the Consumer Forum, it is advisable that the aggrieved consumer exhausts any alternative legalremedies available to him/her . One of the actions that can be taken by Consumer before approaching the Consumer Court is to send legal notice to the service provider detailing the particulars of compliant, relief sought for, time period to comply with the conditions and cautioning the service provider of legal recourse in the event of non-compliance of terms and conditions of the notice. File Consumer complaint before appropriate Forum- If the service provider fails to comply “To   file   a   complaint   before   the   Consumer   Commission,   follow   these   steps: 1. Writing   the   Complaint: ○ The   complaint   should   be   in   writing   and   contain   all   relevant   details. ○ Specify   the   aggrieved   consumer's   details,   the   service   provider   or   manufacturer's   details,   and   the   facts   of   the   matter . ○ Clearly   state   the   remedy   sought. 2. Filing   the   Complaint: ○ Complaints   can   be   filed   in   person   or   through   an   agent. ○ They   can   also   be   sent   by   registered   post   along   with   the   required   court   fee. ○ Complaints   can   be   filed   online   at   the   e-daakhil   portal:   http://edaakhil.nic.in/ . 3. Submission   of   Copies: ○ Normally ,   three   copies   of   the   complaint   are   required. ○ One   copy   is   retained   for   official   purposes,   one   is   forwarded   to   the   opposite   party ,   and   one   is   for   the   complainant. ○ If   there   are the following procedur es for filing grievances: (i) The complaint must be in writing to the Grievance Redressal Officer stating the name of the consumer , his address and telephone number . The following form can be used by the consumer: https://bescom.karnataka.gov .in/storage/pdf-files/CGRF/CGRF%20Form%20A&%20B.pdf (ii) The name of the licensee. (iii) Brief Description of the matter , including copies of relevant documents.(iv) If known, then the consumer shall also present the laws, regulations, codes or standards which are violated. (v) Proof that the consumer has exhausted the grievance procedure in submitting the grievance to the licensee. (vi) The consumer should mention the relief sought, and shall also share an authenticated copy of the response from the licensee. Post this, the Grievance redressal officer shall : (i) Send an acknowledgement to the consumer within three days of the receipt of the complaint. A copy of the grievance shall also be forwarded to the licensee rights.  5. Multiple   Consumers   (Class   Action):   Groups   of   consumers   with   the   same   interest   can   file   a   complaint   collectively ,   with   the   permission   of   the   consumer   forum.  6. Legal   Heirs   or   Representatives:   In   case   of   a   consumer's   death,   their   legal   heir   or  representative   can   file   a   complaint.  7. Parents   or   Legal   Guardians:   For   a   minor   consumer ,   their   parent   or   legal   guardian   can   file   a   complaint. These   provisions   ensure   that   consumer   grievances   can   be   addressed   effectively   by   allowing   various   representatives   to   seek   redressal.” — Question:   “What   is   the   procedure   to   file   a   complaint   before   the   consumer   commission?” Answer:   “To   file   a   complaint   before   the   Consumer   Commission,   follow   these   steps: 1. Writing   the   Complaint: ○ The   complaint   should   be   in   writing   and   contain   all using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ (iv) Central Consumer Protection Authority If the commission finds violations of rights of consumers or in notice of trade practices which is unfair it can inquire or cause an inquiry, either on receipt of complaint or suo moto or as directed by Central Government. If the commission finds, after preliminary inquiry, of an existence of a prima facie case of consumer rights violation or it is in notice of any unfair trade practice or any wrong or inaccurate advertisement which is prejudicial to public interest or to the interests of the consumers,it can order an investigation by the District Collector or by Director General.The consumer can complain to the District Collector of the respective district for investigation and subsequent proceedings by the CCPA. He/she/they can also submit a complaint via email, at com-ccpa@nic.in . 4. Where should the grievance redressal or can register their grievances, ensuring a more systematic and organized approach to complaint resolution. 1 2. Legal Recourse: When issues persist and are not adequately addressed through the initial customer support or grievance portal channels, consumers have the option to seek legal remedies. This involves approaching District, State, or National Consumer Commissions, depending on the jurisdiction and the value of the technology services in question. Typically, courts only interfere if the decision is illogical, suffers from procedural impropriety or shocks the conscience of the court. The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer, the aggrieved party can take the service provider to the appropriate consumer commission, based on the pecuniary and
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+i would like both
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+I'll provide you with a sample legal notice and guide you on how to file a complaint with the consumer forum.
+
+
+**Sample Legal Notice:**
+
+
+[Your Name]
+[Your Address]
+[City, State, Pincode]
+[Email ID]
+[Mobile Number]
+[Date]
+
+
+Concu Food Chain
+[Their Address]
+[City, State, Pincode]
+
+
+Subject: Notice for Compensation for Food Poisoning Incident
+
+
+Dear Sir/Madam,
+
+
+Re: Compensation for Food Poisoning Incident
+
+
+This notice is to bring to your attention the incident of food poisoning that I, [Your Name], experienced after consuming a sandwich from your outlet located at [Outlet Address] on [Date]. Despite apologizing for the incident, you have failed to provide any compensation or adequate redressal.
+
+
+The details of the incident are as follows:
+
+
+* Date of consumption: [Date]
+* Outlet location: [Outlet Address]
+* Type of food consumed: Sandwich
+* Symptoms experienced: [List symptoms]
+
+
+I am seeking compensation of [Amount] for the suffering and expenses incurred due to the food poisoning incident. I request you to take immediate action to provide compensation and take necessary steps to prevent such incidents in the future.
+
+
+You are required to respond to this notice within 7 days from the date of receipt of this notice, indicating your intention to provide compensation or take any other necessary action.
+
+
+If I do not receive a satisfactory response within the stipulated time, I shall be forced to approach the consumer forum and take further action as per the Consumer Protection Act, 2019.
+
+
+Yours faithfully,
+
+
+[Your Name]
+
+
+**Filing a Complaint with the Consumer Forum:**
+
+
+To file a complaint with the consumer forum, you can follow these steps:
+
+
+1. Visit the National Consumer Helpline website ([www.nchp.nic.in](http://www.nchp.nic.in)) or the e-daakhil portal ([edaakhil.nic.in](http://edaakhil.nic.in)).
+2. Click on "File a Complaint" and select "Consumer Complaint".
+3. Fill in the required details, including your name, address, mobile number, and email ID.
+4. Provide details of the incident, including the date, time, and location of the incident, and the type of food consumed.
+5. Specify the relief you are seeking, including compensation for medical expenses, suffering, and any other damages.
+6. Attach supporting documents, such as medical bills, receipts, and any other relevant evidence.
+7. Submit the complaint and wait for a response from the consumer forum.
+
+
+Please note that you may need to visit the consumer forum in person to file the complaint, depending on the jurisdiction and the type of complaint.
+
+
+If you have any questions or need further assistance, please feel free to ask.
+
+
+Also, don't forget to contact the National Consumer Helpline at 1800-11-4000 for immediate assistance.
+
+
+Is there anything else I can help you with?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response provides a sample legal notice that includes a specific amount of compensation, which is not mentioned in the context.
+2. The response suggests that the consumer can file a complaint with the local consumer forum or district consumer dispute redressal forum, but the context does not mention this specific option.
+3. The response introduces the National Consumer Helpline and its contact number, which is not present in the context.
+4. The response mentions that the consumer can approach the consumer forum in person, but the context does not mention this specific requirement.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: Yes
+Explanation for Correction: The suggestion to file a complaint with the local consumer forum or district consumer dispute redressal forum is a plausible and legal recourse. The introduction of the National Consumer Helpline and its contact number is also a relevant piece of information that is not an inconsistency.
+Inconsistencies:
+1. Inconsistency: The response provides a sample legal notice that includes a specific amount of compensation, which is not mentioned in the context.
+Degree of Inconsistency: 3
+Explanation: The response introduces an unsupported claim about compensation, which could mislead the user but does not fundamentally misrepresent the legal process.
+2. Inconsistency: The response mentions that the consumer can approach the consumer forum in person, but the context does not mention this specific requirement.
+Degree of Inconsistency: 3
+Explanation: The response introduces an unsupported claim about the necessity of in-person approach, which could mislead the user but does not fundamentally misrepresent the legal process.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Analysis-
+Turn 1
+Inconsistencies Present: No
+
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+Inconsistencies detected: No
+No inconsistencies are present.
+START
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+appeal   is   permissible   after   the   settlement   of   a   dispute   through   mediation.” Question:   “   What   are   the   contents   of   a   consumer   complaint   particulars   should   be   furnished   in   the   complaint?”   Answer:   “   Contents   of   a   consumer   complaint: ● Cause-title● Name,   description,   and   address   of   the   complainant ● Name,   description,   and   address   of   the   opposite   party   or   parties ● Facts   relating   to   the   complaint   and   where   and   when   it   arose ● Copies   of   written   complaints   and   notices   sent   to   the   service   provider ● Explanation   of   how   the   opposite   parties   are   liable   and   why   they   are   answerable   or   accountable ● Documents   supporting   allegations,   with   a   list   of   these   documents   signed   by   the   complainant ● Specification   of   how   the   case   falls   within   the   jurisdiction   of   the   tribunal ●   Relief   or   remedy 5. Component   of   End   Product:   The   product   was   sold   as   a   component   of   an   end   product,   and   necessary   warnings   or   instructions   were   provided   by   the   manufacturer ,   but   the   harm   was   caused   by   the   end   product's   use.6. Expert   Supervision:   The   product   was   legally   meant   to   be   used   or   dispensed   only   by   or   under   the   supervision   of   an   expert,   and   the   manufacturer   provided   reasonable   warnings   or   instructions   to   such   expert   or   class   of   experts. 7. Consumer's   State   While   Using   the   Product:   The   consumer   was   under   the   influence   of   alcohol   or   a   prescription   drug   not   prescribed   by   a   medical   practitioner   while   using   the   product. 8. Lack   of   Harm:   Even   if   the   product   was   defective,   it   did   not   cause   any   harm   to   the   consumer   who   used   it.” Question:   “   Under   what   conditions link provides the toll-free number and other contact details for registering complaints: https://foodregulatory .fssai.gov .in/contact The current online Food License and Registration System (“FLRS”) includes a facility for FSSAI to address food safety concerns called "Food Safety Connect." This online forum enables customers to voice their concerns and provide input about food safety issues such as tainted, dangerous, or subpar food, food labelling flaws, and false or deceptive claims and ads for various food products. When a food concern is successfully registered, the consumer receives a special concern number by SMS at the cellphone number supplied at the time of registration. This reference number may be used in the future to follow the customer's issue in the online system.The following is the link for Food Safety Connect Portal: https://foscos.fssai.gov .in/consumer grievance/ Moreover , the following link contains the contact details of the grievance redressal mechanism at the misleading advertisements providing false expectations about technology services. ● Inaccurate Information: Provision of inaccurate information by service providers, creating confusion among users. ● Lengthy Procedures: Consumers experience long procedure in getting refund or even denial of refund. ● Inadequate Protection: Concerns about the insufficient protection of user data, leading to potential privacy breaches. ● Unauthorized Access: Instances of unauthorized access or data breaches compromising user privacy and confidentiality .● Inefficient Responses: Consumers encounter subpar responses while enquiring on phones. ● Lack of Transparency: Absence of transparency in addressing and resolving customer concerns, leading to dissatisfaction. ● Inadequate Compensation: Inadequate compensation for service outages or data breaches, leaving consumers dissatisfied. 3. When complaints would not be accepted? There are various situations which might cause the complaint to be rejected. These complainant   and   opposite   party   details   again   and   click   save   and   continue. 14. Upload   Documents:   Attach   your   index,   complaint,   memo   of   parties,   affidavit,   and   any   other   evidence.   All   documents   must   be   signed   and   notarized. 15. Review   and   Submit:   Verify   the   details   of   your   complaint   and   submit   it. 16. Pay   Fees:   Pay   the   fees   for   your   complaint   on   the   pending   complaints   page. — Question:   “Can   a   consumer   complaint   be   resolved   through   mediation?”   Answer:   “Yes,   a   consumer   complaint   can   be   resolved   through   mediation.   The   relevant   consumer   forum,   either   at   the   first   hearing   after   admission   or   later   stages,   may   refer   the   complaint   to   mediation   with   the   written   consent   of   the   parties   if   they   believe   there   is   potential   for   settlement.   Parties   can   also   opt   for   mediation   at a   list   of   these   documents   signed   by   the   complainant ● Specification   of   how   the   case   falls   within   the   jurisdiction   of   the   tribunal ●   Relief   or   remedy   claimed   by   the   complainant”   — Question:   “Does   a   consumer   need   an   advocate   to   represent   their   case   before   a   commission? Answer:   “Consumers   do   not   need   an   advocate   to   represent   their   case   in   the   Consumer   Commission.   These   commissions   are   designed   to   provide   simple   and   speedy   justice,   free   from   the   complexities   of   regular   court   procedures.   The   process   is   informal   and   does   not   require   the   involvement   of   an   advocate   or   pleader .   Consumers   can   file   and   represent   their   complaint   themselves   or   through   a   representative.” — Question:   “What   is   the   time   limit   for   filing   the   complaint?”   Answer:   “The   time   limit   for   filing   a in a specific period. The respondent, Angad Kumar, received a message claiming that he had won an Alto Car in the scheme. When he approached the petitioner's office for the car, it was not provided. The petitioner contended that a revised message was sent, asking to ignore the earlier message and that the number was not registered in Angad Kumar's name.The District Forum ruled in favor of the respondent, directing the petitioner to pay for the Alto car, compensation, and litigation costs. The State Commission upheld the order with a modification in the compensation amount. The National Commission, in its decision, observed that the petitioner's negligence in handling the communication caused harassment and mental trauma to the respondent. The National Commission partially allowed the revision petition, modifying the order to award Rs. 1,00,000/- as compensation to the respondent instead of the Alto car or its price. The petitioner was directed to pay this amount within 45 days, and in they   obtained   the   goods   for   resale   or   commercial   purposes,   or   received   the   product   free   of   charge. 2. Misuse,   Alteration,   or   Modification:   The   product   was   misused,   altered,   or   modified   by   the   consumer ,   which   contributed   to   the   harm. 3. Obvious   or   Commonly   Known   Danger:   The   danger   posed   by   the   product   is   obvious   or   commonly   known   to   the   user   or   consumer ,   or   should   have   been   known   considering   the   characteristics   of   the   product. 4. Warnings   or   Instructions:   The   product   manufacturer   provided   warnings   or   instructions   to   the   employer   of   the   consumer ,   and   the   harm   resulted   from   the   employer's   use   of   the   product. 5. Component   of   End   Product:   The   product   was   sold   as   a   component   of   an   end   product,   and   necessary   warnings   or   instructions   were   provided   by   the
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+i got food poisoning
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+I'm so sorry to hear that you've experienced food poisoning. That can be a very uncomfortable and concerning situation.
+
+
+To help you, I'd like to know more about what happened. Can you please tell me what led to your food poisoning? Was it food from a restaurant, a shop, or something you cooked at home?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistency Present: No
+Inconsistencies:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+Commission following the procedure prescribed by them. For more information he may visit http://www .ncdrc.nic.in/districtlist.htmlFOOD SAFETY 1. What is Food Safety? Food safety is a scientific field that outlines how to prepare, handle, and store food in order to avoid getting sick or contracting diseases from it. This includes a number of routines that should be followed to avoid potentially severe health hazards. Every consumer has a right to information about the safety and quality of the food they eat. The Food Safety and Standards Authority of India (FSSAI) is an independent organization created by the Indian government's Ministry of Health and Family Welfare. It was founded in accordance with India's Food Safety and Standards Act of 2006, which deals with food safety and regulation. The FSSAI is in charge of regulating and monitoring food safety in order to safeguard and advance public health. 2. What is food? Food is any substance consumed to provide nutritional support for to the National Consumer Disputes Redressal Commission under Section 2(1)(f) of the Consumer Protection Act (defective goods) of the lack of adequate quality control in the manufacturing and bottling of intravenous fluids given to patients, leading to defects in the fluids. In this case, the defect was the presence of fungus due to the poor quality of the fluid itself and the inadequate cleaning and sealing of the bottle containing it. The Drug Controller was ordered by the Commission to constitute an expert committee to review the provisions of the existing legislation regulating quality control and make recommendations. The Committee madecertain recommendations for protecting the public against the possibility of contamination of I. V. fluids. This case reiterates the fact that the rational drug policy must be accompanied by sustained campaign to enhance awareness of consumers. The literate and enlightened consumers have a greater role and responsibility for materialising the above The FSSAI is in charge of regulating and monitoring food safety in order to safeguard and advance public health. 2. What is food? Food is any substance consumed to provide nutritional support for the body . It is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. 3. What is food adulteration? Food adulteration is the process in which the quality of food is lowered either by the addition of inferior quality material or by extraction of valuable ingredients. It not only includes the intentional addition or substitution of the substances but biological and chemical contamination during the period of growth, storage, processing, transport and distribution of the food products, is also responsible for the lowering or degradation of the quality of food products. 4. What are under CPA is in addition and not in derogation of other available remedies. Another remedy available to consumers is mediation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ 8. Where can I complain about food bought from a shop or restaurant or report a potential food safety incident? You should complain to the Food Safety Officer/Designated Officer/DC of your area or Food Safety Commissioner of the State. 9. What are the regulatory bodies in this sector? The regulatory agency in charge of this industry is the Food Safety and Standards Authority of India (FSSAI). It is an independent organization created by the Indian government's Ministry of Health and Family Affairs. By regulating and monitoring food safety , FSSAI is in charge of preserving and advancing public health. The FSSAI was established to on recall of food products may be provided on the Food Authority website. ● If a product has been recalled, the consumer should not consume the product and return it to the shopkeeper from where they have purchased the product or return it to the company representative. 26. What is Food Safety Management Systems (FSMS)? A Food Safety Management System (FSMS) is a network of interrelated elements that combine to ensure that food does not cause adverse human health effects. These elements include programs, plans, policies, procedures, practices,processes, goals, objectives, methods, controls, roles, responsibilities, relationships,documents, records, and resources. ● The purpose is to ensure the manufacture, storage, distribution and sale of safe food ● For more information please visit https://foodlicensing.fssai.gov .in/cmsweb/ 27. Where can I obtain information on food safety? The information can be obtained from the website of the FSSAI.AGENCY SER VICES Beverages Pvt. Ltd. v. Purushottam Gaur In this case, the consumer found insects in his fanta bottle. The NCDRC held that since the company did not provide any assistance to the laboratory or did not make any attempt to address the questions on origin of bottle, the case stand proved against the company , and it is held liable.12. What is the format of the complaint to be made under this sector? https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - DCDRC format. https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - SCDRC format. https://ncdrc.nic.in/cc.html - NCDRC filing. 13. What are the important links and resources? ● FSSAI Consumer Rights: https://foscos.fssai.gov .in/consumer grievance/know-your -rights ● FSSAI Grievance Redressal https://foodregulatory .fssai.gov .in/grievance-redressal ● FSSAI Tips for Safe Food: https://foscos.fssai.gov .in/consumer grievance/tips-for -safe-food 14. What is FSSA, 2006 & why this Act is needed? Food Safety and Standards Authority , 2006 is 5. Component   of   End   Product:   The   product   was   sold   as   a   component   of   an   end   product,   and   necessary   warnings   or   instructions   were   provided   by   the   manufacturer ,   but   the   harm   was   caused   by   the   end   product's   use.6. Expert   Supervision:   The   product   was   legally   meant   to   be   used   or   dispensed   only   by   or   under   the   supervision   of   an   expert,   and   the   manufacturer   provided   reasonable   warnings   or   instructions   to   such   expert   or   class   of   experts. 7. Consumer's   State   While   Using   the   Product:   The   consumer   was   under   the   influence   of   alcohol   or   a   prescription   drug   not   prescribed   by   a   medical   practitioner   while   using   the   product. 8. Lack   of   Harm:   Even   if   the   product   was   defective,   it   did   not   cause   any   harm   to   the   consumer   who   used   it.” Question:   “   Under   what   conditions 17.pdf Food Safety and Standards (Contaminants, Toxins and Residues) Regulations, 2011 https://www .fssai.gov .in/upload/uploadfiles/files/Compendium_Contaminants_Regulations_20_0 8_2020.pdf Other relevant laws and regulations relating to food safety can be accessed using the following link: https://www .fssai.gov .in/cms/food-safety-and-standards-regulations.php 11. What are the landmark judgements in this sector? 1. Swami Achyutanand Tirth and Ors. v. Union of India (UOI) and Ors. In the present case, the Court laid down various guidelines for the government including, the proper implementation of Food Safety and Standards Act, 2006, identifying high risk areas where the chances of adulteration are more, maintaining adequate lab testing infrastructure, and others. 2. Hindustan Coca-Cola Beverages Pvt. Ltd. v. Purushottam Gaur In this case, the consumer found insects in his fanta bottle. The NCDRC held that since the company did not provide any assistance to the laboratory or did not
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+it was a sandwich
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+Food poisoning from a sandwich can be a real concern. To help you with your consumer grievance, I'd like to know more about the incident. Can you please tell me which shop or restaurant you bought the sandwich from?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response claims that the Food Safety and Standards Authority of India (FSSAI) is in charge of regulating and monitoring food safety to safeguard and advance public health, which is correct. However, the response then asks for the name of the shop or restaurant where the sandwich was purchased, which is not relevant to the FSSAI's role in food safety regulation. This introduces a new topic that is not supported by the context.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: Yes
+Explanation for Correction: The question about the name of the shop or restaurant is not relevant to the FSSAI's role in food safety regulation and is thus an inconsistency.
+Inconsistencies:
+1. Inconsistency: The response asks for the name of the shop or restaurant where the sandwich was purchased.
+Degree of Inconsistency: 3
+Explanation: The response introduces a new topic unrelated to the FSSAI's role, which could mislead the user but does not fundamentally misrepresent the regulatory body's purpose.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+5. Component   of   End   Product:   The   product   was   sold   as   a   component   of   an   end   product,   and   necessary   warnings   or   instructions   were   provided   by   the   manufacturer ,   but   the   harm   was   caused   by   the   end   product's   use.6. Expert   Supervision:   The   product   was   legally   meant   to   be   used   or   dispensed   only   by   or   under   the   supervision   of   an   expert,   and   the   manufacturer   provided   reasonable   warnings   or   instructions   to   such   expert   or   class   of   experts. 7. Consumer's   State   While   Using   the   Product:   The   consumer   was   under   the   influence   of   alcohol   or   a   prescription   drug   not   prescribed   by   a   medical   practitioner   while   using   the   product. 8. Lack   of   Harm:   Even   if   the   product   was   defective,   it   did   not   cause   any   harm   to   the   consumer   who   used   it.” Question:   “   Under   what   conditions mechanism, and any other similar information which may be required by consumers to make informed decisions; (d) information on available payment methods, the security of those payment methods, any fees or charges payable by users, the procedure to cancel regular payments under those methods, charge-back options, (e) all information provided to it by sellers under sub-rule (5) of rule 6; and (f) an explanation of the main parameters which, individually or collectively , are most significant in determining the ranking of goods or sellers on its platform and the relative importance of those main parameters through an easily and publicly available description drafted in plain and intelligible language. (g) Every marketplace e-commerce entity shall include in its terms and conditions generally governing its relationship with sellers on its platform, a description of any differentiated treatment which it gives or might give between goods or services or sellers of the same category. (h) for   a   product, b)   Provides   additional   services,   such   as   installation,   for   a   product.” — Question:   “Who   is   responsible   if   several   parties   are   involved   in   the   manufacturing   of   a   product?” Answer:   “   In   cases   involving   multiple   manufacturers,   liability   is   determined   by   the   commission   on   a   case-by-case   basis.   Factors   considered   include   which   component   caused   the   defect   and   whether   proper   instructions   or   warnings   were   provided.   This   is   especially   relevant   for   products   like   home   appliances   and   automobiles   with   parts   from   different   manufacturers.   Courts   have   attempted   to   identify   the   responsible   party   in   past   cases   with   multiple   parties   involved.   If   assigning   liability   to   a   single   party   is   not   possible,   all   involved   parties   may   be   held   jointly   and   severally   liable.” — Question: contracts or within governing body rules applicable to athletes upon membership. The Arbitration Act grants courts broad powers to provide interim relief during arbitral proceedings. This includes measures like securing the disputed amount or appointing a receiver . General principles for granting interim reliefs in India involve demonstrating a prima facie case, a balance of convenience, and the likelihood of irreparable injury if the relief is not granted. 4. Approaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer , the aggrieved party can take the service provider to the appropriate consumer commission, based on the pecuniary and territorial jurisdiction. The jurisdictions of the various consumer decisions at the pre-purchase stage: Provided that a marketplace e-commerce entity shall, on a request in writing made by a consumer after the purchase of any goods or services on its platform by such consumer, provide him with information regarding the seller from which such consumer has made such purchase, including the principal geographic address of its headquarters and all branches, name and details of its website, its email address and any other information necessary for communication with the seller for effective dispute resolution; (b) a ticket number for each complaint lodged through which the consumer can track the status of the complaint;(c) information relating to return, refund, exchange, warranty and guarantee, delivery and shipment, modes of payment, and grievance redressal mechanism, and any other similar information which may be required by consumers to make informed decisions; (d) information on available payment methods, the security of those payment methods, any relevant service records, conducting interviews, or even arranging for on-site inspections if necessary . The goal is to identify the root cause and determine an appropriate resolution.● Resolution Communication - Once the investigation is complete, the service provider communicates the resolution to the customer . This communication includes details about the actions taken to address the complaint and any compensation or corrective measures implemented. ● Feedback and Follow-Up - Service providers often seek feedback from customers regarding the resolution process to assess customer satisfaction. Follow-up communications ensure that the issue has been fully resolved and that the customer is content with the outcome. ● Escalation Mechanism - In cases where the customer is dissatisfied with the resolution or believes that the complaint has not been adequately addressed, there may be an escalation mechanism. This could involve contacting a higher -level customer service representative in derogation of other available remedies. 3. Mediation: Another remedy available to consumers is mediation. Mediation involves a neutral third party facilitating discussions between the consumer and the technology service provider to reach a mutually acceptable resolution. This approach often provides a quicker and less adversarial way to settle disputes, promoting a win-win situation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. 4. Central Consumer Protection Authority: If the commission finds violations of rights of consumers or in notice of trade practices which is unfair it can inquire or cause an inquiry, either on receipt of complaint or suo moto or as directed by Central Government. If the commission finds, after preliminary inquiry, of an existence of a prima facie case of consumer rights violation or it is in notice of any unfair trade practice or any wrong or inaccurate advertisement in a specific period. The respondent, Angad Kumar, received a message claiming that he had won an Alto Car in the scheme. When he approached the petitioner's office for the car, it was not provided. The petitioner contended that a revised message was sent, asking to ignore the earlier message and that the number was not registered in Angad Kumar's name.The District Forum ruled in favor of the respondent, directing the petitioner to pay for the Alto car, compensation, and litigation costs. The State Commission upheld the order with a modification in the compensation amount. The National Commission, in its decision, observed that the petitioner's negligence in handling the communication caused harassment and mental trauma to the respondent. The National Commission partially allowed the revision petition, modifying the order to award Rs. 1,00,000/- as compensation to the respondent instead of the Alto car or its price. The petitioner was directed to pay this amount within 45 days, and in
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+it ws from concu
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+Concu is a popular food chain. I'd like to help you with your consumer grievance.
+
+
+If you haven't already, I would recommend contacting the customer service team of Concu directly to report the incident and seek a resolution. If they are unresponsive or not helpful, you can also consider filing a complaint with the local consumer forum or district consumer dispute redressal forum in your area.
+
+
+Before we proceed with any further steps, have you already tried contacting Concu's customer service team about this incident?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No
+Inconsistencies: 
+
+This response is consistent with the context and does not contain any inconsistencies. It provides a plausible next step for the user to take, which is to contact Concu's customer service team directly. The mention of Concu being a "popular food chain" is a general piece of information that does not contradict the context. The response does not introduce any new, unsupported information or fabricated details.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+under CPA is in addition and not in derogation of other available remedies. Another remedy available to consumers is mediation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ 8. Where can I complain about food bought from a shop or restaurant or report a potential food safety incident? You should complain to the Food Safety Officer/Designated Officer/DC of your area or Food Safety Commissioner of the State. 9. What are the regulatory bodies in this sector? The regulatory agency in charge of this industry is the Food Safety and Standards Authority of India (FSSAI). It is an independent organization created by the Indian government's Ministry of Health and Family Affairs. By regulating and monitoring food safety , FSSAI is in charge of preserving and advancing public health. The FSSAI was established to handles consumer grievances in this sector. 6. Is there any time limit to provide the services? The service provide time of booking can be varied and depend upon its availability with the company. The same is usually declared on the website by the company at the time of providing services. 7. If a consumer hired the agency but didn’t make payment, can he complain against it? If the work order is accepted by the company and assured the consumer for completion, even if the amount is not paid but it was “promise to pay” he can complain to the company in writing, and if no response received, he may move to the consumer commission. 8. What will you suggest if the consumer has booked the banquet hall before lockdown and after lockdown the agency denies to refund? In that case, the consumer needs to go through the guidelines of the particular state for the same, whether the booking has been cancelled and the amount has to be refunded to the consumer, or, booking will be extended till a in some cases treatment as well, has not been obtained. ● Damage to organs due to negligence. ● Wrong treatment due to wrong diagnosis. ● Money receipt or prescription or discharge summary or test reports when not provided. ● When treatment is not chosen as accepted and established in medical norms /as per medical research/available medical literature. ● Theory of res ipsa loquitur [a thing speaks of itself] - in case any instrument left in the body, a wrong part removed, allopathic treatment given by a homeopathic doctor etc. ● Govt Hospital liable if contribution from the employee’s salary deducted OR Payment made by insurance company. ● Hospitals can also be negligent ‘it is a case of non- availability of oxygen cylinder either because the hospital failed to keep available a gas cylinder or because of the gas cylinder being found empty. What are the duties requir ed of medical professionals? CODE OF MEDICAL ETHICS REGULATION 2002 This regulation states the code of etiquettes and 3. The next step is to reach the Medical Council of India with no satisfactory response from the SMC. https://www .india.gov.in/official-website-medical-council-india 4. An alternative remedy is to submit your complaint through National Health Portal’s Grievance redressal. https://www .nhp.gov.in/redressal-mechanism_pg 5. Appr oaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer, the aggrieved party can take the service provider to the appropriate consumer commission, based on the pecuniary and territorial jurisdiction. The jurisdictions of the various consumer commissions are as follows- a) District Commission: The aggrieved consumer can reach out to the District Commission under section 34 of the to the National Consumer Disputes Redressal Commission under Section 2(1)(f) of the Consumer Protection Act (defective goods) of the lack of adequate quality control in the manufacturing and bottling of intravenous fluids given to patients, leading to defects in the fluids. In this case, the defect was the presence of fungus due to the poor quality of the fluid itself and the inadequate cleaning and sealing of the bottle containing it. The Drug Controller was ordered by the Commission to constitute an expert committee to review the provisions of the existing legislation regulating quality control and make recommendations. The Committee madecertain recommendations for protecting the public against the possibility of contamination of I. V. fluids. This case reiterates the fact that the rational drug policy must be accompanied by sustained campaign to enhance awareness of consumers. The literate and enlightened consumers have a greater role and responsibility for materialising the above received a printed receipt, and the internet service was activated. However, the service was suddenly disconnected on 10.05.2013 without any intimation. The complainant sought compensation of Rs. 99,95,500/- for the alleged deficiencies in service. The respondents contended that the connection was not activated due to the complainant's non-residence at the given address. The State Commission observed deficiencies in service and unfair trade practices by the respondents but dismissed the complaint, considering the claimed amount disproportionate. The State Commission directed the complainant to pay Rs. 10,000/- to the State Consumer Welfare Fund within 30 days; otherwise, it would carry an interest of 9% p.a. The complainant appealed to the National Commission. The National Commission found the complainant's claim disproportionately high and unreasonable. It observed that the complainant seemed to be misusing statutory processes to gain wrongful benefits and create nuisance value is the link for Food Safety Connect Portal: https://foscos.fssai.gov .in/consumer grievance/ Moreover , the following link contains the contact details of the grievance redressal mechanism at the state levels: https://fssai.gov .in/cms/helpdesk.php Furthermore, the FSSAI also has signed up to the Centralized Public Grievance Redress and Monitoring System (CPGRAMS), which is an online platform available to consumers 24*7 to lodge their grievances to the public authorities on any subject. The following link could be used to register a complaint through the CPGRAMS portal: https://pgportal.gov .in/ (iii) Approaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer , the aggrieved party can take the service product   or   service   are   not   liable   to   penalties. —   —— Question:   “Before   resorting   to   litigation,   is   there   any   process   that   can   be   pursued   in   order   to   claim   compensation?” Answer:   “Yes,   before   resorting   to   litigation,   an   aggrieved   individual   can   take   the   following   steps   to   claim   compensation: Send   a   Notice:   The   individual   can   send   a   formal   notice   to   the   service   provider   or   seller .   This   notice   should   detail: ● The   defects   in   the   goods   or   services   or   the   deficiencies   in   the   service ● The   individual's   intention   to   pursue   legal   action   if   the   service   provider   fails   to   offer   compensation This   step   allows   the   service   provider   an   opportunity   to   rectify   the   issue   or   offer   compensation,   potentially   resolving   the   dispute   without   the   need   for   litigation.”_ Questions:   “Can   I
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+they apologised but failed to compensate me
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+It's disappointing when a company apologizes but doesn't take adequate action to make things right.
+
+
+In this case, since Concu has already apologized but failed to compensate you, you may want to consider taking further action to seek a resolution. One option is to send a legal notice to Concu, detailing the incident, the relief you're seeking, and a deadline for them to respond and compensate you.
+
+
+If you're not comfortable sending a legal notice yourself, I can help you draft a sample notice. Alternatively, you can also consider filing a complaint with the local consumer forum or district consumer dispute redressal forum in your area.
+
+
+Before we proceed, would you like me to guide you on how to draft a sample legal notice or would you like to file a complaint with the consumer forum?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response suggests that the consumer can send a legal notice to Concu, which is not mentioned in the context.
+2. The response also mentions drafting a sample notice, which is not relevant to the context.
+3. The response introduces the idea of filing a complaint with the local consumer forum or district consumer dispute redressal forum, which is mentioned in the context but not as a next step after the company has apologized but failed to compensate.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: Yes
+Explanation for Correction: Drafting a sample notice is not relevant to the context and is not an inconsistency.
+Inconsistencies:
+1. Inconsistency: The response suggests that the consumer can send a legal notice to Concu, which is not mentioned in the context.
+Degree of Inconsistency: 3
+Explanation: The response introduces an unsupported claim about sending a legal notice, which may mislead the user but does not fundamentally misrepresent the legal process.
+2. Inconsistency: The response introduces the idea of filing a complaint with the local consumer forum or district consumer dispute redressal forum, which is mentioned in the context but not as a next step after the company has apologized but failed to compensate.
+Degree of Inconsistency: 2
+Explanation: The response makes a minor unsupported assumption about the next step in the legal process, but it does not introduce a major contradiction with the context.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+the service provider of legal recourse in the event of non-compliance of terms and conditions of the notice. File Consumer complaint before appropriate Forum- If the service provider fails to comply with the terms and conditions mentioned in the legal notice or disagrees to compensate for the loss caused, the complainant has the right to file a legal complaint in the Consumer forum. It is pertinent to state that, sending of legal notice is not mandatory and therefore, a complainant has the right to directly approach respective consumer forum for filing of complaint. When complaints won’t be accepted? Limitation period to file Consumer Complaint- As per Section 35 of the Act, a consumer complaint must be filed to respective District Forum within a span of two years from the date on which the cause of action or deficiency in service or defect in goods arises. Nevertheless, the law permits the Consumer or aggrieved to file a complaint even after the statutory period of two years if the a   list   of   these   documents   signed   by   the   complainant ● Specification   of   how   the   case   falls   within   the   jurisdiction   of   the   tribunal ●   Relief   or   remedy   claimed   by   the   complainant”   — Question:   “Does   a   consumer   need   an   advocate   to   represent   their   case   before   a   commission? Answer:   “Consumers   do   not   need   an   advocate   to   represent   their   case   in   the   Consumer   Commission.   These   commissions   are   designed   to   provide   simple   and   speedy   justice,   free   from   the   complexities   of   regular   court   procedures.   The   process   is   informal   and   does   not   require   the   involvement   of   an   advocate   or   pleader .   Consumers   can   file   and   represent   their   complaint   themselves   or   through   a   representative.” — Question:   “What   is   the   time   limit   for   filing   the   complaint?”   Answer:   “The   time   limit   for   filing   a the Grievance redressal mechanism or authority of the service provider . For instance, most of the Insurance companies and organizations have their Internal grievance redressal mechanism and an aggrieved consumer can approach this mechanism or authority with his complaints before initiating any legal action against the service provider . Sending of Legal Notice: Prior to availing of statutory remedies and approaching the Consumer Forum, it is advisable that the aggrieved consumer exhausts any alternative legalremedies available to him/her . One of the actions that can be taken by Consumer before approaching the Consumer Court is to send legal notice to the service provider detailing the particulars of compliant, relief sought for, time period to comply with the conditions and cautioning the service provider of legal recourse in the event of non-compliance of terms and conditions of the notice. File Consumer complaint before appropriate Forum- If the service provider fails to comply rights.  5. Multiple   Consumers   (Class   Action):   Groups   of   consumers   with   the   same   interest   can   file   a   complaint   collectively ,   with   the   permission   of   the   consumer   forum.  6. Legal   Heirs   or   Representatives:   In   case   of   a   consumer's   death,   their   legal   heir   or  representative   can   file   a   complaint.  7. Parents   or   Legal   Guardians:   For   a   minor   consumer ,   their   parent   or   legal   guardian   can   file   a   complaint. These   provisions   ensure   that   consumer   grievances   can   be   addressed   effectively   by   allowing   various   representatives   to   seek   redressal.” — Question:   “What   is   the   procedure   to   file   a   complaint   before   the   consumer   commission?” Answer:   “To   file   a   complaint   before   the   Consumer   Commission,   follow   these   steps: 1. Writing   the   Complaint: ○ The   complaint   should   be   in   writing   and   contain   all complainant   and   opposite   party   details   again   and   click   save   and   continue. 14. Upload   Documents:   Attach   your   index,   complaint,   memo   of   parties,   affidavit,   and   any   other   evidence.   All   documents   must   be   signed   and   notarized. 15. Review   and   Submit:   Verify   the   details   of   your   complaint   and   submit   it. 16. Pay   Fees:   Pay   the   fees   for   your   complaint   on   the   pending   complaints   page. — Question:   “Can   a   consumer   complaint   be   resolved   through   mediation?”   Answer:   “Yes,   a   consumer   complaint   can   be   resolved   through   mediation.   The   relevant   consumer   forum,   either   at   the   first   hearing   after   admission   or   later   stages,   may   refer   the   complaint   to   mediation   with   the   written   consent   of   the   parties   if   they   believe   there   is   potential   for   settlement.   Parties   can   also   opt   for   mediation   at the following procedur es for filing grievances: (i) The complaint must be in writing to the Grievance Redressal Officer stating the name of the consumer , his address and telephone number . The following form can be used by the consumer: https://bescom.karnataka.gov .in/storage/pdf-files/CGRF/CGRF%20Form%20A&%20B.pdf (ii) The name of the licensee. (iii) Brief Description of the matter , including copies of relevant documents.(iv) If known, then the consumer shall also present the laws, regulations, codes or standards which are violated. (v) Proof that the consumer has exhausted the grievance procedure in submitting the grievance to the licensee. (vi) The consumer should mention the relief sought, and shall also share an authenticated copy of the response from the licensee. Post this, the Grievance redressal officer shall : (i) Send an acknowledgement to the consumer within three days of the receipt of the complaint. A copy of the grievance shall also be forwarded to the licensee can register their grievances, ensuring a more systematic and organized approach to complaint resolution. 1 2. Legal Recourse: When issues persist and are not adequately addressed through the initial customer support or grievance portal channels, consumers have the option to seek legal remedies. This involves approaching District, State, or National Consumer Commissions, depending on the jurisdiction and the value of the technology services in question. Typically, courts only interfere if the decision is illogical, suffers from procedural impropriety or shocks the conscience of the court. The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer, the aggrieved party can take the service provider to the appropriate consumer commission, based on the pecuniary and “To   file   a   complaint   before   the   Consumer   Commission,   follow   these   steps: 1. Writing   the   Complaint: ○ The   complaint   should   be   in   writing   and   contain   all   relevant   details. ○ Specify   the   aggrieved   consumer's   details,   the   service   provider   or   manufacturer's   details,   and   the   facts   of   the   matter . ○ Clearly   state   the   remedy   sought. 2. Filing   the   Complaint: ○ Complaints   can   be   filed   in   person   or   through   an   agent. ○ They   can   also   be   sent   by   registered   post   along   with   the   required   court   fee. ○ Complaints   can   be   filed   online   at   the   e-daakhil   portal:   http://edaakhil.nic.in/ . 3. Submission   of   Copies: ○ Normally ,   three   copies   of   the   complaint   are   required. ○ One   copy   is   retained   for   official   purposes,   one   is   forwarded   to   the   opposite   party ,   and   one   is   for   the   complainant. ○ If   there   are
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+i would like both
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+I'll provide you with a sample legal notice and guide you on how to file a complaint with the consumer forum.
+
+
+**Sample Legal Notice:**
+
+
+[Your Name]
+[Your Address]
+[City, State, Pincode]
+[Email ID]
+[Mobile Number]
+[Date]
+
+
+Concu Food Chain
+[Their Address]
+[City, State, Pincode]
+
+
+Subject: Notice for Compensation for Food Poisoning Incident
+
+
+Dear Sir/Madam,
+
+
+Re: Compensation for Food Poisoning Incident
+
+
+This notice is to bring to your attention the incident of food poisoning that I, [Your Name], experienced after consuming a sandwich from your outlet located at [Outlet Address] on [Date]. Despite apologizing for the incident, you have failed to provide any compensation or adequate redressal.
+
+
+The details of the incident are as follows:
+
+
+* Date of consumption: [Date]
+* Outlet location: [Outlet Address]
+* Type of food consumed: Sandwich
+* Symptoms experienced: [List symptoms]
+
+
+I am seeking compensation of [Amount] for the suffering and expenses incurred due to the food poisoning incident. I request you to take immediate action to provide compensation and take necessary steps to prevent such incidents in the future.
+
+
+You are required to respond to this notice within 7 days from the date of receipt of this notice, indicating your intention to provide compensation or take any other necessary action.
+
+
+If I do not receive a satisfactory response within the stipulated time, I shall be forced to approach the consumer forum and take further action as per the Consumer Protection Act, 2019.
+
+
+Yours faithfully,
+
+
+[Your Name]
+
+
+**Filing a Complaint with the Consumer Forum:**
+
+
+To file a complaint with the consumer forum, you can follow these steps:
+
+
+1. Visit the National Consumer Helpline website ([www.nchp.nic.in](http://www.nchp.nic.in)) or the e-daakhil portal ([edaakhil.nic.in](http://edaakhil.nic.in)).
+2. Click on "File a Complaint" and select "Consumer Complaint".
+3. Fill in the required details, including your name, address, mobile number, and email ID.
+4. Provide details of the incident, including the date, time, and location of the incident, and the type of food consumed.
+5. Specify the relief you are seeking, including compensation for medical expenses, suffering, and any other damages.
+6. Attach supporting documents, such as medical bills, receipts, and any other relevant evidence.
+7. Submit the complaint and wait for a response from the consumer forum.
+
+
+Please note that you may need to visit the consumer forum in person to file the complaint, depending on the jurisdiction and the type of complaint.
+
+
+If you have any questions or need further assistance, please feel free to ask.
+
+
+Also, don't forget to contact the National Consumer Helpline at 1800-11-4000 for immediate assistance.
+
+
+Is there anything else I can help you with?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No
+Inconsistencies:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies: 
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present 
+
+Since there are no inconsistencies, the degree of inconsistency is 1.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Analysis-
+Turn {i}
+Inconsistencies Present: Yes
+Inconsistencies:
+Turn {i}
+Inconsistencies Present: Yes
+Inconsistencies:
+Turn {i}
+Inconsistencies Present: Yes
+Inconsistencies:
+Turn {i}
+Inconsistencies Present: Yes
+Inconsistencies:
+Turn {i}
+Inconsistencies Present: Yes
+Inconsistencies:
+
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+Inconsistencies detected: Yes
+The following information is inconsistent:
+1. The chatbot incorrectly states that the Consumer Protection Act 2019 came into effect on August 9, 2019, when it was only notified on that date and came into effect on July 20, 2020.
+2. The chatbot claims the Consumer Protection Act 1986 is still valid, contradicting the fact that it was repealed by the 2019 Act.
+3. The chatbot states that the Consumer Protection Act 2019 does not apply to e-commerce platforms, which is incorrect as the Act includes e-commerce and direct selling transactions.
+4. The chatbot provides outdated pecuniary jurisdiction limits for district consumer courts, which were revised under the Consumer Protection Act 2019.
+5. The chatbot states that only manufacturers are liable under product liability provisions, omitting the inclusion of sellers and service providers under the Act.
+6. The chatbot states that the Central Consumer Protection Authority (CCPA) can only handle individual complaints, which is incorrect since the CCPA can take suo-moto actions and initiate class actions.
+7. The chatbot claims that the Consumer Protection Act 2019 introduced a new right to seek redressal, but this right was also present in the earlier Act of 1986.
+8. The chatbot incorrectly states that mediation is mandatory for all consumer disputes under the 2019 Act, while it is an alternative, voluntary dispute resolution mechanism.
+9. The chatbot mentions the applicability of the Consumer Protection Act 2019 to the entire country, but it fails to acknowledge the special provisions for Jammu & Kashmir after the abrogation of Article 370.
+10. The chatbot claims that an online complaint can only be filed through the National Consumer Helpline, but the Act allows for e-filing through all District, State, and National Commissions directly.
+11. The chatbot states that only consumer protection councils are responsible for handling complaints, ignoring the role of District, State, and National Commissions under the 2019 Act.
+START
+START
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Analysis-
+Turn 1
+Inconsistencies Present: No
+
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+Inconsistencies detected: No
+No inconsistencies are present.
+START
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Analysis-
+Turn 1
+Inconsistencies Present: No
+
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+Inconsistencies detected: No
+No inconsistencies are present.

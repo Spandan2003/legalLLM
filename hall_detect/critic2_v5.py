@@ -229,6 +229,8 @@ You must determine whether the chatbot’s response contains inconsistencies bas
 2. Unsupported Information: Any facts or details that do not appear in the context or history but are presented as factual in the response.
 3. Fabricated Details: Any made-up information such as contact numbers, addresses, legal provisions, or company names that are not in the context but present in the response.
 
+You are to find inconsistencies only in the Response. No inconsistencies in the history or context or query will be found. Any information in the context is to be taken to be the absolute truth even if is does not match with the history.
+
 These are not inconsistencies and should not be detected as such:
 1. General Knowledge: Statements about a company being a popular food chain or having customer service should not be considered inconsistencies.
 2. New Claims About Actions/Recourse: If the chatbot suggests an action or recourse that is plausible but not explicitly mentioned in the context, it should not be flagged as an inconsistency unless it contradicts the context.
@@ -493,7 +495,7 @@ Input:
 
         analysis_prompt_template2 = PromptTemplate(
             template=(
-                """You are an evaluator in an AI company whose job is to determine the quality of a legal chatbot. You have already identified whether inconsistencies exist in the chatbot’s response. Now, your goal is to analyze the identified inconsistencies, remove the wrong inconsistencies and assign a Degree of Inconsistency to the response. 
+                """You are an evaluator in an AI company whose job is to determine the quality of a legal chatbot. You have already identified whether inconsistencies exist in the chatbot’s response. Now, your goal is to analyze the identified inconsistencies, remove the wrong inconsistencies and assign a Degree of Inconsistency for each of the corrected inconsistencies. 
 
 Input Provided to You:
 1. Inconsistency Present: Yes or No
@@ -520,12 +522,17 @@ Degree of Inconsistency Rules:
 
 Output Format:
 Based on the inconsistencies provided, generate the following structured output:
-1. Inconsistency Present: Yes or No
-2. Inconsistencies: [List of corrected inconsistencies]
-3. Explanation for Correction: [Short and concise reason for the corrections made to the inconsistencies]
-4. Degree of Inconsistency: [1 to 5]
-5. Explanation: [Short and concise reason for assigning degree based on the corrected inconsistencies]
-6. <|end_of_text|>
+Inconsistency Present: Yes or No
+Explanation for Correction: [Short and concise reason for the corrections made to the inconsistencies]
+Inconsistencies: 
+Inconsistency: [First Inconsistency]
+Degree of Inconsistency: [1 to 5]
+Explanation: [Short and concise reason for assigning degree based on the corrected inconsistencies]
+Inconsistency: [Second Inconsistency]
+Degree of Inconsistency: [1 to 5]
+Explanation: [Short and concise reason for assigning degree based on the corrected inconsistencies]
+...
+<|end_of_text|>
 
 Ensure the output always ends with an `<|end_of_text|>` token
 
@@ -541,12 +548,14 @@ Inconsistencies:
 
 Output:
 Inconsistency Present: Yes
-Inconsistencies:
-1. The response states that FastEats' refund policy requires complaints to be filed within 30 days, but the context does not specify a timeframe.
-2. The response claims that the FastEats' phone number is +91-9123123123 but this information is not supported by the context
 Explanation for Correction: The fact that FastEats is a popular food chain and has customer service is general knowledge and does not contradict the context; thus, these are not inconsistencies.
+Inconsistencies:
+1. Inconsistency: The response states that FastEats' refund policy requires complaints to be filed within 30 days, but the context does not specify a timeframe.
 Degree of Inconsistency: 3
 Explanation: The response introduces an unsupported claim about FastEats’ refund policy, which may mislead the user, but it does not fabricate information.
+2. Inconsistency: The response claims that the FastEats' phone number is +91-9123123123 but this information is not supported by the context
+Degree of Inconsistency: 3
+Explanation: The phone number claim is unsupported by the context and can mislead the user, but it doesn't fabricate information.
 <|end_of_text|>
 
 Example 2
@@ -559,9 +568,9 @@ Inconsistencies:
 
 Output:
 Inconsistency Present: Yes
-Inconsistencies:
-1. The response states that the consumer can escalate their complaint to the State Consumer Forum if not resolved at the district level, but the context does not explicitly mention this.
 Explanation for Correction: The suggestions about online complaint filing and approaching the company’s grievance cell are plausible and do not contradict the context, so they are not inconsistencies.
+Inconsistencies:
+1. Inconsistency: The response states that the consumer can escalate their complaint to the State Consumer Forum if not resolved at the district level, but the context does not explicitly mention this.
 Degree of Inconsistency: 2
 Explanation: The response makes a minor unsupported assumption about escalation but does not introduce a major contradiction.
 <|end_of_text|>
@@ -577,13 +586,12 @@ Inconsistencies:
 
 Output:
 Inconsistency Present: Yes
-Inconsistencies:
-1. The response claims that if the company does not respond within 15 days, the consumer can escalate to a higher authority, but the timeframe is not in the context.
 Explanation for Correction: Assuming that the consumer wants a refund is a reasonable assumption based on the grievance context. Additionally, mentioning that a legal notice can be sent is a valid legal recourse and not an inconsistency.
+Inconsistencies:
+1. Inconsistency: The response claims that if the company does not respond within 15 days, the consumer can escalate to a higher authority, but the timeframe is not in the context.
 Degree of Inconsistency: 3
 Explanation: The response introduces an unsupported timeframe for escalation, which could mislead the user but does not fundamentally misrepresent the legal process.
 <|end_of_text|>
-
 
 Example 4
 Input:
@@ -595,13 +603,12 @@ Inconsistencies:
 
 Output:
 Inconsistency Present: Yes
-Inconsistencies:
-1. The response states that complaints about defective appliances can be filed under the Consumer Protection Act, though the context only discusses defective food products.
 Explanation for Correction: The ability to file complaints via email is a reasonable assumption, and including an invoice copy as a precautionary step is logical, even if not explicitly mentioned in the context.
+Inconsistencies:
+1. Inconsistency: The response states that complaints about defective appliances can be filed under the Consumer Protection Act, though the context only discusses defective food products.
 Degree of Inconsistency: 3
 Explanation: The response expands the scope of consumer complaints beyond what the context specifies, which may cause minor confusion but is not a major contradiction.
 <|end_of_text|>
-
 
 Example 5
 Input:
@@ -613,9 +620,9 @@ Inconsistencies:
 
 Output:
 Inconsistency Present: Yes
-Inconsistencies:
-1. The response states that the consumer has a right to request a replacement instead of a refund, but the context does not specify this.
 Explanation for Correction: Suggesting that the consumer contact customer service before filing a formal complaint is a logical and reasonable step, not an inconsistency. Additionally, missing a mention of legal advisors does not contradict the context.
+Inconsistencies:
+1. Inconsistency: The response states that the consumer has a right to request a replacement instead of a refund, but the context does not specify this.
 Degree of Inconsistency: 2
 Explanation: The response introduces a minor unsupported claim about replacement rights, but it does not significantly mislead the user.
 <|end_of_text|>
@@ -627,10 +634,11 @@ Inconsistencies:
 
 Output:
 Inconsistency Present: No
-Inconsistencies:
 Explanation for Correction: No inconsistencies present
+Inconsistencies:
 Degree of Inconsistency: 1
 Explanation: No inconsistencies present
+<|end_of_text|>
 
 Now based on these examples work for the following,
 Input:
@@ -696,24 +704,43 @@ Input:
         def transform_fn(inputs):
             chat = inputs["chat"]  # Expect the input to have a key "chat"
             analysis = []
-            for i, chat_triple in enumerate(chat):
+            analysis_test = []
+            for i, chat_triple in enumerate(chat, start=1):
                 result = chain(chat_triple)
                 # Extract the degree of inconsistency from the result (assuming it's explicitly stated in the result text).
-                degree_line = [line for line in result.split("\n") if "Degree of Inconsistency:" in line]
-                if degree_line:
-                    degree = int(degree_line[0].split(":")[1].strip())
-                    result_lines = result.split("\n")
-                    line_no = 0
-                    for line_no in range(len(result_lines)):
-                        if "Explanation for Correction:" in result_lines[line_no]:
-                            break
-                    inconsistencies_text = "\n".join(result_lines[:line_no]) 
-                    if degree >= 4:  # Include only if degree is 4 or 5
-                        analysis.append("\nTurn " + str(i + 1) + "\n" + inconsistencies_text)
+                # analysis_test.append(result)
+                # degree_line = [line for line in result.split("\n") if "Degree of Inconsistency:" in line]
+                # if degree_line:
+                #     degree = int(degree_line[0].split(":")[1].strip())
+                #     result_lines = result.split("\n")
+                #     line_no = 0
+                #     for line_no in range(len(result_lines)):
+                #         if "Explanation for Correction:" in result_lines[line_no]:
+                #             break
+                #     inconsistencies_text = "\n".join(result_lines[:line_no]) 
+                #     if degree >= 4:  # Include only if degree is 4 or 5
+                #         analysis.append("\nTurn " + str(i + 1) + "\n" + inconsistencies_text)
+                pattern = re.compile(r'Inconsistency:(.*?)Degree of Inconsistency: (\d+)', re.DOTALL)
+                matches = pattern.findall(result)
+                # print("PAttern, MATCH")
+                # print(pattern, matches)
+                analysis_turn = ""
+                found = False
+                for j, (match, degree) in enumerate(matches, start=1):
+                    if int(degree) >= 4:
+                        if(not found):
+                            analysis_turn = f"Turn {i}\nInconsistencies Present: Yes\nInconsistencies:\n"
+                            found = True
+                        analysis_turn = analysis_turn + f"{j}. {match.strip()}"
+                if found==False:
+                    analysis.append(analysis_turn)
             if len(analysis)==0:
-                analysis.append("Turn 1\nInconsistencies Present: No\n")
-            analysis_text = "".join(analysis)
-            
+                analysis.append("Turn 1\nInconsistencies Present: No\nTurn 2\nInconsistencies Present: No\n")
+            analysis_text = "\n".join(analysis)
+            # Save the analysis_test variable for further analysis
+            # with open('./hall_detect/exp_test_files/analysis_test_results.txt', 'w') as f:
+            #     for item in analysis_test:
+            #         f.write(f"{item}<|end_of_element|>")
             # Create the analysis prompt
             prompt = PromptTemplate(
                 template=(
