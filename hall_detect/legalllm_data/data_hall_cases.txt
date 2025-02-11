@@ -1,0 +1,66 @@
+suggested CCPA (Central Consumer Protection Authority) as a body that I can reach out to which is incorrect. CCPA is a regulatory body, is not meant for consumers to reach out directly. 
+Added the wrong location for Myntra office in bangalore when drafting a notice to Myntra Gave the wrong information while asking for remedies: directed me to RBI banking ombudsman, while in the general corpus they are listed as an alternate authority for banking and not ecommerce
+Tripura state commission numbers are not in any of the data bases 
+e-daakhil process that the bot gives is different (and lesser) in detail from the one we gave in general corpus
+provided TN food and safety drug administration as a grievance body which is not the right body handling these complaints"
+The email ids of UGC complaint and parts of complaint mechanism have been hallucinated The UGC complaint mechanism suggested by the bot is completely inaccurate
+Wrong address for Air India Mumbai, and Air India Bangalore; addresses were completely fictional The bot is picking up compensation of Rs 5000-10,000 which is for not informing the flier 24 hours before flight, but the issue at hand is delay in baggage claim; the chatbot is also linking CPGRAMS portal, which is a correct grievance redressal mechanism, however the website is linked wrong, and has not been linked on our sectoral corpus; the chatbot is also linking the rail portal for some reason
+Phone number of the Authority doesn't exist in corpus or online 
+Consumer Act 1986 is referenced instead of 2019
+
+District Consumer Disputes Redressal Forum (DCRF) -- it should be DCDRF"
+
+"Considering your case, since the amount charged by Lenovo's customer care is â‚¹ [Amount Charged], which is less than â‚¹1 crore, I would recommend filing a complaint with the **DCDRF** in your district." 
+Wrote a non existent process for TRAI complaints, and changed when prompted further; told me to go to TCCF website, when visited it was a website for the Child Care Foundation in Mumbai; made up a Telecom Consumer Complaints Forum Lists out a process to file consumer complaint at the TRAI website, which is not listed in the sectoral corpus, and the instructions are not navigable, gave the address incomplete for the TRAI headquarters and listed it as the address for TCCF (non-existent); listed 1915 as TRAIs toll free number and not National Consumer Helpline
+Mentioned that the item was bought in United Kingdom, is giving me information on UK's food safety authority
+Told that the maximum amount that can be given by NCDRC is 10 crores, but that is the pecuniary jurisdiction of the Commission (above 10 cr)
+
+It keeps asking me if I'd like to draft a complaint for the national consumer helpline, instead of the procedure on edaakhil
+made up the website, address, email and phone of the bengaluru district consumer disputes redressal forum gave a slightly wrong website for filing consumer grienance at the fssai portal
+
+
+
+the process it gave for finding DCDRF in one's area was wrong and the pecuniary limits of jurisdiction were also not in line with Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021
+"no pecuniary limits of jurisdiction not correct - not in line with Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021
+"
+Made up the contact no. Telangana State Electricity Regulatory Commission and Nizamabad District Collector's Office. Also made up email id for ombudsman office and TNERC 
+wrong steps to find the contact information of the local consumer forum or the district consumer dispute redressal forum in one's area
+made up sub-sections of the CPA provided me with wrong Sections from the CPA; said that district and state commission only had the power to grant max compensation of 5 lakhs and 50 lakhs respectively
+It asked me to file the complaint in SCDRC while District Commission would have pecuniary jurisdiction in the case
+  Yes. (it gave the helpline number- 080-222-111-22, but on the Department of Consumer Affairs website the Karnataka State Consumer Helpline is 1800-425-9339 ,1967)
+Yes. (National Health Portal's Grievance Redressal Mechanism (https://www.nhp.gov.in/redressal-mechanism_pg) cannot find this) No. 
+made up the process for filing a complaint with Amazon's grievance officer and its phone number  
+It gave me a figure of 6000 for compensation for domestic flights. I didn't see that figure in sectoral corpus. I am not sure if it is correct and where it is coming from.
+asked me to contact the Legal Metrology Officer out of nowhere, even though the issue is with service deficiency by a service centre; and then went on to say that I have to visit the Electrical Inspectorate Department's website for legal metrology officer's contact
+made up the process of filing a complaint with the RBI's Consumer Education and Protection Cell; made up its mumbai address and contact details  said that i could contact the banking ombudsman by calling on the national consumer helpline; gave the wrong website for e-dakhil portal; 
+Consumer protection act definitions clause was cited
+Assumed by itself, that the user has "registered your concern Food Safety Connect Portal and lodged a complaint through CPGRAMS and lodged a complaint through CPGRAMS" 
+Asked me the contact details of the NGO, so it can "verify their contact information to ensure it's accurate". I don't think the Bot is actually equipped to verify this.
+Directed me to Karnataka State Commission instead of Bengaluru District Commission. Drafted a notice while telling me it was a complaint. 
+Yes, it hallucinated the customer care number for KFC and Ola Foods.  It wrongly directed me to FSSAI instead of the CDRC
+Incorrectly stating that it was within the limitation period. 
+Incorrectly assumed that it fell under the CPA. 
+drafted a notice and not a complaint
+it drafts a letter to the consumer court instead of a complaint.
+
+
+brought up legal metrology out of nowhere provided an incorrect website even though the correct one is mentioned in the sectoral campus; wrong state consumer helpline even though the correct one is given in the general corpus
+ wrong steps to find the contact information of the local consumer forum or the district consumer dispute redressal forum in one's area
+made up a deparment named CDSCO's Consumer Education on Safety and Drugs 
+gave the wrong contact number of bihar scdrc
+Gave wrong website for National Health Portal 
+I provided a made-up delivery tracking number and the bot reported back that it was "out for delivery since the last three days". 
+  Yes, since this problem would fall outside the scope of consumer law - it should not have asked me to reach out to consumer law tribunals.
+made up the contact details of BCDRC gave the wrong website for registering complaint for food safety related issue
+e 
+Wrong helpline number for district forum 
+
+
+
+
+
+
+
+It said that there is a legal remedy for damage caused by a vape, which is incorrect because vapes are an illegal substance.
+It provided me remedies as if i was a consumer when i explicitly told it that I was a retailer.
+Yes. It provided me remedies to receive money I won through betting, which is illegal and has no remedies in India

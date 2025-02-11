@@ -11,6 +11,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain_community.llms import HuggingFacePipeline
 from transformers import pipeline
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 def disp_dict(arr):
     print("Start Dictionary")
@@ -86,16 +87,16 @@ def create_rag_qa_chain_with_response_analysis(
         llm1 = HuggingFacePipeline.from_model_id(
             model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
             task="text-generation",
-            device=3,  # Use GPU if available
+            device=0,  # Use GPU if available
             callbacks=callbacks,  # For streaming outputs
             pipeline_kwargs=dict(
                 return_full_text=False,  # Return only the new tokens
-                max_new_tokens=512,  # Limit the number of generated tokens
+                max_new_tokens=1024,  # Limit the number of generated tokens
                 do_sample=True,  # Enable sampling for varied outputs
                 temperature=0.5,  # Balance randomness and coherence
                 repetition_penalty = 1.02,
             ),
-            # model_kwargs=dict(stop=["<|endoftext|>"], ) # Add stop tokens here
+            #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
         )
         # llm2 = HuggingFacePipeline.from_model_id(
         #     model_id="meta-llama/Meta-Llama-3.1-70B-Instruct",
@@ -231,18 +232,38 @@ You must determine whether the chatbot’s response contains inconsistencies bas
 
 You are to find inconsistencies only in the Response. No inconsistencies in the history or context or query will be found. Any information in the context is to be taken to be the absolute truth even if is does not match with the history.
 
-These are not inconsistencies and should not be detected as such:
-1. General Knowledge: Statements about a company being a popular food chain or having customer service should not be considered inconsistencies.
-2. New Claims About Actions/Recourse: If the chatbot suggests an action or recourse that is plausible but not explicitly mentioned in the context, it should not be flagged as an inconsistency unless it contradicts the context.
-3. Irrelevant Details: Extra details that are not contradicting the context are not inconsistencies.
-4. Missing Information: If the chatbot omits details from the context but does not contradict it, this is not an inconsistency.
-5. Natural Assumptions: Logical assumptions that do not contradict the context or history should not be flagged as inconsistencies.
-6. Wrong Behavior: Inconsistencies do not include how the chatbot should have behaved or what it should have responded with as long as there is no contradiction with the context.
+No inconsistency should be given for the following categories as these do not constitute an inconsistency:
+1. General Knowledge
+- Statements about widely known facts, such as a company being a popular food chain or having customer service, should not be considered inconsistencies.
+- The focus is on legal and consumer laws, not general knowledge.
+- However, factual details like contact numbers, emails, addresses, and websites of companies, organizations, or government bodies are essential for legal discussions and should remain as inconsistencies.
+
+2. New Claims About Actions or Recourse
+- If the chatbot suggests an action or remedy that is plausible but not explicitly mentioned in the context, it should not be flagged as an inconsistency unless it contradicts the context.
+
+3. Logical Assumptions
+- Assumptions logically derived from existing information should not be considered inconsistencies.
+- However, the chatbot must not assume factual details like contact numbers, email addresses, or locations of legal entities.
+- Missing assumptions in the context or conversation history are not inconsistencies.
+
+4. Irrelevant Details
+- Extra details that do not contradict the context should not be considered inconsistencies.
+- Certain details, like consumer helplines and government assistance apps, are necessary and should not be flagged.
+
+5. Missing Information
+- If the chatbot omits a detail from the context but does not contradict it, this is not an inconsistency.
+
+6. Partial Information
+- If an inconsistency is flagged because the response provides only part of the context rather than the full information, it should not be considered an inconsistency as long as the given partial information is accurate.
+
+7. Wrong Behavior
+- If an inconsistency is about how the chatbot should behave or what it should have responded with, it is not an inconsistency as long as there is no contradiction with the context.
+- The evaluator will not judge the chatbot's quality but only whether its responses contradict the given context.
 
 Output Format:
 Based on your evaluation, generate the following structured output:
 1. Inconsistency Present: Yes or No
-2. Inconsistencies: [List of inconsistencies only if Yes in Inconsistency Present. If No, leave it blank]
+2. Inconsistencies: [List of inconsistencies only if Yes in Inconsistency Present. If No, leave it blank. The list of inconsistency should not belong to the above mentioned categories]
 <|end_of_text|>
 
 Remember to end with a <|end_of_text|> token
@@ -250,7 +271,11 @@ Remember to end with a <|end_of_text|> token
 Example 1
 Input:
 Context:
-The Employment Rights Act 1996 provides employees with certain rights, such as the right to request flexible working, protection against unfair dismissal, and statutory redundancy pay. It does not mention any provisions about maternity benefits or sick pay directly.
+Document 0:
+The Employment Rights Act 1996 provides employees with certain rights, such as the right to request flexible working, protection against unfair dismissal, and statutory redundancy pay.
+
+Document 1:
+The Act does not mention any provisions about maternity benefits or sick pay directly.
 
 History:
 User: What rights do employees have under the Employment Rights Act 1996?
@@ -265,7 +290,7 @@ Response:
 Maternity benefits under the Employment Rights Act 1996 include 26 weeks of maternity leave and statutory maternity pay for eligible employees.
 
 Output:
-Inconsistency Present: Yes
+Inconsistencies Present: Yes
 Inconsistencies:
 1. The response states that the Employment Rights Act 1996 includes maternity benefits, but the context explicitly states that it does not mention them.
 2. The details about “26 weeks of maternity leave” and “statutory maternity pay” are not supported by the context.
@@ -275,7 +300,11 @@ Inconsistencies:
 Example 2
 Input:
 Context:
-Under the Consumer Rights Act 2015, consumers are entitled to a refund, repair, or replacement for goods that are faulty or not as described. The Act does not include any references to warranty periods being extended for defective goods.
+Document 0:
+Under the Consumer Rights Act 2015, consumers are entitled to a refund, repair, or replacement for goods that are faulty or not as described.
+
+Document 1:
+The Act does not include any references to warranty periods being extended for defective goods.
 
 History:
 User: Can I get an extended warranty if my product is faulty under the Consumer Rights Act 2015?
@@ -300,7 +329,11 @@ Inconsistencies:
 Example 3
 Input:
 Context:
-Section 21 of the Housing Act 1988 allows landlords to evict tenants without providing a reason, as long as the proper notice period is given. The notice period is currently two months.
+Document 0:
+Section 21 of the Housing Act 1988 allows landlords to evict tenants without providing a reason, as long as the proper notice period is given.
+
+Document 1:
+The notice period is currently two months.
 
 History:
 User: Can a landlord evict a tenant without giving a reason under Section 21?
@@ -324,120 +357,11 @@ Inconsistencies:
 Example 4
 Input:
 Context:
-The Data Protection Act 2018 governs how personal data should be processed and stored. It includes principles such as lawfulness, fairness, transparency, and data minimization. The Act does not mention specific fines for breaches.
+Document 0:
+The Data Protection Act 2018 governs the processing of personal data in the UK. It requires organizations to obtain explicit consent for data processing and outlines individuals' rights regarding access, correction, and deletion of their data.
 
-History:
-User: What is the main purpose of the Data Protection Act 2018?
-Chatbot: The Act ensures personal data is processed lawfully and transparently.
-User: Are there any fines for breaches mentioned in the Act?
-Chatbot: Yes, there are specific fines.
-
-Query:
-What are the fines for breaches under this Act?
-
-Response:
-The Data Protection Act 2018 specifies fines of up to £20 million for breaches.
-
-Output:
-Inconsistencies Present: Yes
-Inconsistencies:
-1. The response falsely claims that the Data Protection Act 2018 specifies fines of up to £20 million, while the context explicitly states that the Act does not mention specific fines.
-<|endoftext|>
-
-
-Example 5
-Input:
-Context:
-The Road Traffic Act 1988 mandates that all drivers must have third-party liability insurance. It does not specify penalties for not having insurance.
-
-History:
-User: Does the Road Traffic Act 1988 require insurance?
-Chatbot: Yes, all drivers must have third-party liability insurance.
-User: What happens if someone doesn’t have insurance?
-Chatbot: I’m not sure about the exact penalties.
-
-Query:
-Can you confirm the penalties under this Act?
-
-Response:
-Under the Road Traffic Act 1988, driving without insurance results in a penalty of £300 and six points on the driver’s license.
-
-Output:
-Inconsistencies Present: Yes
-Inconsistencies:
-1. The response incorrectly states that the penalty is mentioned in the Act, whereas the context explicitly states that the Act does not specify penalties.
-<|endoftext|>
-
-
-Example 6
-Input:
-Context:
-The Health and Safety at Work Act 1974 ensures the safety, health, and welfare of employees at work. Employers must conduct regular risk assessments and provide necessary safety equipment. The Act does not mention mental health initiatives or stress management requirements explicitly.
-
-History:
-AI: Hello! How can I assist with workplace safety issues?
-User: My employer doesn't provide safety equipment.
-AI: Employers are required to provide necessary safety equipment under the Health and Safety at Work Act 1974. Can you share more about the equipment missing or the risks involved?
-
-Query:
-The equipment is missing entirely.
-
-Response:
-If your employer has not provided any safety equipment, they are in violation of the Health and Safety at Work Act 1974. You can report this to the Health and Safety Executive (HSE). Additionally, the Act mandates that employers must address workplace stress and mental health issues, which can also be reported.
-
-Output:
-Inconsistencies Present: Yes
-Inconsistencies:
-1. The response claims that the Act mandates addressing workplace stress and mental health issues, which is not supported by the context.
-<|endoftext|>
-
-
-Example 7
-Input:
-Context:
-The Consumer Protection Act 1987 ensures that consumers are protected against defective products that cause injury or harm. The Act outlines the liability of manufacturers but does not detail specific compensation amounts or procedures.
-
-History:
-User: What does the Consumer Protection Act 1987 cover?
-Chatbot: It ensures protection against defective products that cause injury or harm and specifies manufacturer liability.
-
-Query:
-Does it specify compensation amounts?
-
-Response:
-The Consumer Protection Act 1987 does not specify exact compensation amounts but establishes liability for manufacturers, allowing injured parties to seek compensation through the courts.
-
-Output:
-Inconsistencies Present: No
-Inconsistencies:
-<|endoftext|>
-
-
-Example 8
-Input:
-Context:
-The Employment Rights Act 1996 outlines employees' rights, including protection from unfair dismissal and the right to statutory redundancy pay. It does not mention provisions related to remote work or flexible working hours.
-
-History:
-User: Does the Employment Rights Act cover flexible working hours?
-Chatbot: No, the Act does not mention provisions for flexible working hours.
-
-Query:
-Can you clarify how the Act protects employees?
-
-Response:
-The Employment Rights Act 1996 protects employees by outlining their rights against unfair dismissal and providing statutory redundancy pay. It does not cover flexible working hours.
-
-Output:
-Inconsistencies Present: No
-Inconsistencies:
-<|endoftext|>
-
-
-Example 9
-Input:
-Context:
-The Data Protection Act 2018 governs the processing of personal data in the UK. It requires organizations to obtain explicit consent for data processing and outlines individuals' rights regarding access, correction, and deletion of their data. It does not detail penalties for non-compliance.
+Document 1:
+The Act does not detail penalties for non-compliance.
 
 History:
 User: What are the key points of the Data Protection Act 2018?
@@ -455,10 +379,14 @@ Inconsistencies:
 <|endoftext|>
 
 
-Example 10
+Example 5
 Input:
 Context:
-The Equal Pay Act 1970 prohibits discrimination between men and women in terms of pay and employment conditions. It does not specify exceptions or provide details on enforcement mechanisms.
+Document 0:
+The Equal Pay Act 1970 prohibits discrimination between men and women in terms of pay and employment conditions.
+
+Document 1:
+The Act does not specify exceptions or provide details on enforcement mechanisms.
 
 History:
 User: Can employers pay men and women differently for the same job?
@@ -468,13 +396,14 @@ Query:
 Are there any exceptions under this Act?
 
 Response:
-The Equal Pay Act 1970 prohibits pay discrimination between men and women for the same job. You can also contact +91-9823141241, the contact number of Women's Freedom organisation for more information.
+The Equal Pay Act 1970 prohibits pay discrimination between men and women for the same job. You can also contact +91-9823141241, the contact number of Women's Freedom Organisation for more information.
 
 Output:
 Inconsistencies Present: Yes
 Inconsistencies:
-1. The response introduces a Women's Freedom organisation and its phone number, neither of which is present in the context.
+1. The response introduces a Women's Freedom Organisation and its phone number, neither of which is present in the context.
 <|endoftext|>
+
 
 Based on these examples do the same for the following,
 
@@ -483,7 +412,7 @@ Input:
 
 
 
-                "Context:\n {context}\nThe one with the grievence can also contact the National Consumer Helpline (1800-11-4000) or UMANG App for more assistance\n"
+                "Context:\n {context}. Consumer can also contact the National Consumer Helpline at 1800-11-4000 or UMANG App for more assistance\n"
                 "History:\n {history}\n\n"
                 "Query:\n {query}\n\n"
                 "Response:\n {response}\n\nOutput:"
@@ -501,24 +430,71 @@ Input Provided to You:
 1. Inconsistency Present: Yes or No
 2. Inconsistencies: [List of identified inconsistencies]
 
-Rules for Removing Incorrect Inconsistencies:
-Remove inconsistencies that fall under the following conditions:
-1. General Knowledge: Statements about a company being a popular food chain or having customer service should not be considered inconsistencies. The context focuses on legal and consumer laws, so inconsistencies based on general knowledge alone are incorrect. However, inconsistencies regarding factual details like contact details (phone number), email, address or website of a company, organization, or government body are essential for legal discussions and should remain as inconsistencies.
-2. New Claims About Actions/Recourse: If the chatbot suggests an action or recourse that is plausible but not explicitly mentioned in the context, it should not be flagged as an inconsistency unless it contradicts the context.
-3. Logical Assumptions: Assumptions derived logically from existing information should not be considered inconsistencies. Conversations naturally include assumptions, which are valid unless they directly contradict the context. However assumptions should not be with regards to assuming factual details like contact details, email or addresses of companies, organisations and government bodies Missing assumptions in the context or history are not inconsistencies.
-4. Irrelevant Details: Extra details that are not contradicting the context are not inconsistencies. THe national consumer helpline and Umang app are extra details that are necessary and hence not inconsistencies.
-5. Missing Information: If the chatbot omits details from the context but does not contradict it, this is not an inconsistency.
-6. Partial Information: If an inconsistency is flagged due to the response providing only part of the context rather than the full information, it should not be considered an inconsistency—provided the given partial information is accurate.
-Rewrite the list by removing the wrong inconsistency.
-7. Wrong Behavior: If an inconsistency talks about how the chatbot is supposed to behave or what it should have responded with, it is not an inconsistency as long as there is no contradiction with the context. The evaluator will not judge how good the chatbot is but only if it is providing information going against the context.
+You are an evaluator in an AI company whose job is to determine the quality of a legal chatbot. You have already identified whether inconsistencies exist in the chatbot’s response. Now, your goal is to analyze the identified inconsistencies, remove the wrong inconsistencies, and assign a Degree of Inconsistency for each of the corrected inconsistencies.
+
+Step 1: Removing Incorrect Inconsistencies
+An inconsistency must be removed if it falls under any of the following conditions:
+
+1. General Knowledge
+- Statements about widely known facts, such as a company being a popular food chain or having customer service, should not be considered inconsistencies.
+- The focus is on legal and consumer laws, not general knowledge.
+- However, factual details like contact numbers, emails, addresses, and websites of companies, organizations, or government bodies are essential for legal discussions and should remain as inconsistencies.
+
+2. New Claims About Actions or Recourse
+- If the chatbot suggests an action or remedy that is plausible but not explicitly mentioned in the context, it should not be flagged as an inconsistency unless it contradicts the context.
+
+3. Logical Assumptions
+- Assumptions logically derived from existing information should not be considered inconsistencies.
+- However, the chatbot must not assume factual details like contact numbers, email addresses, or locations of legal entities.
+- Missing assumptions in the context or conversation history are not inconsistencies.
+
+4. Irrelevant Details
+- Extra details that do not contradict the context should not be considered inconsistencies.
+- Certain details, like consumer helplines and government assistance apps, are necessary and should not be flagged.
+
+5. Missing Information
+- If the chatbot omits a detail from the context but does not contradict it, this is not an inconsistency.
+
+6. Partial Information
+- If an inconsistency is flagged because the response provides only part of the context rather than the full information, it should not be considered an inconsistency as long as the given partial information is accurate.
+
+7. Wrong Behavior
+- If an inconsistency is about how the chatbot should behave or what it should have responded with, it is not an inconsistency as long as there is no contradiction with the context.
+- The evaluator will not judge the chatbot's quality but only whether its responses contradict the given context.
+
+After applying the above criteria, remove inconsistencies that are invalid and retain the remaining ones.
+
+Assigning Degree of Inconsistency
+Each valid inconsistency must be assigned a degree from 1 to 5, based on its severity.
+
+Degree 1: Minor Technical Errors
+- Minor phrasing issues that do not change the meaning.
+- Slight variations in wording that do not impact legal accuracy.
+
+Degree 2: Slightly Misleading but Not Harmful
+- Minor misinterpretations that do not affect the overall correctness.
+- Incorrect terminology that does not misguide the user significantly.
+
+Degree 3: Noticeable Errors but Limited Impact
+- Errors in minor procedural details that do not prevent the user from taking correct action.
+- Providing an incomplete legal explanation while still giving a correct overall direction.
+
+Degree 4: Serious Misleading Information
+- Partially incorrect legal or procedural information that could lead to misunderstandings.
+- Minor errors in contact details such as a slightly incorrect phone number, website, or address.
+- Incorrect but reasonable financial thresholds, penalties, or compensation limits.
+- Contextual misinterpretation leading to a suggestion that is not the best course of action.
+- Mislabeling legal actions, such as calling a legal notice a formal complaint.
+
+Degree 5: Critical Errors (Severe Hallucinations)
+- Completely fabricated legal processes, rules, or authorities.
+- False or fictional legal remedies or statutory provisions.
+- Incorrect or fictional contact information, such as fake government office addresses, phone numbers, emails, or websites.
+- Misdirecting users to the wrong legal body, leading them to file complaints incorrectly.
+- Fundamental misrepresentation of laws or legal jurisdictions.
+- Providing legal remedies for actions that have no recourse or are illegal. 
 
 
-Degree of Inconsistency Rules:
-1. Degree 1: No inconsistencies. The response aligns perfectly with the context.
-2. Degree 2: Minor unsupported assumptions that are plausible and do not significantly impact accuracy.
-3. Degree 3: Noticeable unsupported claims or minor contradictions with the context.
-4. Degree 4: Clear contradictions or fabrications that impact accuracy but do not entirely undermine the response.
-5. Degree 5: Severe contradictions or fabrications that completely misrepresent the context.
 
 Output Format:
 Based on the inconsistencies provided, generate the following structured output:
@@ -541,38 +517,46 @@ Example 1
 Input:
 Inconsistency Present: Yes
 Inconsistencies:
-1. The response states that FastEats is a well-known food chain, but the context does not mention this.
-2. The response claims that FastEats has a customer service department, but this is not explicitly stated in the context.
-3. The response states that FastEats' refund policy requires complaints to be filed within 30 days, but the context does not specify a timeframe.
-4. The response claims that the FastEats' phone number is +91-9123123123 but this information is not supported by the context
+1. The response states that SpeedCart is a well-known e-commerce platform, but the context does not mention this.
+2. The response provides a tracking number for the user’s order, but the context does not contain any tracking information.
+3. The response claims that SpeedCart's customer service email is support@speedcart.com, but this information is not found in the context.
+4. The response states that refunds are processed within 7 days, but the context does not specify a refund timeline.
 
 Output:
 Inconsistency Present: Yes
-Explanation for Correction: The fact that FastEats is a popular food chain and has customer service is general knowledge and does not contradict the context; thus, these are not inconsistencies.
+Explanation for Correction: The statement about SpeedCart being a well-known e-commerce platform is general knowledge and not an inconsistency. The tracking number is likely a generated placeholder, not a contradiction. These have been removed.
 Inconsistencies:
-1. Inconsistency: The response states that FastEats' refund policy requires complaints to be filed within 30 days, but the context does not specify a timeframe.
+1. Inconsistency: The response claims that SpeedCart's customer service email is support@speedcart.com, but this information is not found in the context.
+Degree of Inconsistency: 4
+Explanation: Providing an unsupported email address could mislead users trying to contact customer service.
+2. Inconsistency: The response states that refunds are processed within 7 days, but the context does not specify a refund timeline.
 Degree of Inconsistency: 3
-Explanation: The response introduces an unsupported claim about FastEats’ refund policy, which may mislead the user, but it does not fabricate information.
-2. Inconsistency: The response claims that the FastEats' phone number is +91-9123123123 but this information is not supported by the context
-Degree of Inconsistency: 3
-Explanation: The phone number claim is unsupported by the context and can mislead the user, but it doesn't fabricate information.
+Explanation: The chatbot assumes a specific refund period without any supporting information, which may cause confusion.
 <|end_of_text|>
+
 
 Example 2
 Input:
 Inconsistency Present: Yes
 Inconsistencies:
-1. The response states that the consumer can escalate their complaint to the State Consumer Forum if not resolved at the district level, but the context does not explicitly mention this.
-2. The response suggests that filing an online complaint could be a quicker resolution method, but this is not referenced in the context.
-3. The response mentions that the consumer can also approach the company’s grievance cell before filing a formal complaint, which is not in the context.
+1. The response states that the Consumer Rights Protection Board resolves all banking disputes, but the context does not specify this.
+2. The response mentions that users can file complaints at www.consumergrievance.org, but this website does not exist.
+3. The response provides a compensation range for delayed flights but does not mention that it varies based on the airline’s policy.
+4. The response claims that the Banking Ombudsman also handles e-commerce disputes, which is not mentioned in the context.
 
 Output:
 Inconsistency Present: Yes
-Explanation for Correction: The suggestions about online complaint filing and approaching the company’s grievance cell are plausible and do not contradict the context, so they are not inconsistencies.
+Explanation for Correction: The compensation range for delayed flights may be a reasonable assumption rather than a contradiction. This has been removed.
 Inconsistencies:
-1. Inconsistency: The response states that the consumer can escalate their complaint to the State Consumer Forum if not resolved at the district level, but the context does not explicitly mention this.
-Degree of Inconsistency: 2
-Explanation: The response makes a minor unsupported assumption about escalation but does not introduce a major contradiction.
+1. Inconsistency: The response states that the Consumer Rights Protection Board resolves all banking disputes, but the context does not specify this.
+Degree of Inconsistency: 4
+Explanation: Misrepresenting the authority of a regulatory body may mislead users into filing complaints in the wrong place.
+2. Inconsistency: The response mentions that users can file complaints at www.consumergrievance.org, but this website does not exist.
+Degree of Inconsistency: 5
+Explanation: Providing a non-existent website for filing complaints is a severe error, as it directs users to a fictional resource.
+3. Inconsistency: The response claims that the Banking Ombudsman also handles e-commerce disputes, which is not mentioned in the context.
+Degree of Inconsistency: 4
+Explanation: Assigning incorrect jurisdiction to a regulatory authority may cause users to pursue the wrong legal recourse.
 <|end_of_text|>
 
 
@@ -580,54 +564,57 @@ Example 3
 Input:
 Inconsistency Present: Yes
 Inconsistencies:
-1. The response assumes that the consumer wants a refund, even though this was not explicitly stated.
-2. The response states that a legal notice can be sent before filing a consumer complaint, but this step is not mentioned in the context.
-3. The response claims that if the company does not respond within 15 days, the consumer can escalate to a higher authority, but the timeframe is not in the context.
+1. The response states that the National Telecom Board resolves disputes related to mobile service providers, but this is not mentioned in the context.
+2. The response provides an incorrect phone number for the National Telecom Board’s complaint department.
+3. The response says that complaints must be filed within 15 days, but the context does not specify a timeframe.
+4. The response includes steps to file a consumer grievance, but the exact process is not stated in the context.
+5. The response suggest contacting Airtel customer care number +91-9823141241 for further assistance, but this number is not mentioned in the context.
 
 Output:
 Inconsistency Present: Yes
-Explanation for Correction: Assuming that the consumer wants a refund is a reasonable assumption based on the grievance context. Additionally, mentioning that a legal notice can be sent is a valid legal recourse and not an inconsistency.
+Explanation for Correction: The steps for filing a consumer grievance, though not explicitly in the context, are not a contradiction and have been removed.
 Inconsistencies:
-1. Inconsistency: The response claims that if the company does not respond within 15 days, the consumer can escalate to a higher authority, but the timeframe is not in the context.
+1. Inconsistency: The response states that the National Telecom Board resolves disputes related to mobile service providers, but this is not mentioned in the context.
 Degree of Inconsistency: 3
-Explanation: The response introduces an unsupported timeframe for escalation, which could mislead the user but does not fundamentally misrepresent the legal process.
+Explanation: Incorrectly attributing dispute resolution authority to an organization can mislead users but does not create direct harm.
+2. Inconsistency: The response provides an incorrect phone number for the National Telecom Board’s complaint department.
+Degree of Inconsistency: 5
+Explanation: Incorrect contact details for an official organization can severely impact users seeking assistance.
+3. Inconsistency: The response says that complaints must be filed within 15 days, but the context does not specify a timeframe.
+Degree of Inconsistency: 3
+Explanation: Assigning an arbitrary timeframe without factual support can mislead users about deadlines.
+4. Inconsistency: The response suggest contacting Airtel customer care number +91-9823141241 for further assistance, but this number is not mentioned in the context.
+Degree of Inconsistency: 5
+Explanation: Giving wrong factual information like a fake contact number can severely mislead users and obstruct resolution.
 <|end_of_text|>
+
 
 Example 4
 Input:
 Inconsistency Present: Yes
 Inconsistencies:
-1. The response states that a consumer can file a complaint via email, but the context does not mention this.
-2. The response states that complaints about defective appliances can be filed under the Consumer Protection Act, though the context only discusses defective food products.
-3. The response includes an additional step about obtaining an invoice copy before lodging a complaint, which is not in the context.
+1. The response claims that the Food Safety and Standards Authority handles restaurant billing disputes, but this is not stated in the context.
+2. The response provides a method to escalate complaints through the legal system, but the exact process is not given in the context.
+3. The response states that users can email complaints to fssaicomplaints@india.org, but this email is not verified.
+4. The response states that restaurant disputes can be reported through the Consumer Protection Board, but this is not mentioned in the context.
 
 Output:
 Inconsistency Present: Yes
-Explanation for Correction: The ability to file complaints via email is a reasonable assumption, and including an invoice copy as a precautionary step is logical, even if not explicitly mentioned in the context.
+Explanation for Correction: The general method of escalating complaints through the legal system is not a contradiction and has been removed.
 Inconsistencies:
-1. Inconsistency: The response states that complaints about defective appliances can be filed under the Consumer Protection Act, though the context only discusses defective food products.
+1. Inconsistency: The response claims that the Food Safety and Standards Authority handles restaurant billing disputes, but this is not stated in the context.
+Degree of Inconsistency: 4
+Explanation: Misassigning authority can cause users to file complaints with the wrong regulatory body.
+2. Inconsistency: The response states that users can email complaints to fssaicomplaints@india.org, but this email is not verified.
+Degree of Inconsistency: 5
+Explanation: Providing a potentially false email address for complaint filing can mislead users and obstruct resolution.
+3. Inconsistency: The response states that restaurant disputes can be reported through the Consumer Protection Board, but this is not mentioned in the context.
 Degree of Inconsistency: 3
-Explanation: The response expands the scope of consumer complaints beyond what the context specifies, which may cause minor confusion but is not a major contradiction.
+Explanation: While the Consumer Protection Board may be relevant, its role in restaurant disputes is not explicitly mentioned and could be misleading.
 <|end_of_text|>
+
 
 Example 5
-Input:
-Inconsistency Present: Yes
-Inconsistencies:
-1. The response states that the consumer has a right to request a replacement instead of a refund, but the context does not specify this.
-2. The response suggests that the consumer should first contact customer service before filing a formal complaint, though this step is not in the context.
-3. The response does not mention that the consumer can approach a legal advisor, despite this being in the context.
-
-Output:
-Inconsistency Present: Yes
-Explanation for Correction: Suggesting that the consumer contact customer service before filing a formal complaint is a logical and reasonable step, not an inconsistency. Additionally, missing a mention of legal advisors does not contradict the context.
-Inconsistencies:
-1. Inconsistency: The response states that the consumer has a right to request a replacement instead of a refund, but the context does not specify this.
-Degree of Inconsistency: 2
-Explanation: The response introduces a minor unsupported claim about replacement rights, but it does not significantly mislead the user.
-<|end_of_text|>
-
-Example 6
 Input:
 Inconsistency Present: No
 Inconsistencies:
@@ -639,6 +626,7 @@ Inconsistencies:
 Degree of Inconsistency: 1
 Explanation: No inconsistencies present
 <|end_of_text|>
+
 
 Now based on these examples work for the following,
 Input:
@@ -674,11 +662,11 @@ Input:
 
                 # Retrieve relevant context
                 context_docs = self.retriever.get_relevant_documents(reformulated_query)
-                context = " ".join([doc.page_content for doc in context_docs])
+                context = "".join([f"\nDocument {doc_num}:\n{doc.page_content.replace("\n", " ")}" for doc_num, doc in enumerate(context_docs)])
 
                 # Pass everything to the analysis chain
                 final_inputs = {
-                    "context": context.replace("\n", " "),
+                    "context": context,
                     "history": history,
                     "query": query,
                     "reformulated": reformulated_query,
@@ -721,7 +709,7 @@ Input:
                 #     if degree >= 4:  # Include only if degree is 4 or 5
                 #         analysis.append("\nTurn " + str(i + 1) + "\n" + inconsistencies_text)
                 pattern = re.compile(r'Inconsistency:(.*?)Degree of Inconsistency: (\d+)', re.DOTALL)
-                matches = pattern.findall(result)
+                matches = pattern.findall(str(result))
                 # print("PAttern, MATCH")
                 # print(pattern, matches)
                 analysis_turn = ""
@@ -731,12 +719,70 @@ Input:
                         if(not found):
                             analysis_turn = f"Turn {i}\nInconsistencies Present: Yes\nInconsistencies:\n"
                             found = True
-                        analysis_turn = analysis_turn + f"{j}. {match.strip()}"
-                if found==False:
+                        analysis_turn = analysis_turn + f"{j}. {match.strip()} Degree of Inconsistency is {degree}\n"
+                if found==True:
                     analysis.append(analysis_turn)
             if len(analysis)==0:
                 analysis.append("Turn 1\nInconsistencies Present: No\nTurn 2\nInconsistencies Present: No\n")
             analysis_text = "\n".join(analysis)
+            analysis_tex = '''Turn 2
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response introduces the National Consumer Helpline at 1800-11-4000, which is not mentioned in the context. Degree of Inconsistency is 4
+
+Turn 4
+Inconsistencies Present: Yes
+Inconsistencies:
+2. The response provides a link to the NCDRC website, but the context mentions the District Consumer Commission, not NCDRC. Degree of Inconsistency is 4
+3. The response mentions that the consumer can contact the LPG Emergency Helpline at 1906, but the context states that the emergency helpline is available 24*7 operations with 2 shifts 12 hours each for attending emergency LPG leakage complaints. Degree of Inconsistency is 5
+
+Turn 6
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response mentions the toll-free numbers for LPG distributors in Karnataka but does not include Hindustan Petroleum's number as mentioned in the context. Instead, it incorrectly lists Hindustan Petroleum's number as 1800-22-4000. Degree of Inconsistency is 5
+3. The response mentions the toll-free numbers for LPG distributors in Karnataka but does not include Hindustan Petroleum's number as mentioned in the context. Instead, it incorrectly lists Hindustan Petroleum's number as 1800-22-4000. Degree of Inconsistency is 5
+
+Turn 7
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response provides the address of the KSDRC as "Vikasa Soudha, Kendriya Sadan, Bangalore - 560001", which is not accurate according to the context. Degree of Inconsistency is 5
+2. The response mentions visiting the KSDRC website at "www.karnatakastateconsumersdisputesredressalcommission.gov.in", which is not correct as per the context. Degree of Inconsistency is 5
+3. The response provides phone numbers for the KSDRC as "080-25580351, 25580352", which are not accurate according to the context. Degree of Inconsistency is 5
+5. The response provides incorrect information about the KSDRC office hours and availability. Degree of Inconsistency is 4
+
+Turn 8
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response mentions that the DCDRF in Bidar has the power to hear and decide consumer disputes in the district, which is not accurate. The DCDRF has the power to hear and decide consumer disputes in the state, not just the district. Degree of Inconsistency is 4
+2. The response provides a website for the DCDRF in Bidar, which is not a valid website. The correct website is not provided in the context. Degree of Inconsistency is 5
+
+Turn 9
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response mentions the e-daakhil portal but does not provide the correct link for filing a complaint. Degree of Inconsistency is 4
+2. The response does not provide the correct address of the DCDRF office in Bidar. Degree of Inconsistency is 4
+3. The response mentions the e-daakhil portal but does not provide the correct link for filing a complaint. Degree of Inconsistency is 4
+4. The response does not provide the correct address of the DCDRF office in Bidar. Degree of Inconsistency is 4
+
+Turn 10
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response does not provide the actual complaint form as requested by the user. Degree of Inconsistency is 4
+2. The response mentions that the user can download the complaint form from the DCDRF's website or obtain it in person from their office, but it does not provide the correct website or office address. Degree of Inconsistency is 5
+
+Turn 11
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response introduces the DCDRF as a quasi-judicial body that deals with consumer disputes at the district level, but the context only mentions the DCDRF in Bidar and does not provide information about its jurisdiction, powers, or composition. Degree of Inconsistency is 5
+2. The response mentions that the DCDRF has jurisdiction over consumer disputes involving goods worth up to Rs. 1 crore and services worth up to Rs. 10 lakhs, but the context does not provide any information about the jurisdiction of the DCDRF in Bidar. Degree of Inconsistency is 4
+3. The response states that the DCDRF has three members, but the context does not provide any information about the composition of the DCDRF in Bidar. Degree of Inconsistency is 4
+
+Turn 12
+Inconsistencies Present: Yes
+Inconsistencies:
+2. The response suggests contacting the DCDRF office in Bidar directly for assistance, which is not a necessary step as the website is publicly available. Degree of Inconsistency is 4
+3. The response does not provide the correct website address for the DCDRF in Bidar, which is a crucial piece of information for filing a complaint. Degree of Inconsistency is 5
+'''
             # Save the analysis_test variable for further analysis
             # with open('./hall_detect/exp_test_files/analysis_test_results.txt', 'w') as f:
             #     for item in analysis_test:
@@ -748,219 +794,96 @@ Input:
                     # "Inconsistencies are present"
                     # "The folllowing information is inconsistent"
                     # "\nAnswer in short. What is the final response to the questions: Are there any Inconsistencies in this chat? List the most significant of them"
-'''Task:
-You are provided with a record of inconsistencies detected in a chatbot’s responses across multiple turns (Chat History). Your task is to analyze all the detected inconsistencies collectively and determine whether there are any significant inconsistencies present in the chatbot’s responses as a whole. You should evaluate each inconsistency individually and assess whether it is serious or not.
+"""You are an evaluator tasked with analyzing inconsistencies in a chatbot’s responses. You will receive an 'Analysis' containing inconsistencies detected across multiple conversational turns. Your goal is to generate a unified, concise list of inconsistencies covering the entire conversation while eliminating redundancy. Follow these guidelines:
 
-Definitions:
-- Serious inconsistencies are those that contain incorrect information or contradict the context of the conversation.
-- Non-serious inconsistencies arise from assumptions that are reasonable, such as assuming a company is registered or that a user wants a remedy.
+Ensure no inconsistency is missed and no extra inconsistency is added.
+Merge similar inconsistencies into a single, concise statement.
+The inconsistencies should be clear, direct, and not overly verbose.
+Do not include the degree of inconsistency in the output—only the inconsistencies themselves.
+Avoid repetition by ensuring each inconsistency is listed only once, even if it appears multiple times in different turns.
+As soon as the output is finished, end with the <|end_of_text|> token.
 
-Instructions:
-- Provide an evaluation for the entire chat history, not additional turns.
-- Your response should not list individual inconsistencies but should instead offer a unified summary based on the entire conversation.
-- Your evaluation should be concise, clear, and free of repetition.
-- The evaluation must end with the <|endoftext|> token.
+Input Format:
+- A list of conversational turns, each containing detected inconsistencies.
+- Each turn may or may not have inconsistencies present.
+- The inconsistencies are listed for each turn separately.
 
-Evaluation Format:
+Output Format:
 - If inconsistencies are detected:
-  "Inconsistencies detected: Yes.
-   The following information is inconsistent: [briefly describe the most significant inconsistencies. Do not write the rest]."
+Inconsistencies detected: Yes. 
+The following information is inconsistent: 
+1. [First inconsistency]
+2. [Second inconsistency]
+3. [Third inconsistency]
+<|end_of_text|>
 
 - If no inconsistencies are detected:
-  "Inconsistencies detected: No."
+Inconsistencies detected: No.
+<|end_of_text|>
 
-Questions to Answer:
-1. Are there any inconsistencies in this chat?
-2. What are the most significant inconsistencies observed?
-'''
-                    "Here are a few examples"
+Here are a few examples:
 
-                    "Example 1\n"
-                    "Input:\n"
-                    "Chat History:\n"
-                    "Turn 1\n"
-                    "Inconsistencies Present: Yes\n"
-                    "Inconsistencies:\n"
-                    "1. The response incorrectly states that the Consumer Protection Act 2019 came into effect on August 9, 2019, whereas it was only notified on that date and came into effect on July 20, 2020.\n"
-                    "2. The response claims that the Consumer Protection Act 1986 is still valid, which contradicts the fact that it was repealed by the 2019 Act.\n"
-                    "Turn 2\n"
-                    "Inconsistencies Present: No\n"
-                    "Inconsistencies:\n"
-                    "Turn 3\n"
-                    "Inconsistencies Present: Yes\n"
-                    "Inconsistencies:\n"
-                    "1. The response states that the Consumer Protection Act 2019 does not apply to e-commerce platforms, which is incorrect as the Act specifically includes e-commerce and direct selling transactions.\n"
-                    "Turn 4\n"
-                    "Inconsistencies Present: No\n\n"
+Example 1:
+Input:
+Analysis:
+Turn 2
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response provides a phone number for customer support, but this is not mentioned in the context.
 
-                    "Output:\n"
-                    "Inconsistencies detected: Yes\n"
-                    "The following information is inconsistent:\n"
-                    "1. The chatbot incorrectly states that the Consumer Protection Act 2019 came into effect on August 9, 2019, when it was only notified on that date and came into effect on July 20, 2020.\n"
-                    "2. The chatbot claims the Consumer Protection Act 1986 is still valid, contradicting the fact that it was repealed by the 2019 Act.\n"
-                    "3. The chatbot states that the Consumer Protection Act 2019 does not apply to e-commerce platforms, which is incorrect as the Act includes e-commerce and direct selling transactions.\n"
-                    "<|endoftext|>\n\n"
+Turn 4
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response includes a link to a government portal that is not referenced in the context.
+2. The response suggests that the refund process takes 30 days, which is not stated in the context.
 
-                    "Example 2\n"
-                    "Input:\n"
-                    "Chat History:\n"
-                    "Turn 1\n"
-                    "Inconsistencies Present: No\n"
-                    "Turn 2\n"
-                    "Inconsistencies Present: No\n"
-                    "Turn 3\n"
-                    "Inconsistencies Present: No\n\n"
+Output: 
+Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response provides a phone number for customer support that is not mentioned in the context.
+2. The response includes a link to a government portal that is not referenced in the context.
+3. The response suggests that the refund process takes 30 days, which is not supported by the context.
+<|end_of_text|>
 
-                    "Output:\n"
-                    "Inconsistencies detected: No\n"
-                    "No inconsistencies are present.\n"
-                    "<|endoftext|>\n\n"
 
-                    "Example 3\n"
-                    "Input:\n"
-                    "Chat History:\n"
-                    "Turn 1\n"
-                    "Inconsistencies Present: Yes\n"
-                    "Inconsistencies:\n"
-                    "1. The response incorrectly states that the Right to Consumer Awareness is a new right introduced by the Consumer Protection Act 2019. However, this right was already recognized under the Consumer Protection Act 1986.\n"
-                    "Turn 2\n"
-                    "Inconsistencies Present: Yes\n"
-                    "Inconsistencies:\n"
-                    "1. The chatbot claims that consumers must physically visit consumer courts to file complaints, but the 2019 Act allows for e-filing of complaints.\n"
-                    "Turn 3\n"
-                    "Inconsistencies Present: No\n\n"
+Example 2:
+Input:
+Analysis:
+Turn 1
+Inconsistencies Present: No
 
-                    "Output:\n"
-                    "Inconsistencies detected: Yes\n"
-                    "The following information is inconsistent:\n"
-                    "1. The chatbot incorrectly identifies the Right to Consumer Awareness as a new right introduced by the 2019 Act, even though it was already recognized under the Consumer Protection Act 1986.\n"
-                    "2. The chatbot claims that consumers must physically visit consumer courts to file complaints, overlooking the provision in the 2019 Act allowing for e-filing of complaints.\n"
-                    "<|endoftext|>\n\n"
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response states that legal action can be taken immediately, but the context does not confirm this timeframe.
 
-                    "Example 4\n"
-                    "Input:\n"
-                    "Chat History:\n"
-                    "Turn 1\n"
-                    "Inconsistencies Present: Yes\n"
-                    "Inconsistencies:\n"
-                    "1. The chatbot provides outdated pecuniary jurisdiction limits for district consumer courts, which were revised under the Consumer Protection Act 2019.\n"
-                    "Turn 2\n"
-                    "Inconsistencies Present: No\n"
-                    "Turn 3\n"
-                    "Inconsistencies Present: Yes\n"
-                    "Inconsistencies:\n"
-                    "1. The response mentions that only manufacturers are liable under product liability provisions, omitting sellers and service providers who are also included in the Act.\n\n"
+Turn 5
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response claims that a consumer complaint can be filed via email, but no such method is mentioned in the context.
 
-                    "Output:\n"
-                    "Inconsistencies detected: Yes\n\n"
-                    "The following information is inconsistent:\n"
-                    "1. The chatbot provides outdated pecuniary jurisdiction limits for district consumer courts, which were revised under the Consumer Protection Act 2019.\n"
-                    "2. The chatbot states that only manufacturers are liable under product liability provisions, omitting the inclusion of sellers and service providers under the Act.\n"
-                    "<|endoftext|>\n\n"
+Output:
+Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response states that legal action can be taken immediately, but the context does not confirm this timeframe.
+2. The response claims that a consumer complaint can be filed via email, but no such method is mentioned in the context.
+<|end_of_text|>
 
-                    "Example 5\n"
-                    "Input:\n"
-                    "Chat History:\n"
-                    "Turn 1\n"
-                    "Inconsistencies Present: No\n"
-                    "Turn 2\n"
-                    "Inconsistencies Present: Yes\n"
-                    "Inconsistencies:\n"
-                    "1. The chatbot states that the Central Consumer Protection Authority (CCPA) can only handle individual complaints, which is incorrect since the CCPA can take suo-moto actions and initiate class actions.\n"
-                    "Turn 3\n"
-                    "Inconsistencies Present: No\n\n"
 
-                    "Output:\n"
-                    "Inconsistencies detected: Yes\n"
-                    "The following information is inconsistent:\n"
-                    "1. The chatbot states that the Central Consumer Protection Authority (CCPA) can only handle individual complaints, failing to acknowledge its ability to take suo-moto actions and initiate class actions.\n"
-                    "<|endoftext|>\n\n"
+Example 3:
+Input:
+Analysis:
+Turn 1
+Inconsistencies Present: No
 
-                    "Example 6\n"
-                    "Input:\n"
-                    "Chat History:\n"
-                    "Turn 1\n"
-                    "Inconsistencies Present: No\n"
-                    "Turn 2\n"
-                    "Inconsistencies Present: No\n"
-                    "Turn 3\n"
-                    "Inconsistencies Present: No\n\n"
-
-                    "Output:\n"
-                    "Inconsistencies detected: No\n"
-                    "No inconsistencies are present.\n"
-                    "<|endoftext|>\n\n"
-
-                    "Example 7\n"
-                    "Input:\n"
-                    "Chat History:\n"
-                    "Turn 1\n"
-                    "Inconsistencies Present: Yes\n"
-                    "Inconsistencies:\n"
-                    "1. The chatbot claims that the Consumer Protection Act 2019 introduced a new right to seek redressal, but this right was also present in the earlier Act of 1986.\n"
-                    "Turn 2\n"
-                    "Inconsistencies Present: No\n"
-                    "Turn 3\n"
-                    "Inconsistencies Present: Yes\n"
-                    "Inconsistencies:\n"
-                    "1. The chatbot incorrectly states that mediation is mandatory for all consumer disputes under the 2019 Act, while it is an alternative, voluntary dispute resolution mechanism.\n\n"
-
-                    "Output:\n"
-                    "Inconsistencies detected: Yes\n"
-                    "The following information is inconsistent:\n"
-                    "1. The chatbot mistakenly claims that the right to seek redressal is a new right under the 2019 Act, even though this right existed under the 1986 Act.\n"
-                    "2. The chatbot incorrectly states that mediation is mandatory for all consumer disputes under the 2019 Act, while it is actually an alternative, voluntary dispute resolution mechanism.\n"
-                    "<|endoftext|>\n\n"
-
-                    "Example 8\n"
-                    "Input:\n"
-                    "Chat History:\n"
-                    "Turn 1\n"
-                    "Inconsistencies Present: Yes\n"
-                    "Inconsistencies:\n"
-                    "1. The chatbot mentions the applicability of the Consumer Protection Act 2019 to the entire country, but it fails to acknowledge the special provisions for Jammu & Kashmir after the abrogation of Article 370.\n"
-                    "Turn 2\n"
-                    "Inconsistencies Present: No\n\n"
-
-                    "Output:\n"
-                    "Inconsistencies detected: Yes\n"
-                    "The following information is inconsistent:\n"
-                    "1. The chatbot mentions the applicability of the Consumer Protection Act 2019 to the entire country but fails to acknowledge the special provisions for Jammu & Kashmir after the abrogation of Article 370.\n"
-                    "<|endoftext|>\n\n"
-
-                    "Example 9\n"
-                    "Input:\n"
-                    "Chat History:\n"
-                    "Turn 1\n"
-                    "Inconsistencies Present: No\n"
-
-                    "Output:\n"
-                    "Inconsistencies detected: No\n"
-                    "No inconsistencies are present.\n"
-                    "<|endoftext|>\n\n"
-
-                    "Example 10\n"
-                    "Input:\n"
-                    "Chat History:\n"
-                    "Turn 1\n"
-                    "Inconsistencies Present: Yes\n"
-                    "Inconsistencies:\n"
-                    "1. The chatbot claims that an online complaint can only be filed through the National Consumer Helpline, but the Act allows for e-filing through all District, State, and National Commissions directly.\n"
-                    "Turn 2\n"
-                    "Inconsistencies Present: Yes\n"
-                    "Inconsistencies:\n"
-                    "1. The chatbot states that only consumer protection councils are responsible for handling complaints, ignoring the role of District, State, and National Commissions under the 2019 Act.\n\n"
-
-                    "Output:\n"
-                    "Inconsistencies detected: Yes\n"
-                    "The following information is inconsistent:\n"
-                    "1. The chatbot claims that online complaints can only be filed through the National Consumer Helpline, ignoring the provision for e-filing directly through District, State, and National Commissions.\n"
-                    "2. The chatbot states that only consumer protection councils are responsible for handling complaints, overlooking the roles of District, State, and National Commissions under the 2019 Act.\n"
-                    "<|endoftext|>\n\n"
+Output: 
+Inconsistencies detected: No.
+<|end_of_text|>
+"""
 
                     "Based upon the examples, do the same with the following"
                     "Input:"
-                    "Chat History: \n {analysis}\n\n"
+                    "{analysis}\n\n"
                     "Output:"
                 ),
                 input_variables=["analysis"]
@@ -1044,14 +967,16 @@ def process_chat_sequence(chat_sequence):
     return build_history_query_pairs(elements)
 
 # Create the RAG-based QA chain
+import time
+start_time = time.time()
+print("Start Time: ", start_time)
 print("START")
 # Example query
 first = True
 folder_path = "./hall_detect/rag"
 response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path)
-
-chat = '''
-AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+chats = [
+'''AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
 Human: I need gas
@@ -1438,20 +1363,163 @@ Alternatively, you can also try searching for the DCDRF's website on the officia
 If you're still having trouble finding the website or the complaint form, you can contact the DCDRF office in Bidar directly for assistance.
 
 
-Is there anything else I can help you with?'''
-# In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
-chat_sequence = process_chat_sequence(chat)
-res = response_analysis_chain.invoke({"chat":chat_sequence})
-print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-print("Analysis-")
-print(res['analysis'])
-print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-print("Result-")
-print(res['result'])
-print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+Is there anything else I can help you with?''', 
+'''AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
-chat = '''AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+
+Human: I took an Air India flight and my baggage was stuck at the airport for over an hour while we waited
+
+
+AI: I'm so sorry to hear that you had a frustrating experience with Air India. Can you please tell me more about what happened? What led to your baggage being stuck at the airport for over an hour? Was it due to any specific reason or was it just a delay in the baggage handling process?
+
+
+Human: They said that it was because the flight was parked very far from the airport
+
+
+AI: Being far from the airport can indeed cause delays in baggage handling. However, the airline should still ensure that your baggage is handled efficiently and reaches you in a timely manner.
+
+
+Can you please tell me what kind of relief are you seeking from Air India regarding this incident? Are you looking for a refund, compensation, or something else?
+
+
+Human: They did not provide us with any refreshments or alternate methods of getting our bags. I missed a conference due to this. I want compensation for the trouble
+
+
+AI: I understand that not only was your baggage delayed, but you also missed a conference due to the airline's inefficiency. As per the Air India's policy, if a flight is delayed by more than six hours, the airline should offer meals and refreshments to passengers. Since your flight was delayed, you should have been provided with refreshments.
+
+
+Regarding the compensation, you are eligible for it since you missed a conference due to the airline's delay. The compensation amount can range between â‚¹5,000 to â‚¹10,000, depending on the block time (the time between the departure of a flight from the gate and arrival at the destination gate).
+
+
+I can help you draft a letter to Air India for compensation. Would you like me to provide you with a draft letter? 
+
+
+Also, I would like to inform you that you can also contact the National Consumer Helpline at 1800-11-4000 for immediate assistance. They can guide you through the process of filing a complaint and seeking compensation. Would you like me to provide you with the contact number of the local consumer helpline as well?
+
+
+Human: Could you help me draft a letter to Air India?
+
+
+AI: Here's a draft letter you can use as a template:
+
+
+[Your Name]
+[Your Address]
+[City, State, PIN Code]
+[Email ID]
+[Phone Number]
+[Date]
+
+
+Air India
+[Address]
+[City, State, PIN Code]
+
+
+Subject: Compensation Claim for Delayed Baggage and Missed Conference
+
+
+Dear Sir/Madam,
+
+
+Re: Flight [Flight Number] from [Departure City] to [Destination City] on [Date]
+
+
+I am writing to bring to your notice a disturbing incident that occurred during my travel with Air India on [Date]. My baggage was stuck at the airport for over an hour due to the flight being parked far from the airport. Although I understand that this might have been a technical issue, I was not provided with any refreshments or alternate methods of getting my bags.
+
+
+As a result, I missed a conference that I had scheduled for [Time] on [Date]. This has caused me significant inconvenience and financial loss.
+
+
+As per the Air India's policy, I am entitled to compensation for the delay and inconvenience caused. I request you to provide me with compensation of â‚¹ [amount] for the trouble caused.
+
+
+I would appreciate it if you could look into this matter urgently and take necessary steps to resolve it. I would also appreciate a response regarding the steps you will take to prevent such incidents in the future.
+
+
+My PNR number is [PNR Number] and my booking reference number is [Booking Reference Number]. I have attached a copy of my ticket and a receipt for the conference I missed.
+
+
+Thank you for your attention to this matter. I look forward to hearing from you soon.
+
+
+Yours sincerely,
+
+
+[Your Name]
+
+
+Please note that you should fill in the brackets with your actual details and attach the required documents. Also, you can modify the letter as per your specific situation.
+
+
+Also, don't forget to contact the National Consumer Helpline at 1800-11-4000 for immediate assistance. They can guide you through the process of filing a complaint and seeking compensation.
+
+
+Is there anything else I can help you with?
+
+
+Human: I am from Bangalore, but my flight was delayed in Bombay. Where do I submit my complaint?
+
+
+AI: Since your flight was delayed in Bombay, you can submit your complaint to Air India's Mumbai office. However, I would recommend filing a complaint with the National Consumer Helpline (NCH) at 1800-11-4000 for immediate assistance. They can guide you through the process of filing a complaint and seeking compensation.
+
+
+Additionally, you can also file a complaint on the Centralized Public Grievance Redress and Monitoring System (CPGRAMS) portal at [cpGRAMS.gov.in](http://cpGRAMS.gov.in). This portal is managed by the Ministry of Personnel, Public Grievances and Pensions, Department of Administrative Reforms and Public Grievances.
+
+
+If you prefer to submit a physical complaint, you can visit the Air India office in Mumbai. Here is the address:
+
+
+Air India Limited
+Mumbai Office
+A Wing, 12th Floor, 16/18, J.N. Heredia Marg, Ballard Estate,
+Mumbai - 400 001.
+
+
+Please note that you may need to make an appointment or contact them in advance to file a complaint.
+
+
+Also, you can download the RailMadad App or visit the RailMadad portal at [railmadad.indianrailways.gov.in](http://railmadad.indianrailways.gov.in) to file a complaint.
+
+
+Human: cant i file it with the bangalore office? it would be easier for me
+
+
+AI: You can indeed file a complaint with the Air India office in Bangalore. It would be more convenient for you to visit their office in person and file a complaint.
+
+
+Here is the address of the Air India office in Bangalore:
+
+
+Air India Limited
+Bangalore Office
+No. 32, 4th Floor, Brigade Gateway, 26/27, Opp. Metro Station, Off. MG Road,
+Bangalore - 560 025.
+
+
+You can visit this office and file a complaint with their customer service team. They will guide you through the process and help you with your issue.
+
+
+Before you visit, it's a good idea to call them and make an appointment or confirm their office hours to avoid any inconvenience.
+
+
+Additionally, don't forget to keep a copy of your complaint and any supporting documents, such as your ticket and receipt for the conference you missed.
+
+
+Is there anything else I can help you with?
+
+
+Human: nothing else, thank you!
+
+
+AI: It was my pleasure to assist you. I hope you get a resolution to your issue with Air India and receive the compensation you deserve. Don't hesitate to reach out if you need any further assistance.
+
+
+Remember to also contact the National Consumer Helpline at 1800-11-4000 for any future consumer-related issues. They are available 24/7 to help you.
+
+
+Have a great day and a smooth resolution to your issue!''',
+'''AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
 Human: i got food poisoning
@@ -1579,12 +1647,30 @@ Also, don't forget to contact the National Consumer Helpline at 1800-11-4000 for
 
 
 Is there anything else I can help you with?
-'''
-chat_sequence = process_chat_sequence(chat)
-res = response_analysis_chain.invoke({"chat":chat_sequence})
-print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-print("Analysis-")
-print(res['analysis'])
-print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-print("Result-")
-print(res['result'])
+''']
+# chats.append("")
+# chats.append("")
+
+for i, chat in enumerate(chats, start=1):
+    # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
+    # Wrong address for Air India Mumbai, and Air India Bangalore; addresses were completely fictional The bot is picking up compensation of Rs 5000-10,000 which is for not informing the flier 24 hours before flight, but the issue at hand is delay in baggage claim; the chatbot is also linking CPGRAMS portal, which is a correct grievance redressal mechanism, however the website is linked wrong, and has not been linked on our sectoral corpus; the chatbot is also linking the rail portal for some reason
+    # No hallucination
+    chat_sequence = process_chat_sequence(chat)
+    res = response_analysis_chain.invoke({"chat":chat_sequence})
+    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan\n Chat ", i)
+    print("Analysis-")
+    print(res['analysis'])
+    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+    print("Result-")
+    print(res['result'])
+    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+print("\nENDOFINFERENCE\n")
+
+end_time = time.time()
+print("End Time: ", end_time)
+duration = end_time - start_time
+hours = int(duration // 3600)
+minutes = int((duration % 3600) // 60)
+seconds = int(duration % 60)
+print(f"Time Taken: {hours:02}:{minutes:02}:{seconds:02}")

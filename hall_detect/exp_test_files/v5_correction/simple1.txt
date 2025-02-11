@@ -1,0 +1,225 @@
+Start Time:  1738867977.5857022
+START
+Start Time:  1738868049.093511
+START
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot.
+"
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot.
+The inconsistencies should be clear, direct, and not overly verbose. So, the degree of inconsistency is removed from the output.
+
+Turn 6
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response suggests that the user should contact the local authorities for assistance, but the context does not support this recommendation.
+2. The response includes a link to a government website that is not relevant to the user's situation.
+
+Turn 8
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The response states that the user's issue can be resolved within a day, but the context does not confirm this timeframe.
+2. The response claims that a consumer complaint can be filed via phone, but no such method is mentioned in the context.
+
+Turn 10
+Inconsistencies Present: No
+
+Output: 
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response suggests that the user should contact the local authorities for assistance, but the context does not support this recommendation.
+2. The response includes a link to a government website that is not relevant to the user's situation.
+3. The response states that the user's issue can be resolved within a day, but the context does not confirm this timeframe.
+4. The response claims that a consumer complaint can be filed via phone, but no such method is mentioned in the context.
+"
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+
+ENDOFINFERENCE
+
+End Time:  1738868100.4959543
+Time Taken: 00:00:51
+Start Time:  1738868429.1720307
+START
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+ Chat  1
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation.
+"
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+ Chat  2
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+ Chat  3
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+ Chat  4
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot."
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+ Chat  5
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot."
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+ Chat  6
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot.
+"
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+ Chat  7
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation.
+"
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+ Chat  8
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation.
+"
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+ Chat  9
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+ Chat  10
+Analysis-
+Turn 3
+Inconsistencies Present: Yes
+Inconsistencies:
+3. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot. Degree of Inconsistency is 4
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+Result-
+"Inconsistencies detected: Yes.
+The following information is inconsistent:
+1. The response introduces the UMANG App as a means of assistance, which is not relevant to the user's situation as they are already seeking assistance from the chatbot."
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan
+
+ENDOFINFERENCE
+
+End Time:  1738868482.3383856
+Time Taken: 00:00:53
