@@ -11,7 +11,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain_community.llms import HuggingFacePipeline
 from transformers import pipeline
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "4"
 
 def disp_dict(arr):
     print("Start Dictionary")
@@ -301,7 +301,7 @@ Output:
 The chatbot introduces itself as a consumer grievance assistance tool and asks the user how it can help. The user replies by stating he needs help with a faulty product purchased online.
 
 
-Now you have to summarize the following chat history. Remeber to end with an '<|end_of_text|>' token:
+Now you have to summarize the following chat history. Remember to end with an '<|end_of_text|>' token:
 Input:
 Chat History:
 {history}
@@ -508,13 +508,7 @@ Input:
 
         analysis_prompt_template2 = PromptTemplate(
             template=(
-                """You are an evaluator in an AI company whose job is to determine the quality of a legal chatbot. You have already identified whether inconsistencies exist in the chatbot’s response. Now, your goal is to analyze the identified inconsistencies, remove the wrong inconsistencies and assign a Degree of Inconsistency for each of the corrected inconsistencies. 
-
-Input Provided to You:
-1. Inconsistency Present: Yes or No
-2. Inconsistencies: [List of identified inconsistencies]
-
-You are an evaluator in an AI company whose job is to determine the quality of a legal chatbot. You have already identified whether inconsistencies exist in the chatbot’s response. Now, your goal is to analyze the identified inconsistencies, remove the wrong inconsistencies, and assign a Degree of Inconsistency for each of the corrected inconsistencies. Do not add any new inconsistencies.
+                """You are an evaluator in an AI company whose job is to determine the quality of a legal chatbot. You have already identified whether inconsistencies exist in the chatbot’s response. Now, your goal is to analyze the identified inconsistencies, remove the wrong inconsistencies and assign a Degree of Inconsistency for each of the corrected inconsistencies. The output should only contain inconsistencies that were originally present in the input and not any new inconsistencies.
 
 Task 1: Removing Incorrect Inconsistencies
 An inconsistency must be removed if it falls under any of the following conditions:
@@ -582,6 +576,9 @@ Degree 5: Critical Errors
 - Providing legal remedies for actions that have no recourse or are illegal. 
 
 
+Input Provided to You:
+1. Inconsistency Present: Yes or No
+2. Inconsistencies: [List of identified inconsistencies]
 
 Output Format:
 Based on the inconsistencies provided, generate the following structured output:
@@ -681,6 +678,7 @@ Inconsistencies:
 2. The response provides a method to escalate complaints through the legal system, but the exact process is not given in the context.
 3. The response states that users can email complaints to fssaicomplaints@india.org, but this email is not verified.
 4. The response states that restaurant disputes can be reported through the Consumer Protection Board, but this is not mentioned in the context.
+5. The response states to contact the customer service team, which is not mentioned in context.
 
 Output:
 Inconsistency Present: Yes
@@ -695,7 +693,9 @@ Explanation: Providing a potentially false email address for complaint filing ca
 3. Inconsistency: The response states that restaurant disputes can be reported through the Consumer Protection Board, but this is not mentioned in the context.
 Degree of Inconsistency: 3
 Explanation: While the Consumer Protection Board may be relevant, its role in restaurant disputes is not explicitly mentioned and could be misleading.<|end_of_text|>
-
+4. Inconsistency: The response states to contact the customer service team, which is not mentioned in context.
+Degree of Inconsistency: 1
+Explanation: While the contact information is not mentioned in context, the response only states to contact the customer service team without giving the contact information. As there is no misinformation provided, existence of customer service being general knowledge, it has low degree of inconsistency<|end_of_text|>
 
 Example 5
 Input:
@@ -785,7 +785,7 @@ Input:
                 result = chain(chat_triple)
                 analysis_test.append("\nTurn "+str(i)+ ":\n"+result)
                 # Extract the degree of inconsistency from the result (assuming it's explicitly stated in the result text).
-                # analysis_test.append(result)
+                analysis_test.append(result)
                 # degree_line = [line for line in result.split("\n") if "Degree of Inconsistency:" in line]
                 # if degree_line:
                 #     degree = int(degree_line[0].split(":")[1].strip())
@@ -814,7 +814,7 @@ Input:
             if len(analysis)==0:
                 analysis.append("Turn 1\nInconsistencies Present: No\nTurn 2\nInconsistencies Present: No\n")
             analysis_text = "\n".join(analysis)
-            #analysis_text = "\n".join(analysis_test)
+            # analysis_text = "\n".join(analysis_test)
     
             # Save the analysis_test variable for further analysis
             # with open('./hall_detect/exp_test_files/analysis_test_results.txt', 'w') as f:
@@ -1678,21 +1678,22 @@ Is there anything else I can help you with?
 ''']
 # chats.append("")
 # chats.append("")
-
-for i, chat in enumerate(chats[2:], start=1):
-    # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
-    # Wrong address for Air India Mumbai, and Air India Bangalore; addresses were completely fictional The bot is picking up compensation of Rs 5000-10,000 which is for not informing the flier 24 hours before flight, but the issue at hand is delay in baggage claim; the chatbot is also linking CPGRAMS portal, which is a correct grievance redressal mechanism, however the website is linked wrong, and has not been linked on our sectoral corpus; the chatbot is also linking the rail portal for some reason
-    # No hallucination
-    chat_sequence = process_chat_sequence(chat)
-    res = response_analysis_chain.invoke({"chat":chat_sequence})
-    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan\n Chat ", i)
-    print("Analysis-")
-    print(res['analysis'])
-    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-    print("Result-")
-    print(res['result'])
-    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+for j in range(1):
+    print("Loop ", j)
+    for i, chat in enumerate(chats[:], start=1):
+        # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
+        # Wrong address for Air India Mumbai, and Air India Bangalore; addresses were completely fictional The bot is picking up compensation of Rs 5000-10,000 which is for not informing the flier 24 hours before flight, but the issue at hand is delay in baggage claim; the chatbot is also linking CPGRAMS portal, which is a correct grievance redressal mechanism, however the website is linked wrong, and has not been linked on our sectoral corpus; the chatbot is also linking the rail portal for some reason
+        # No hallucination
+        chat_sequence = process_chat_sequence(chat)
+        res = response_analysis_chain.invoke({"chat":chat_sequence})
+        print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan\n Chat ", i)
+        print("Analysis-")
+        print(res['analysis'])
+        print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+        print("Result-")
+        print(res['result'])
+        print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+        print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
 print("\nENDOFINFERENCE\n")
 
 end_time = time.time()
