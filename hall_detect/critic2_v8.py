@@ -1,10 +1,12 @@
 import os
+import asyncio
 from PyPDF2 import PdfReader
 from langchain.schema.runnable import RunnablePassthrough
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.chains.transform import TransformChain
+from langchain.chains.base import Chain
 from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 # from langchain_huggingface import HuggingFacePipelinex
@@ -724,7 +726,7 @@ Input:
         analysis_chain2 = analysis_prompt_template2 | llm2
 
         # Define a custom chain that combines reformulating and analysis
-        class ResponseAnalysisChain:
+        class ResponseAnalysisChain(Chain):
             def __init__(self, retriever, reformulate_chain, analysis_chain, analysis_chain2, memory_chain):
                 self.retriever = retriever
                 self.reformulate_chain = reformulate_chain | StrOutputParser()
@@ -733,7 +735,7 @@ Input:
                 self.analysis_chain2 = analysis_chain2 | StrOutputParser()
 
 
-            def __call__(self, inputs):
+            async def __call__(self, inputs):
                 # Extract inputs
                 query = inputs["query"]
                 history = inputs["history"]
@@ -744,7 +746,7 @@ Input:
                 # reformulated_query = cutoff_at_stop_token(reformulated_query)
 
                 # Memory for previous history
-                memory = self.memory_chain.invoke({"history": history + "\nUser: " + query})
+                memory = self.memory_chain.ainvoke({"history": history + "\nUser: " + query})
                 memory = cutoff_at_stop_token(memory)
                 return memory
             
@@ -927,13 +929,13 @@ Inconsistencies detected: No.<|end_of_text|>
     # Build the pipeline
     text = get_pdf_text(folder_path)
     text_chunks = get_text_chunks(text)
-    vectorstore = get_vectorstore(text_chunks)
-    retriever = vectorstore.as_retriever(search_kwargs={"k": 8})
+    # vectorstore = get_vectorstore(text_chunks)
+    retriever = None #vectorstore.as_retriever(search_kwargs={"k": 8})
     llm1, llm2 = get_llm()
     response_analysis_chain = get_response_analysis_chain(retriever, llm1, llm2)
-    final_chain = detect_hallucination_per_chat(response_analysis_chain, llm1)
+    #final_chain = detect_hallucination_per_chat(response_analysis_chain, llm1)
 
-    return final_chain
+    return response_analysis_chain #final_chain
 
 import re
 def split_chat_into_elements(chat_sequence):
@@ -1678,22 +1680,21 @@ Is there anything else I can help you with?
 ''']
 # chats.append("")
 # chats.append("")
+chat_sequence = [process_chat_sequence(chat)[0] for chat in chats]
 for j in range(1):
     print("Loop ", j)
-    for i, chat in enumerate(chats[2:], start=1):
-        # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
-        # Wrong address for Air India Mumbai, and Air India Bangalore; addresses were completely fictional The bot is picking up compensation of Rs 5000-10,000 which is for not informing the flier 24 hours before flight, but the issue at hand is delay in baggage claim; the chatbot is also linking CPGRAMS portal, which is a correct grievance redressal mechanism, however the website is linked wrong, and has not been linked on our sectoral corpus; the chatbot is also linking the rail portal for some reason
-        # No hallucination
-        chat_sequence = process_chat_sequence(chat)
-        res = response_analysis_chain.invoke({"chat":chat_sequence})
-        print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan\n Chat ", i)
-        print("Analysis-")
-        print(res['analysis'])
-        print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-        print("Result-")
-        print(res['result'])
-        print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-        print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+    # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
+    # Wrong address for Air India Mumbai, and Air India Bangalore; addresses were completely fictional The bot is picking up compensation of Rs 5000-10,000 which is for not informing the flier 24 hours before flight, but the issue at hand is delay in baggage claim; the chatbot is also linking CPGRAMS portal, which is a correct grievance redressal mechanism, however the website is linked wrong, and has not been linked on our sectoral corpus; the chatbot is also linking the rail portal for some reason
+    # No hallucination
+    res = response_analysis_chain.abatch(chat_sequence) #{"chat":chat_sequence})
+    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan\n Chat ", i)
+    print("Analysis-")
+    print(res['analysis'])
+    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+    print("Result-")
+    #print(res['result'])
+    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
 print("\nENDOFINFERENCE\n")
 
 end_time = time.time()
