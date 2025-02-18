@@ -1,5 +1,6 @@
 import os
 import asyncio
+from operator import itemgetter
 from PyPDF2 import PdfReader
 from langchain.schema.runnable import RunnablePassthrough
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -9,6 +10,7 @@ from langchain.chains.transform import TransformChain
 from langchain.chains.base import Chain
 from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
+from langchain_core.runnables import RunnableLambda
 # from langchain_huggingface import HuggingFacePipelinex
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain_community.llms import HuggingFacePipeline
@@ -213,7 +215,9 @@ def create_rag_qa_chain_with_response_analysis(
             input_variables=["history", "query"]
         )
         # Chain for reformulating the query
-        reformulate_chain = contextualize_q_prompt | llm1
+        reformulate_chain = contextualize_q_prompt | llm1 | StrOutputParser() | RunnableLambda(cutoff_at_stop_token)
+        reword_context = lambda x: "".join([f"\nDocument {doc_num}:\n{doc.page_content.replace("\n", " ")}" for doc_num, doc in enumerate(x)])
+        retriever_complete = RunnableLambda(lambda x: x["reformulated_query"]) | retriever | RunnableLambda(reword_context)
 
         memory_prompt = PromptTemplate(
             template=("""
@@ -313,7 +317,7 @@ Output:
             input_variables=["history"]
         )
         # Chain for reformulating the query
-        memory_chain = memory_prompt | llm1
+        memory_chain = memory_prompt | llm1 | StrOutputParser() | RunnableLambda(cutoff_at_stop_token)
 
         # Prompt for the analysis
         analysis_prompt_template = PromptTemplate(
@@ -506,7 +510,7 @@ Input:
             input_variables=["context", "history", "query", "response"]
         )
 
-        analysis_chain = analysis_prompt_template | llm2
+        analysis_chain = analysis_prompt_template | llm2 | StrOutputParser() | RunnableLambda(cutoff_at_stop_token)
 
         analysis_prompt_template2 = PromptTemplate(
             template=(
@@ -723,112 +727,60 @@ Input:
             input_variables=["inconsistency"]
         )
 
-        analysis_chain2 = analysis_prompt_template2 | llm2
+        analysis_chain2 = analysis_prompt_template2 | llm2 | StrOutputParser() | RunnableLambda(cutoff_at_stop_token)
+        def flatten_retrieved(x):
+            # Get the dictionary under the 'retrieved' key and merge it with the rest of 'x'
+            x.update(x.pop("retrieved", {})) 
+            return x
 
-        # Define a custom chain that combines reformulating and analysis
-        class ResponseAnalysisChain(Chain):
-            def __init__(self, retriever, reformulate_chain, analysis_chain, analysis_chain2, memory_chain):
-                self.retriever = retriever
-                self.reformulate_chain = reformulate_chain | StrOutputParser()
-                self.memory_chain = memory_chain | StrOutputParser()
-                self.analysis_chain = analysis_chain | StrOutputParser()
-                self.analysis_chain2 = analysis_chain2 | StrOutputParser()
+        #Combining chains
 
-
-            async def __call__(self, inputs):
-                # Extract inputs
-                query = inputs["query"]
-                history = inputs["history"]
-                response = inputs["response"]
-
-                # Reformulate the query
-                # reformulated_query = self.reformulate_chain.invoke({"history": history, "query": query}) 
-                # reformulated_query = cutoff_at_stop_token(reformulated_query)
-
-                # Memory for previous history
-                memory = self.memory_chain.ainvoke({"history": history + "\nUser: " + query})
-                memory = cutoff_at_stop_token(memory)
-                return memory
-            
-                # Retrieve relevant context
-                context_docs = self.retriever.get_relevant_documents(reformulated_query)
-                context = "".join([f"\nDocument {doc_num}:\n{doc.page_content.replace("\n", " ")}" for doc_num, doc in enumerate(context_docs)])
-
-                # Pass everything to the analysis chain
-                final_inputs = {
-                    "context": context,
-                    "history": memory,
-                    "query": query,
-                    "reformulated": reformulated_query,
-                    "response": response,
-                }
-                analysis_temp = cutoff_at_stop_token(self.analysis_chain.invoke(final_inputs))
-                analysis = cutoff_at_stop_token(self.analysis_chain2.invoke({"inconsistency":analysis_temp}))
-                final_inputs['analysis_temp'] = analysis_temp
-                final_inputs['analysis'] = analysis
-                # final_inputs.pop('history')
-                # final_inputs.pop('reformulated')
-                disp_dict(final_inputs)
-                global first
-                if first==True:
-                    # print(final_inputs['context'].replace('/n', ' '))
-                    first = False
-                return analysis
-
-        return ResponseAnalysisChain(retriever, reformulate_chain, analysis_chain, analysis_chain2, memory_chain)
-
-    def detect_hallucination_per_chat(chain, llm):
-        # Define a function that performs the analysis dynamically
-        def transform_fn(inputs):
-            chat = inputs["chat"]  # Expect the input to have a key "chat"
-            analysis = []
-            analysis_test = []
-            for i, chat_triple in enumerate(chat, start=1):
-                result = chain(chat_triple)
-                analysis_test.append("\nTurn "+str(i)+ ":\n"+result)
-                # Extract the degree of inconsistency from the result (assuming it's explicitly stated in the result text).
-                # analysis_test.append(result)
-                # degree_line = [line for line in result.split("\n") if "Degree of Inconsistency:" in line]
-                # if degree_line:
-                #     degree = int(degree_line[0].split(":")[1].strip())
-                #     result_lines = result.split("\n")
-                #     line_no = 0
-                #     for line_no in range(len(result_lines)):
-                #         if "Explanation for Correction:" in result_lines[line_no]:
-                #             break
-                #     inconsistencies_text = "\n".join(result_lines[:line_no]) 
-                #     if degree >= 4:  # Include only if degree is 4 or 5
-                #         analysis.append("\nTurn " + str(i + 1) + "\n" + inconsistencies_text)
-                pattern = re.compile(r'Inconsistency:(.*?)Degree of Inconsistency: (\d+)', re.DOTALL)
-                matches = pattern.findall(str(result))
-                # print("PAttern, MATCH")
-                # print(pattern, matches)
-                analysis_turn = ""
-                found = False
-                for j, (match, degree) in enumerate(matches, start=1):
-                    if int(degree) >= 4:
-                        if(not found):
-                            analysis_turn = f"Turn {i}\nInconsistencies Present: Yes\nInconsistencies:\n"
-                            found = True
-                        analysis_turn = analysis_turn + f"{j}. {match.strip()} Degree of Inconsistency is {degree}\n"
-                if found==True:
-                    analysis.append(analysis_turn)
-            if len(analysis)==0:
-                analysis.append("Turn 1\nInconsistencies Present: No\nTurn 2\nInconsistencies Present: No\n")
-            analysis_text = "\n".join(analysis)
-            #analysis_text = "\n".join(analysis_test)
+        final_chain = ({
+                            "retrieved": RunnablePassthrough.assign(reformulated_query=reformulate_chain) 
+                                        | {
+                                            "reformulated_query": itemgetter("reformulated_query"),
+                                            "context": retriever_complete
+                                        }, 
+                            "memory": memory_chain,
+                            "query": itemgetter("query"),
+                            "history": itemgetter("history"),
+                            "response": itemgetter("response")
+                        }
+                    | RunnableLambda(flatten_retrieved)
+                    | RunnablePassthrough.assign(inconsistency=analysis_chain)
+                    | RunnablePassthrough.assign(analysis=analysis_chain2))
+        return final_chain
     
-            # Save the analysis_test variable for further analysis
-            # with open('./hall_detect/exp_test_files/analysis_test_results.txt', 'w') as f:
-            #     for item in analysis_test:
-            #         f.write(f"{item}<|end_of_element|>")
-            # Create the analysis prompt
-            prompt = PromptTemplate(
-                template=(
-                    # "You are given an individual history of Inconsistencies detected in a chatbot. You are an evaluator and your task is to use all of these statements and give out simple description answering whether Inconsistencies are present as a whole in the chatbot. Do not individually mention each Inconsistencies but give a single statement describing whether Inconsistencies are present or not. It should be in this format:"
-                    # "Inconsistencies are present"
-                    # "The folllowing information is inconsistent"
-                    # "\nAnswer in short. What is the final response to the questions: Are there any Inconsistencies in this chat? List the most significant of them"
+    def combine_turnwise_analysis(analysis_turns):
+        # Input is actually a list of dictionaries for each turn
+        analysis = []
+        pattern = re.compile(r'Inconsistency:(.*?)Degree of Inconsistency: (\d+)', re.DOTALL)
+        for i, analysis_turn in enumerate(analysis_turns, start=1):
+            matches = pattern.findall(str(analysis_turn))
+            analysis_turn = ""
+            found = False
+            for j, (match, degree) in enumerate(matches, start=1):
+                if int(degree) >= 4:
+                    if(not found):
+                        analysis_turn = f"Turn {i}\nInconsistencies Present: Yes\nInconsistencies:\n"
+                        found = True
+                    analysis_turn = analysis_turn + f"{j}. {match.strip()} Degree of Inconsistency is {degree}\n"
+            if found==True:
+                analysis.append(analysis_turn)
+
+        if len(analysis)==0:
+            analysis.append("Turn 1\nInconsistencies Present: No\nTurn 2\nInconsistencies Present: No\n")
+        result = "\n".join(analysis)
+        return result
+
+
+    def get_result_chain(llm):
+        prompt = PromptTemplate(
+            template=(
+                # "You are given an individual history of Inconsistencies detected in a chatbot. You are an evaluator and your task is to use all of these statements and give out simple description answering whether Inconsistencies are present as a whole in the chatbot. Do not individually mention each Inconsistencies but give a single statement describing whether Inconsistencies are present or not. It should be in this format:"
+                # "Inconsistencies are present"
+                # "The folllowing information is inconsistent"
+                # "\nAnswer in short. What is the final response to the questions: Are there any Inconsistencies in this chat? List the most significant of them"
 """You are an evaluator tasked with analyzing inconsistencies in a chatbot’s responses. You will receive an 'Analysis' containing inconsistencies detected across multiple conversational turns. Your goal is to generate a unified, concise list of inconsistencies covering the entire conversation while eliminating redundancy. Follow these guidelines:
 
 Ensure no inconsistency is missed and no extra inconsistency is added.
@@ -911,29 +863,28 @@ Output:
 Inconsistencies detected: No.<|end_of_text|>
 """
 
-                    "Based upon the examples, do the same with the following"
-                    "Input:"
-                    "{analysis}\n\n"
-                    "Output:"
-                ),
-                input_variables=["analysis"]
-            )
-            # Use the prompt and LLM in a chain
-            combination_chain = prompt | llm
+                "Based upon the examples, do the same with the following"
+                "Input:"
+                "{analysis}\n\n"
+                "Output:"
+            ),
+            input_variables=["analysis"]
+        )
+        # Use the prompt and LLM in a chain
+        combination_chain = prompt | llm | StrOutputParser() | RunnableLambda(cutoff_at_stop_token)
+        return combination_chain
 
-            #print("Analysis Total: abcdefg\n")
-            return {"analysis": analysis_text,"result": cutoff_at_stop_token(combination_chain.invoke({"analysis": analysis_text}))}
-        # Return a chain wrapping the transformation function
-        return TransformChain(input_variables=["chat"], output_variables=["result"], transform=transform_fn)
 
     # Build the pipeline
     text = get_pdf_text(folder_path)
     text_chunks = get_text_chunks(text)
-    # vectorstore = get_vectorstore(text_chunks)
-    retriever = None #vectorstore.as_retriever(search_kwargs={"k": 8})
+    vectorstore = get_vectorstore(text_chunks)
+    retriever = vectorstore.as_retriever(search_kwargs={"k": 8})
     llm1, llm2 = get_llm()
     response_analysis_chain = get_response_analysis_chain(retriever, llm1, llm2)
-    #final_chain = detect_hallucination_per_chat(response_analysis_chain, llm1)
+    combination_chain = get_result_chain(llm1)
+
+    final_chain = response_analysis_chain | RunnableLambda(combine_turnwise_analysis) | combination_chain
 
     return response_analysis_chain #final_chain
 
@@ -1686,8 +1637,9 @@ for j in range(1):
     # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
     # Wrong address for Air India Mumbai, and Air India Bangalore; addresses were completely fictional The bot is picking up compensation of Rs 5000-10,000 which is for not informing the flier 24 hours before flight, but the issue at hand is delay in baggage claim; the chatbot is also linking CPGRAMS portal, which is a correct grievance redressal mechanism, however the website is linked wrong, and has not been linked on our sectoral corpus; the chatbot is also linking the rail portal for some reason
     # No hallucination
-    res = response_analysis_chain.abatch(chat_sequence) #{"chat":chat_sequence})
-    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan\n Chat ", i)
+    res = response_analysis_chain.batch(chat_sequence) #{"chat":chat_sequence})
+    print(res)
+    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan\n Chat ")
     print("Analysis-")
     print(res['analysis'])
     print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
