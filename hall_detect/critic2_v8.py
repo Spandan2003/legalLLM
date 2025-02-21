@@ -14,16 +14,18 @@ from langchain_core.runnables import RunnableLambda
 # from langchain_huggingface import HuggingFacePipelinex
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain_community.llms import HuggingFacePipeline
+# from langchain_openai import ChatOpenAI
 from transformers import pipeline
-os.environ["CUDA_VISIBLE_DEVICES"] = "4"
+# os.environ["CUDA_VISIBLE_DEVICES"] = "4"
 
+from langchain_core.language_models.fake import FakeListLLM
 def disp_dict(arr):
     print("Start Dictionary")
     for k,v in arr.items():
         print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x")
         print(k, "   abcdefghijk")
         print(v)
-        print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x")
+    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x")
     print("End Dictionary")
 
 
@@ -84,14 +86,19 @@ def create_rag_qa_chain_with_response_analysis(
 
     # Step 4: Load the LLM
     def get_llm():
-
-
+        return FakeListLLM(responses=["This is a response."]), FakeListLLM(responses=["This is a response."])
+        # llm = ChatOpenAI(
+        #     model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
+        #     openai_api_key="EMPTY",
+        #     openai_api_base="http://172.17.0.1:8080/",
+        #     temperature=0)
+        # return llm, llm
         # Initialize the LLM for text generation
         callbacks = [StreamingStdOutCallbackHandler()]
         llm1 = HuggingFacePipeline.from_model_id(
             model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
             task="text-generation",
-            device=0,  # Use GPU if available
+            device=3,  # Use GPU if available
             callbacks=callbacks,  # For streaming outputs
             pipeline_kwargs=dict(
                 return_full_text=False,  # Return only the new tokens
@@ -751,9 +758,11 @@ Input:
                     | RunnablePassthrough.assign(analysis=analysis_chain2))
         return final_chain
     
-    def combine_turnwise_analysis(analysis_turns):
+    def combine_turnwise_analysis(complete_list):
         # Input is actually a list of dictionaries for each turn
+        analysis_turns = [element["analysis"] for element in complete_list]
         analysis = []
+        analysis_turns = analysis_turns.values() if type(analysis_turns) is dict else analysis_turns
         pattern = re.compile(r'Inconsistency:(.*?)Degree of Inconsistency: (\d+)', re.DOTALL)
         for i, analysis_turn in enumerate(analysis_turns, start=1):
             matches = pattern.findall(str(analysis_turn))
@@ -771,7 +780,7 @@ Input:
         if len(analysis)==0:
             analysis.append("Turn 1\nInconsistencies Present: No\nTurn 2\nInconsistencies Present: No\n")
         result = "\n".join(analysis)
-        return result
+        return {"turns":complete_list, "analysis_turns":result}
 
 
     def get_result_chain(llm):
@@ -865,14 +874,18 @@ Inconsistencies detected: No.<|end_of_text|>
 
                 "Based upon the examples, do the same with the following"
                 "Input:"
-                "{analysis}\n\n"
+                "{analysis_turns}\n\n"
                 "Output:"
             ),
-            input_variables=["analysis"]
+            input_variables=["analysis_turns"]
         )
         # Use the prompt and LLM in a chain
         combination_chain = prompt | llm | StrOutputParser() | RunnableLambda(cutoff_at_stop_token)
         return combination_chain
+
+    def get_final_chain(response_analysis_chain, combination_chain):
+        final_chain = RunnableLambda(lambda l: response_analysis_chain.batch(l)) | RunnableLambda(combine_turnwise_analysis) | RunnablePassthrough.assign(result=combination_chain)
+        return final_chain
 
 
     # Build the pipeline
@@ -883,10 +896,10 @@ Inconsistencies detected: No.<|end_of_text|>
     llm1, llm2 = get_llm()
     response_analysis_chain = get_response_analysis_chain(retriever, llm1, llm2)
     combination_chain = get_result_chain(llm1)
+    final_chain = get_final_chain(response_analysis_chain, combination_chain)
 
-    final_chain = response_analysis_chain | RunnableLambda(combine_turnwise_analysis) | combination_chain
-
-    return response_analysis_chain #final_chain
+    return final_chain
+    return response_analysis_chain 
 
 import re
 def split_chat_into_elements(chat_sequence):
@@ -1631,22 +1644,24 @@ Is there anything else I can help you with?
 ''']
 # chats.append("")
 # chats.append("")
-chat_sequence = [process_chat_sequence(chat)[0] for chat in chats]
+chat_sequence = [process_chat_sequence(chat) for chat in chats]
 for j in range(1):
     print("Loop ", j)
     # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
     # Wrong address for Air India Mumbai, and Air India Bangalore; addresses were completely fictional The bot is picking up compensation of Rs 5000-10,000 which is for not informing the flier 24 hours before flight, but the issue at hand is delay in baggage claim; the chatbot is also linking CPGRAMS portal, which is a correct grievance redressal mechanism, however the website is linked wrong, and has not been linked on our sectoral corpus; the chatbot is also linking the rail portal for some reason
     # No hallucination
-    res = response_analysis_chain.batch(chat_sequence) #{"chat":chat_sequence})
-    print(res)
-    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan\n Chat ")
-    print("Analysis-")
-    print(res['analysis'])
-    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-    print("Result-")
-    #print(res['result'])
-    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
-    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----xspandan")
+    res_chats = response_analysis_chain.batch(chat_sequence) #{"chat":chat_sequence})
+    for chat_num, res in enumerate(res_chats, start=0):
+        print("Chat ", chat_num)
+        for turn_num in range(len(res["turns"])):
+            print("--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x")
+            print(f"Turn {turn_num+1}\n")
+            disp_dict(res["turns"][turn_num])
+        print("--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x")
+        print(f"Analysis Turns: \n{res['analysis_turns']}\n")
+        print("--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x")
+        print(f"Result: \n{res['result']}\n")
+        print("--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x")
 print("\nENDOFINFERENCE\n")
 
 end_time = time.time()

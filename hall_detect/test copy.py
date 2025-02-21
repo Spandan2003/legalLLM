@@ -1,60 +1,60 @@
-# import torch
-# import torch.nn as nn
-# import torch.optim as optim
+import torch
+import torch.nn as nn
+import torch.optim as optim
 
-# # Check if GPU is available
-# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-# print(f"Using device: {device}")
+# Check if GPU is available
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(f"Using device: {device}")
 
-# # Define a simple model
-# class SimpleModel(nn.Module):
-#     def __init__(self):
-#         super(SimpleModel, self).__init__()
-#         self.fc = nn.Sequential(
-#             nn.Linear(1024, 1024),
-#             nn.ReLU(),
-#             nn.Linear(1024, 1024),
-#             nn.ReLU(),
-#             nn.Linear(1024, 1)
-#         )
+# Define a simple model
+class SimpleModel(nn.Module):
+    def __init__(self):
+        super(SimpleModel, self).__init__()
+        self.fc = nn.Sequential(
+            nn.Linear(1024, 1024),
+            nn.ReLU(),
+            nn.Linear(1024, 1024),
+            nn.ReLU(),
+            nn.Linear(1024, 1)
+        )
     
-#     def forward(self, x):
-#         return self.fc(x)
+    def forward(self, x):
+        return self.fc(x)
 
-# # Create the model and move it to the GPU
-# model = SimpleModel().to(device)
+# Create the model and move it to the GPU
+model = SimpleModel().to(device)
 
-# # Define loss function and optimizer
-# criterion = nn.MSELoss()
-# optimizer = optim.Adam(model.parameters(), lr=0.001)
+# Define loss function and optimizer
+criterion = nn.MSELoss()
+optimizer = optim.Adam(model.parameters(), lr=0.001)
 
-# # Generate random data for training
-# batch_size = 256
-# input_data = torch.randn(batch_size, 1024).to(device)
-# target_data = torch.randn(batch_size, 1).to(device)
+# Generate random data for training
+batch_size = 256
+input_data = torch.randn(batch_size, 1024).to(device)
+target_data = torch.randn(batch_size, 1).to(device)
 
-# # Training loop
-# num_iterations = 10000
-# print("Starting training...")
-# for iteration in range(num_iterations):
-#     # Forward pass
-#     outputs = model(input_data)
-#     loss = criterion(outputs, target_data)
+# Training loop
+num_iterations = 2000
+print("Starting training...")
+for iteration in range(num_iterations):
+    # Forward pass
+    outputs = model(input_data)
+    loss = criterion(outputs, target_data)
     
-#     # Backward pass
-#     optimizer.zero_grad()
-#     loss.backward()
+    # Backward pass
+    optimizer.zero_grad()
+    loss.backward()
     
-#     # Update weights
-#     optimizer.step()
+    # Update weights
+    optimizer.step()
     
-#     if iteration % 1000 == 0:
-#         print(f"Iteration {iteration}/{num_iterations}, Loss: {loss.item():.4f}")
+    if iteration % 1000 == 0:
+        print(f"Iteration {iteration}/{num_iterations}, Loss: {loss.item():.4f}")
 
-# print("Training completed.")
+print("Training completed.")
 
 from langchain.prompts import PromptTemplate
-from langchain_huggingface import HuggingFacePipeline
+from langchain_community.llms import HuggingFacePipeline
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 
 def test_llm_inference():
