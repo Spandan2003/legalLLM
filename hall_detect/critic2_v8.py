@@ -16,7 +16,7 @@ from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain_community.llms import HuggingFacePipeline
 # from langchain_openai import ChatOpenAI
 from transformers import pipeline
-# os.environ["CUDA_VISIBLE_DEVICES"] = "4"
+os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 
 from langchain_core.language_models.fake import FakeListLLM
 def disp_dict(arr):
@@ -32,7 +32,7 @@ def disp_dict(arr):
 def create_rag_qa_chain_with_response_analysis(
     folder_path, 
     embedding_model="mixedbread-ai/mxbai-embed-large-v1", 
-    llm_model="meta-llama/Meta-Llama-3.1-8B-Instruct", #"microsoft/phi-2", 
+    fake=False,
     device="cuda"
 ):
     """
@@ -86,7 +86,14 @@ def create_rag_qa_chain_with_response_analysis(
 
     # Step 4: Load the LLM
     def get_llm():
-        return FakeListLLM(responses=["This is a response."]), FakeListLLM(responses=["This is a response."])
+        if fake:
+            return FakeListLLM(responses=["""Inconsistencies Present: Yes
+Inconsistencies:
+1. The response suggests sending a legal notice to Concu, which is not mentioned in the context or history.
+2. The chatbot offers to help draft a sample legal notice, which is not a part of the context or history.
+3. The response mentions filing a complaint with the local consumer forum or district consumer dispute redressal forum, which is consistent with the history. However, the chatbot's tone implies that this is a new suggestion, whereas in the history, the user has already mentioned contacting the customer service team and the chatbot has suggested this as a next step.
+4. The response introduces the idea of drafting a sample legal notice, which is not a part of the context or history.
+5. The response mentions the local consumer forum or district consumer dispute redressal forum, but does not specify the jurisdiction or the relevant authorities, which is not a part of the context or history."""]), FakeListLLM(responses=["This is a response."])
         # llm = ChatOpenAI(
         #     model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
         #     openai_api_key="EMPTY",
@@ -98,7 +105,7 @@ def create_rag_qa_chain_with_response_analysis(
         llm1 = HuggingFacePipeline.from_model_id(
             model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
             task="text-generation",
-            device=3,  # Use GPU if available
+            device=0,  # Use GPU if available
             callbacks=callbacks,  # For streaming outputs
             pipeline_kwargs=dict(
                 return_full_text=False,  # Return only the new tokens
@@ -223,7 +230,7 @@ def create_rag_qa_chain_with_response_analysis(
         )
         # Chain for reformulating the query
         reformulate_chain = contextualize_q_prompt | llm1 | StrOutputParser() | RunnableLambda(cutoff_at_stop_token)
-        reword_context = lambda x: "".join([f"\nDocument {doc_num}:\n{doc.page_content.replace("\n", " ")}" for doc_num, doc in enumerate(x)])
+        reword_context = lambda x: "".join([f"\nDocument {doc_num}:\n{doc.page_content.replace("\n", " ")}" if not type(doc) == str else f"\nDocument {doc_num}:\n{doc.replace("\n", " ")}" for doc_num, doc in enumerate(x)])
         retriever_complete = RunnableLambda(lambda x: x["reformulated_query"]) | retriever | RunnableLambda(reword_context)
 
         memory_prompt = PromptTemplate(
@@ -735,14 +742,14 @@ Input:
         )
 
         analysis_chain2 = analysis_prompt_template2 | llm2 | StrOutputParser() | RunnableLambda(cutoff_at_stop_token)
-        def flatten_retrieved(x):
+        def flatten_retrieved(x:dict):
             # Get the dictionary under the 'retrieved' key and merge it with the rest of 'x'
-            x.update(x.pop("retrieved", {})) 
+            x.update(x.pop("retrieved")) 
             return x
 
         #Combining chains
 
-        final_chain = ({
+        response_analysis_chain = ({
                             "retrieved": RunnablePassthrough.assign(reformulated_query=reformulate_chain) 
                                         | {
                                             "reformulated_query": itemgetter("reformulated_query"),
@@ -756,7 +763,7 @@ Input:
                     | RunnableLambda(flatten_retrieved)
                     | RunnablePassthrough.assign(inconsistency=analysis_chain)
                     | RunnablePassthrough.assign(analysis=analysis_chain2))
-        return final_chain
+        return response_analysis_chain
     
     def combine_turnwise_analysis(complete_list):
         # Input is actually a list of dictionaries for each turn
@@ -883,23 +890,26 @@ Inconsistencies detected: No.<|end_of_text|>
         combination_chain = prompt | llm | StrOutputParser() | RunnableLambda(cutoff_at_stop_token)
         return combination_chain
 
-    def get_final_chain(response_analysis_chain, combination_chain):
-        final_chain = RunnableLambda(lambda l: response_analysis_chain.batch(l)) | RunnableLambda(combine_turnwise_analysis) | RunnablePassthrough.assign(result=combination_chain)
+    async def gather_analysis(l):
+        return await response_analysis_chain.abatch(l)
+
+    def get_final_chain(combination_chain):
+        final_chain = RunnableLambda(gather_analysis) | RunnableLambda(combine_turnwise_analysis) | RunnablePassthrough.assign(result=combination_chain)
         return final_chain
 
 
     # Build the pipeline
     text = get_pdf_text(folder_path)
     text_chunks = get_text_chunks(text)
+    llm1, llm2 = get_llm()
     vectorstore = get_vectorstore(text_chunks)
     retriever = vectorstore.as_retriever(search_kwargs={"k": 8})
-    llm1, llm2 = get_llm()
     response_analysis_chain = get_response_analysis_chain(retriever, llm1, llm2)
     combination_chain = get_result_chain(llm1)
-    final_chain = get_final_chain(response_analysis_chain, combination_chain)
+    final_chain = get_final_chain(combination_chain)
 
     return final_chain
-    return response_analysis_chain 
+    return RunnableLambda(gather_analysis)
 
 import re
 def split_chat_into_elements(chat_sequence):
@@ -960,17 +970,18 @@ def process_chat_sequence(chat_sequence):
     elements = split_chat_into_elements(chat_sequence)
     return build_history_query_pairs(elements)
 
-# Create the RAG-based QA chain
-import time
-start_time = time.time()
-print("Start Time: ", start_time)
-print("START")
-# Example query
-first = True
-folder_path = "./hall_detect/rag"
-response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path)
-chats = [
-'''AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+async def analyze_chats():
+    # Create the RAG-based QA chain
+    import time
+    start_time = time.time()
+    print("Start Time: ", start_time)
+    print("START")
+    # Example query
+    first = True
+    folder_path = "./hall_detect/rag"
+    response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path, fake=False)
+    chats = [
+    '''AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
 Human: I need gas
@@ -1641,33 +1652,39 @@ Also, don't forget to contact the National Consumer Helpline at 1800-11-4000 for
 
 
 Is there anything else I can help you with?
-''']
-# chats.append("")
-# chats.append("")
-chat_sequence = [process_chat_sequence(chat) for chat in chats]
-for j in range(1):
-    print("Loop ", j)
-    # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
-    # Wrong address for Air India Mumbai, and Air India Bangalore; addresses were completely fictional The bot is picking up compensation of Rs 5000-10,000 which is for not informing the flier 24 hours before flight, but the issue at hand is delay in baggage claim; the chatbot is also linking CPGRAMS portal, which is a correct grievance redressal mechanism, however the website is linked wrong, and has not been linked on our sectoral corpus; the chatbot is also linking the rail portal for some reason
-    # No hallucination
-    res_chats = response_analysis_chain.batch(chat_sequence) #{"chat":chat_sequence})
-    for chat_num, res in enumerate(res_chats, start=0):
-        print("Chat ", chat_num)
-        for turn_num in range(len(res["turns"])):
+    ''']
+    # chats.append("")
+    # chats.append("")
+    chat_sequence = [process_chat_sequence(chat) for chat in chats]
+    for j in range(1):
+        print("Loop ", j)
+        # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
+        # Wrong address for Air India Mumbai, and Air India Bangalore; addresses were completely fictional The bot is picking up compensation of Rs 5000-10,000 which is for not informing the flier 24 hours before flight, but the issue at hand is delay in baggage claim; the chatbot is also linking CPGRAMS portal, which is a correct grievance redressal mechanism, however the website is linked wrong, and has not been linked on our sectoral corpus; the chatbot is also linking the rail portal for some reason
+        # No hallucination
+        res_chats = await response_analysis_chain.abatch(chat_sequence) #{"chat":chat_sequence})
+        for chat_num, res in enumerate(res_chats, start=0):
+            print("Chat ", chat_num)
+            print(res)
+            for turn_num in range(len(res["turns"])):
+                print("--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x")
+                print(f"Turn {turn_num+1}\n")
+                disp_dict(res["turns"][turn_num])
             print("--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x")
-            print(f"Turn {turn_num+1}\n")
-            disp_dict(res["turns"][turn_num])
-        print("--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x")
-        print(f"Analysis Turns: \n{res['analysis_turns']}\n")
-        print("--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x")
-        print(f"Result: \n{res['result']}\n")
-        print("--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x")
-print("\nENDOFINFERENCE\n")
+            print(f"Analysis Turns: \n{res['analysis_turns']}\n")
+            print("--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x")
+            print(f"Result: \n{res['result']}\n")
+            print("--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x")
+    print("\nENDOFINFERENCE\n")
 
-end_time = time.time()
-print("End Time: ", end_time)
-duration = end_time - start_time
-hours = int(duration // 3600)
-minutes = int((duration % 3600) // 60)
-seconds = int(duration % 60)
-print(f"Time Taken: {hours:02}:{minutes:02}:{seconds:02}")
+    end_time = time.time()
+    print("End Time: ", end_time)
+    duration = end_time - start_time
+    hours = int(duration // 3600)
+    minutes = int((duration % 3600) // 60)
+    seconds = int(duration % 60)
+    print(f"Time Taken: {hours:02}:{minutes:02}:{seconds:02}")
+
+def main():
+    asyncio.run(analyze_chats())
+
+main()
