@@ -1,5 +1,5 @@
 import asyncio
-from langchain_huggingface import HuggingFacePipeline
+from langchain_community.llms import HuggingFacePipeline
 from langchain.prompts import PromptTemplate
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 
@@ -40,9 +40,12 @@ async def test_llm_inference():
     # Step 1: Initialize async tasks
     model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
     callbacks = [StreamingStdOutCallbackHandler()]  # Assuming you have this handler
-    test_questions = ["Is Mumbai the capital of India?", "Who is the president of India?"]
+    test_questions = ["Which is bigger between 9.9 and 9.10?", 
+                      "If a warranty is valid for 2 years, can I buy the product on 12 March 2023 and get warranty today on 2 March 2025?",
+                      "If a warranty is valid for 2 years, can I buy the product on 12 March 2023 and get warranty today on 24 March 2025?",
+                      ]
     prompt_template = PromptTemplate(
-        template="You are a helpful assistant. Answer the following question with a Yes or No only. Do not use more than a single word:\n\nQuestion: {question}\n\nAnswer:",
+        template="You are a helpful assistant. Answer the following questions.\nQ: {question}\nA:",
         input_variables=["question"]
     )
 

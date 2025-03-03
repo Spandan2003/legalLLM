@@ -11,7 +11,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain_community.llms import HuggingFacePipeline
 from transformers import pipeline
-os.environ["CUDA_VISIBLE_DEVICES"] = "4"
+os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 
 def disp_dict(arr):
     print("Start Dictionary")
@@ -19,7 +19,7 @@ def disp_dict(arr):
         print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x")
         print(k, "   abcdefghijk")
         print(v)
-        print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x")
+    print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x")
     print("End Dictionary")
 
 
