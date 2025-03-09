@@ -6,6 +6,7 @@ from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline, HuggingFaceEmbeddings
+from langchain_openai import ChatOpenAI
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain, SequentialChain
 from langchain_core.runnables import RunnableSequence
 from langchain.schema.runnable import RunnablePassthrough
@@ -80,24 +81,29 @@ def get_vectorstore(text_chunks):
     return vectorstore
 
 def get_llm():
+    model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
     callbacks = [StreamingStdOutCallbackHandler()]
-    llm = HuggingFacePipeline.from_model_id(
-        model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
-        # model_id= "microsoft/MiniLM-L12-H384-uncased",
-        
-        task="text-generation",
-        #device=3,
-        callbacks = callbacks,
-        pipeline_kwargs=dict(
-            return_full_text=False,
-            max_new_tokens=1024,
-            do_sample=True,
-            temperature=0.5,
-        ),
-    )
-    llm.pipeline.tokenizer.pad_token_id = llm.pipeline.tokenizer.eos_token_id
-    llm_engine_hf = ChatHuggingFace(llm=llm)
-
+    # llm = HuggingFacePipeline.from_model_id(
+    #     model_id=model_id,
+    #     task="text-generation",
+    #     device=0,
+    #     callbacks = callbacks,
+    #     pipeline_kwargs=dict(
+    #         return_full_text=False,
+    #         max_new_tokens=1024,
+    #         do_sample=True,
+    #         temperature=0.5,
+    #     ),
+    # )
+    # llm.pipeline.tokenizer.pad_token_id = llm.pipeline.tokenizer.eos_token_id
+    # llm_engine_hf = ChatHuggingFace(llm=llm)
+    llm_engine_hf = ChatOpenAI(
+        # model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
+        openai_api_key="EMPTY",
+        openai_api_base="http://172.17.0.1:8080/v1/",
+        max_tokens=1024,
+        temperature=0.5,
+        )
     return llm_engine_hf
 
 def process_chain(answer_chain, llm_engine_hf):
@@ -110,31 +116,69 @@ def process_chain(answer_chain, llm_engine_hf):
 
     # combined_chain = (answer_chain | RunnablePassthrough.assign(final_response=processing_chain))
     # process_system_prompt = '''You are an answer checker. The students were given a question where they had to extract information to answer some question. You do not know the question but you are given both the context and the answer by the students. Your job is for each sentence divide them into whether it is a fact based upon the context or it is fact out of context or if it is not a fact. Correctness of sentence does not matter, only its presence in the context does. Here is an example:
-    process_system_prompt = '''You are an examiner and your job is to check whether the student has written information present in the context or from outside the context. Repeat each sentence in the answer exactly except it should be followed with a (Outside Context), (Inside Context) or (General English) group marking. Here are the meanings of each group. General English means sentence is just a regular question or reasoning based upon other statements, Outside Context means that the information is not present in the context, Inside Context means that information is present in the context.
-    Context: India has one of the largest cities in the world. Out of them Mumbai has a population of 10 crore people and is considered the financial capital of India. Secondmost Chennai is also reputed to be an important port city. 
-    Answer: Delhi is the capital of India. Mumbai is the financial center of India. Where would you want to stay?.
-    Response: Delhi is the capital of India (Outside Context)
-    Mumbai is the financial center of India. (Inside Context)
-    Where would you want to stay? (General English)
+    process_system_prompt = """You are an examiner, and your job is to check whether the response contains information present in the context or if it includes external information. Your task is to repeat each sentence from the answer exactly as it is, but append one of the following labels:  
 
-    Now you are to do the same for the following:
-    Context: {context}
-    Answer: {answer}
-    Response: '''
+- (Inside Context) - The information is present in the provided context.  
+- (Outside Context) - The information is NOT present in the context.  
+- (General English) - The sentence is a general question, reasoning, or conversational filler not containing factual claims.  
 
-    fact_system_prompt = '''You are the reviewer for a small legal company. Your job is to read the answer and pick out all facts. A fact is defined as a sentence that provides information and can be classified as True or False only. List the minimum number of facts that get all details from the Answer on each lines. After doing this, based upon the context and chat history state whether the facts are True or False and if False correct them. Following that list out all the other statements which are not facts`. An example would be:
-    Facts:
-    1. Delhi is in France [False: Delhi is in India]
-    2. Law allows people to kill [False: Law does not allow people to kill]
-    3. Stealing is illegal [True]
-    Other statements:
-    1. I am sorry to hear that you had to suffer so much.
-    2. Can you tell me whether you were provided compensation or not?
+Example:
+Context:  
+India has one of the largest cities in the world. Out of them, Mumbai has a population of 10 crore people and is considered the financial capital of India. Second-most, Chennai is also reputed to be an important port city.
 
-    Similary extract the facts and judge the truthfullness and extract the other statements for the Answer based on Context.
-    Context: {context}
-    Here is the previous chat based on which reply was done:
-    '''
+Original Response:  
+Delhi is the capital of India. Mumbai is the financial center of India. Where would you want to stay?
+
+Analysis:  
+Delhi is the capital of India. (Outside Context)  
+Mumbai is the financial center of India. (Inside Context)  
+Where would you want to stay? (General English)  
+
+Now, classify each sentence in the following response according to these categories:  
+
+Context:  
+{context}  
+
+Original Response:  
+{answer}  
+
+Analysis: 
+"""
+
+    fact_system_prompt = """You are a legal content reviewer. Your job is to extract and verify factual statements from a chatbot's response based on a given context.  
+
+Task:  
+1. Extract factual statements from the answer. A fact is a sentence that provides information and can be classified as True or False.  
+2. Evaluate the truthfulness of each fact based on the context:  
+   - If the fact is true, label it as [True].  
+   - If the fact is false, label it as [False] and provide the correct version in brackets.  
+3. List non-factual statements separately (e.g., apologies, general conversational phrases, or questions).  
+
+Example:
+
+Context:  
+The Consumer Protection Act allows consumers to file complaints against unfair trade practices. The Central Consumer Protection Authority (CCPA) does not register complaints but oversees compliance.  
+
+Answer:  
+You can file a complaint with the CCPA for consumer disputes. The Consumer Protection Act provides legal remedies for consumers. Did you receive a response from the company?  
+
+Response:  
+
+Facts:  
+1. You can file a complaint with the CCPA for consumer disputes. [False: The CCPA does not register complaints.]  
+2. The Consumer Protection Act provides legal remedies for consumers. [True]  
+
+Other statements:  
+1. Did you receive a response from the company?  
+
+Now, perform the same fact extraction and classification for the following:  
+
+Context:  
+{context}  
+
+Here is the previous chat based on which the response was generated:  
+
+Response: """
     fact_template = ChatPromptTemplate.from_messages([
         ("system", fact_system_prompt),
         MessagesPlaceholder("chat_history"),
@@ -143,17 +187,41 @@ def process_chain(answer_chain, llm_engine_hf):
     fact_chain =  fact_template | llm_engine_hf  | StrOutputParser()
     
     # process_system_prompt = '''You are a chatbot whose purpose is to help the user with consumer issues. You are given a rough draft made and a corresponding review done to point on the mistakes. Based on the False facts given in the review, modify the draft and rewrite that part using the context as the basis. In the parts where there is no errors which means no False fact present, then write those sentences as it is in draft. Also do not remove the thank you and sorry statements.
-    process_system_prompt = '''You are a Consumer Grievance Assistance Chatbot editor designed to help people with consumer law grievances in India. Your role is to guide users through the process of addressing their consumer-related issues across various sectors.
+    process_system_prompt = """You are a Consumer Grievance Assistance Chatbot editor. Your task is to refine a chatbot's response by correcting incorrect factual statements while preserving all other content.  
 
-    Task:
-    You are given a rough draft made and a corresponding review done to pick out the false statemnts. Your purpose is to edit the rough draft on the basis of the review so that all the false statements in draft are corrected. Your task is to use each False fact in the review to modify corresponding statement in the rough draft. All other statements should be written exactly the same. Do not modify the gratitude (statements with thankyou) and apologising (statements with sorry) sentences and any questions while editing. You should give the exact same content as output except modifying the false statements
-    Context: {context}
-    '''
+Editing Guidelines:  
+1. Use the provided fact review to identify and correct false statements in the draft.  
+2. Retain all other statements exactly as they are, including:  
+   - Expressions of gratitude (e.g., "Thank you for reaching out.")  
+   - Apologies (e.g., "I'm sorry to hear that.")  
+   - Any questions present in the response.  
+3. Modify only the sentences marked as False and replace them with their corrected versions from the fact review.  
+
+Example:  
+
+Context:  
+The Consumer Protection Act allows consumers to file complaints against unfair trade practices. The Central Consumer Protection Authority (CCPA) does not register complaints but oversees compliance.  
+
+Rough Draft:  
+You can file a complaint with the CCPA for consumer disputes. The Consumer Protection Act provides legal remedies for consumers. Did you receive a response from the company?  
+
+Fact Review:  
+1. You can file a complaint with the CCPA for consumer disputes. [False: The CCPA does not register complaints.]  
+2. The Consumer Protection Act provides legal remedies for consumers. [True]  
+
+Corrected Response:  
+The CCPA does not register complaints but oversees compliance. The Consumer Protection Act provides legal remedies for consumers. Did you receive a response from the company?  
+
+Now, perform the same corrections based on the review provided.  
+
+Context:  
+{context}  
+ """
     process_template = ChatPromptTemplate.from_messages([
         ("system", process_system_prompt),
-        MessagesPlaceholder("chat_history"),
-        ("human", "Review: {review}"),
-        ("human", "Rough Draft: {answer}\n Write the final response on basis of the above rough draft. Do not put any unnecessary words at start and directly start with the response."),
+        #MessagesPlaceholder("chat_history"),
+        ("human", "Rough Draft: {answer}"),
+        ("human", "Fact Review: {review}"),
     ])
     processing_chain =  process_template | llm_engine_hf  | StrOutputParser()
 

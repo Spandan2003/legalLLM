@@ -1,0 +1,482 @@
+Start Time:  2025-03-10 01:22:41.212622
+Starting from 0
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+START CHAT 0
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+grievance with the manufacturing company and with the drug controller of that concerned state and get the product checked by the government analyst. For more information, refer the following link:- https://cdsco.gov .in/opencms/opencms/en/State-Drugs-Control/ 14. Is a bill necessary for any grievance registration related to drug and cosmetics? Yes, a receipt or bill is mandatory. 15. Tier wise escalation level for consumer complaints handling. Tier 1 Send first written complaint to the Company Customer Care by email, website or by post Tier 2 If consumer does not receive any reply or is not satisfied with the response, he/she can file complaint to the Controller of Drugs & Cosmetic of the State/ Union territory.Tier 3 In case the consumer is not satisfied with the resolution provided, he/she may file case with Consumer Dispute Redressal Commission, following the procedure prescribed by them. For more information, you may visit http://www .ncdrc.nic.in/districtlist.htmlE-COMMERCE
+Document 1:
+being used in any state, where can the consumer register his grievance? The consumer can register the grievance with the drug controller of the state and can also approach the Drug Controlle General of India.https://cdsco.gov .in/opencms/opencms/en/State-Drugs-Control/ 12. If a consumer uses a cosmetic product and faces irritation, then what he can do? Consumer can register the grievance with the manufacturing company and with the drug controller of the concerned state and get the product checked by the government analyst. For more information, refer the following link:- https://cdsco.gov .in/opencms/opencms/en/State-Drugs-Control/ 13. If a consumer received adulterated or spurious drug, where he can complain? Consumer can register the grievance with the manufacturing company and with the drug controller of that concerned state and get the product checked by the government analyst. For more information, refer the following link:-
+Document 2:
+by the service provider . ● Consumer Protection Agencies - If the issue persists after engaging with the retailer , consumers can file a complaint with local consumer protection agencies or consumer affairs departments. These agencies typically have specific procedures for filing complaints and can offer guidance on consumer rights. They act as intermediaries to address disputes between consumers and retailers.● Consumer Disputes Redr essal Commission (CDRC) - Established under the Consumer Protection Act of 1986, the CDRC operates at the District, State, and National levels. Consumers can file complaints related to unfair trade practices, defective goods or services, overchar ging, hazardous products, and misleading advertising. The CDRC serves as a quasi-judicial body , allowing consumers to seek redressal for their grievances without the complexities of traditional legal procedures. The complainant has the option to take the service provider to a court or another suitable venue
+Document 3:
+waiving   claims   has   not   been   tested   in   court,   contractual   language   regarding   such   waivers   should   be   carefully   examined   to   avoid   potential   unenforceability   under   both   the   CPA   2019   and   Indian   contract   law.”   — Question:   “How   do   I   get   my   consumer   grievances   addressed?” Answer:    “To   address   your   consumer   grievance,   you   have   a   few   options.   You   can: ● Directly   send   a   notice   to   the   product   seller   or   service   provider . ● Call   the   National   Consumer   Helpline   at   1800-1 1-4000   or   1915,   available   all   days   except   national   holidays,   from   8:00   AM   to   8:00   PM. ● Send   an   SMS   to   8800001915,   and   they   will   get   back   to   you. ● Register   your   grievance   online   at   https://consumerhelpline.gov .in/user/signup.php . ● Register   your   grievance   through   the   NCH   APP   or   UMANG   APP   on   your   mobile   phone. ●
+Document 4:
+Another   remedy   available   to   consumers   is   mediation.   Chapter   5   of   the   Consumer   Protection   Act   provides   for   establishing   mediation   cells   and   resolving   consumer   complaints   using   mediation. 5.   Central   Consumer   Protection   Authority If   the   commission   finds   violations   of   rights   of   consumers   or   in   notice   of   trade   practices   which   is   unfair   it   can   inquire   or   cause   an   inquiry ,   either   on   receipt   of   complaint   or   suo   moto   or   as   directed   by   Central   Government.   If   the   commission   finds,   after   preliminary   inquiry ,   of   an   existence   of   a  prima   facie   case   of   consumer   rights   violation   or   it   is   in   notice   of   any   unfair   trade   practice   or   any   wrong   or   inaccurate   advertisement   which   is   prejudicial   to   public   interest   or   to   the   interests   of   the   consumers,it   can   order   an
+Document 5:
+3. The next step is to reach the Medical Council of India with no satisfactory response from the SMC. https://www .india.gov.in/official-website-medical-council-india 4. An alternative remedy is to submit your complaint through National Health Portal’s Grievance redressal. https://www .nhp.gov.in/redressal-mechanism_pg 5. Appr oaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer, the aggrieved party can take the service provider to the appropriate consumer commission, based on the pecuniary and territorial jurisdiction. The jurisdictions of the various consumer commissions are as follows- a) District Commission: The aggrieved consumer can reach out to the District Commission under section 34 of the
+Document 6:
+using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ (iv) Central Consumer Protection Authority If the commission finds violations of rights of consumers or in notice of trade practices which is unfair it can inquire or cause an inquiry, either on receipt of complaint or suo moto or as directed by Central Government. If the commission finds, after preliminary inquiry, of an existence of a prima facie case of consumer rights violation or it is in notice of any unfair trade practice or any wrong or inaccurate advertisement which is prejudicial to public interest or to the interests of the consumers,it can order an investigation by the District Collector or by Director General.The consumer can complain to the District Collector of the respective district for investigation and subsequent proceedings by the CCPA. He/she/they can also submit a complaint via email, at com-ccpa@nic.in . 4. Where should the grievance redressal or
+Document 7:
+addition and not in derogation of other available remedies. Another remedy available to consumers is mediation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. One can file a complaint under the Online Consumer Mediation Centre (OCMC) established at National Law School of India University, Bengaluru under the aegis of Ministry of Consumer Affairs, Government of India. One can file a complaint by clicking in the link provided below: https://onlinemediationcenter .ac.in/account/signin.php 4. Central Consumer Protection Authority If the commission finds violations of rights of consumers or in notice of trade practices which is unfair it can inquire or cause an inquiry, either on receipt of complaint or suo moto or as directed by Central Government. If the commission finds after preliminary inquiry of an existence of a prima facie case of consumer rights violation or it is in notice of any unfair trade
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+chat_history    abcdefghijk
+﻿Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user shares that they got a tattoo and developed an infection due to it. The chatbot asks how it can help the user. The user states that the tattoo parlour is claiming they are not liable for the infection and that the user might have had an allergy that they didn't disclose. The user asks if it's possible to file a consumer grievance over this.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+Hi I got a tattoo and now I have developed an infection due to it. The tattoo parlour is saying they are not liable and I might have had some allergy which I did not disclose. Is it possible to file a consumer grievance over this?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+Is it possible to file a consumer grievance if a tattoo parlour disputes liability for an infection caused by a tattoo, citing an undisclosed allergy?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+I'm so sorry to hear that you're going through this. Yes, it is possible to file a consumer grievance in this case. As a consumer, you have the right to seek redressal for any harm or injury caused by a service provider, including a tattoo parlour.
+
+
+To move forward, can you please provide more details about what happened? For instance, what type of tattoo did you get, and when did you get it done? Also, have you contacted the tattoo parlour to report the issue and seek a resolution?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: Yes
+Inconsistencies:
+1. I'm so sorry to hear that you're going through this. Yes, it is possible to file a consumer grievance in this case. As a consumer, you have the right to seek redressal for any harm or injury caused by a service provider, including a tattoo parlour.
+Reason: Context does not provide information about filing a consumer grievance for harm or injury caused by a service provider, including a tattoo parlour.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: Yes
+Explanation for Correction: The statement about filing a consumer grievance for harm or injury caused by a service provider, including a tattoo parlour is a general legal principle and not an inconsistency. This has been removed.
+Inconsistencies:
+1. Inconsistency: 
+   Reason: 
+Degree of Inconsistency: 
+Explanation: 
+
+Note: There is no inconsistency present in the given input.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+to the National Consumer Disputes Redressal Commission under Section 2(1)(f) of the Consumer Protection Act (defective goods) of the lack of adequate quality control in the manufacturing and bottling of intravenous fluids given to patients, leading to defects in the fluids. In this case, the defect was the presence of fungus due to the poor quality of the fluid itself and the inadequate cleaning and sealing of the bottle containing it. The Drug Controller was ordered by the Commission to constitute an expert committee to review the provisions of the existing legislation regulating quality control and make recommendations. The Committee madecertain recommendations for protecting the public against the possibility of contamination of I. V. fluids. This case reiterates the fact that the rational drug policy must be accompanied by sustained campaign to enhance awareness of consumers. The literate and enlightened consumers have a greater role and responsibility for materialising the above
+Document 1:
+complaints with the appropriate jurisdictional authority . If a complaint falls outside the jurisdiction of the chosen commission (e.g., District Commission for complaints under ₹1 crore), it will be rejected. Careful consideration of the complaint value and commission jurisdiction is crucial. ● Procedural Errors: Filing complaints under incorrect sections of the CPA or relevant sports/recreation regulations can lead to rejection. ● Lack of Consumer Status: To be eligible for consumer protection under the CPA, the complainant must fall under the definition of a "consumer" as defined in the Act. For instance, complaints from professional athletes who participate in sporting activities as part of their professional obligations may not be considered. ● Evidence and Proof: Insuf ficient evidence or lack of proof to substantiate the allegations in the complaint can result in its dismissal. ● Concurrent Litigation: Filing the same complaint in another judicial forum (e.g., civil court)
+Document 2:
+physical and mental well-being, fostering social connections, and contributing to the national economy . In recent years, the sector has witnessed significant growth driven by the Make in India initiative, Khelo India program et. al. The governance of sports in India generally falls within the list of matters states have the power to govern under the Indian constitutional scheme. 2. What are the grounds for complaint available? ● Defective equipment or merchandise: includes broken or poorly manufactured products, inaccurate size, or materials that don't perform as advertised. ● False advertising or misleading claims: involves overstating the performance or benefits of a product, hiding crucial information, or using deceptive imagery . ● Safety hazards: could encompass unsafe designs, faulty materials, or products that lack proper safety warnings or instructions. ● Counterfeit or fake products: refers to products that are replicas or imitations of genuine brands, often made with
+Document 3:
+or to the interests of the consumers,it can order an investigation by the District Collector or by Director General. The consumer can complain to the District Collector of the respective district for investigation and subsequent proceedings by the CCPA. He/she/they can also submit a complaint via email, at com-ccpa@nic.in . 5. When would complaints not be accepted? There are various situations which might cause the complaint to be rejected. These include situations where the consumer is unable to file an appeal against an order within a period of three months, where the complaint is based on a frivolous cause of action, where the complaint fallsoutside the jurisdiction of the authority approached, and when the complaint has been filed under wrong sections of the act, and other such situations. This requires careful reading of all acts and regulations. 6. What are some Sample consumer complaints on drugs and cosmetics? https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - DCDRC
+Document 4:
+Beverages Pvt. Ltd. v. Purushottam Gaur In this case, the consumer found insects in his fanta bottle. The NCDRC held that since the company did not provide any assistance to the laboratory or did not make any attempt to address the questions on origin of bottle, the case stand proved against the company , and it is held liable.12. What is the format of the complaint to be made under this sector? https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - DCDRC format. https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - SCDRC format. https://ncdrc.nic.in/cc.html - NCDRC filing. 13. What are the important links and resources? ● FSSAI Consumer Rights: https://foscos.fssai.gov .in/consumer grievance/know-your -rights ● FSSAI Grievance Redressal https://foodregulatory .fssai.gov .in/grievance-redressal ● FSSAI Tips for Safe Food: https://foscos.fssai.gov .in/consumer grievance/tips-for -safe-food 14. What is FSSA, 2006 & why this Act is needed? Food Safety and Standards Authority , 2006 is
+Document 5:
+supplying gas cylinders is a major problem for all gas suppliers. Dealers are not entertaining the phone calls and not registering the customer booking. • Gas cylinder is less in weight or not fully filled. • Tedious formalities in booking a new gas connection. The complaints against PNG are as follows: • Abnormal delay in getting new connection • Billing problem • No appropriate complaint registering centre (CRC). • Delay in attending complaints etc. What are the grounds for complaints to not be accepted? There are various situations which might cause the complaint to be rejected. These include situations where the consumer is unable to file an appeal against an order within a period of three months, where the complaint is based on a frivolous cause of action, where the complaint falls outside the jurisdiction of the authority approached, and when the complaint has been filed underwrong sections of the act, and other such situations. This requires careful reading of all acts and
+Document 6:
+in some cases treatment as well, has not been obtained. ● Damage to organs due to negligence. ● Wrong treatment due to wrong diagnosis. ● Money receipt or prescription or discharge summary or test reports when not provided. ● When treatment is not chosen as accepted and established in medical norms /as per medical research/available medical literature. ● Theory of res ipsa loquitur [a thing speaks of itself] - in case any instrument left in the body, a wrong part removed, allopathic treatment given by a homeopathic doctor etc. ● Govt Hospital liable if contribution from the employee’s salary deducted OR Payment made by insurance company. ● Hospitals can also be negligent ‘it is a case of non- availability of oxygen cylinder either because the hospital failed to keep available a gas cylinder or because of the gas cylinder being found empty. What are the duties requir ed of medical professionals? CODE OF MEDICAL ETHICS REGULATION 2002 This regulation states the code of etiquettes and
+Document 7:
+3. The next step is to reach the Medical Council of India with no satisfactory response from the SMC. https://www .india.gov.in/official-website-medical-council-india 4. An alternative remedy is to submit your complaint through National Health Portal’s Grievance redressal. https://www .nhp.gov.in/redressal-mechanism_pg 5. Appr oaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer, the aggrieved party can take the service provider to the appropriate consumer commission, based on the pecuniary and territorial jurisdiction. The jurisdictions of the various consumer commissions are as follows- a) District Commission: The aggrieved consumer can reach out to the District Commission under section 34 of the
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+chat_history    abcdefghijk
+﻿Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User: Hi I got a tattoo and now I have developed an infection due to it. The tattoo parlour is saying they are not liable and I might have had some allergy which I did not disclose. Is it possible to file a consumer grievance over this?
+Chatbot: I'm so sorry to hear that you're going through this. Yes, it is possible to file a consumer grievance in this case. As a consumer, you have the right to seek redressal for any harm or injury caused by a service provider, including a tattoo parlour.
+
+
+To move forward, can you please provide more details about what happened? For instance, what type of tattoo did you get, and when did you get it done? Also, have you contacted the tattoo parlour to report the issue and seek a resolution?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user shares that they developed an infection after getting a tattoo and that the tattoo parlour is claiming they are not liable, suggesting the user may have had an allergy that was not disclosed. The user asks if it is possible to file a consumer grievance over this. In response, the chatbot acknowledges the user's concern and confirms that filing a consumer grievance is a viable option. The chatbot then asks the user to provide more details about the incident, including the type of tattoo, the location of the tattoo parlour, and whether the user has contacted the parlour to report the issue and seek a resolution. The user provides the necessary information, stating that they got the tattoo done at XYZ Tattoos in Hyderabad a week ago and that they have contacted the parlour but they denied liability.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+I got this done in XYZ tattoos in Hyderabad in a mall. I got a scorpion done and this was a week ago. I have contacted them but they said they are not liable for this.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+I got a tattoo of a scorpion from XYZ tattoos in a mall in Hyderabad a week ago. The tattoo parlour has denied liability for the infection, stating that I might have had an undiagnosed allergy.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+It seems like a clear case of deficiency in service. As per the Consumer Protection Act 2019, a service provider like a tattoo parlour is responsible for ensuring that the services they provide are safe and do not cause harm to the consumer.
+
+
+Since you've already contacted the tattoo parlour and they've denied liability, it's time to consider filing a consumer complaint. Before we proceed, can you please tell me what kind of relief you're seeking from the tattoo parlour? Are you looking for compensation for the medical expenses, compensation for the pain and discomfort, or something else?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No 
+
+Inconsistencies: 
+
+Please give the response to the query and remember to end with a '
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies: 
+Degree of Inconsistency: 
+Explanation: No inconsistencies present.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+No inconsistencies found in turn  2
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+from   offering   hazardous   services. ○ Pay   a   sum   determined   by   the   Commission   for   loss   or   injury   suffered   by   a   large   number   of   consumers. ○ Issue   corrective   advertisement   to   neutralize   the   effect   of   misleading   advertisement. ○ Provide   adequate   costs   to   parties. These   reliefs   and   remedies   are   aimed   at   protecting   and   compensating   consumers   for   any   harm   caused   by   products   or   services.” — Question:   “What   are   the   details   of   fees   to   be   paid   while   filing   a   complaint   with   the   consumer   commissions?” Answer:   “Yes,   there   is   a   fee   for   filing   a   complaint   with   the   Consumer   Commissions.   The   fee   must   be   paid   in   the   form   of   a   crossed   Demand   Draft   drawn   on   a   nationalised   bank   or   through   a   crossed   Indian   Postal   Order .   The   fee   amount   varies   based   on   the   value   of   goods   or
+Document 1:
+can expect the same from the doctors. • Patients have the right to a second opinion if they are doubtful about the medicines or treatment suggested. • Patients have the right to know what a suggested operation/sur gery is for, and the possible risks involved. If he/she is unconscious or unable to make the decision due to other reasons, informed consent needs to be taken from their nearest relatives. The preservation of a patient's rights must not, however, come at the expense of the professional's autonomy and honesty. There is unquestionably a need to strike a careful equilibrium.What are the grounds available for complaints? ● There is breach of duty by the doctor because of which an injury is caused ● If the consent of a person/patient before performing acts like surgical operations and in some cases treatment as well, has not been obtained. ● Damage to organs due to negligence. ● Wrong treatment due to wrong diagnosis. ● Money receipt or prescription or discharge summary or test
+Document 2:
+the   payment   is   made   upfront,   promised,   partly   paid,   or   deferred.   The   definition   also   extends   to   users   who   use   the   goods   with   the   buyer's   approval   and   beneficiaries   of   services. ○ Hires   or   avails   any   services:   Similar   to   the   purchase   of   goods,   this   includes   individuals   who   hire   or   use   services   for   consideration,   whether   the   payment   is   made,   promised,   partly   paid,   or   deferred. 2. Inclusion   of   Various   Transaction   Modes:○ The   Consumer   Protection   Act   2019   explicitly   includes   both   offline   and   online   transactions.   This   encompasses   purchases   made   through   electronic   means   such   as   websites   and   mobile   apps,   as   well   as   teleshopping,   direct   selling,   and   multi-level   marketing. 3. Personal   Use   Criterion: ○ To   qualify   as   a   consumer   under   the   Act,   the   goods   or   services   must   be   bought
+Document 3:
+handles consumer grievances in this sector. 6. Is there any time limit to provide the services? The service provide time of booking can be varied and depend upon its availability with the company. The same is usually declared on the website by the company at the time of providing services. 7. If a consumer hired the agency but didn’t make payment, can he complain against it? If the work order is accepted by the company and assured the consumer for completion, even if the amount is not paid but it was “promise to pay” he can complain to the company in writing, and if no response received, he may move to the consumer commission. 8. What will you suggest if the consumer has booked the banquet hall before lockdown and after lockdown the agency denies to refund? In that case, the consumer needs to go through the guidelines of the particular state for the same, whether the booking has been cancelled and the amount has to be refunded to the consumer, or, booking will be extended till a
+Document 4:
+Protection Act?** Yes, in 1995, the Supreme Court brought the medical profession under the Consumer Protection Act 1986 and medical treatments were labeled as "services". 4. **Does someone who is not satisfied with the results of his or her surgery have a viable medical negligence claim?** In general, there are no guarantees of medical results, and unexpected or unsuccessful results do not necessarily mean negligence has occurred. To succeed in a medical negligence case, a consumer has to show an injury or damages that resulted from the doctor's deviation from the standard of care applicable to the procedure. 5. **Can a Doctor Guarantee Complete success of the Medical Treatment?** No. The Doctor cannot guarantee the complete success of any medical treatment as the same would differ in case to case, depending on the age and health of the patient, the stage of the Ailment, and the body response of the patient. 6. **Is Informed consent required during Treatment?** Informed Consent from
+Document 5:
+on the e-commerce platform should be provided services in a “fair and non-discriminatory manner”. Services include fulfilment, logistics, warehousing, advertisement, payments, and financing among others.MEDICAL NEGLIGENCE What is medical negligence? Recently, there has been a rise in patient rights awareness in Indian culture. Currently, common law principles relating to negligence, tainted consent, and violation of confidentiality are taken into account during the adjudication process for medical professional liability, whether it be in a consumer forum or a regular civil or criminal court. When a patient seeks medical advice from him, the practitioner owes them certain obligations. Negligence is the result of a failure to perform this responsibility . Negligence means carelessness or a lack of proper care and attention. To constitute negligence three elements must be fulfilled:- • Firstly there must be duty to take care on the part of the opposite party towards the complainant. •
+Document 6:
+ishing_Grievance_Redressal_and%20_Health_Helpline.pdf 3. List of State Health departments- https://main.mohfw .gov.in/Organisation/state-health-departments-0 Health Services FAQs 1. What are health services? Health services or health care is the maintenance or improvement of health by prevention, diagnosis, treatment, recovery, or cure of disease, illness, injury, and other physical and mental impairments in people. Health care is delivered by health professionals and allied health fields.2. Who is consumer? It can be any of the following: • Person who made the payment • When office pays for treatment of employee. • When insurance pays for treatment. • When Govt. hospital treats from the deductions made from the salary of the person. 3. **Is Medical Negligence covered under Consumer Protection Act?** Yes, in 1995, the Supreme Court brought the medical profession under the Consumer Protection Act 1986 and medical treatments were labeled as "services". 4. **Does someone who is not
+Document 7:
+3. The next step is to reach the Medical Council of India with no satisfactory response from the SMC. https://www .india.gov.in/official-website-medical-council-india 4. An alternative remedy is to submit your complaint through National Health Portal’s Grievance redressal. https://www .nhp.gov.in/redressal-mechanism_pg 5. Appr oaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer, the aggrieved party can take the service provider to the appropriate consumer commission, based on the pecuniary and territorial jurisdiction. The jurisdictions of the various consumer commissions are as follows- a) District Commission: The aggrieved consumer can reach out to the District Commission under section 34 of the
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+chat_history    abcdefghijk
+﻿Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User: Hi I got a tattoo and now I have developed an infection due to it. The tattoo parlour is saying they are not liable and I might have had some allergy which I did not disclose. Is it possible to file a consumer grievance over this?
+Chatbot: I'm so sorry to hear that you're going through this. Yes, it is possible to file a consumer grievance in this case. As a consumer, you have the right to seek redressal for any harm or injury caused by a service provider, including a tattoo parlour.
+
+
+To move forward, can you please provide more details about what happened? For instance, what type of tattoo did you get, and when did you get it done? Also, have you contacted the tattoo parlour to report the issue and seek a resolution?
+User: I got this done in XYZ tattoos in Hyderabad in a mall. I got a scorpion done and this was a week ago. I have contacted them but they said they are not liable for this.
+Chatbot: It seems like a clear case of deficiency in service. As per the Consumer Protection Act 2019, a service provider like a tattoo parlour is responsible for ensuring that the services they provide are safe and do not cause harm to the consumer.
+
+
+Since you've already contacted the tattoo parlour and they've denied liability, it's time to consider filing a consumer complaint. Before we proceed, can you please tell me what kind of relief you're seeking from the tattoo parlour? Are you looking for compensation for the medical expenses, compensation for the pain and discomfort, or something else?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user reports that they got a tattoo at XYZ Tattoos in Hyderabad and developed an infection due to it. The tattoo parlour is claiming that the user had an undisclosed allergy. The user asks if they can file a consumer grievance over this. The chatbot acknowledges the user's concern and explains that they can indeed file a consumer grievance. The chatbot asks the user for more details about the incident, including the type of tattoo, the date it was done, and whether the user has already contacted the tattoo parlour. The chatbot also informs the user that the Consumer Protection Act 2019 holds service providers like tattoo parlours liable for any harm caused to consumers. Since the tattoo parlour has denied liability, the chatbot suggests filing a consumer complaint. The chatbot asks the user what kind of relief they are seeking, specifically compensation for medical expenses. The user confirms that they need the tattoo parlour to cover their medical expenses.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+I need them to cover my medical expenses
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user wants the tattoo parlour to cover their medical expenses.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+Covering medical expenses is a reasonable expectation from a service provider like a tattoo parlour. Since the tattoo parlour has denied liability, you may need to take further action to seek compensation.
+
+
+As a first step, I would recommend drafting a formal complaint letter to the tattoo parlour, stating the details of the incident, the harm caused, and the relief you're seeking. I can provide you with a sample draft if you'd like.
+
+
+Additionally, you can also file a complaint with the National Consumer Helpline (1800-11-4000) for immediate assistance. They can guide you on the next steps to take and provide you with the contact details of the relevant consumer court or authority to file a complaint.
+
+
+Before we proceed, I have one more question: Do you have any evidence or documentation to support your claim, such as photographs of the tattoo, medical reports, or communication with the tattoo parlour?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: Yes
+Inconsistencies:
+1. Covering medical expenses is a reasonable expectation from a service provider like a tattoo parlour.
+Reason: Context does not explicitly state that covering medical expenses is a reasonable expectation from a service provider like a tattoo parlour.
+2. Since the tattoo parlour has denied liability, you may need to take further action to seek compensation.
+Reason: Context does not explicitly state that the tattoo parlour has denied liability.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: Yes
+Explanation for Correction: The context does not explicitly state that covering medical expenses is a reasonable expectation from a service provider like a tattoo parlour. This has been removed.
+Inconsistencies:
+1. Inconsistency: Since the tattoo parlour has denied liability, you may need to take further action to seek compensation.
+   Reason: Context does not explicitly state that the tattoo parlour has denied liability.
+Degree of Inconsistency: 3
+Explanation: The chatbot assumes a specific legal stance without supporting information, which may cause confusion.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+to the National Consumer Disputes Redressal Commission under Section 2(1)(f) of the Consumer Protection Act (defective goods) of the lack of adequate quality control in the manufacturing and bottling of intravenous fluids given to patients, leading to defects in the fluids. In this case, the defect was the presence of fungus due to the poor quality of the fluid itself and the inadequate cleaning and sealing of the bottle containing it. The Drug Controller was ordered by the Commission to constitute an expert committee to review the provisions of the existing legislation regulating quality control and make recommendations. The Committee madecertain recommendations for protecting the public against the possibility of contamination of I. V. fluids. This case reiterates the fact that the rational drug policy must be accompanied by sustained campaign to enhance awareness of consumers. The literate and enlightened consumers have a greater role and responsibility for materialising the above
+Document 1:
+can expect the same from the doctors. • Patients have the right to a second opinion if they are doubtful about the medicines or treatment suggested. • Patients have the right to know what a suggested operation/sur gery is for, and the possible risks involved. If he/she is unconscious or unable to make the decision due to other reasons, informed consent needs to be taken from their nearest relatives. The preservation of a patient's rights must not, however, come at the expense of the professional's autonomy and honesty. There is unquestionably a need to strike a careful equilibrium.What are the grounds available for complaints? ● There is breach of duty by the doctor because of which an injury is caused ● If the consent of a person/patient before performing acts like surgical operations and in some cases treatment as well, has not been obtained. ● Damage to organs due to negligence. ● Wrong treatment due to wrong diagnosis. ● Money receipt or prescription or discharge summary or test
+Document 2:
+any harmful or toxic substances. e. if any substance is mixed so as to reduce its quality or strength. f. if it bears any colour for the purpose of colouring only, a colour which is not prescribed 2. Overcharging3. Selling of untested drugs/drugs of poor quality. 4. Overcharging of medical devices. 5. Refusal to sell drugs. 6. Shortage or non-availability of drugs. 7. Allergic reactions or harmful side effects not adequately disclosed. 8. False or exaggerated claims about product benefits. 9. Missing or unclear information on ingredients/ Insufficient usage instructions. 10. Claims about the product's effectiveness that are not substantiated. 11. Poor product quality or defects. 12. Selling products beyond their expiration date. 13. Lack of proper warnings for potential risks associated with product use. 4. What are the modes or methods of complaint available? 1. The first step is to approach the manufacturing company through their customer care to register the grievance. 2. The
+Document 3:
+in some cases treatment as well, has not been obtained. ● Damage to organs due to negligence. ● Wrong treatment due to wrong diagnosis. ● Money receipt or prescription or discharge summary or test reports when not provided. ● When treatment is not chosen as accepted and established in medical norms /as per medical research/available medical literature. ● Theory of res ipsa loquitur [a thing speaks of itself] - in case any instrument left in the body, a wrong part removed, allopathic treatment given by a homeopathic doctor etc. ● Govt Hospital liable if contribution from the employee’s salary deducted OR Payment made by insurance company. ● Hospitals can also be negligent ‘it is a case of non- availability of oxygen cylinder either because the hospital failed to keep available a gas cylinder or because of the gas cylinder being found empty. What are the duties requir ed of medical professionals? CODE OF MEDICAL ETHICS REGULATION 2002 This regulation states the code of etiquettes and
+Document 4:
+skilled in that particular area. • When a doctor chooses one option out of five established under Medical Science. • When a doctor refers to literature based on established Medical Science. However, common grounds for negligence might include misdiagnosis, damage to Organ due to negligence, over treating a medical condition, surgical errors, maternity and delivery error, infections, documents not provided, wrong medical reports. The doctor cannot guarantee complete success of medical treatment as the same would differ in case to case depending on the age and health of the patient, the stage of the ailment and the body response of the patient.When would complaints not be accepted? There are various situations which might cause the complaint to be rejected. These include situations where the consumer is unable to file an appeal against an order within a period of three months, where the complaint is based on a frivolous cause of action, where the complaint falls outside the jurisdiction
+Document 5:
+misleading advertisements providing false expectations about technology services. ● Inaccurate Information: Provision of inaccurate information by service providers, creating confusion among users. ● Lengthy Procedures: Consumers experience long procedure in getting refund or even denial of refund. ● Inadequate Protection: Concerns about the insufficient protection of user data, leading to potential privacy breaches. ● Unauthorized Access: Instances of unauthorized access or data breaches compromising user privacy and confidentiality .● Inefficient Responses: Consumers encounter subpar responses while enquiring on phones. ● Lack of Transparency: Absence of transparency in addressing and resolving customer concerns, leading to dissatisfaction. ● Inadequate Compensation: Inadequate compensation for service outages or data breaches, leaving consumers dissatisfied. 3. When complaints would not be accepted? There are various situations which might cause the complaint to be rejected. These
+Document 6:
+is not sealed and looks tampered.18. Where should consumers approach in case of any problem relating to Speed Post-delivery or Speed Post tracking? Consumers can send a letter or an email to the department, details are https://www .indiapost.gov .in/VAS/Pages/CustomerSupport/SpeedPostComplaints.aspx 19. What is an ePost service? EPost Office for anytime, anywhere transaction related to instant money order, electronic money order, PLI Premium and philately products. For more information, visit http://www .epostoffice.gov.in/ 20. How can consumers register their grievances for India Post Payment Bank? Consumers can visit the nearest Branch Office or call on Toll Free No 155299 OR 1800-180-7980 or email at contact@ippbonline.in For Details please visit - https://www .ippbonline.com/web/ippb/complaints 21. What is the escalation matrix if a consumer has not received any satisfactory response from the branch of the India Post Payment Bank? If Consumer has not received a satisfactory
+Document 7:
+Protection Act?** Yes, in 1995, the Supreme Court brought the medical profession under the Consumer Protection Act 1986 and medical treatments were labeled as "services". 4. **Does someone who is not satisfied with the results of his or her surgery have a viable medical negligence claim?** In general, there are no guarantees of medical results, and unexpected or unsuccessful results do not necessarily mean negligence has occurred. To succeed in a medical negligence case, a consumer has to show an injury or damages that resulted from the doctor's deviation from the standard of care applicable to the procedure. 5. **Can a Doctor Guarantee Complete success of the Medical Treatment?** No. The Doctor cannot guarantee the complete success of any medical treatment as the same would differ in case to case, depending on the age and health of the patient, the stage of the Ailment, and the body response of the patient. 6. **Is Informed consent required during Treatment?** Informed Consent from
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+chat_history    abcdefghijk
+﻿Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User: Hi I got a tattoo and now I have developed an infection due to it. The tattoo parlour is saying they are not liable and I might have had some allergy which I did not disclose. Is it possible to file a consumer grievance over this?
+Chatbot: I'm so sorry to hear that you're going through this. Yes, it is possible to file a consumer grievance in this case. As a consumer, you have the right to seek redressal for any harm or injury caused by a service provider, including a tattoo parlour.
+
+
+To move forward, can you please provide more details about what happened? For instance, what type of tattoo did you get, and when did you get it done? Also, have you contacted the tattoo parlour to report the issue and seek a resolution?
+User: I got this done in XYZ tattoos in Hyderabad in a mall. I got a scorpion done and this was a week ago. I have contacted them but they said they are not liable for this.
+Chatbot: It seems like a clear case of deficiency in service. As per the Consumer Protection Act 2019, a service provider like a tattoo parlour is responsible for ensuring that the services they provide are safe and do not cause harm to the consumer.
+
+
+Since you've already contacted the tattoo parlour and they've denied liability, it's time to consider filing a consumer complaint. Before we proceed, can you please tell me what kind of relief you're seeking from the tattoo parlour? Are you looking for compensation for the medical expenses, compensation for the pain and discomfort, or something else?
+User: I need them to cover my medical expenses
+Chatbot: Covering medical expenses is a reasonable expectation from a service provider like a tattoo parlour. Since the tattoo parlour has denied liability, you may need to take further action to seek compensation.
+
+
+As a first step, I would recommend drafting a formal complaint letter to the tattoo parlour, stating the details of the incident, the harm caused, and the relief you're seeking. I can provide you with a sample draft if you'd like.
+
+
+Additionally, you can also file a complaint with the National Consumer Helpline (1800-11-4000) for immediate assistance. They can guide you on the next steps to take and provide you with the contact details of the relevant consumer court or authority to file a complaint.
+
+
+Before we proceed, I have one more question: Do you have any evidence or documentation to support your claim, such as photographs of the tattoo, medical reports, or communication with the tattoo parlour?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user shares that they got a tattoo from XYZ Tattoos in Hyderabad and have developed an infection. The user mentions that the tattoo parlour is denying liability, claiming the user might have had an allergy they didn’t disclose. The user asks if they can file a consumer grievance over this. The chatbot acknowledges the user’s right to seek redressal under the Consumer Protection Act 2019 and asks for more details about the incident. The user provides the necessary information, and the chatbot explains that it seems like a clear case of deficiency in service. The chatbot suggests filing a consumer complaint and asks what kind of relief the user is seeking. The user responds that they need the tattoo parlour to cover their medical expenses. The chatbot recommends drafting a formal complaint letter and suggests filing a complaint with the National Consumer Helpline (1800-11-4000) for further assistance. The chatbot also asks if the user has any evidence or documentation to support their claim. The user mentions having a photograph of the tattoo and a doctor's prescription for the infection, but no communication from the parlour.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+I have photograph which I took later and the doctor's prescription for infection but the prescription does not say where I got the infection from. No I don't have the communication from the parlour as it was on call.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user has a photograph of the tattoo and a doctor's prescription for the infection, but the prescription does not specify the source of the infection. The user does not have any communication from the tattoo parlour as the interaction was via phone call.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+Having a photograph of the tattoo and a doctor's prescription is a good starting point for your complaint. Even though the prescription doesn't specify the exact source of the infection, it's still a medical document that supports your claim of harm caused by the tattoo parlour.
+
+
+Not having a written communication from the parlour on call can make it a bit more challenging, but we can still proceed with drafting a complaint letter and filing a case.
+
+
+As a next step, I can guide you on drafting a complaint letter to the tattoo parlour, and also provide you with information on how to file a complaint with the National Consumer Helpline (1800-11-4000) and the State Consumer Dispute Redressal Commission (SDRC) in Telangana.
+
+
+Before we proceed, I want to inform you that you can also file a complaint online through the e-daakhil portal, which is a government initiative to facilitate online filing of consumer complaints. Would you like me to guide you through the process of filing a complaint online?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: Yes
+Inconsistencies:
+1. Having a photograph of the tattoo and a doctor's prescription is a good starting point for your complaint.
+Reason: Context does not mention that the photograph of the tattoo is a good starting point for the complaint. The photograph was taken later. 
+2. Even though the prescription doesn't specify the exact source of the infection, it's still a medical document that supports your claim of harm caused by the tattoo parlour.
+Reason: Context does not mention that the prescription is a medical document that supports your claim of harm caused by the tattoo parlour. The prescription only mentions that the user has an infection but does not mention that the parlour is responsible for it.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: Yes
+Explanation for Correction: The statements about the photograph and the prescription are not contradictions but rather an interpretation of the context. These have been removed.
+Inconsistencies:
+1. Inconsistency: Having a photograph of the tattoo and a doctor's prescription is a good starting point for your complaint.
+   Reason: Context does not mention that the photograph of the tattoo is a good starting point for the complaint. The photograph was taken later.
+Degree of Inconsistency: 2
+Explanation: The statement about the photograph is a slight misinterpretation, but it does not change the overall direction of the complaint.
+2. Inconsistency: Even though the prescription doesn't specify the exact source of the infection, it's still a medical document that supports your claim of harm caused by the tattoo parlour.
+   Reason: Context does not mention that the prescription is a medical document that supports your claim of harm caused by the tattoo parlour. The prescription only mentions that the user has an infection but does not mention that the parlour is responsible for it.
+Degree of Inconsistency: 3
+Explanation: The statement about the prescription is a noticeable error, as it implies a connection between the prescription and the parlour's responsibility that is not present in the context.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+waiving   claims   has   not   been   tested   in   court,   contractual   language   regarding   such   waivers   should   be   carefully   examined   to   avoid   potential   unenforceability   under   both   the   CPA   2019   and   Indian   contract   law.”   — Question:   “How   do   I   get   my   consumer   grievances   addressed?” Answer:    “To   address   your   consumer   grievance,   you   have   a   few   options.   You   can: ● Directly   send   a   notice   to   the   product   seller   or   service   provider . ● Call   the   National   Consumer   Helpline   at   1800-1 1-4000   or   1915,   available   all   days   except   national   holidays,   from   8:00   AM   to   8:00   PM. ● Send   an   SMS   to   8800001915,   and   they   will   get   back   to   you. ● Register   your   grievance   online   at   https://consumerhelpline.gov .in/user/signup.php . ● Register   your   grievance   through   the   NCH   APP   or   UMANG   APP   on   your   mobile   phone. ●
+Document 1:
+can register their grievances, ensuring a more systematic and organized approach to complaint resolution. 1 2. Legal Recourse: When issues persist and are not adequately addressed through the initial customer support or grievance portal channels, consumers have the option to seek legal remedies. This involves approaching District, State, or National Consumer Commissions, depending on the jurisdiction and the value of the technology services in question. Typically, courts only interfere if the decision is illogical, suffers from procedural impropriety or shocks the conscience of the court. The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer, the aggrieved party can take the service provider to the appropriate consumer commission, based on the pecuniary and
+Document 2:
+your   grievance   online   at   https://consumerhelpline.gov .in/user/signup.php . ● Register   your   grievance   through   the   NCH   APP   or   UMANG   APP   on   your   mobile   phone. ● Register   your   grievance   via   WhatsApp   at   https://api.whatsapp.com/send/?phone=918800001915&text&type=phone_number&app_ absent=0 . ● Call   the   state   consumer   helpline   of   your   respective   state.   Here   are   the   contact   numbers   for   various   states: Arunachal   Pradesh 1800-345-3601   Assam 1800-345-361 1   Bihar 1800-345-6188 Chhattisgarh 1800-233-3663   Delhi   011-23379266   Gujarat 1800-233-0222   ,079-27489945/   46   Haryana 1800-180-2087 Himachal   Pradesh 1800-180-8087   Jharkhand 1800-3456-598   Karnataka 1800-425-9339   ,1967   Kerala 1800-425-1550  Madhya   Pradesh 155343,   0755-2559778   ,   0755-2559993   Maharashtra 1800-2222-62   Mizoram 1800-231-1792   Nagaland 1800-345-3701   Orissa 1800-345-6724   /   6760   Puducherry
+Document 3:
+and a careful reading of all acts and regulations is essential. 4. What needs to be done to get redressal of complaint/grievance and wher e should the complaint be filed?The consumer must first initiate contact with the Service Provider's Customer Support for an initial resolution. This may involve reporting service disruptions, seeking clarification on terms and conditions, or addressing concerns related to data privacy. On unsatisfactory response the customer may take further steps such as: 1. Consumer Grievance Portals: Leveraging national consumer helplines and grievance redressal mechanisms like INGRAM for escalated complaints, when the initial contact with the service provider's customer support proves unsatisfactory . This portals serves as a centralized platforms where consumers can register their grievances, ensuring a more systematic and organized approach to complaint resolution. 1 2. Legal Recourse: When issues persist and are not adequately addressed through the initial
+Document 4:
+the resolution or believes that the complaint has not been adequately addressed, there may be an escalation mechanism. This could involve contacting a higher -level customer service representative or a dedicated complaints department. ● Consumer Forums and Regulatory Authorities - If the complaint remains unresolved or the customer is not satisfied with the resolution provided by the service provider , regulatory authorities and consumer forums may be contacted. These entities may offer additional avenues for dispute resolution and may have established grievance redressal mechanisms. ● Ombudsman Services - Some sectors have established ombudsman services that act as an independent authority to review and resolve complaints if the customer is not satisfied with the resolution provided by the service provider . ● Consumer Protection Agencies - If the issue persists after engaging with the retailer , consumers can file a complaint with local consumer protection agencies or consumer
+Document 5:
+Funds:   Central   Pension   Accounting   Office   ( https://cpao.nic.in/grievance_sql/Grievance_form_all.php ) 15. Telecom:   Telecom   Consumer   Complaints   Monitoring   System   (TCCMS)   ( https://tccms.trai.gov .in/Queries.aspx?cid=1 ) Consumers   can   explore   these   avenues   to   seek   redressal   for   grievances   related   to   specific   sectors.” — Question:   “Can   I   file   a   consumer   complaint   using   my   phone?” Answer:   “Yes,   you   can   file   a   consumer   complaint   online   using   your   phone.   One   way   to   do   this   is   by   using   the   UMANG   App,   which   is   the   National   Consumer   Helpline’ s   (NCH)   application.   Here's   how   you   can   file   a   complaint   using   the   UMANG   App: 1. Download   UMANG   App:   Visit   the   Google   Play   Store   or   the   Apple   App   Store   and   download   the   UMANG   App. 2. Log   In   or   Sign   Up:   Log   in   if   you   already   have   an   account,   or
+Document 6:
+using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ (iv) Central Consumer Protection Authority If the commission finds violations of rights of consumers or in notice of trade practices which is unfair it can inquire or cause an inquiry, either on receipt of complaint or suo moto or as directed by Central Government. If the commission finds, after preliminary inquiry, of an existence of a prima facie case of consumer rights violation or it is in notice of any unfair trade practice or any wrong or inaccurate advertisement which is prejudicial to public interest or to the interests of the consumers,it can order an investigation by the District Collector or by Director General.The consumer can complain to the District Collector of the respective district for investigation and subsequent proceedings by the CCPA. He/she/they can also submit a complaint via email, at com-ccpa@nic.in . 4. Where should the grievance redressal or
+Document 7:
+Visit   the   Google   Play   Store   or   the   Apple   App   Store   and   download   the   UMANG   App. 2. Log   In   or   Sign   Up:   Log   in   if   you   already   have   an   account,   or   sign   up   for   a   new   one. 3. Search   for   National   Consumer   Helpline:   In   the   All   Services   section   of   the   app,   search   for   the   National   Consumer   Helpline. 4. Register   Grievance:   Press   the   Register   Grievance   button. 5. Provide   Details:   Provide   information   such   as   the   state   and   city   where   the   product   was   purchased,   the   industry ,   the   firm   name,   and   a   description   of   the   grievance. 6. Submit   Complaint:   Submit   your   complaint   through   the   app. Please   note   that   the   process   may   vary   slightly   based   on   the   specific   features   and   interface   of   the   UMANG   App.” — Question:   “What   is   the   pecuniary   Jurisdiction   of   the   Consumer   commissions
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+chat_history    abcdefghijk
+﻿Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User: Hi I got a tattoo and now I have developed an infection due to it. The tattoo parlour is saying they are not liable and I might have had some allergy which I did not disclose. Is it possible to file a consumer grievance over this?
+Chatbot: I'm so sorry to hear that you're going through this. Yes, it is possible to file a consumer grievance in this case. As a consumer, you have the right to seek redressal for any harm or injury caused by a service provider, including a tattoo parlour.
+
+
+To move forward, can you please provide more details about what happened? For instance, what type of tattoo did you get, and when did you get it done? Also, have you contacted the tattoo parlour to report the issue and seek a resolution?
+User: I got this done in XYZ tattoos in Hyderabad in a mall. I got a scorpion done and this was a week ago. I have contacted them but they said they are not liable for this.
+Chatbot: It seems like a clear case of deficiency in service. As per the Consumer Protection Act 2019, a service provider like a tattoo parlour is responsible for ensuring that the services they provide are safe and do not cause harm to the consumer.
+
+
+Since you've already contacted the tattoo parlour and they've denied liability, it's time to consider filing a consumer complaint. Before we proceed, can you please tell me what kind of relief you're seeking from the tattoo parlour? Are you looking for compensation for the medical expenses, compensation for the pain and discomfort, or something else?
+User: I need them to cover my medical expenses
+Chatbot: Covering medical expenses is a reasonable expectation from a service provider like a tattoo parlour. Since the tattoo parlour has denied liability, you may need to take further action to seek compensation.
+
+
+As a first step, I would recommend drafting a formal complaint letter to the tattoo parlour, stating the details of the incident, the harm caused, and the relief you're seeking. I can provide you with a sample draft if you'd like.
+
+
+Additionally, you can also file a complaint with the National Consumer Helpline (1800-11-4000) for immediate assistance. They can guide you on the next steps to take and provide you with the contact details of the relevant consumer court or authority to file a complaint.
+
+
+Before we proceed, I have one more question: Do you have any evidence or documentation to support your claim, such as photographs of the tattoo, medical reports, or communication with the tattoo parlour?
+User: I have photograph which I took later and the doctor's prescription for infection but the prescription does not say where I got the infection from. No I don't have the communication from the parlour as it was on call.
+Chatbot: Having a photograph of the tattoo and a doctor's prescription is a good starting point for your complaint. Even though the prescription doesn't specify the exact source of the infection, it's still a medical document that supports your claim of harm caused by the tattoo parlour.
+
+
+Not having a written communication from the parlour on call can make it a bit more challenging, but we can still proceed with drafting a complaint letter and filing a case.
+
+
+As a next step, I can guide you on drafting a complaint letter to the tattoo parlour, and also provide you with information on how to file a complaint with the National Consumer Helpline (1800-11-4000) and the State Consumer Dispute Redressal Commission (SDRC) in Telangana.
+
+
+Before we proceed, I want to inform you that you can also file a complaint online through the e-daakhil portal, which is a government initiative to facilitate online filing of consumer complaints. Would you like me to guide you through the process of filing a complaint online?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user reports a case of infection after getting a tattoo done at XYZ Tattoos in Hyderabad. The user contacted the parlour but they denied liability, claiming the user had an allergy that wasn't disclosed. The chatbot acknowledges the issue and explains that the user has the right to seek redressal under the Consumer Protection Act, 2019. The chatbot asks for more details about the incident, including the type of tattoo, the date of the procedure, and whether the user has contacted the parlour. The chatbot also inquires about the relief the user is seeking, which is compensation for medical expenses. The chatbot suggests drafting a formal complaint letter to the parlour and filing a complaint with the National Consumer Helpline (1800-11-4000) and the State Consumer Dispute Redressal Commission (SDRC) in Telangana. The chatbot also mentions the option of filing a complaint online through the e-daakhil portal. The user expresses interest in reaching out to a consumer grievance office beyond the helpline.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+Other than the helpline is there any way I can reach out to a consumer grievance officeR?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user wants to know if there are any other ways to reach out to a consumer grievance office besides the National Consumer Helpline (1800-11-4000).
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+Yes, in addition to the National Consumer Helpline (1800-11-4000), you can also reach out to the State Consumer Dispute Redressal Commission (SDRC) in Telangana. The SDRC is a quasi-judicial body that deals with consumer disputes at the state level.
+
+
+To find the contact details of the SDRC in Telangana, you can visit the National Consumer Helpline website (nch.nic.in) and search for the contact information of the SDRC in Telangana. You can also try searching online for "Telangana State Consumer Dispute Redressal Commission" or "Telangana Consumer Grievance Redressal Forum".
+
+
+Alternatively, you can also contact the District Consumer Dispute Redressal Forum (DCDRF) in the district where the tattoo parlour is located. The DCDRF is the first level of consumer dispute redressal at the district level.
+
+
+Additionally, you can also contact the Consumer Affairs Department of the Government of Telangana, which is responsible for handling consumer complaints and grievances in the state. You can find their contact details on the official website of the Government of Telangana.
+
+
+It's worth noting that you can also contact the Central Consumer Protection Authority (CCPA), which is a national-level body responsible for protecting consumer rights. However, as this is a state-level issue, it's best to start with the state-level authorities first.
+
+
+Would you like me to provide you with the contact details of the CCPA or the Consumer Affairs Department of Telangana?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: Yes
+Inconsistencies:
+1. The SDRC is a quasi-judicial body that deals with consumer disputes at the state level.
+Reason: Context does not state the SDRC is a quasi-judicial body. 
+2. You can also try searching online for “Telangana State Consumer Dispute Redressal Commission” or “Telangana Consumer Grievance Redressal Forum”.
+Reason: Context does not mention any details about the SDRC. 
+3. Additionally, you can also contact the Consumer Affairs Department of the Government of Telangana, which is responsible for handling consumer complaints and grievances in the state.
+Reason: Context does not mention the Consumer Affairs Department of the Government of Telangana. 
+4. It’s worth noting that you can also contact the Central Consumer Protection Authority (CCPA), which is a national-level body responsible for protecting consumer rights.
+Reason: Context does not mention the CCPA is a national-level body responsible for protecting consumer rights.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: Yes
+Explanation for Correction: The general method of searching online for specific information and contacting relevant departments is not a contradiction and has been removed.
+Inconsistencies:
+1. Inconsistency: The SDRC is a quasi-judicial body that deals with consumer disputes at the state level.
+   Reason: Context does not state the SDRC is a quasi-judicial body.
+Degree of Inconsistency: 3
+Explanation: Misrepresenting the nature of the SDRC can mislead users about its authority and jurisdiction.
+2. Inconsistency: You can also try searching online for “Telangana State Consumer Dispute Redressal Commission” or “Telangana Consumer Grievance Redressal Forum”.
+   Reason: Context does not mention any details about the SDRC.
+Degree of Inconsistency: 1
+Explanation: The suggestion to search online is a general piece of advice and does not contain any specific information that contradicts the context.
+3. Inconsistency: Additionally, you can also contact the Consumer Affairs Department of the Government of Telangana, which is responsible for handling consumer complaints and grievances in the state.
+   Reason: Context does not mention the Consumer Affairs Department of the Government of Telangana.
+Degree of Inconsistency: 3
+Explanation: Incorrectly attributing responsibilities to a department can mislead users about where to file complaints.
+4. Inconsistency: It’s worth noting that you can also contact the Central Consumer Protection Authority (CCPA), which is a national-level body responsible for protecting consumer rights.
+   Reason: Context does not mention the CCPA is a national-level body responsible for protecting consumer rights.
+Degree of Inconsistency: 4
+Explanation: Misrepresenting the role and authority of a regulatory body can mislead users about the appropriate legal recourse.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+grievance with the manufacturing company and with the drug controller of that concerned state and get the product checked by the government analyst. For more information, refer the following link:- https://cdsco.gov .in/opencms/opencms/en/State-Drugs-Control/ 14. Is a bill necessary for any grievance registration related to drug and cosmetics? Yes, a receipt or bill is mandatory. 15. Tier wise escalation level for consumer complaints handling. Tier 1 Send first written complaint to the Company Customer Care by email, website or by post Tier 2 If consumer does not receive any reply or is not satisfied with the response, he/she can file complaint to the Controller of Drugs & Cosmetic of the State/ Union territory.Tier 3 In case the consumer is not satisfied with the resolution provided, he/she may file case with Consumer Dispute Redressal Commission, following the procedure prescribed by them. For more information, you may visit http://www .ncdrc.nic.in/districtlist.htmlE-COMMERCE
+Document 1:
+using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ (iv) Central Consumer Protection Authority If the commission finds violations of rights of consumers or in notice of trade practices which is unfair it can inquire or cause an inquiry, either on receipt of complaint or suo moto or as directed by Central Government. If the commission finds, after preliminary inquiry, of an existence of a prima facie case of consumer rights violation or it is in notice of any unfair trade practice or any wrong or inaccurate advertisement which is prejudicial to public interest or to the interests of the consumers,it can order an investigation by the District Collector or by Director General.The consumer can complain to the District Collector of the respective district for investigation and subsequent proceedings by the CCPA. He/she/they can also submit a complaint via email, at com-ccpa@nic.in . 4. Where should the grievance redressal or
+Document 2:
+with product use. 4. What are the modes or methods of complaint available? 1. The first step is to approach the manufacturing company through their customer care to register the grievance. 2. The consumer can also approach the drug controller of the concerned state in case of a banned drug, side effects, adulteration- https://cdsco.gov .in/opencms/opencms/en/State-Drugs-Control/ State Drugs Helpdesk- helpdesk.statedrug@cdsco.nic.in If not satisfied with the response, approach the Drug Controller General of India- https://cdsco.gov .in/opencms/opencms/en/About-us/who/ 3. Register complaint with CDSCO- https://cdsco.gov .in/opencms/opencms/en/About-us/contact-us/ Telephone directory, CDSCO- https://cdsco.gov .in/opencms/opencms/en/About-us/T elephone_Directory/ 4. Approaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer
+Document 3:
+are   required. ○ One   copy   is   retained   for   official   purposes,   one   is   forwarded   to   the   opposite   party ,   and   one   is   for   the   complainant. ○ If   there   are   multiple   opposite   parties,   more   copies   may   be   required. 4. Contents   of   the   Complaint: ○ The   complaint   must   contain   all   necessary   details   of   the   aggrieved   consumer ,   the   service   provider ,   or   manufacturer . ○ Include   contact   details,   place   of   business,   relevant   facts   of   the   matter ,   and   the   remedy   sought. ○ Attach   an   affidavit   signed   and   verified   by   the   complainant. ○ Attach   all   other   relevant   documents,   such   as   bill   details,   mode   of   payment,   and   guarantee   or   warranty   cards.” — Question:   “What   is   the   procedure   to   file   a   complaint   in   the   eDaakhil   platform?” Answer:   “   Following   these   steps   will   ensure   that   your   complaint   is
+Document 4:
+Visit   the   Google   Play   Store   or   the   Apple   App   Store   and   download   the   UMANG   App. 2. Log   In   or   Sign   Up:   Log   in   if   you   already   have   an   account,   or   sign   up   for   a   new   one. 3. Search   for   National   Consumer   Helpline:   In   the   All   Services   section   of   the   app,   search   for   the   National   Consumer   Helpline. 4. Register   Grievance:   Press   the   Register   Grievance   button. 5. Provide   Details:   Provide   information   such   as   the   state   and   city   where   the   product   was   purchased,   the   industry ,   the   firm   name,   and   a   description   of   the   grievance. 6. Submit   Complaint:   Submit   your   complaint   through   the   app. Please   note   that   the   process   may   vary   slightly   based   on   the   specific   features   and   interface   of   the   UMANG   App.” — Question:   “What   is   the   pecuniary   Jurisdiction   of   the   Consumer   commissions
+Document 5:
+the following procedur es for filing grievances: (i) The complaint must be in writing to the Grievance Redressal Officer stating the name of the consumer , his address and telephone number . The following form can be used by the consumer: https://bescom.karnataka.gov .in/storage/pdf-files/CGRF/CGRF%20Form%20A&%20B.pdf (ii) The name of the licensee. (iii) Brief Description of the matter , including copies of relevant documents.(iv) If known, then the consumer shall also present the laws, regulations, codes or standards which are violated. (v) Proof that the consumer has exhausted the grievance procedure in submitting the grievance to the licensee. (vi) The consumer should mention the relief sought, and shall also share an authenticated copy of the response from the licensee. Post this, the Grievance redressal officer shall : (i) Send an acknowledgement to the consumer within three days of the receipt of the complaint. A copy of the grievance shall also be forwarded to the licensee
+Document 6:
+complainant   and   opposite   party   details   again   and   click   save   and   continue. 14. Upload   Documents:   Attach   your   index,   complaint,   memo   of   parties,   affidavit,   and   any   other   evidence.   All   documents   must   be   signed   and   notarized. 15. Review   and   Submit:   Verify   the   details   of   your   complaint   and   submit   it. 16. Pay   Fees:   Pay   the   fees   for   your   complaint   on   the   pending   complaints   page. — Question:   “Can   a   consumer   complaint   be   resolved   through   mediation?”   Answer:   “Yes,   a   consumer   complaint   can   be   resolved   through   mediation.   The   relevant   consumer   forum,   either   at   the   first   hearing   after   admission   or   later   stages,   may   refer   the   complaint   to   mediation   with   the   written   consent   of   the   parties   if   they   believe   there   is   potential   for   settlement.   Parties   can   also   opt   for   mediation   at
+Document 7:
+“To   file   a   complaint   before   the   Consumer   Commission,   follow   these   steps: 1. Writing   the   Complaint: ○ The   complaint   should   be   in   writing   and   contain   all   relevant   details. ○ Specify   the   aggrieved   consumer's   details,   the   service   provider   or   manufacturer's   details,   and   the   facts   of   the   matter . ○ Clearly   state   the   remedy   sought. 2. Filing   the   Complaint: ○ Complaints   can   be   filed   in   person   or   through   an   agent. ○ They   can   also   be   sent   by   registered   post   along   with   the   required   court   fee. ○ Complaints   can   be   filed   online   at   the   e-daakhil   portal:   http://edaakhil.nic.in/ . 3. Submission   of   Copies: ○ Normally ,   three   copies   of   the   complaint   are   required. ○ One   copy   is   retained   for   official   purposes,   one   is   forwarded   to   the   opposite   party ,   and   one   is   for   the   complainant. ○ If   there   are
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+chat_history    abcdefghijk
+﻿Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User: Hi I got a tattoo and now I have developed an infection due to it. The tattoo parlour is saying they are not liable and I might have had some allergy which I did not disclose. Is it possible to file a consumer grievance over this?
+Chatbot: I'm so sorry to hear that you're going through this. Yes, it is possible to file a consumer grievance in this case. As a consumer, you have the right to seek redressal for any harm or injury caused by a service provider, including a tattoo parlour.
+
+
+To move forward, can you please provide more details about what happened? For instance, what type of tattoo did you get, and when did you get it done? Also, have you contacted the tattoo parlour to report the issue and seek a resolution?
+User: I got this done in XYZ tattoos in Hyderabad in a mall. I got a scorpion done and this was a week ago. I have contacted them but they said they are not liable for this.
+Chatbot: It seems like a clear case of deficiency in service. As per the Consumer Protection Act 2019, a service provider like a tattoo parlour is responsible for ensuring that the services they provide are safe and do not cause harm to the consumer.
+
+
+Since you've already contacted the tattoo parlour and they've denied liability, it's time to consider filing a consumer complaint. Before we proceed, can you please tell me what kind of relief you're seeking from the tattoo parlour? Are you looking for compensation for the medical expenses, compensation for the pain and discomfort, or something else?
+User: I need them to cover my medical expenses
+Chatbot: Covering medical expenses is a reasonable expectation from a service provider like a tattoo parlour. Since the tattoo parlour has denied liability, you may need to take further action to seek compensation.
+
+
+As a first step, I would recommend drafting a formal complaint letter to the tattoo parlour, stating the details of the incident, the harm caused, and the relief you're seeking. I can provide you with a sample draft if you'd like.
+
+
+Additionally, you can also file a complaint with the National Consumer Helpline (1800-11-4000) for immediate assistance. They can guide you on the next steps to take and provide you with the contact details of the relevant consumer court or authority to file a complaint.
+
+
+Before we proceed, I have one more question: Do you have any evidence or documentation to support your claim, such as photographs of the tattoo, medical reports, or communication with the tattoo parlour?
+User: I have photograph which I took later and the doctor's prescription for infection but the prescription does not say where I got the infection from. No I don't have the communication from the parlour as it was on call.
+Chatbot: Having a photograph of the tattoo and a doctor's prescription is a good starting point for your complaint. Even though the prescription doesn't specify the exact source of the infection, it's still a medical document that supports your claim of harm caused by the tattoo parlour.
+
+
+Not having a written communication from the parlour on call can make it a bit more challenging, but we can still proceed with drafting a complaint letter and filing a case.
+
+
+As a next step, I can guide you on drafting a complaint letter to the tattoo parlour, and also provide you with information on how to file a complaint with the National Consumer Helpline (1800-11-4000) and the State Consumer Dispute Redressal Commission (SDRC) in Telangana.
+
+
+Before we proceed, I want to inform you that you can also file a complaint online through the e-daakhil portal, which is a government initiative to facilitate online filing of consumer complaints. Would you like me to guide you through the process of filing a complaint online?
+User: Other than the helpline is there any way I can reach out to a consumer grievance officeR?
+Chatbot: Yes, in addition to the National Consumer Helpline (1800-11-4000), you can also reach out to the State Consumer Dispute Redressal Commission (SDRC) in Telangana. The SDRC is a quasi-judicial body that deals with consumer disputes at the state level.
+
+
+To find the contact details of the SDRC in Telangana, you can visit the National Consumer Helpline website (nch.nic.in) and search for the contact information of the SDRC in Telangana. You can also try searching online for "Telangana State Consumer Dispute Redressal Commission" or "Telangana Consumer Grievance Redressal Forum".
+
+
+Alternatively, you can also contact the District Consumer Dispute Redressal Forum (DCDRF) in the district where the tattoo parlour is located. The DCDRF is the first level of consumer dispute redressal at the district level.
+
+
+Additionally, you can also contact the Consumer Affairs Department of the Government of Telangana, which is responsible for handling consumer complaints and grievances in the state. You can find their contact details on the official website of the Government of Telangana.
+
+
+It's worth noting that you can also contact the Central Consumer Protection Authority (CCPA), which is a national-level body responsible for protecting consumer rights. However, as this is a state-level issue, it's best to start with the state-level authorities first.
+
+
+Would you like me to provide you with the contact details of the CCPA or the Consumer Affairs Department of Telangana?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user shares that they got a tattoo from XYZ Tattoos in Hyderabad and developed an infection due to it. The parlour has denied liability, stating that the user may have had an undiscosed allergy. The user asks if it is possible to file a consumer grievance over this. The chatbot acknowledges the user's situation and explains that it is possible to file a consumer grievance under the Consumer Protection Act, 2019, as the service provider is responsible for ensuring safe services. The chatbot asks for more details about the incident, including the type of tattoo, when it was done, and whether the user has contacted the parlour. The user provides these details, stating that they got a scorpion tattoo a week ago and contacted the parlour, but they denied liability. The chatbot explains that the parlour is responsible for the harm caused and suggests filing a complaint. The user asks for compensation for medical expenses, and the chatbot agrees that this is a reasonable expectation. The chatbot recommends drafting a formal complaint letter and filing a complaint with the National Consumer Helpline (1800-11-4000) and the State Consumer Dispute Redressal Commission (SDRC) in Telangana. The user asks if there are any other ways to reach out to a consumer grievance office, and the chatbot suggests contacting the SDRC, DCDRF, and the Consumer Affairs Department of Telangana. The user requests a draft complaint letter, which the chatbot agrees to provide. The conversation ends with the chatbot offering to guide the user through the process of filing a complaint online and providing contact details for the relevant authorities.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+No but can you draft a complaint for this for me?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user wants a draft complaint to be prepared for them to file a consumer grievance against the tattoo parlour.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk

@@ -7,8 +7,10 @@ from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline, HuggingFaceEmbeddings
+from langchain_openai import ChatOpenAI
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
 from langchain_core.prompts import MessagesPlaceholder, ChatPromptTemplate
+# from langchain_community.llms import HuggingFacePipeline, Chat
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_community.chat_message_histories import ChatMessageHistory
@@ -79,22 +81,29 @@ def get_vectorstore(text_chunks):
     return vectorstore
 
 def get_llm():
+    model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
     callbacks = [StreamingStdOutCallbackHandler()]
-    llm = HuggingFacePipeline.from_model_id(
-        model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
-        task="text-generation",
-        device=0,
-        callbacks = callbacks,
-        pipeline_kwargs=dict(
-            return_full_text=False,
-            max_new_tokens=1024,
-            do_sample=True,
-            temperature=0.5,
-        ),
-    )
-    llm.pipeline.tokenizer.pad_token_id = llm.pipeline.tokenizer.eos_token_id
-    llm_engine_hf = ChatHuggingFace(llm=llm)
-
+    # llm = HuggingFacePipeline.from_model_id(
+    #     model_id=model_id,
+    #     task="text-generation",
+    #     device=0,
+    #     callbacks = callbacks,
+    #     pipeline_kwargs=dict(
+    #         return_full_text=False,
+    #         max_new_tokens=1024,
+    #         do_sample=True,
+    #         temperature=0.5,
+    #     ),
+    # )
+    # llm.pipeline.tokenizer.pad_token_id = llm.pipeline.tokenizer.eos_token_id
+    # llm_engine_hf = ChatHuggingFace(llm=llm)
+    llm_engine_hf = ChatOpenAI(
+        # model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
+        openai_api_key="EMPTY",
+        openai_api_base="http://172.17.0.1:8080/v1/",
+        max_tokens=1024,
+        temperature=0.5,
+        )
     return llm_engine_hf
 
 def get_conversation_chain(retriever, llm_engine_hf):
@@ -169,6 +178,7 @@ The Central Consumer Protection Authority (CCPA) is not a forum for consumer com
     return  rag_chain 
 
 def get_general_chain(llm_engine_hf):
+    system_prompt = "Hello! I'm your General Knowledge Assistant. How can I help you today?"
     qa_prompt = ChatPromptTemplate.from_messages([
         ("system", system_prompt),
         MessagesPlaceholder("chat_history"),

@@ -6,6 +6,7 @@ from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline, HuggingFaceEmbeddings
+from langchain_openai import ChatOpenAI
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain, SequentialChain
 from langchain_core.runnables import RunnableSequence
 from langchain.schema.runnable import RunnablePassthrough
@@ -80,24 +81,29 @@ def get_vectorstore(text_chunks):
     return vectorstore
 
 def get_llm():
+    model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
     callbacks = [StreamingStdOutCallbackHandler()]
-    llm = HuggingFacePipeline.from_model_id(
-        model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
-        # model_id= "microsoft/MiniLM-L12-H384-uncased",
-        
-        task="text-generation",
-        # device=0,
-        callbacks = callbacks,
-        pipeline_kwargs=dict(
-            return_full_text=False,
-            max_new_tokens=1024,
-            do_sample=True,
-            temperature=0.5,
-        ),
-    )
-    llm.pipeline.tokenizer.pad_token_id = llm.pipeline.tokenizer.eos_token_id
-    llm_engine_hf = ChatHuggingFace(llm=llm)
-
+    # llm = HuggingFacePipeline.from_model_id(
+    #     model_id=model_id,
+    #     task="text-generation",
+    #     device=0,
+    #     callbacks = callbacks,
+    #     pipeline_kwargs=dict(
+    #         return_full_text=False,
+    #         max_new_tokens=1024,
+    #         do_sample=True,
+    #         temperature=0.5,
+    #     ),
+    # )
+    # llm.pipeline.tokenizer.pad_token_id = llm.pipeline.tokenizer.eos_token_id
+    # llm_engine_hf = ChatHuggingFace(llm=llm)
+    llm_engine_hf = ChatOpenAI(
+        # model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
+        openai_api_key="EMPTY",
+        openai_api_base="http://172.17.0.1:8080/v1/",
+        max_tokens=1024,
+        temperature=0.5,
+        )
     return llm_engine_hf
 
 def create_rag_chain(llm_engine_hf, retriever, system_prompt):

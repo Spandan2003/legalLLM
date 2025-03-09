@@ -6,6 +6,7 @@ from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline, HuggingFaceEmbeddings
+from langchain_openai import ChatOpenAI
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain, SequentialChain
 from langchain_core.runnables import RunnableSequence
 from langchain.schema.runnable import RunnablePassthrough
@@ -80,30 +81,75 @@ def get_vectorstore(text_chunks):
     return vectorstore
 
 def get_llm():
+    model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
     callbacks = [StreamingStdOutCallbackHandler()]
-    llm = HuggingFacePipeline.from_model_id(
-        model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
-        # model_id= "microsoft/MiniLM-L12-H384-uncased",
-        
-        task="text-generation",
-        device=0,
-        callbacks = callbacks,
-        pipeline_kwargs=dict(
-            return_full_text=False,
-            max_new_tokens=1024,
-            do_sample=True,
-            temperature=0.5,
-        ),
-    )
-    llm.pipeline.tokenizer.pad_token_id = llm.pipeline.tokenizer.eos_token_id
-    llm_engine_hf = ChatHuggingFace(llm=llm)
-
+    # llm = HuggingFacePipeline.from_model_id(
+    #     model_id=model_id,
+    #     task="text-generation",
+    #     device=0,
+    #     callbacks = callbacks,
+    #     pipeline_kwargs=dict(
+    #         return_full_text=False,
+    #         max_new_tokens=1024,
+    #         do_sample=True,
+    #         temperature=0.5,
+    #     ),
+    # )
+    # llm.pipeline.tokenizer.pad_token_id = llm.pipeline.tokenizer.eos_token_id
+    # llm_engine_hf = ChatHuggingFace(llm=llm)
+    llm_engine_hf = ChatOpenAI(
+        # model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
+        openai_api_key="EMPTY",
+        openai_api_base="http://172.17.0.1:8080/v1/",
+        max_tokens=1024,
+        temperature=0.5,
+        )
     return llm_engine_hf
 
 def process_chain(answer_chain, llm_engine_hf):
     # return answer_chain | RunnablePassthrough.assign(final_response=lambda l: l["answer"]) # If we need no processing
     # Processing Chain
-    process_system_prompt = '''Rewrite the following response by an Consumer grievance chatbot, ensuring that the context matches the output: {answer}'''
+    process_system_prompt = """Rewrite the following response from a Consumer Grievance Assistance Chatbot to ensure it strictly aligns with the provided context. The response should:
+
+1. Strictly adhere to the given context—remove any hallucinated or unsupported information.
+2. Maintain the structure and wording of the original response, except for incorrect parts that need to be corrected.
+3. Be presented as a direct response to the user—do not include "Response:" at the beginning.
+4. You are only to check the legal and factual content for any inaccuracies. Do not modify any questions and the polite language used in the response like Thank you for sharing your concern with me. I'd be happy to help. 
+
+Examples:
+
+Example 1:
+Input:
+Context:
+The Central Consumer Protection Authority (CCPA) is not a forum for consumer complaints. It cannot be used to register complaints but just governs the bodies.
+
+Response:
+You've purchased a product just 2 days ago, and it's still under warranty. Can you please tell me what led to the issue with the product? Was there a manufacturing defect, or perhaps it wasn't functioning as expected?
+
+Output:
+You've purchased a product just 2 days ago, and it's still under warranty. Can you please tell me what led to the issue with the product? Was there a manufacturing defect, or perhaps it wasn't functioning as expected?
+
+Example 2:
+Input:
+Context:
+Consumer complaints against e-commerce platforms can be filed on the e-Daakhil portal. Complaints should include evidence such as invoices and communication records with the seller.
+
+Response:
+To file a complaint against an e-commerce platform, you can visit the e-Daakhil portal. Ensure that you include relevant evidence, such as invoices and communication records with the seller. Alternatively, you can also file a complaint directly with the company's customer grievance office.
+
+Output:
+To file a complaint against an e-commerce platform, you can visit the e-Daakhil portal. Ensure that you include relevant evidence, such as invoices and communication records with the seller.
+
+
+Input:
+Context:
+{context}
+
+Response:
+{answer}
+
+Output:
+"""
     process_template = PromptTemplate(input_variables=["answer"], template=process_system_prompt, output_varables=["final_response"])
     
     processing_chain =  process_template | llm_engine_hf  | StrOutputParser()
@@ -164,9 +210,14 @@ Tailor your responses based on the information provided by the user.
 Provide concise, relevant information at each step.
 Always be polite and professional in your interactions.
 Use the following pieces of retrieved context to answer the question.
+If user asks question that requires information like name, address, contact details, email address, phone number or any other personal information of organisations, companies or government bodies, give information only if it is present in the context
+If user asks information like address, contact details, email address, phone number or any other personal information of organisations, companies or government bodies that is not in context, tell that you do not have this information and suggest ways he can obtain this information.
+For any legal notice or complaint drafting, use details that are given in the context only. Use placeholders `[Address]` for any information not in context.
 Do not let the user know you answered the question using the context.
 \n\n
-{context}
+Here is the context:
+`{context}\n
+The Central Consumer Protection Authority (CCPA) is not a forum for consumer complaint. It cannot be used to register complaints but just governs the bodies.`
 '''
     )
     qa_prompt = ChatPromptTemplate.from_messages([
@@ -1140,7 +1191,10 @@ def chat_handler(conversation_chain, get_session_history_func, rag):
     if "context" in response.keys():
         for i in range(len(response['context'])):
             print("Retrieval " + str(i) + ":", response['context'][i].page_content.replace('\n', ' '))
-    print("Chatbot:", response["final_response"])
+    print("--x"*20)
+    print("Answer:\n", response["answer"])
+    print("--x"*20)
+    print("Chatbot:\n", response["final_response"])
 
     return jsonify({"response": formatted_response}), 200
 

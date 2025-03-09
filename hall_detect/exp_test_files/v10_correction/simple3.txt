@@ -1,0 +1,604 @@
+Start Time:  1741370379.8437655
+START
+Loop  0
+Start Time:  1741370447.3818119
+START
+Loop  0
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+address of the Company and wait for 15 days for the response. Tier-2- Reminder letter to be sent at the registered office address of the company by speed post and wait for another 15 days. Tier-3- If not satisfied or no response received from the company, a consumer can file a case in the District Consumer Commission, following the procedure prescribed For more information, you may visit http:// www.ncdrc.nic.in/districtlist.html Liquefied Petroleum Gas (Cylinders) FAQs 1. What is LPG? - LPG is a mixture of hydrocarbons in a gaseous state. It is highly flammable, odorless, colorless, and heavier than air. 2. What are the uses of LPG? - LPG is a safe, economical, and eco-friendly cooking fuel used in households in India. 3. How do I get a new domestic connection? - You can get a new domestic LPG connection from any distributor of PSU oil companies in your area by registering with a valid proof of identity and residence. 4. What is the weight of the LPG used in homes? - LPG is available
+Document 1:
+LPG connection from any distributor of PSU oil companies in your area by registering with a valid proof of identity and residence. 4. What is the weight of the LPG used in homes? - LPG is available for domestic use in 14.2 kg capacity cylinders, and in select areas, 5 kg capacity cylinders are also available. 5. Which document can I submit as proof of residence? - Answer: Documents such as Ration Card, Electricity Bill, Telephone Bill, Passport, etc., can be submitted as proof of residence. 6. Do I need to buy a hotplate from the LPG distributor only?- It is not mandatory to buy a hotplate from the distributor. Customers can purchase an ISI mark hotplate and rubber tube from any source. 7. What do I need to check when I receive my refill? - Check the seal of the cylinder, safety cap, and for any leakage from the valve before connecting it to the hotplate. 8. How should I maintain my domestic LPG installation? - Answer: Clean the hotplate after each use, clean the LPG hose
+Document 2:
+supplying gas cylinders is a major problem for all gas suppliers. Dealers are not entertaining the phone calls and not registering the customer booking. • Gas cylinder is less in weight or not fully filled. • Tedious formalities in booking a new gas connection. The complaints against PNG are as follows: • Abnormal delay in getting new connection • Billing problem • No appropriate complaint registering centre (CRC). • Delay in attending complaints etc. What are the grounds for complaints to not be accepted? There are various situations which might cause the complaint to be rejected. These include situations where the consumer is unable to file an appeal against an order within a period of three months, where the complaint is based on a frivolous cause of action, where the complaint falls outside the jurisdiction of the authority approached, and when the complaint has been filed underwrong sections of the act, and other such situations. This requires careful reading of all acts and
+Document 3:
+The oil and natural gas sector has huge potential and contributes over 15% to India's GDP. Both public sector and private sector supply domestic LPG. The Public sector companies which supply domestic LPG are Indian Oil Corporation Ltd with their subsidiary company IBP (Indo Burma Petroleum), Hindustan Petroleum Corporation Ltd, and Bharat Petroleum Ltd. The consumers should be aware of the following grievance redressal systems in case of complaints against these corporations providing LPG and PNG. What are the grounds available for complaints? The major complaints from the users of LPG are as follows: • At the time of new connection, dealers are insisting that the customer must take various appliances (like gas stove at Dealers’ choice, Rubber hose and other allied equipment). • Delay in supplying gas cylinders is a major problem for all gas suppliers. Dealers are not entertaining the phone calls and not registering the customer booking. • Gas cylinder is less in weight or not fully
+Document 4:
+cap, and for any leakage from the valve before connecting it to the hotplate. 8. How should I maintain my domestic LPG installation? - Answer: Clean the hotplate after each use, clean the LPG hose periodically , keep the pressure regulator knob closed when not cooking, and clean the burner holes when cool. 9. Whom can I contact in case I need assistance? - Contact your distributor for assistance with LPG supply or the Customer Service Cell of the company. 10. Where can I weigh my cylinder when it is being delivered? - The delivery man should carry a spring balance. Customers have the right to get the cylinder weighed before delivery. 11. How do I transfer my Indane connection? - Depending on whether you are moving within the same distributor's area, within the same town, or outside the town, different procedures apply. 12. What is Suraksha LPG hose and what are its special features? - Suraksha LPG hose is a patented hose manufactured by approved manufacturers. It is manufactured under
+Document 5:
+usage details in respect of his mobile connection? Yes, if a prepaid subscriber makes a request for itemized usage details The service provider may charge a reasonable cost not exceeding Rupees Fifty for providing such details. 13. Can the unused amount in rechar ge coupons be carried forward? Yes, any unused balance in the prepaid account shall be carried forward and credited if the subscriber rechar ges within the period specified for the purpose. 14. Will keeping the modem on make any difference in the download limits? Yes it can make some difference. When the PC and Modem are kept on, there is a trickling of packets from the Internet into the system, even though the PC is not connected to the Internet. 15. Can the wireless Internet connection be misused? Yes, there is a possibility of the wireless Internet connection getting misused, particularly if the Internet access is provided through Wi-Fi. To avoid that one should use proper authentication methods by using secure password
+Document 6:
+outside the jurisdiction of the authority approached, and when the complaint has been filed underwrong sections of the act, and other such situations. This requires careful reading of all acts and regulations. What are the modes or methods of complaint available? The consumer may first reach the service provider. Customer care number of some companies Indian Oil- 1800-2333-555 Bharat Petroleum- 1800-22-4344 Bharat Gas- 7715012345 2. Emergency helpline no.- 1906 The multilingual LPG Emergency Helpline was dedicated to the nation on 1.1.2016 by the Hon'ble Minister of PNG. This facility is available 24*7 operations with 2 shifts 12 hours each for attending emergency LPG leakage complaints. 3. MoPNG e-Seva reach out to the portal @MoPNGeSeva on Facebook or @MoPNG_eSeva on Twitter and response will be sent back at the earliest. 4. Approaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue
+Document 7:
+weights and measures carry a stamp indicating the month and year along with the officer's identification code. Additionally , a certificate is issued by the verifying officer. 21. How should tare weight be excluded from the actual measurement? Consumers must see zero reading before any purchase. 22. Who is a packer? Any person or a firm, which pre-packs any commodity whether in any bottle, tin, wrapper or otherwise in units suitable for sale, is a Packer. 23. What is pre-packed Commodity? Pre-packed Commodity means a Commodity , which without the purchaser being present, is placed in a package of whatever nature whether sealed or opened, so that the commodity contained therein has a predetermined value and includes those commodities which could be taken out of the package for testing or examining or inspecting the commodity . 24. What is calibration? Verification and stamping of the capacity of the Vehicle Tank or its compartment or any equipment is called Calibration. 25. What are
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The chatbot introduces itself as a consumer grievance assistance tool and asks the user how it can help. The user replies by stating he needs gas.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+I need gas
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user needs gas.<|end_end_text|>
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+You're looking for information related to gas, specifically LPG. You can consider it as a consumer grievance. I'm here to help you with that.
+
+
+Can you please share the issue you're facing with LPG or the gas supplier? Is it related to a new connection, existing supply, billing, or something else?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No
+Inconsistencies:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+No inconsistencies found in turn  1
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+address of the Company and wait for 15 days for the response. Tier-2- Reminder letter to be sent at the registered office address of the company by speed post and wait for another 15 days. Tier-3- If not satisfied or no response received from the company, a consumer can file a case in the District Consumer Commission, following the procedure prescribed For more information, you may visit http:// www.ncdrc.nic.in/districtlist.html Liquefied Petroleum Gas (Cylinders) FAQs 1. What is LPG? - LPG is a mixture of hydrocarbons in a gaseous state. It is highly flammable, odorless, colorless, and heavier than air. 2. What are the uses of LPG? - LPG is a safe, economical, and eco-friendly cooking fuel used in households in India. 3. How do I get a new domestic connection? - You can get a new domestic LPG connection from any distributor of PSU oil companies in your area by registering with a valid proof of identity and residence. 4. What is the weight of the LPG used in homes? - LPG is available
+Document 1:
+LPG connection from any distributor of PSU oil companies in your area by registering with a valid proof of identity and residence. 4. What is the weight of the LPG used in homes? - LPG is available for domestic use in 14.2 kg capacity cylinders, and in select areas, 5 kg capacity cylinders are also available. 5. Which document can I submit as proof of residence? - Answer: Documents such as Ration Card, Electricity Bill, Telephone Bill, Passport, etc., can be submitted as proof of residence. 6. Do I need to buy a hotplate from the LPG distributor only?- It is not mandatory to buy a hotplate from the distributor. Customers can purchase an ISI mark hotplate and rubber tube from any source. 7. What do I need to check when I receive my refill? - Check the seal of the cylinder, safety cap, and for any leakage from the valve before connecting it to the hotplate. 8. How should I maintain my domestic LPG installation? - Answer: Clean the hotplate after each use, clean the LPG hose
+Document 2:
+The oil and natural gas sector has huge potential and contributes over 15% to India's GDP. Both public sector and private sector supply domestic LPG. The Public sector companies which supply domestic LPG are Indian Oil Corporation Ltd with their subsidiary company IBP (Indo Burma Petroleum), Hindustan Petroleum Corporation Ltd, and Bharat Petroleum Ltd. The consumers should be aware of the following grievance redressal systems in case of complaints against these corporations providing LPG and PNG. What are the grounds available for complaints? The major complaints from the users of LPG are as follows: • At the time of new connection, dealers are insisting that the customer must take various appliances (like gas stove at Dealers’ choice, Rubber hose and other allied equipment). • Delay in supplying gas cylinders is a major problem for all gas suppliers. Dealers are not entertaining the phone calls and not registering the customer booking. • Gas cylinder is less in weight or not fully
+Document 3:
+cap, and for any leakage from the valve before connecting it to the hotplate. 8. How should I maintain my domestic LPG installation? - Answer: Clean the hotplate after each use, clean the LPG hose periodically , keep the pressure regulator knob closed when not cooking, and clean the burner holes when cool. 9. Whom can I contact in case I need assistance? - Contact your distributor for assistance with LPG supply or the Customer Service Cell of the company. 10. Where can I weigh my cylinder when it is being delivered? - The delivery man should carry a spring balance. Customers have the right to get the cylinder weighed before delivery. 11. How do I transfer my Indane connection? - Depending on whether you are moving within the same distributor's area, within the same town, or outside the town, different procedures apply. 12. What is Suraksha LPG hose and what are its special features? - Suraksha LPG hose is a patented hose manufactured by approved manufacturers. It is manufactured under
+Document 4:
+supplying gas cylinders is a major problem for all gas suppliers. Dealers are not entertaining the phone calls and not registering the customer booking. • Gas cylinder is less in weight or not fully filled. • Tedious formalities in booking a new gas connection. The complaints against PNG are as follows: • Abnormal delay in getting new connection • Billing problem • No appropriate complaint registering centre (CRC). • Delay in attending complaints etc. What are the grounds for complaints to not be accepted? There are various situations which might cause the complaint to be rejected. These include situations where the consumer is unable to file an appeal against an order within a period of three months, where the complaint is based on a frivolous cause of action, where the complaint falls outside the jurisdiction of the authority approached, and when the complaint has been filed underwrong sections of the act, and other such situations. This requires careful reading of all acts and
+Document 5:
+outside the jurisdiction of the authority approached, and when the complaint has been filed underwrong sections of the act, and other such situations. This requires careful reading of all acts and regulations. What are the modes or methods of complaint available? The consumer may first reach the service provider. Customer care number of some companies Indian Oil- 1800-2333-555 Bharat Petroleum- 1800-22-4344 Bharat Gas- 7715012345 2. Emergency helpline no.- 1906 The multilingual LPG Emergency Helpline was dedicated to the nation on 1.1.2016 by the Hon'ble Minister of PNG. This facility is available 24*7 operations with 2 shifts 12 hours each for attending emergency LPG leakage complaints. 3. MoPNG e-Seva reach out to the portal @MoPNGeSeva on Facebook or @MoPNG_eSeva on Twitter and response will be sent back at the earliest. 4. Approaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue
+Document 6:
+promises STD calls for 40 paise per minute, but omits to say that this rate is applicable only when calls are made to numbers serviced by the same provider, then it constitutes misrepresentation. When a manufacturer claims that the refrigerator marketed by him is the best or that it keeps the food inside germ-free, that claim should be backed by adequate data to substantiate the claim. Or else, it becomes a false statement. When an advertisement for a detergent says that it can remove grease in just one wash- it should be able to do just that and the manufacturer should be able to prove this. Or else, it is an incorrect statement or a false advertisement. When an advertisement promises to give you a ?free gift? every time you buy the advertised product, the free gift should really be so. If the manufacturer is recovering either fully or even partly, the cost of the so-called free gift, then the advertisement becomes false and misleading. If a retailer claims that he is offering a
+Document 7:
+weights and measures carry a stamp indicating the month and year along with the officer's identification code. Additionally , a certificate is issued by the verifying officer. 21. How should tare weight be excluded from the actual measurement? Consumers must see zero reading before any purchase. 22. Who is a packer? Any person or a firm, which pre-packs any commodity whether in any bottle, tin, wrapper or otherwise in units suitable for sale, is a Packer. 23. What is pre-packed Commodity? Pre-packed Commodity means a Commodity , which without the purchaser being present, is placed in a package of whatever nature whether sealed or opened, so that the commodity contained therein has a predetermined value and includes those commodities which could be taken out of the package for testing or examining or inspecting the commodity . 24. What is calibration? Verification and stamping of the capacity of the Vehicle Tank or its compartment or any equipment is called Calibration. 25. What are
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user tells the chatbot that they need gas. The chatbot assumes the user is looking for information related to gas, specifically LPG, and asks the user to share the issue they're facing with LPG or the gas supplier, such as a new connection, existing supply, billing, or something else. The user clarifies that they only need gas once.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+i need gas only once
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user is stating they need gas, specifically LPG, only once.<|end_end_text|>
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+It seems like you're looking for a one-time gas supply. You can approach the LPG distributor in your area and register for a one-time gas supply. However, please note that you may be required to pay a higher price for a one-time supply compared to a regular refill.
+
+
+If you face any issues with the distributor or the supply, you can contact the Customer Service Cell of the company for assistance.
+
+
+Additionally, you can also contact the National Consumer Helpline at 1800-11-4000 for immediate assistance with your consumer grievance.
+
+
+Is there anything else I can help you with?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No
+Inconsistencies:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+No inconsistencies found in turn  2
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+supplying gas cylinders is a major problem for all gas suppliers. Dealers are not entertaining the phone calls and not registering the customer booking. • Gas cylinder is less in weight or not fully filled. • Tedious formalities in booking a new gas connection. The complaints against PNG are as follows: • Abnormal delay in getting new connection • Billing problem • No appropriate complaint registering centre (CRC). • Delay in attending complaints etc. What are the grounds for complaints to not be accepted? There are various situations which might cause the complaint to be rejected. These include situations where the consumer is unable to file an appeal against an order within a period of three months, where the complaint is based on a frivolous cause of action, where the complaint falls outside the jurisdiction of the authority approached, and when the complaint has been filed underwrong sections of the act, and other such situations. This requires careful reading of all acts and
+Document 1:
+cap, and for any leakage from the valve before connecting it to the hotplate. 8. How should I maintain my domestic LPG installation? - Answer: Clean the hotplate after each use, clean the LPG hose periodically , keep the pressure regulator knob closed when not cooking, and clean the burner holes when cool. 9. Whom can I contact in case I need assistance? - Contact your distributor for assistance with LPG supply or the Customer Service Cell of the company. 10. Where can I weigh my cylinder when it is being delivered? - The delivery man should carry a spring balance. Customers have the right to get the cylinder weighed before delivery. 11. How do I transfer my Indane connection? - Depending on whether you are moving within the same distributor's area, within the same town, or outside the town, different procedures apply. 12. What is Suraksha LPG hose and what are its special features? - Suraksha LPG hose is a patented hose manufactured by approved manufacturers. It is manufactured under
+Document 2:
+The oil and natural gas sector has huge potential and contributes over 15% to India's GDP. Both public sector and private sector supply domestic LPG. The Public sector companies which supply domestic LPG are Indian Oil Corporation Ltd with their subsidiary company IBP (Indo Burma Petroleum), Hindustan Petroleum Corporation Ltd, and Bharat Petroleum Ltd. The consumers should be aware of the following grievance redressal systems in case of complaints against these corporations providing LPG and PNG. What are the grounds available for complaints? The major complaints from the users of LPG are as follows: • At the time of new connection, dealers are insisting that the customer must take various appliances (like gas stove at Dealers’ choice, Rubber hose and other allied equipment). • Delay in supplying gas cylinders is a major problem for all gas suppliers. Dealers are not entertaining the phone calls and not registering the customer booking. • Gas cylinder is less in weight or not fully
+Document 3:
+address of the Company and wait for 15 days for the response. Tier-2- Reminder letter to be sent at the registered office address of the company by speed post and wait for another 15 days. Tier-3- If not satisfied or no response received from the company, a consumer can file a case in the District Consumer Commission, following the procedure prescribed For more information, you may visit http:// www.ncdrc.nic.in/districtlist.html Liquefied Petroleum Gas (Cylinders) FAQs 1. What is LPG? - LPG is a mixture of hydrocarbons in a gaseous state. It is highly flammable, odorless, colorless, and heavier than air. 2. What are the uses of LPG? - LPG is a safe, economical, and eco-friendly cooking fuel used in households in India. 3. How do I get a new domestic connection? - You can get a new domestic LPG connection from any distributor of PSU oil companies in your area by registering with a valid proof of identity and residence. 4. What is the weight of the LPG used in homes? - LPG is available
+Document 4:
+outside the jurisdiction of the authority approached, and when the complaint has been filed underwrong sections of the act, and other such situations. This requires careful reading of all acts and regulations. What are the modes or methods of complaint available? The consumer may first reach the service provider. Customer care number of some companies Indian Oil- 1800-2333-555 Bharat Petroleum- 1800-22-4344 Bharat Gas- 7715012345 2. Emergency helpline no.- 1906 The multilingual LPG Emergency Helpline was dedicated to the nation on 1.1.2016 by the Hon'ble Minister of PNG. This facility is available 24*7 operations with 2 shifts 12 hours each for attending emergency LPG leakage complaints. 3. MoPNG e-Seva reach out to the portal @MoPNGeSeva on Facebook or @MoPNG_eSeva on Twitter and response will be sent back at the earliest. 4. Approaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue
+Document 5:
+LPG connection from any distributor of PSU oil companies in your area by registering with a valid proof of identity and residence. 4. What is the weight of the LPG used in homes? - LPG is available for domestic use in 14.2 kg capacity cylinders, and in select areas, 5 kg capacity cylinders are also available. 5. Which document can I submit as proof of residence? - Answer: Documents such as Ration Card, Electricity Bill, Telephone Bill, Passport, etc., can be submitted as proof of residence. 6. Do I need to buy a hotplate from the LPG distributor only?- It is not mandatory to buy a hotplate from the distributor. Customers can purchase an ISI mark hotplate and rubber tube from any source. 7. What do I need to check when I receive my refill? - Check the seal of the cylinder, safety cap, and for any leakage from the valve before connecting it to the hotplate. 8. How should I maintain my domestic LPG installation? - Answer: Clean the hotplate after each use, clean the LPG hose
+Document 6:
+or to the interests of the consumers,it can order an investigation by the District Collector or by Director General. The consumer can complain to the District Collector of the respective district for investigation and subsequent proceedings by the CCPA. He/she/they can also submit a complaint via email, at com-ccpa@nic.in . What are the regulatory bodies in this sector? Ministry of Petroleum & Natural Gas Petroleum and Natural gas Regulatory Board What are the rules, Acts, and Guidelines that govern this sector? 1. The Petroleum and Natural Gas Regulatory Board Act, 2006 http://www .pngrb.gov .in/pdf/Act/pngrbact.doc2. Liquefied Petroleum Gas (Regulation of Supply and Distribution) Order 2000 http://jklm.nic.in/pdf/LPG_regulation_of_distribution.pdf 3. Petroleum Act, 1934- https://legislative.gov .in/sites/default/files/A1934-30_0.pdf What are the landmark judgements in this sector? 1. Auva Gas Agency through Paul Roluahpuia v. Consumer Union, Vairengte South Branch, Mizoram The
+Document 7:
+faulty materials, or products that lack proper safety warnings or instructions. ● Counterfeit or fake products: refers to products that are replicas or imitations of genuine brands, often made with inferior materials and potentially unsafe. ● Durability issues: involves products that wear out quickly , break easily , or don't hold up to their intended use. ● Discrimination or accessibility issues: involves products or services that are not inclusive for people with disabilities or specific needs, or marketing practices that are discriminatory or offensive. ● Poor customer service: includes long wait times, unhelpful staff, rude or unprofessional behavior , or difficulty resolving issues. ● Warranty problems: involves difficulties getting products repaired or replaced under warranty , receiving inadequate service, or delays in processing claims. ● Delivery issues: involves late deliveries, damaged goods during shipping, or incorrect or● Pricing errors or misleading costs: involves
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user states that they need gas and the chatbot asks the user to share the issue with the LPG or gas supplier, such as issues related to a new connection, existing supply, or billing. The user clarifies that they need gas only once. The chatbot responds by stating that the user can approach the LPG distributor in their area and register for a one-time gas supply, but it may require a higher price compared to a regular refill. The chatbot also shares that the user can contact the Customer Service Cell of the company for assistance or contact the National Consumer Helpline at 1800-11-4000 for immediate assistance. The user then clarifies that the gas cylinder is faulty.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+the gas cylinder is faulty
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user is reporting that a gas cylinder is faulty.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+A faulty gas cylinder can be a safety hazard and a cause for concern. You should contact your LPG distributor or the company's Customer Service Cell to report the issue and request a replacement.
+
+
+If the distributor is not responsive, you can also contact the LPG Emergency Helpline at 1906 (available 24*7) for assistance.
+
+
+Additionally, you can also consider filing a complaint with the National Consumer Helpline at 1800-11-4000.
+
+
+To facilitate the replacement process, it would be helpful to know the following:
+
+
+1. What led to the issue with the gas cylinder (e.g., leak, rust, etc.)?
+2. Do you have the receipt or the gas cylinder's serial number handy?
+3. Have you already contacted the distributor or the Customer Service Cell regarding this issue?
+
+
+Please let me know if there's anything else I can help you with.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No
+Inconsistencies:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+No inconsistencies found in turn  3
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+outside the jurisdiction of the authority approached, and when the complaint has been filed underwrong sections of the act, and other such situations. This requires careful reading of all acts and regulations. What are the modes or methods of complaint available? The consumer may first reach the service provider. Customer care number of some companies Indian Oil- 1800-2333-555 Bharat Petroleum- 1800-22-4344 Bharat Gas- 7715012345 2. Emergency helpline no.- 1906 The multilingual LPG Emergency Helpline was dedicated to the nation on 1.1.2016 by the Hon'ble Minister of PNG. This facility is available 24*7 operations with 2 shifts 12 hours each for attending emergency LPG leakage complaints. 3. MoPNG e-Seva reach out to the portal @MoPNGeSeva on Facebook or @MoPNG_eSeva on Twitter and response will be sent back at the earliest. 4. Approaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue
+Document 1:
+address of the Company and wait for 15 days for the response. Tier-2- Reminder letter to be sent at the registered office address of the company by speed post and wait for another 15 days. Tier-3- If not satisfied or no response received from the company, a consumer can file a case in the District Consumer Commission, following the procedure prescribed For more information, you may visit http:// www.ncdrc.nic.in/districtlist.html Liquefied Petroleum Gas (Cylinders) FAQs 1. What is LPG? - LPG is a mixture of hydrocarbons in a gaseous state. It is highly flammable, odorless, colorless, and heavier than air. 2. What are the uses of LPG? - LPG is a safe, economical, and eco-friendly cooking fuel used in households in India. 3. How do I get a new domestic connection? - You can get a new domestic LPG connection from any distributor of PSU oil companies in your area by registering with a valid proof of identity and residence. 4. What is the weight of the LPG used in homes? - LPG is available
+Document 2:
+supplying gas cylinders is a major problem for all gas suppliers. Dealers are not entertaining the phone calls and not registering the customer booking. • Gas cylinder is less in weight or not fully filled. • Tedious formalities in booking a new gas connection. The complaints against PNG are as follows: • Abnormal delay in getting new connection • Billing problem • No appropriate complaint registering centre (CRC). • Delay in attending complaints etc. What are the grounds for complaints to not be accepted? There are various situations which might cause the complaint to be rejected. These include situations where the consumer is unable to file an appeal against an order within a period of three months, where the complaint is based on a frivolous cause of action, where the complaint falls outside the jurisdiction of the authority approached, and when the complaint has been filed underwrong sections of the act, and other such situations. This requires careful reading of all acts and
+Document 3:
+The oil and natural gas sector has huge potential and contributes over 15% to India's GDP. Both public sector and private sector supply domestic LPG. The Public sector companies which supply domestic LPG are Indian Oil Corporation Ltd with their subsidiary company IBP (Indo Burma Petroleum), Hindustan Petroleum Corporation Ltd, and Bharat Petroleum Ltd. The consumers should be aware of the following grievance redressal systems in case of complaints against these corporations providing LPG and PNG. What are the grounds available for complaints? The major complaints from the users of LPG are as follows: • At the time of new connection, dealers are insisting that the customer must take various appliances (like gas stove at Dealers’ choice, Rubber hose and other allied equipment). • Delay in supplying gas cylinders is a major problem for all gas suppliers. Dealers are not entertaining the phone calls and not registering the customer booking. • Gas cylinder is less in weight or not fully
+Document 4:
+cap, and for any leakage from the valve before connecting it to the hotplate. 8. How should I maintain my domestic LPG installation? - Answer: Clean the hotplate after each use, clean the LPG hose periodically , keep the pressure regulator knob closed when not cooking, and clean the burner holes when cool. 9. Whom can I contact in case I need assistance? - Contact your distributor for assistance with LPG supply or the Customer Service Cell of the company. 10. Where can I weigh my cylinder when it is being delivered? - The delivery man should carry a spring balance. Customers have the right to get the cylinder weighed before delivery. 11. How do I transfer my Indane connection? - Depending on whether you are moving within the same distributor's area, within the same town, or outside the town, different procedures apply. 12. What is Suraksha LPG hose and what are its special features? - Suraksha LPG hose is a patented hose manufactured by approved manufacturers. It is manufactured under
+Document 5:
+LPG connection from any distributor of PSU oil companies in your area by registering with a valid proof of identity and residence. 4. What is the weight of the LPG used in homes? - LPG is available for domestic use in 14.2 kg capacity cylinders, and in select areas, 5 kg capacity cylinders are also available. 5. Which document can I submit as proof of residence? - Answer: Documents such as Ration Card, Electricity Bill, Telephone Bill, Passport, etc., can be submitted as proof of residence. 6. Do I need to buy a hotplate from the LPG distributor only?- It is not mandatory to buy a hotplate from the distributor. Customers can purchase an ISI mark hotplate and rubber tube from any source. 7. What do I need to check when I receive my refill? - Check the seal of the cylinder, safety cap, and for any leakage from the valve before connecting it to the hotplate. 8. How should I maintain my domestic LPG installation? - Answer: Clean the hotplate after each use, clean the LPG hose
+Document 6:
+or to the interests of the consumers,it can order an investigation by the District Collector or by Director General. The consumer can complain to the District Collector of the respective district for investigation and subsequent proceedings by the CCPA. He/she/they can also submit a complaint via email, at com-ccpa@nic.in . What are the regulatory bodies in this sector? Ministry of Petroleum & Natural Gas Petroleum and Natural gas Regulatory Board What are the rules, Acts, and Guidelines that govern this sector? 1. The Petroleum and Natural Gas Regulatory Board Act, 2006 http://www .pngrb.gov .in/pdf/Act/pngrbact.doc2. Liquefied Petroleum Gas (Regulation of Supply and Distribution) Order 2000 http://jklm.nic.in/pdf/LPG_regulation_of_distribution.pdf 3. Petroleum Act, 1934- https://legislative.gov .in/sites/default/files/A1934-30_0.pdf What are the landmark judgements in this sector? 1. Auva Gas Agency through Paul Roluahpuia v. Consumer Union, Vairengte South Branch, Mizoram The
+Document 7:
+waiving   claims   has   not   been   tested   in   court,   contractual   language   regarding   such   waivers   should   be   carefully   examined   to   avoid   potential   unenforceability   under   both   the   CPA   2019   and   Indian   contract   law.”   — Question:   “How   do   I   get   my   consumer   grievances   addressed?” Answer:    “To   address   your   consumer   grievance,   you   have   a   few   options.   You   can: ● Directly   send   a   notice   to   the   product   seller   or   service   provider . ● Call   the   National   Consumer   Helpline   at   1800-1 1-4000   or   1915,   available   all   days   except   national   holidays,   from   8:00   AM   to   8:00   PM. ● Send   an   SMS   to   8800001915,   and   they   will   get   back   to   you. ● Register   your   grievance   online   at   https://consumerhelpline.gov .in/user/signup.php . ● Register   your   grievance   through   the   NCH   APP   or   UMANG   APP   on   your   mobile   phone. ●
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user states that they need gas, and the chatbot confirms it can assist with LPG-related consumer grievances. The chatbot asks the user to specify the issue, such as new connection, existing supply, or billing problems. The user clarifies that they need gas only once. The chatbot suggests contacting the local LPG distributor for a one-time supply, noting that it may be more expensive than a regular refill. The chatbot provides the National Consumer Helpline number (1800-11-4000) for assistance. Later the user reports that the gas cylinder is faulty. The chatbot advises contacting the LPG distributor or the company's Customer Service Cell to report the issue and request a replacement. It also mentions the LPG Emergency Helpline at 1906 and the National Consumer Helpline. The chatbot asks for details about the issue, receipt, and whether the distributor has been contacted. The user responds that they will call 1906, doesn't know what led to the problem, has the serial number, and has not yet contacted the service cell.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+i'll call 1906. i don't know what led to the problem. i have serial number. i have not yet contacted service cell
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user will call the LPG Emergency Helpline at 1906, does not know what led to the problem with the gas cylinder, has the serial number, and has not yet contacted the service cell.<|end_end_of_text|>
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+Calling the LPG Emergency Helpline at 1906 is a good first step. Since you're not sure what led to the issue, it's best to report it to the helpline and let them guide you further.
+
+
+Having the serial number of the gas cylinder will be helpful in their investigation. Since you haven't contacted the service cell yet, the helpline can also assist you in escalating the issue to the next level if needed.
+
+
+After speaking with the helpline, if you're not satisfied with the response or resolution, you can consider filing a complaint with the District Consumer Commission. You can find more information on the process on the National Consumer Dispute Redressal Commission (NCPCR) website: http://www.ncdrc.nic.in/districtlist.html.
+
+
+If you need any further assistance or have any other questions, feel free to ask.
+
+
+Also, don't forget to note down the reference number or case number provided by the helpline, as you may need it for future reference.
+
+
+Is there anything else I can help you with?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: Yes
+Inconsistencies:
+- Since you haven't contacted the service cell yet, the helpline can also assist you in escalating the issue to the next level if needed.
+Reason: There is no mention of the helpline escalating the issue to the next level in the context.
+- You can find more information on the process on the National Consumer Dispute Redressal Commission (NCPCR) website: http://www.ncdrc.nic.in/districtlist.html.
+Reason: The context mentions "National Consumer Dispute Redressal Commission" as "NCDRC" and not "NCPCR".
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: Yes
+Explanation for Correction: None
+Inconsistencies:
+1. Inconsistency: Since you haven't contacted the service cell yet, the helpline can also assist you in escalating the issue to the next level if needed.
+   Reason: There is no mention of the helpline escalating the issue to the next level in the context.
+Degree of Inconsistency: 2
+Explanation: Suggesting that the helpline can escalate the issue when it's not in the context is slightly misleading but not harmful.
+2. Inconsistency: You can find more information on the process on the National Consumer Dispute Redressal Commission (NCPCR) website: http://www.ncdrc.nic.in/districtlist.html.
+   Reason: The context mentions "National Consumer Dispute Redressal Commission" as "NCDRC" and not "NCPCR".
+Degree of Inconsistency: 4
+Explanation: Using the abbreviation "NCPCR" instead of "NCDRC" and providing the website can mislead the user.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Start Time:  1741378252.149266
+START
+Loop  0
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+to the National Consumer Disputes Redressal Commission under Section 2(1)(f) of the Consumer Protection Act (defective goods) of the lack of adequate quality control in the manufacturing and bottling of intravenous fluids given to patients, leading to defects in the fluids. In this case, the defect was the presence of fungus due to the poor quality of the fluid itself and the inadequate cleaning and sealing of the bottle containing it. The Drug Controller was ordered by the Commission to constitute an expert committee to review the provisions of the existing legislation regulating quality control and make recommendations. The Committee madecertain recommendations for protecting the public against the possibility of contamination of I. V. fluids. This case reiterates the fact that the rational drug policy must be accompanied by sustained campaign to enhance awareness of consumers. The literate and enlightened consumers have a greater role and responsibility for materialising the above
+Document 1:
+Commission following the procedure prescribed by them. For more information he may visit http://www .ncdrc.nic.in/districtlist.htmlFOOD SAFETY 1. What is Food Safety? Food safety is a scientific field that outlines how to prepare, handle, and store food in order to avoid getting sick or contracting diseases from it. This includes a number of routines that should be followed to avoid potentially severe health hazards. Every consumer has a right to information about the safety and quality of the food they eat. The Food Safety and Standards Authority of India (FSSAI) is an independent organization created by the Indian government's Ministry of Health and Family Welfare. It was founded in accordance with India's Food Safety and Standards Act of 2006, which deals with food safety and regulation. The FSSAI is in charge of regulating and monitoring food safety in order to safeguard and advance public health. 2. What is food? Food is any substance consumed to provide nutritional support for
+Document 2:
+under CPA is in addition and not in derogation of other available remedies. Another remedy available to consumers is mediation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ 8. Where can I complain about food bought from a shop or restaurant or report a potential food safety incident? You should complain to the Food Safety Officer/Designated Officer/DC of your area or Food Safety Commissioner of the State. 9. What are the regulatory bodies in this sector? The regulatory agency in charge of this industry is the Food Safety and Standards Authority of India (FSSAI). It is an independent organization created by the Indian government's Ministry of Health and Family Affairs. By regulating and monitoring food safety , FSSAI is in charge of preserving and advancing public health. The FSSAI was established to
+Document 3:
+link provides the toll-free number and other contact details for registering complaints: https://foodregulatory .fssai.gov .in/contact The current online Food License and Registration System (“FLRS”) includes a facility for FSSAI to address food safety concerns called "Food Safety Connect." This online forum enables customers to voice their concerns and provide input about food safety issues such as tainted, dangerous, or subpar food, food labelling flaws, and false or deceptive claims and ads for various food products. When a food concern is successfully registered, the consumer receives a special concern number by SMS at the cellphone number supplied at the time of registration. This reference number may be used in the future to follow the customer's issue in the online system.The following is the link for Food Safety Connect Portal: https://foscos.fssai.gov .in/consumer grievance/ Moreover , the following link contains the contact details of the grievance redressal mechanism at the
+Document 4:
+Beverages Pvt. Ltd. v. Purushottam Gaur In this case, the consumer found insects in his fanta bottle. The NCDRC held that since the company did not provide any assistance to the laboratory or did not make any attempt to address the questions on origin of bottle, the case stand proved against the company , and it is held liable.12. What is the format of the complaint to be made under this sector? https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - DCDRC format. https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - SCDRC format. https://ncdrc.nic.in/cc.html - NCDRC filing. 13. What are the important links and resources? ● FSSAI Consumer Rights: https://foscos.fssai.gov .in/consumer grievance/know-your -rights ● FSSAI Grievance Redressal https://foodregulatory .fssai.gov .in/grievance-redressal ● FSSAI Tips for Safe Food: https://foscos.fssai.gov .in/consumer grievance/tips-for -safe-food 14. What is FSSA, 2006 & why this Act is needed? Food Safety and Standards Authority , 2006 is
+Document 5:
+any harmful or toxic substances. e. if any substance is mixed so as to reduce its quality or strength. f. if it bears any colour for the purpose of colouring only, a colour which is not prescribed 2. Overcharging3. Selling of untested drugs/drugs of poor quality. 4. Overcharging of medical devices. 5. Refusal to sell drugs. 6. Shortage or non-availability of drugs. 7. Allergic reactions or harmful side effects not adequately disclosed. 8. False or exaggerated claims about product benefits. 9. Missing or unclear information on ingredients/ Insufficient usage instructions. 10. Claims about the product's effectiveness that are not substantiated. 11. Poor product quality or defects. 12. Selling products beyond their expiration date. 13. Lack of proper warnings for potential risks associated with product use. 4. What are the modes or methods of complaint available? 1. The first step is to approach the manufacturing company through their customer care to register the grievance. 2. The
+Document 6:
+is the link for Food Safety Connect Portal: https://foscos.fssai.gov .in/consumer grievance/ Moreover , the following link contains the contact details of the grievance redressal mechanism at the state levels: https://fssai.gov .in/cms/helpdesk.php Furthermore, the FSSAI also has signed up to the Centralized Public Grievance Redress and Monitoring System (CPGRAMS), which is an online platform available to consumers 24*7 to lodge their grievances to the public authorities on any subject. The following link could be used to register a complaint through the CPGRAMS portal: https://pgportal.gov .in/ (iii) Approaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer , the aggrieved party can take the service
+Document 7:
+during the period of growth, storage, processing, transport and distribution of the food products, is also responsible for the lowering or degradation of the quality of food products. 4. What are adulterants? Adulterants are those substances which are used for making the food products unsafe for human consumption and affects the retail public. Commercial buyers for whom this is an issue have simply taken the export system as a de facto standard and are willing to pay premium prices for produce from growers certified under the NPOP .5. Which agency is responsible for investigating food borne illness and foreign object complaints? Food Safety and Standards Authority of India and State Food Authorities will investigate such complaints. 6. Which agencies regulate food business in India? Food Safety and Standards Authority of India and State Food Authorities will regulate the food business in India. 7. What are the modes or methods of complaint available? Complaint Redr essal Mechanism:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The chatbot introduces itself as a consumer grievance assistance tool and asks the user how it can help. The user replies by stating that they got food poisoning.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+i got food poisoning
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user is reporting that they got food poisoning.<|end_end_of_text|>
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+I'm so sorry to hear that you've experienced food poisoning. That can be a very uncomfortable and concerning situation.
+
+
+To help you, I'd like to know more about what happened. Can you please tell me what led to your food poisoning? Was it food from a restaurant, a shop, or something you cooked at home?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No
+Inconsistencies:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+No inconsistencies found in turn  1
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+Commission following the procedure prescribed by them. For more information he may visit http://www .ncdrc.nic.in/districtlist.htmlFOOD SAFETY 1. What is Food Safety? Food safety is a scientific field that outlines how to prepare, handle, and store food in order to avoid getting sick or contracting diseases from it. This includes a number of routines that should be followed to avoid potentially severe health hazards. Every consumer has a right to information about the safety and quality of the food they eat. The Food Safety and Standards Authority of India (FSSAI) is an independent organization created by the Indian government's Ministry of Health and Family Welfare. It was founded in accordance with India's Food Safety and Standards Act of 2006, which deals with food safety and regulation. The FSSAI is in charge of regulating and monitoring food safety in order to safeguard and advance public health. 2. What is food? Food is any substance consumed to provide nutritional support for
+Document 1:
+to the National Consumer Disputes Redressal Commission under Section 2(1)(f) of the Consumer Protection Act (defective goods) of the lack of adequate quality control in the manufacturing and bottling of intravenous fluids given to patients, leading to defects in the fluids. In this case, the defect was the presence of fungus due to the poor quality of the fluid itself and the inadequate cleaning and sealing of the bottle containing it. The Drug Controller was ordered by the Commission to constitute an expert committee to review the provisions of the existing legislation regulating quality control and make recommendations. The Committee madecertain recommendations for protecting the public against the possibility of contamination of I. V. fluids. This case reiterates the fact that the rational drug policy must be accompanied by sustained campaign to enhance awareness of consumers. The literate and enlightened consumers have a greater role and responsibility for materialising the above
+Document 2:
+The FSSAI is in charge of regulating and monitoring food safety in order to safeguard and advance public health. 2. What is food? Food is any substance consumed to provide nutritional support for the body . It is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. 3. What is food adulteration? Food adulteration is the process in which the quality of food is lowered either by the addition of inferior quality material or by extraction of valuable ingredients. It not only includes the intentional addition or substitution of the substances but biological and chemical contamination during the period of growth, storage, processing, transport and distribution of the food products, is also responsible for the lowering or degradation of the quality of food products. 4. What are
+Document 3:
+on recall of food products may be provided on the Food Authority website. ● If a product has been recalled, the consumer should not consume the product and return it to the shopkeeper from where they have purchased the product or return it to the company representative. 26. What is Food Safety Management Systems (FSMS)? A Food Safety Management System (FSMS) is a network of interrelated elements that combine to ensure that food does not cause adverse human health effects. These elements include programs, plans, policies, procedures, practices,processes, goals, objectives, methods, controls, roles, responsibilities, relationships,documents, records, and resources. ● The purpose is to ensure the manufacture, storage, distribution and sale of safe food ● For more information please visit https://foodlicensing.fssai.gov .in/cmsweb/ 27. Where can I obtain information on food safety? The information can be obtained from the website of the FSSAI.AGENCY SER VICES
+Document 4:
+5. Component   of   End   Product:   The   product   was   sold   as   a   component   of   an   end   product,   and   necessary   warnings   or   instructions   were   provided   by   the   manufacturer ,   but   the   harm   was   caused   by   the   end   product's   use.6. Expert   Supervision:   The   product   was   legally   meant   to   be   used   or   dispensed   only   by   or   under   the   supervision   of   an   expert,   and   the   manufacturer   provided   reasonable   warnings   or   instructions   to   such   expert   or   class   of   experts. 7. Consumer's   State   While   Using   the   Product:   The   consumer   was   under   the   influence   of   alcohol   or   a   prescription   drug   not   prescribed   by   a   medical   practitioner   while   using   the   product. 8. Lack   of   Harm:   Even   if   the   product   was   defective,   it   did   not   cause   any   harm   to   the   consumer   who   used   it.” Question:   “   Under   what   conditions
+Document 5:
+under CPA is in addition and not in derogation of other available remedies. Another remedy available to consumers is mediation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ 8. Where can I complain about food bought from a shop or restaurant or report a potential food safety incident? You should complain to the Food Safety Officer/Designated Officer/DC of your area or Food Safety Commissioner of the State. 9. What are the regulatory bodies in this sector? The regulatory agency in charge of this industry is the Food Safety and Standards Authority of India (FSSAI). It is an independent organization created by the Indian government's Ministry of Health and Family Affairs. By regulating and monitoring food safety , FSSAI is in charge of preserving and advancing public health. The FSSAI was established to
+Document 6:
+Beverages Pvt. Ltd. v. Purushottam Gaur In this case, the consumer found insects in his fanta bottle. The NCDRC held that since the company did not provide any assistance to the laboratory or did not make any attempt to address the questions on origin of bottle, the case stand proved against the company , and it is held liable.12. What is the format of the complaint to be made under this sector? https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - DCDRC format. https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - SCDRC format. https://ncdrc.nic.in/cc.html - NCDRC filing. 13. What are the important links and resources? ● FSSAI Consumer Rights: https://foscos.fssai.gov .in/consumer grievance/know-your -rights ● FSSAI Grievance Redressal https://foodregulatory .fssai.gov .in/grievance-redressal ● FSSAI Tips for Safe Food: https://foscos.fssai.gov .in/consumer grievance/tips-for -safe-food 14. What is FSSA, 2006 & why this Act is needed? Food Safety and Standards Authority , 2006 is
+Document 7:
+they   obtained   the   goods   for   resale   or   commercial   purposes,   or   received   the   product   free   of   charge. 2. Misuse,   Alteration,   or   Modification:   The   product   was   misused,   altered,   or   modified   by   the   consumer ,   which   contributed   to   the   harm. 3. Obvious   or   Commonly   Known   Danger:   The   danger   posed   by   the   product   is   obvious   or   commonly   known   to   the   user   or   consumer ,   or   should   have   been   known   considering   the   characteristics   of   the   product. 4. Warnings   or   Instructions:   The   product   manufacturer   provided   warnings   or   instructions   to   the   employer   of   the   consumer ,   and   the   harm   resulted   from   the   employer's   use   of   the   product. 5. Component   of   End   Product:   The   product   was   sold   as   a   component   of   an   end   product,   and   necessary   warnings   or   instructions   were   provided   by   the
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user reports that they got food poisoning. The chatbot expresses sympathy and asks the user to provide more details about the incident, specifically asking whether the food that caused the poisoning was from a restaurant, a shop, or homemade. The user says it was a sandwich.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+it was a sandwich
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user experienced food poisoning from a sandwich.<|end_end_of_text|>
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+Food poisoning from a sandwich can be a real concern. To help you with your consumer grievance, I'd like to know more about the incident. Can you please tell me which shop or restaurant you bought the sandwich from?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No
+Inconsistencies:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+No inconsistencies found in turn  2
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+to the National Consumer Disputes Redressal Commission under Section 2(1)(f) of the Consumer Protection Act (defective goods) of the lack of adequate quality control in the manufacturing and bottling of intravenous fluids given to patients, leading to defects in the fluids. In this case, the defect was the presence of fungus due to the poor quality of the fluid itself and the inadequate cleaning and sealing of the bottle containing it. The Drug Controller was ordered by the Commission to constitute an expert committee to review the provisions of the existing legislation regulating quality control and make recommendations. The Committee madecertain recommendations for protecting the public against the possibility of contamination of I. V. fluids. This case reiterates the fact that the rational drug policy must be accompanied by sustained campaign to enhance awareness of consumers. The literate and enlightened consumers have a greater role and responsibility for materialising the above
+Document 1:
+under CPA is in addition and not in derogation of other available remedies. Another remedy available to consumers is mediation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ 8. Where can I complain about food bought from a shop or restaurant or report a potential food safety incident? You should complain to the Food Safety Officer/Designated Officer/DC of your area or Food Safety Commissioner of the State. 9. What are the regulatory bodies in this sector? The regulatory agency in charge of this industry is the Food Safety and Standards Authority of India (FSSAI). It is an independent organization created by the Indian government's Ministry of Health and Family Affairs. By regulating and monitoring food safety , FSSAI is in charge of preserving and advancing public health. The FSSAI was established to
+Document 2:
+Beverages Pvt. Ltd. v. Purushottam Gaur In this case, the consumer found insects in his fanta bottle. The NCDRC held that since the company did not provide any assistance to the laboratory or did not make any attempt to address the questions on origin of bottle, the case stand proved against the company , and it is held liable.12. What is the format of the complaint to be made under this sector? https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - DCDRC format. https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - SCDRC format. https://ncdrc.nic.in/cc.html - NCDRC filing. 13. What are the important links and resources? ● FSSAI Consumer Rights: https://foscos.fssai.gov .in/consumer grievance/know-your -rights ● FSSAI Grievance Redressal https://foodregulatory .fssai.gov .in/grievance-redressal ● FSSAI Tips for Safe Food: https://foscos.fssai.gov .in/consumer grievance/tips-for -safe-food 14. What is FSSA, 2006 & why this Act is needed? Food Safety and Standards Authority , 2006 is
+Document 3:
+Commission following the procedure prescribed by them. For more information he may visit http://www .ncdrc.nic.in/districtlist.htmlFOOD SAFETY 1. What is Food Safety? Food safety is a scientific field that outlines how to prepare, handle, and store food in order to avoid getting sick or contracting diseases from it. This includes a number of routines that should be followed to avoid potentially severe health hazards. Every consumer has a right to information about the safety and quality of the food they eat. The Food Safety and Standards Authority of India (FSSAI) is an independent organization created by the Indian government's Ministry of Health and Family Welfare. It was founded in accordance with India's Food Safety and Standards Act of 2006, which deals with food safety and regulation. The FSSAI is in charge of regulating and monitoring food safety in order to safeguard and advance public health. 2. What is food? Food is any substance consumed to provide nutritional support for
+Document 4:
+any harmful or toxic substances. e. if any substance is mixed so as to reduce its quality or strength. f. if it bears any colour for the purpose of colouring only, a colour which is not prescribed 2. Overcharging3. Selling of untested drugs/drugs of poor quality. 4. Overcharging of medical devices. 5. Refusal to sell drugs. 6. Shortage or non-availability of drugs. 7. Allergic reactions or harmful side effects not adequately disclosed. 8. False or exaggerated claims about product benefits. 9. Missing or unclear information on ingredients/ Insufficient usage instructions. 10. Claims about the product's effectiveness that are not substantiated. 11. Poor product quality or defects. 12. Selling products beyond their expiration date. 13. Lack of proper warnings for potential risks associated with product use. 4. What are the modes or methods of complaint available? 1. The first step is to approach the manufacturing company through their customer care to register the grievance. 2. The
+Document 5:
+The FSSAI is in charge of regulating and monitoring food safety in order to safeguard and advance public health. 2. What is food? Food is any substance consumed to provide nutritional support for the body . It is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. 3. What is food adulteration? Food adulteration is the process in which the quality of food is lowered either by the addition of inferior quality material or by extraction of valuable ingredients. It not only includes the intentional addition or substitution of the substances but biological and chemical contamination during the period of growth, storage, processing, transport and distribution of the food products, is also responsible for the lowering or degradation of the quality of food products. 4. What are
+Document 6:
+is the link for Food Safety Connect Portal: https://foscos.fssai.gov .in/consumer grievance/ Moreover , the following link contains the contact details of the grievance redressal mechanism at the state levels: https://fssai.gov .in/cms/helpdesk.php Furthermore, the FSSAI also has signed up to the Centralized Public Grievance Redress and Monitoring System (CPGRAMS), which is an online platform available to consumers 24*7 to lodge their grievances to the public authorities on any subject. The following link could be used to register a complaint through the CPGRAMS portal: https://pgportal.gov .in/ (iii) Approaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer , the aggrieved party can take the service
+Document 7:
+5. Component   of   End   Product:   The   product   was   sold   as   a   component   of   an   end   product,   and   necessary   warnings   or   instructions   were   provided   by   the   manufacturer ,   but   the   harm   was   caused   by   the   end   product's   use.6. Expert   Supervision:   The   product   was   legally   meant   to   be   used   or   dispensed   only   by   or   under   the   supervision   of   an   expert,   and   the   manufacturer   provided   reasonable   warnings   or   instructions   to   such   expert   or   class   of   experts. 7. Consumer's   State   While   Using   the   Product:   The   consumer   was   under   the   influence   of   alcohol   or   a   prescription   drug   not   prescribed   by   a   medical   practitioner   while   using   the   product. 8. Lack   of   Harm:   Even   if   the   product   was   defective,   it   did   not   cause   any   harm   to   the   consumer   who   used   it.” Question:   “   Under   what   conditions
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The chatbot introduces itself as a consumer grievance assistance tool and asks the user how it can help. The user reports that they got food poisoning. The chatbot asks the user what led to the food poisoning and whether it was from a restaurant, shop, or home-cooked meal. The user replies that it was a sandwich. The chatbot asks the user which shop or restaurant they bought the sandwich from. The user replies that it was from concu.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+it ws from concu
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user got food poisoning from a sandwich they bought at Concu.<|end_end_of_text|>
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+Concu is a popular food chain. I'd like to help you with your consumer grievance.
+
+
+If you haven't already, I would recommend contacting the customer service team of Concu directly to report the incident and seek a resolution. If they are unresponsive or not helpful, you can also consider filing a complaint with the local consumer forum or district consumer dispute redressal forum in your area.
+
+
+Before we proceed with any further steps, have you already tried contacting Concu's customer service team about this incident?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No
+Inconsistencies:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+No inconsistencies found in turn  3
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+under CPA is in addition and not in derogation of other available remedies. Another remedy available to consumers is mediation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ 8. Where can I complain about food bought from a shop or restaurant or report a potential food safety incident? You should complain to the Food Safety Officer/Designated Officer/DC of your area or Food Safety Commissioner of the State. 9. What are the regulatory bodies in this sector? The regulatory agency in charge of this industry is the Food Safety and Standards Authority of India (FSSAI). It is an independent organization created by the Indian government's Ministry of Health and Family Affairs. By regulating and monitoring food safety , FSSAI is in charge of preserving and advancing public health. The FSSAI was established to
+Document 1:
+handles consumer grievances in this sector. 6. Is there any time limit to provide the services? The service provide time of booking can be varied and depend upon its availability with the company. The same is usually declared on the website by the company at the time of providing services. 7. If a consumer hired the agency but didn’t make payment, can he complain against it? If the work order is accepted by the company and assured the consumer for completion, even if the amount is not paid but it was “promise to pay” he can complain to the company in writing, and if no response received, he may move to the consumer commission. 8. What will you suggest if the consumer has booked the banquet hall before lockdown and after lockdown the agency denies to refund? In that case, the consumer needs to go through the guidelines of the particular state for the same, whether the booking has been cancelled and the amount has to be refunded to the consumer, or, booking will be extended till a
+Document 2:
+to the National Consumer Disputes Redressal Commission under Section 2(1)(f) of the Consumer Protection Act (defective goods) of the lack of adequate quality control in the manufacturing and bottling of intravenous fluids given to patients, leading to defects in the fluids. In this case, the defect was the presence of fungus due to the poor quality of the fluid itself and the inadequate cleaning and sealing of the bottle containing it. The Drug Controller was ordered by the Commission to constitute an expert committee to review the provisions of the existing legislation regulating quality control and make recommendations. The Committee madecertain recommendations for protecting the public against the possibility of contamination of I. V. fluids. This case reiterates the fact that the rational drug policy must be accompanied by sustained campaign to enhance awareness of consumers. The literate and enlightened consumers have a greater role and responsibility for materialising the above
+Document 3:
+is the link for Food Safety Connect Portal: https://foscos.fssai.gov .in/consumer grievance/ Moreover , the following link contains the contact details of the grievance redressal mechanism at the state levels: https://fssai.gov .in/cms/helpdesk.php Furthermore, the FSSAI also has signed up to the Centralized Public Grievance Redress and Monitoring System (CPGRAMS), which is an online platform available to consumers 24*7 to lodge their grievances to the public authorities on any subject. The following link could be used to register a complaint through the CPGRAMS portal: https://pgportal.gov .in/ (iii) Approaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer , the aggrieved party can take the service
+Document 4:
+Beverages Pvt. Ltd. v. Purushottam Gaur In this case, the consumer found insects in his fanta bottle. The NCDRC held that since the company did not provide any assistance to the laboratory or did not make any attempt to address the questions on origin of bottle, the case stand proved against the company , and it is held liable.12. What is the format of the complaint to be made under this sector? https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - DCDRC format. https://cdrc.gujarat.gov .in/images/pdf/1-CC-Eng.pdf - SCDRC format. https://ncdrc.nic.in/cc.html - NCDRC filing. 13. What are the important links and resources? ● FSSAI Consumer Rights: https://foscos.fssai.gov .in/consumer grievance/know-your -rights ● FSSAI Grievance Redressal https://foodregulatory .fssai.gov .in/grievance-redressal ● FSSAI Tips for Safe Food: https://foscos.fssai.gov .in/consumer grievance/tips-for -safe-food 14. What is FSSA, 2006 & why this Act is needed? Food Safety and Standards Authority , 2006 is
+Document 5:
+items insured. Consumers should also check authencity of Insurance companies especially if it is third party insurance. 8. Are any guidelines or regulator available for Packers and Movers companies? No, guidelines are not available for the operation of Packers and Movers. Also, at present, there is no regulator for this sector , where consumers can approach for the resolution of their grievances. 9. What is the grievance redressal mechanism for Packers and Movers companies? 1. Consumers can approach company by contacting the customer care of the company . If no satisfactory response is received, he must send a written complaint to the head office of the company . 2. If Consumer has not received any response or satisfactory response from company , consumer may approach directly to Consumer Commission following the procedure prescribed by them. For more information he may visit http://www .ncdrc.nic.in/districtlist.htmlFOOD SAFETY 1. What is Food Safety? Food safety is a scientific
+Document 6:
+of the product, when they will deliver the product, how they will take payment of such product, by which security method they will take the payment, what will be the redressal mechanism in the case of default, and moreover country of origin of that product of product or goods is not provided. ● Any form of restrictive or unfair trade practice. ● Product Liability- if a consumer buys any goods or any kind of services and if he suffers any damage due to product itself or inefficiency of service. ● any kind of misrepresentation or misleading advertisement 3. When would complaints not be accepted?There are various situations which might cause the complaint to be rejected. These include situations where the consumer is unable to file an appeal against an order within a period of three months, where the complaint is based on a frivolous cause of action, where the complaint falls outside the jurisdiction of the authority approached, and when the complaint has been filed under wrong sections
+Document 7:
+misleading advertisements providing false expectations about technology services. ● Inaccurate Information: Provision of inaccurate information by service providers, creating confusion among users. ● Lengthy Procedures: Consumers experience long procedure in getting refund or even denial of refund. ● Inadequate Protection: Concerns about the insufficient protection of user data, leading to potential privacy breaches. ● Unauthorized Access: Instances of unauthorized access or data breaches compromising user privacy and confidentiality .● Inefficient Responses: Consumers encounter subpar responses while enquiring on phones. ● Lack of Transparency: Absence of transparency in addressing and resolving customer concerns, leading to dissatisfaction. ● Inadequate Compensation: Inadequate compensation for service outages or data breaches, leaving consumers dissatisfied. 3. When complaints would not be accepted? There are various situations which might cause the complaint to be rejected. These
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user reports experiencing food poisoning and states that it was caused by a sandwich. The chatbot expresses sympathy and asks for more details about the source of the sandwich. The user clarifies that the sandwich was from Concu. The chatbot recommends contacting Concu's customer service and, if necessary, filing a complaint with the local consumer forum. The chatbot asks if the user has already contacted Concu. The user responds that Concu apologised but did not offer compensation.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+they apologised but failed to compensate me
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+Concu, a popular food chain, apologised for the food poisoning incident caused by a sandwich purchased from them, but failed to compensate the user.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+It's disappointing when a company apologizes but doesn't take adequate action to make things right.
+
+
+In this case, since Concu has already apologized but failed to compensate you, you may want to consider taking further action to seek a resolution. One option is to send a legal notice to Concu, detailing the incident, the relief you're seeking, and a deadline for them to respond and compensate you.
+
+
+If you're not comfortable sending a legal notice yourself, I can help you draft a sample notice. Alternatively, you can also consider filing a complaint with the local consumer forum or district consumer dispute redressal forum in your area.
+
+
+Before we proceed, would you like me to guide you on how to draft a sample legal notice or would you like to file a complaint with the consumer forum?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No
+Inconsistencies:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+No inconsistencies found in turn  4
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+is the link for Food Safety Connect Portal: https://foscos.fssai.gov .in/consumer grievance/ Moreover , the following link contains the contact details of the grievance redressal mechanism at the state levels: https://fssai.gov .in/cms/helpdesk.php Furthermore, the FSSAI also has signed up to the Centralized Public Grievance Redress and Monitoring System (CPGRAMS), which is an online platform available to consumers 24*7 to lodge their grievances to the public authorities on any subject. The following link could be used to register a complaint through the CPGRAMS portal: https://pgportal.gov .in/ (iii) Approaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer , the aggrieved party can take the service
+Document 1:
+the Grievance redressal mechanism or authority of the service provider . For instance, most of the Insurance companies and organizations have their Internal grievance redressal mechanism and an aggrieved consumer can approach this mechanism or authority with his complaints before initiating any legal action against the service provider . Sending of Legal Notice: Prior to availing of statutory remedies and approaching the Consumer Forum, it is advisable that the aggrieved consumer exhausts any alternative legalremedies available to him/her . One of the actions that can be taken by Consumer before approaching the Consumer Court is to send legal notice to the service provider detailing the particulars of compliant, relief sought for, time period to comply with the conditions and cautioning the service provider of legal recourse in the event of non-compliance of terms and conditions of the notice. File Consumer complaint before appropriate Forum- If the service provider fails to comply
+Document 2:
+under CPA is in addition and not in derogation of other available remedies. Another remedy available to consumers is mediation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ 8. Where can I complain about food bought from a shop or restaurant or report a potential food safety incident? You should complain to the Food Safety Officer/Designated Officer/DC of your area or Food Safety Commissioner of the State. 9. What are the regulatory bodies in this sector? The regulatory agency in charge of this industry is the Food Safety and Standards Authority of India (FSSAI). It is an independent organization created by the Indian government's Ministry of Health and Family Affairs. By regulating and monitoring food safety , FSSAI is in charge of preserving and advancing public health. The FSSAI was established to
+Document 3:
+the service provider of legal recourse in the event of non-compliance of terms and conditions of the notice. File Consumer complaint before appropriate Forum- If the service provider fails to comply with the terms and conditions mentioned in the legal notice or disagrees to compensate for the loss caused, the complainant has the right to file a legal complaint in the Consumer forum. It is pertinent to state that, sending of legal notice is not mandatory and therefore, a complainant has the right to directly approach respective consumer forum for filing of complaint. When complaints won’t be accepted? Limitation period to file Consumer Complaint- As per Section 35 of the Act, a consumer complaint must be filed to respective District Forum within a span of two years from the date on which the cause of action or deficiency in service or defect in goods arises. Nevertheless, the law permits the Consumer or aggrieved to file a complaint even after the statutory period of two years if the
+Document 4:
+a   list   of   these   documents   signed   by   the   complainant ● Specification   of   how   the   case   falls   within   the   jurisdiction   of   the   tribunal ●   Relief   or   remedy   claimed   by   the   complainant”   — Question:   “Does   a   consumer   need   an   advocate   to   represent   their   case   before   a   commission? Answer:   “Consumers   do   not   need   an   advocate   to   represent   their   case   in   the   Consumer   Commission.   These   commissions   are   designed   to   provide   simple   and   speedy   justice,   free   from   the   complexities   of   regular   court   procedures.   The   process   is   informal   and   does   not   require   the   involvement   of   an   advocate   or   pleader .   Consumers   can   file   and   represent   their   complaint   themselves   or   through   a   representative.” — Question:   “What   is   the   time   limit   for   filing   the   complaint?”   Answer:   “The   time   limit   for   filing   a
+Document 5:
+rights.  5. Multiple   Consumers   (Class   Action):   Groups   of   consumers   with   the   same   interest   can   file   a   complaint   collectively ,   with   the   permission   of   the   consumer   forum.  6. Legal   Heirs   or   Representatives:   In   case   of   a   consumer's   death,   their   legal   heir   or  representative   can   file   a   complaint.  7. Parents   or   Legal   Guardians:   For   a   minor   consumer ,   their   parent   or   legal   guardian   can   file   a   complaint. These   provisions   ensure   that   consumer   grievances   can   be   addressed   effectively   by   allowing   various   representatives   to   seek   redressal.” — Question:   “What   is   the   procedure   to   file   a   complaint   before   the   consumer   commission?” Answer:   “To   file   a   complaint   before   the   Consumer   Commission,   follow   these   steps: 1. Writing   the   Complaint: ○ The   complaint   should   be   in   writing   and   contain   all
+Document 6:
+using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ (iv) Central Consumer Protection Authority If the commission finds violations of rights of consumers or in notice of trade practices which is unfair it can inquire or cause an inquiry, either on receipt of complaint or suo moto or as directed by Central Government. If the commission finds, after preliminary inquiry, of an existence of a prima facie case of consumer rights violation or it is in notice of any unfair trade practice or any wrong or inaccurate advertisement which is prejudicial to public interest or to the interests of the consumers,it can order an investigation by the District Collector or by Director General.The consumer can complain to the District Collector of the respective district for investigation and subsequent proceedings by the CCPA. He/she/they can also submit a complaint via email, at com-ccpa@nic.in . 4. Where should the grievance redressal or
+Document 7:
+the following procedur es for filing grievances: (i) The complaint must be in writing to the Grievance Redressal Officer stating the name of the consumer , his address and telephone number . The following form can be used by the consumer: https://bescom.karnataka.gov .in/storage/pdf-files/CGRF/CGRF%20Form%20A&%20B.pdf (ii) The name of the licensee. (iii) Brief Description of the matter , including copies of relevant documents.(iv) If known, then the consumer shall also present the laws, regulations, codes or standards which are violated. (v) Proof that the consumer has exhausted the grievance procedure in submitting the grievance to the licensee. (vi) The consumer should mention the relief sought, and shall also share an authenticated copy of the response from the licensee. Post this, the Grievance redressal officer shall : (i) Send an acknowledgement to the consumer within three days of the receipt of the complaint. A copy of the grievance shall also be forwarded to the licensee
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user reports experiencing food poisoning after eating a sandwich. The chatbot asks the user for more details about the incident, specifically where the sandwich was purchased. The user reveals that the sandwich was from Concu. The chatbot recommends contacting Concu's customer service and suggests filing a complaint with the local consumer forum if Concu is unresponsive. The chatbot then asks if the user has contacted Concu's customer service. The user responds that Concu apologized but did not offer compensation. The chatbot suggests sending a legal notice to Concu or filing a complaint with the local consumer forum and offers to help draft a sample legal notice. The chatbot asks the user whether it should guide the user on how to draft a sample legal notice or file a complaint with the consumer forum. The user responds by stating that he would like both.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+i would like both
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user would like guidance on how to draft a sample legal notice and to file a complaint with the consumer forum regarding their food poisoning incident with Concu.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+I'll provide you with a sample legal notice and guide you on how to file a complaint with the consumer forum.
+
+
+**Sample Legal Notice:**
+
+
+[Your Name]
+[Your Address]
+[City, State, Pincode]
+[Email ID]
+[Mobile Number]
+[Date]
+
+
+Concu Food Chain
+[Their Address]
+[City, State, Pincode]
+
+
+Subject: Notice for Compensation for Food Poisoning Incident
+
+
+Dear Sir/Madam,
+
+
+Re: Compensation for Food Poisoning Incident
+
+
+This notice is to bring to your attention the incident of food poisoning that I, [Your Name], experienced after consuming a sandwich from your outlet located at [Outlet Address] on [Date]. Despite apologizing for the incident, you have failed to provide any compensation or adequate redressal.
+
+
+The details of the incident are as follows:
+
+
+* Date of consumption: [Date]
+* Outlet location: [Outlet Address]
+* Type of food consumed: Sandwich
+* Symptoms experienced: [List symptoms]
+
+
+I am seeking compensation of [Amount] for the suffering and expenses incurred due to the food poisoning incident. I request you to take immediate action to provide compensation and take necessary steps to prevent such incidents in the future.
+
+
+You are required to respond to this notice within 7 days from the date of receipt of this notice, indicating your intention to provide compensation or take any other necessary action.
+
+
+If I do not receive a satisfactory response within the stipulated time, I shall be forced to approach the consumer forum and take further action as per the Consumer Protection Act, 2019.
+
+
+Yours faithfully,
+
+
+[Your Name]
+
+
+**Filing a Complaint with the Consumer Forum:**
+
+
+To file a complaint with the consumer forum, you can follow these steps:
+
+
+1. Visit the National Consumer Helpline website ([www.nchp.nic.in](http://www.nchp.nic.in)) or the e-daakhil portal ([edaakhil.nic.in](http://edaakhil.nic.in)).
+2. Click on "File a Complaint" and select "Consumer Complaint".
+3. Fill in the required details, including your name, address, mobile number, and email ID.
+4. Provide details of the incident, including the date, time, and location of the incident, and the type of food consumed.
+5. Specify the relief you are seeking, including compensation for medical expenses, suffering, and any other damages.
+6. Attach supporting documents, such as medical bills, receipts, and any other relevant evidence.
+7. Submit the complaint and wait for a response from the consumer forum.
+
+
+Please note that you may need to visit the consumer forum in person to file the complaint, depending on the jurisdiction and the type of complaint.
+
+
+If you have any questions or need further assistance, please feel free to ask.
+
+
+Also, don't forget to contact the National Consumer Helpline at 1800-11-4000 for immediate assistance.
+
+
+Is there anything else I can help you with?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: Yes
+Inconsistencies:
+1. Concu Food Chain
+[Their Address]
+[City, State, Pincode]
+Reason: The address of Concu Food Chain is not present in the context or history.
+2. This notice is to bring to your attention the incident of food poisoning that I, [Your Name], experienced after consuming a sandwich from your outlet located at [Outlet Address] on [Date].
+Reason: The outlet address is not present in the context or history.
+3. Outlet location: [Outlet Address]
+Reason: The outlet address is not present in the context or history.
+4. I am seeking compensation of [Amount] for the suffering and expenses incurred due to the food poisoning incident.
+Reason: The amount of compensation is not present in the context or history.
+5. Visit the National Consumer Helpline website ([www.nchp.nic.in](http://www.nchp.nic.in)) or the e-daakhil portal ([edaakhil.nic.in](http://edaakhil.nic.in)).
+Reason: The context only mentions the link https://consumerhelpline.gov.in/ for filing complaints online.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: Yes
+Explanation for Correction: No corrections are needed as all the inconsistencies are valid.
+Inconsistencies:
+1. Inconsistency: Concu Food Chain
+[Their Address]
+[City, State, Pincode]
+Reason: The address of Concu Food Chain is not present in the context or history.
+Degree of Inconsistency: 5
+Explanation: Providing an address not found in the context is a factual detail that could mislead users.
+2. Inconsistency: This notice is to bring to your attention the incident of food poisoning that I, [Your Name], experienced after consuming a sandwich from your outlet located at [Outlet Address] on [Date].
+Reason: The outlet address is not present in the context or history.
+Degree of Inconsistency: 5
+Explanation: The outlet address is a factual detail, and as it is not present in the context, it is an inconsistency.
+3. Inconsistency: Outlet location: [Outlet Address]
+Reason: The outlet address is not present in the context or history.
+Degree of Inconsistency: 5
+Explanation: Providing an address not found in the context is a factual detail that could mislead users.
+4. Inconsistency: I am seeking compensation of [Amount] for the suffering and expenses incurred due to the food poisoning incident.
+Reason: The amount of compensation is not present in the context or history.
+Degree of Inconsistency: 5
+Explanation: Providing an amount that is not present in the context is an inconsistency
+5. Inconsistency: Visit the National Consumer Helpline website ([www.nchp.nic.in](http://www.nchp.nic.in)) or the e-daakhil portal ([edaakhil.nic.in](http://edaakhil.nic.in)).
+Reason: The context only mentions the link https://consumerhelpline.gov.in/ for filing complaints online.
+Degree of Inconsistency: 5
+Explanation: Providing different websites than the one mentioned in the context is factually incorrect and potentially misleading.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
