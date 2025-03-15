@@ -145,24 +145,31 @@ Original Response:
 Analysis: 
 """
 
-    fact_system_prompt = """You are a legal content reviewer. Your job is to extract and verify factual statements from a chatbot's response based on a given context.  
+    fact_system_prompt = """You are a legal content reviewer. Your job is to extract and verify factual statements from a chatbot's answer based on a given context and history.  
 
 Task:  
 1. Extract factual statements from the answer. A fact is a sentence that provides information and can be classified as True or False.  
 2. Evaluate the truthfulness of each fact based on the context:  
-   - If the fact is true, label it as [True].  
-   - If the fact is false, label it as [False] and provide the correct version in brackets.  
-3. List non-factual statements separately (e.g., apologies, general conversational phrases, or questions).  
+   - If the fact is true based upon the context, label it as [True].  
+   - If the fact is false based upon the context, label it as [False] and provide the correct version in brackets.  
+   - If you do not know if the fact is true or false based on the context, label it as [Unverifiable].
+3. List non-factual statements separately (e.g., apologies, general conversational phrases, or questions). 
+4. Only extract facts from the Answer and never from the Context and History.
+5. Extract the exact sentences from the answer and do not paraphrase.
 
-Example:
+Example 1:
 
 Context:  
 The Consumer Protection Act allows consumers to file complaints against unfair trade practices. The Central Consumer Protection Authority (CCPA) does not register complaints but oversees compliance.  
 
-Answer:  
+History:
+Chatbot: How can I help you with consumer disputes?
+User: I'm trying to learn about consumer rights.
+
+User: Answer:  
 You can file a complaint with the CCPA for consumer disputes. The Consumer Protection Act provides legal remedies for consumers. Did you receive a response from the company?  
 
-Response:  
+Chatbot:  
 
 Facts:  
 1. You can file a complaint with the CCPA for consumer disputes. [False: The CCPA does not register complaints.]  
@@ -171,18 +178,40 @@ Facts:
 Other statements:  
 1. Did you receive a response from the company?  
 
+Example 2:
+
+
+Context:
+The Clean Water Act regulates discharges of pollutants into U.S. waters and quality standards for surface waters. The Environmental Protection Agency (EPA) oversees enforcement of the Clean Water Act, but state governments also have a role in its implementation.
+
+History:
+Chatbot: How can I help you with environmental regulations?
+User: I'm trying to learn about water pollution laws.
+
+User: Answer:
+How can I help you with pollutiom law? Do you require a short description? Or do you need help with something else?
+
+Chatbot:
+
+Facts: No Fact exists
+
+Other statements:
+1. How can I help you with pollutiom law? 
+2. Do you require a short description? 
+3. Or do you need help with something else?
+
+
 Now, perform the same fact extraction and classification for the following:  
 
 Context:  
 {context}  
 
-Here is the previous chat based on which the response was generated:  
-
-Response: """
+History: 
+{chat_history} 
+"""
     fact_template = ChatPromptTemplate.from_messages([
         ("system", fact_system_prompt),
-        MessagesPlaceholder("chat_history"),
-        ("human", "Answer: {answer}"),
+        ("user", "Now please extract the facts and classify them for the following Answer:\nAnswer: {answer}"),
     ])#PromptTemplate(input_variables=["context","answer"], template=fact_system_prompt)
     fact_chain =  fact_template | llm_engine_hf  | StrOutputParser()
     
@@ -191,25 +220,29 @@ Response: """
 
 Editing Guidelines:  
 1. Use the provided fact review to identify and correct false statements in the draft.  
-2. Retain all other statements exactly as they are, including:  
+2. Retain all other statements exactly as they are, including but not limited to:  
    - Expressions of gratitude (e.g., "Thank you for reaching out.")  
    - Apologies (e.g., "I'm sorry to hear that.")  
    - Any questions present in the response.  
-3. Modify only the sentences marked as False and replace them with their corrected versions from the fact review.  
+3. Modify only the sentences marked as [False] and replace them with their corrected versions from the fact review. Keep the [True] and [Unverifiable] statements without any changes.
+4. Ensure the response retains the polite language, questions, and overall structure of the original draft.
+5. Do not start with something like "The corrected response is as follows" or "Response:", just start with the corrected response.
+6. The user should not know you are correcting the response. Answer as if you are replying to the original human query to which the Rough Draft was the response.
+
 
 Example:  
 
 Context:  
 The Consumer Protection Act allows consumers to file complaints against unfair trade practices. The Central Consumer Protection Authority (CCPA) does not register complaints but oversees compliance.  
 
-Rough Draft:  
+User: Rough Draft:  
 You can file a complaint with the CCPA for consumer disputes. The Consumer Protection Act provides legal remedies for consumers. Did you receive a response from the company?  
 
 Fact Review:  
 1. You can file a complaint with the CCPA for consumer disputes. [False: The CCPA does not register complaints.]  
 2. The Consumer Protection Act provides legal remedies for consumers. [True]  
 
-Corrected Response:  
+Chatbot:  
 The CCPA does not register complaints but oversees compliance. The Consumer Protection Act provides legal remedies for consumers. Did you receive a response from the company?  
 
 Now, perform the same corrections based on the review provided.  
@@ -220,8 +253,7 @@ Context:
     process_template = ChatPromptTemplate.from_messages([
         ("system", process_system_prompt),
         #MessagesPlaceholder("chat_history"),
-        ("human", "Rough Draft: {answer}"),
-        ("human", "Fact Review: {review}"),
+        ("human", "Rough Draft: {answer}\n" "Fact Review: {review}"),
     ])
     processing_chain =  process_template | llm_engine_hf  | StrOutputParser()
 

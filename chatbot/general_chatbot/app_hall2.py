@@ -9,7 +9,7 @@ from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline, HuggingF
 from langchain_openai import ChatOpenAI
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain, SequentialChain
 from langchain_core.runnables import RunnableSequence
-from langchain.schema.runnable import RunnablePassthrough
+from langchain.schema.runnable import RunnablePassthrough, RunnableLambda
 from langchain_core.prompts import MessagesPlaceholder, ChatPromptTemplate, PromptTemplate
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.runnables.history import RunnableWithMessageHistory
@@ -113,8 +113,18 @@ def process_chain(answer_chain, llm_engine_hf):
 
 1. Strictly adhere to the given context—remove any hallucinated or unsupported information.
 2. Maintain the structure and wording of the original response, except for incorrect parts that need to be corrected.
-3. Be presented as a direct response to the user—do not include "Response:" at the beginning.
-4. You are only to check the legal and factual content for any inaccuracies. Do not modify any questions and the polite language used in the response like Thank you for sharing your concern with me. I'd be happy to help. 
+3. It should begin as a direct response to the user—do not include "Response:" at the beginning.
+4. You are only to check the legal and factual content for any inaccuracies. Do not modify any questions and the polite language used in the response like 
+    - Thank you for sharing your concern with me. I'd be happy to help. 
+    - Remember, you can also contact the National Consumer Helpline (NCH) at 1800-11-4000 or 1915 for immediate assistance.
+    - Have a great day
+    - Can I help you?
+
+These are possible cases of hallucination:
+1. Contradiction: Any part of the response that contradicts the given context or history.
+2. Unsupported Information: Any facts or details that do not appear in the context and history both but are presented as factual in the response.
+3. Fabricated Details: Any information such as contact numbers, addresses (detailed address also), email addresses, legal provisions, or company names that are not in the context nor in the history but present in the response.
+
 
 Examples:
 
@@ -128,6 +138,7 @@ You've purchased a product just 2 days ago, and it's still under warranty. Can y
 
 Output:
 You've purchased a product just 2 days ago, and it's still under warranty. Can you please tell me what led to the issue with the product? Was there a manufacturing defect, or perhaps it wasn't functioning as expected?
+Note: The response is correct and does not require any changes.
 
 Example 2:
 Input:
@@ -135,10 +146,11 @@ Context:
 Consumer complaints against e-commerce platforms can be filed on the e-Daakhil portal. Complaints should include evidence such as invoices and communication records with the seller.
 
 Response:
-To file a complaint against an e-commerce platform, you can visit the e-Daakhil portal. Ensure that you include relevant evidence, such as invoices and communication records with the seller. Alternatively, you can also file a complaint directly with the company's customer grievance office.
+To file a complaint against an e-commerce platform, you can visit the e-Daakhil portal. Ensure that you include relevant evidence, such as invoices and communication records with the seller. You can also contact the customer care helpline 1800-4646-1200.
 
 Output:
 To file a complaint against an e-commerce platform, you can visit the e-Daakhil portal. Ensure that you include relevant evidence, such as invoices and communication records with the seller.
+Note: The response contains a number which is not present in the context.
 
 
 Input:
@@ -152,7 +164,7 @@ Output:
 """
     process_template = PromptTemplate(input_variables=["answer"], template=process_system_prompt, output_varables=["final_response"])
     
-    processing_chain =  process_template | llm_engine_hf  | StrOutputParser()
+    processing_chain = process_template | llm_engine_hf | StrOutputParser() | RunnableLambda(lambda l: l.split("Note:")[0].strip() if "Note:" in l else l)
 
     combined_chain = (answer_chain | RunnablePassthrough.assign(final_response=processing_chain))
 

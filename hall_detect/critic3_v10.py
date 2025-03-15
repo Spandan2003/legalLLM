@@ -88,7 +88,7 @@ def create_rag_qa_chain_with_response_analysis(
         # Initialize the LLM for text generation
         callbacks = [StreamingStdOutCallbackHandler()]
         llm1 = HuggingFacePipeline.from_model_id(
-            model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
+            model_id="deepseek-ai/DeepSeek-R1-Distill-Llama-8B", #"meta-llama/Meta-Llama-3.1-8B-Instruct",
             task="text-generation",
             device=0,  # Use GPU if available
             callbacks=callbacks,  # For streaming outputs
@@ -1097,10 +1097,10 @@ data.reset_index(inplace=True, drop=True)
 chats = data["Chat"].to_list()
 
 response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path)
-output_file = "./hall_detect/critic3_v10_2/file_output_v" +ver +".txt"
-final_df_loc = "./hall_detect/critic3_v10_2/result_df_v" +ver +".csv"
-csv_file = "./hall_detect/critic3_v10_2/output_df_v" +ver +".csv"
-final_var = "./hall_detect/critic3_v10_2/output_df_v" +ver +".pt"
+output_file = "./hall_detect/critic3_v10_deepseek/file_output_v" +ver +".txt"
+final_df_loc = "./hall_detect/critic3_v10_deepseek/result_df_v" +ver +".csv"
+csv_file = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".csv"
+final_var = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".pt"
 
 
 with open(output_file, "a") as f:
