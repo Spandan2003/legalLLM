@@ -156,16 +156,16 @@ def receptionist_router(input_dict: dict, input_variable):
 
     # ?? Decides which agent to use based on prompt output
     if "paralegal" in reception_output.lower():
-        print("LALA: Paralegal")
+        # print("LALA: Paralegal")
         return "paralegal"
     elif "legal advice" in reception_output.lower() or "lawyer" in reception_output.lower():
-        print("LALA: lawyer")
+        # print("LALA: lawyer")
         return "lawyer"
     elif "drafter" in reception_output.lower():
-        print("LALA: drafter")
+        # print("LALA: drafter")
         return "drafter"
     else:
-        print("LALA: Paralegal")
+        # print("LALA: Paralegal")
         return "paralegal"  # Default case
 
 # Step 3: Combine RAG and Routing

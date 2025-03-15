@@ -1,4 +1,5 @@
 # Made to perform chat generation using base chats
+from chatbots.app_hall0 import get_conversation_chain as get_conversation_chain0
 from chatbots.app_hall1 import get_conversation_chain as get_conversation_chain1
 from chatbots.app_hall2 import get_conversation_chain as get_conversation_chain2
 from chatbots.app_hall3 import get_conversation_chain as get_conversation_chain3
@@ -314,7 +315,7 @@ def chat_handler(chatbot_chain, user_chain, session_id, simulate_user=False, rag
                 user_response = user_runnable.invoke({"input": chatbot_history.messages[-1].content, "old_chat":const["old_chat"]}, {"configurable": {"session_id": session_id}})
                 user_input = user_response['response'].content
                 count+=1
-            if user_input.lower() == "exit" or count>25:
+            if any([exit_word in user_input.lower() for exit_word in ["exit"]]) or count>25:
                 print(user_input)
                 print("Goodbye!")
                 print("Count is ", count)
@@ -409,15 +410,15 @@ if __name__ == "__main__":
     chats = data["Chat"].tolist()
     
 
-    chain_callers = [get_conversation_chain1, get_conversation_chain2, get_conversation_chain3, get_conversation_chain4]
+    chain_callers = [get_conversation_chain0, get_conversation_chain1, get_conversation_chain2, get_conversation_chain3, get_conversation_chain4]
 
-    for i, get_conversation_chain in enumerate(chain_callers, start=1):
+    for i, get_conversation_chain in enumerate(chain_callers[0:1], start=0):
         print(f"Running conversation chain {i}")
         initialize(get_conversation_chain)
         summarizer_chain = get_user_summarizer(llm)
         results = []
         errors = []
-        for chat_no, chat in enumerate(chats):
+        for chat_no, chat in enumerate([chats[26]]):
             try:
                 # Generate a unique session ID
                 print("START CHAT GENERATION ", chat_no)
@@ -445,7 +446,7 @@ if __name__ == "__main__":
                 results_df = pd.DataFrame(results)
 
                 # Save the DataFrame incrementally to the output file
-                results_df.to_csv(f"./chatbot/chat_generation/results2/app_hall{i}.csv")
+                # results_df.to_csv(f"./chatbot/chat_generation/results2/app_halli{i}.csv")
 
             except Exception as e:
                 print(f"Error processing chat: {chat}")
@@ -463,5 +464,5 @@ if __name__ == "__main__":
     print(f"Started at: {datetime.fromtimestamp(start_time).strftime('%Y-%m-%d %H:%M:%S')}")
     for i in range(4):
         print(f"App_hall{i+1} Ended at: {datetime.fromtimestamp(end_time_list[i+1]).strftime('%Y-%m-%d %H:%M:%S')}      Time taken: {end_time_list[i+1] - end_time_list[i]:.2f} seconds")
-    print(f"Time taken: {end_time[-1] - start_time:.2f} seconds")
+    print(f"Time taken: {end_time_list[-1] - start_time:.2f} seconds")
 
