@@ -4,6 +4,7 @@ from chatbots.app_hall1 import get_conversation_chain as get_conversation_chain1
 from chatbots.app_hall2 import get_conversation_chain as get_conversation_chain2
 from chatbots.app_hall3 import get_conversation_chain as get_conversation_chain3
 from chatbots.app_hall4 import get_conversation_chain as get_conversation_chain4
+from chatbots.app_hall5 import get_conversation_chain as get_conversation_chain5
 import os
 import time
 import uuid
@@ -410,10 +411,12 @@ if __name__ == "__main__":
     chats = data["Chat"].tolist()
     
 
-    chain_callers = [get_conversation_chain0, get_conversation_chain1, get_conversation_chain2, get_conversation_chain3, get_conversation_chain4]
+    chain_callers = [get_conversation_chain0, get_conversation_chain1, get_conversation_chain2, get_conversation_chain3, get_conversation_chain4, get_conversation_chain4]
 
-    for i, get_conversation_chain in enumerate(chain_callers[0:1], start=0):
+    for i, get_conversation_chain in enumerate(chain_callers, start=0):
         print(f"Running conversation chain {i}")
+        if(i<5):
+            continue
         initialize(get_conversation_chain)
         summarizer_chain = get_user_summarizer(llm)
         results = []
@@ -446,7 +449,7 @@ if __name__ == "__main__":
                 results_df = pd.DataFrame(results)
 
                 # Save the DataFrame incrementally to the output file
-                # results_df.to_csv(f"./chatbot/chat_generation/results2/app_halli{i}.csv")
+                # results_df.to_csv(f"./chatbot/chat_generation/results2/app_hall{i}.csv")
 
             except Exception as e:
                 print(f"Error processing chat: {chat}")

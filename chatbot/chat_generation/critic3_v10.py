@@ -1089,9 +1089,9 @@ def process_chat_sequence(chat_sequence):
 
 folder_path = "./hall_detect/rag"
 
-ver = "1"
+ver = "2"
 # Example query
-data = pd.read_csv("./chatbot/chat_generation/results2/combined_new.csv")
+data = pd.read_csv("./chatbot/chat_generation/results2/app_hall5_mod.csv")
 data.rename(columns={"Simulated Chat":"Chat"}, inplace=True)
 data.dropna(inplace=True, subset = ["Chat"])
 data.reset_index(inplace=True, drop=True)
