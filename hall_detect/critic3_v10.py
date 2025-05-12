@@ -13,6 +13,7 @@ from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain_community.llms import HuggingFacePipeline
 from transformers import pipeline
 from datetime import datetime
+import copy
 start_time = datetime.now()
 print("Start Time: ", start_time)
 
@@ -49,6 +50,12 @@ def create_rag_qa_chain_with_response_analysis(
         """
         Truncates the response at the first occurrence of the stop token.
         """
+        if isinstance(response, str):
+            response = response.strip()
+        elif hasattr(response, "content"):
+            response = response.content.strip()
+        else:
+            raise TypeError(f"Unsupported response type: {type(response)}")
         if stop_token in response:
             return response.split(stop_token)[0].strip()
         return response.strip()
@@ -87,21 +94,21 @@ def create_rag_qa_chain_with_response_analysis(
 
         # Initialize the LLM for text generation
         callbacks = [StreamingStdOutCallbackHandler()]
-        llm1 = HuggingFacePipeline.from_model_id(
-            model_id="deepseek-ai/DeepSeek-R1-Distill-Llama-8B", #"meta-llama/Meta-Llama-3.1-8B-Instruct",
-            task="text-generation",
-            device=0,  # Use GPU if available
-            callbacks=callbacks,  # For streaming outputs
-            pipeline_kwargs=dict(
-                return_full_text=False,  # Return only the new tokens
-                max_new_tokens=1024,  # Limit the number of generated tokens
-                do_sample=True,  # Enable sampling for varied outputs
-                temperature=0.5,  # Balance randomness and coherence
-                repetition_penalty = 1.02,
-                min_new_tokens=2,
-            ),
-            #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
-        )
+      #   llm1 = HuggingFacePipeline.from_model_id(
+      #       model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",#"deepseek-ai/DeepSeek-R1-Distill-Llama-8B", #
+      #       task="text-generation",
+      #       device=0,  # Use GPU if available
+      #       callbacks=callbacks,  # For streaming outputs
+      #       pipeline_kwargs=dict(
+      #           return_full_text=False,  # Return only the new tokens
+      #           max_new_tokens=1024,  # Limit the number of generated tokens
+      #           do_sample=True,  # Enable sampling for varied outputs
+      #           temperature=0.5,  # Balance randomness and coherence
+      #           repetition_penalty = 1.02,
+      #           min_new_tokens=2,
+      #       ),
+      #       #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
+      #   )
         # llm2 = HuggingFacePipeline.from_model_id(
         #     model_id="meta-llama/Meta-Llama-3.1-70B-Instruct",
         #     task="text-generation",
@@ -116,7 +123,20 @@ def create_rag_qa_chain_with_response_analysis(
         # )
 
         # Set pad_token_id to eos_token_id for proper padding
-        llm1.pipeline.tokenizer.pad_token_id = llm1.pipeline.tokenizer.eos_token_id
+
+        from langchain_google_genai import ChatGoogleGenerativeAI
+        llm1 = ChatGoogleGenerativeAI(
+            model="gemini-2.0-flash",
+            disable_streaming=True,
+            # cache=True,
+            temperature=0.5,  # Balance randomness and coherence
+            max_tokens=1024,  # Limit the number of generated tokens
+            timeout=None,
+            max_retries=2,
+            repetition_penalty=1.02,  # Apply repetition penalty
+            min_new_tokens=3,  # Ensure at least 3 tokens are generated
+         )
+      #   llm1.pipeline.tokenizer.pad_token_id = llm1.pipeline.tokenizer.eos_token_id
         # llm2.pipeline.tokenizer.pad_token_id = llm2.pipeline.tokenizer.eos_token_id
 
         return llm1, llm1
@@ -369,6 +389,8 @@ No inconsistency should be given for the following categories as these do not co
 9. Repeated Inconsistencies  
    If the same inconsistency is repeated multiple times, whether in exact words or with slight modifications, it should be counted as one inconsistency only, and the excess inconsistencies should be removed.
 
+10. Placeholders
+   If the response contains placeholders like [Your Name] or [Your Address], these should not be considered inconsistencies as they are meant to be filled in by the user. However, if the placeholders are used in a way that implies specific information that contradicts the context or history, then it should be flagged as an inconsistency.
 ---
 
 Output Format:
@@ -567,12 +589,16 @@ An inconsistency must be removed if it falls under any of the following conditio
 8. Special details
 - Consumer can also contact the National Consumer Helpline at 1800-11-4000 or UMANG App for for immediate assistance with their consumer grievance. If none of these options work, you can consider filing a complaint with the District Consumer Commission or the State Consumer Dispute Redressal Commission. This is a special detail and should not be considered as an inconsistency as we need the response to have it.
 
+9. Placeholders
+   If the response contains placeholders like [Your Name] or [Your Address], these should not be considered inconsistencies as they are meant to be filled in by the user. However, if the placeholders are used in a way that implies specific information that contradicts the context or history, then it should be flagged as an inconsistency.
+
 Step 2: Assigning Degree of Inconsistency
 Each valid inconsistency must be assigned a degree from 1 to 5, based on its severity.
 
 Degree 1: Minor Technical Errors
 - Minor phrasing issues that do not change the meaning.
 - Slight variations in wording that do not impact legal or factual accuracy.
+- Placeholders mean that the user needs to fill in the details and should not be considered as an inconsistency
 
 Degree 2: Slightly Misleading but Not Harmful
 - Minor misinterpretations that do not affect the overall correctness.
@@ -852,7 +878,7 @@ Input:
                 if(result.strip().startswith("Inconsistencies Present: No") or result.strip().startswith("Inconsistency Present: No")):
                     print("No inconsistencies found in turn ", i)
                     results_dict["modified_analysis"] = ""
-                    outputs["turns"][i] = results_dict
+                    outputs["turns"][i] = copy.deepcopy(results_dict)
                     continue
                 analysis_test.append("\nTurn "+str(i)+ ":\n"+result)
                 # Extract the degree of inconsistency from the result (assuming it's explicitly stated in the result text).
@@ -883,7 +909,7 @@ Input:
                 if found==True:
                     analysis.append(analysis_turn)
                 results_dict["modified_analysis"] = analysis_turn
-                outputs["turns"][i] = results_dict
+                outputs["turns"][i] = copy.deepcopy(results_dict)
             if len(analysis)==0:
                 analysis.append("Turn 1\nInconsistencies Present: No\nTurn 2\nInconsistencies Present: No\n")
             analysis_text = "\n".join(analysis)
@@ -1097,10 +1123,15 @@ data.reset_index(inplace=True, drop=True)
 chats = data["Chat"].to_list()
 
 response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path)
-output_file = "./hall_detect/critic3_v10_deepseek/file_output_v" +ver +".txt"
-final_df_loc = "./hall_detect/critic3_v10_deepseek/result_df_v" +ver +".csv"
-csv_file = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".csv"
-final_var = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".pt"
+# output_file = "./hall_detect/critic3_v10_deepseek/file_output_v" +ver +".txt"
+# final_df_loc = "./hall_detect/critic3_v10_deepseek/result_df_v" +ver +".csv"
+# csv_file = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".csv"
+# final_var = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".pt"
+
+output_file = "./hall_detect/critic3_v10_gemini/file_output_v" +ver +".txt"
+final_df_loc = "./hall_detect/critic3_v10_gemini/result_df_v" +ver +".csv"
+csv_file = "./hall_detect/critic3_v10_gemini/output_df_v" +ver +".csv"
+final_var = "./hall_detect/critic3_v10_gemini/output_df_v" +ver +".pt"
 
 
 with open(output_file, "a") as f:
@@ -1127,7 +1158,8 @@ for chat_no, chat in enumerate(chats[len(df_final):], start=len(df_final)):
     with open(output_file, "a") as f:
             f.write("Chat:-\n" + chat + "\nResult:-" + res['result'] + "\n\n\n\n\n\n")  # Separate each string by a blank line
     print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x")
-
+   #  if len(res['turns'])==0:
+   #      raise ValueError("No turns found in the response.")
 for r in result:
     print(r, "1234")
 

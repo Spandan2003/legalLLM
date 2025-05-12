@@ -12,7 +12,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain_community.llms import HuggingFacePipeline
 from transformers import pipeline
-os.environ["CUDA_VISIBLE_DEVICES"] = "3"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 # langchain.debug = True
 
 def disp_dict(arr):
@@ -48,6 +48,12 @@ def create_rag_qa_chain_with_response_analysis(
         """
         Truncates the response at the first occurrence of the stop token.
         """
+        if isinstance(response, str):
+            response = response.strip()
+        elif hasattr(response, "content"):
+            response = response.content.strip()
+        else:
+            raise TypeError(f"Unsupported response type: {type(response)}")
         if stop_token in response:
             return response.split(stop_token)[0].strip()
         return response.strip()
@@ -86,38 +92,38 @@ def create_rag_qa_chain_with_response_analysis(
 
         # Initialize the LLM for text generation
       callbacks = [StreamingStdOutCallbackHandler()]
-      #   llm1 = HuggingFacePipeline.from_model_id(
-      #       model_id="deepseek-ai/DeepSeek-R1-Distill-Llama-8B", #"meta-llama/Meta-Llama-3.1-8B-Instruct",
-      #       task="text-generation",
-      #       device=0,  # Use GPU if available
-      #       callbacks=callbacks,  # For streaming outputs
-      #       pipeline_kwargs=dict(
-      #           return_full_text=False,  # Return only the new tokens
-      #           max_new_tokens=1024,  # Limit the number of generated tokens
-      #           do_sample=True,  # Enable sampling for varied outputs
-      #           temperature=0.5,  # Balance randomness and coherence
-      #           repetition_penalty = 1.02,
-      #           min_new_tokens=3,
-      #       ),
-      #       #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
-      #   )
+      llm1 = HuggingFacePipeline.from_model_id(
+         model_id="Qwen/Qwen3-14B", #"meta-llama/Meta-Llama-3.1-8B-Instruct",
+         task="text-generation",
+         device=0,  # Use GPU if available
+         callbacks=callbacks,  # For streaming outputs
+         pipeline_kwargs=dict(
+               return_full_text=False,  # Return only the new tokens
+               max_new_tokens=1024,  # Limit the number of generated tokens
+               do_sample=True,  # Enable sampling for varied outputs
+               temperature=0.5,  # Balance randomness and coherence
+               repetition_penalty = 1.02,
+               min_new_tokens=3,
+         ),
+         #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
+      )
       import os
 
-      if "GOOGLE_API_KEY" not in os.environ:
-         os.environ["GOOGLE_API_KEY"] = "AIzaSyBqhVPvfxPIpyv6-4uVqTWEzRUIvi4ecSY"
+      # if "GOOGLE_API_KEY" not in os.environ:
+      #    os.environ["GOOGLE_API_KEY"] = "AIzaSyD5HAUn40LGB9V3DvnKaBKwuDZTq8l47yM"
       
-      from langchain_google_genai import ChatGoogleGenerativeAI
-      llm1 = ChatGoogleGenerativeAI(
-         model="gemini-2.0-flash",
-         disable_streaming=True,
-         # cache=True,
-         temperature=0.5,  # Balance randomness and coherence
-         max_tokens=1024,  # Limit the number of generated tokens
-         timeout=None,
-         max_retries=2,
-         repetition_penalty=1.02,  # Apply repetition penalty
-         min_new_tokens=3,  # Ensure at least 3 tokens are generated
-      )
+      # from langchain_google_genai import ChatGoogleGenerativeAI
+      # llm1 = ChatGoogleGenerativeAI(
+      #    model="gemini-2.0-flash",
+      #    disable_streaming=True,
+      #    # cache=True,
+      #    temperature=0.5,  # Balance randomness and coherence
+      #    max_tokens=1024,  # Limit the number of generated tokens
+      #    timeout=None,
+      #    max_retries=2,
+      #    repetition_penalty=1.02,  # Apply repetition penalty
+      #    min_new_tokens=3,  # Ensure at least 3 tokens are generated
+      # )
 
         # llm2 = HuggingFacePipeline.from_model_id(
         #     model_id="meta-llama/Meta-Llama-3.1-70B-Instruct",
@@ -386,6 +392,8 @@ No inconsistency should be given for the following categories as these do not co
 9. Repeated Inconsistencies  
    If the same inconsistency is repeated multiple times, whether in exact words or with slight modifications, it should be counted as one inconsistency only, and the excess inconsistencies should be removed.
 
+10. Placeholders
+   If the response contains placeholders like [Your Name] or [Your Address], these should not be considered inconsistencies as they are meant to be filled in by the user. However, if the placeholders are used in a way that implies specific information that contradicts the context or history, then it should be flagged as an inconsistency.
 ---
 
 Output Format:
@@ -584,12 +592,16 @@ An inconsistency must be removed if it falls under any of the following conditio
 8. Special details
 - Consumer can also contact the National Consumer Helpline at 1800-11-4000 or UMANG App for for immediate assistance with their consumer grievance. If none of these options work, you can consider filing a complaint with the District Consumer Commission or the State Consumer Dispute Redressal Commission. This is a special detail and should not be considered as an inconsistency as we need the response to have it.
 
+9. Placeholders
+   If the response contains placeholders like [Your Name] or [Your Address], these should not be considered inconsistencies as they are meant to be filled in by the user. However, if the placeholders are used in a way that implies specific information that contradicts the context or history, then it should be flagged as an inconsistency.
+
 Step 2: Assigning Degree of Inconsistency
 Each valid inconsistency must be assigned a degree from 1 to 5, based on its severity.
 
 Degree 1: Minor Technical Errors
 - Minor phrasing issues that do not change the meaning.
 - Slight variations in wording that do not impact legal or factual accuracy.
+- Placeholders mean that the user needs to fill in the details and should not be considered as an inconsistency
 
 Degree 2: Slightly Misleading but Not Harmful
 - Minor misinterpretations that do not affect the overall correctness.
@@ -1781,7 +1793,7 @@ Is there anything else I can help you with?
 # chats.append("")
 for j in range(1):
     print("Loop ", j)
-    for i, chat in enumerate(chats[2:], start=1):
+    for i, chat in enumerate(chats[:], start=1):
         # In 5th (start 0) chat, there is Inconsistencies with the karnataka drc number and email id.
         # Wrong address for Air India Mumbai, and Air India Bangalore; addresses were completely fictional The bot is picking up compensation of Rs 5000-10,000 which is for not informing the flier 24 hours before flight, but the issue at hand is delay in baggage claim; the chatbot is also linking CPGRAMS portal, which is a correct grievance redressal mechanism, however the website is linked wrong, and has not been linked on our sectoral corpus; the chatbot is also linking the rail portal for some reason
         # No hallucination
