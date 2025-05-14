@@ -31,7 +31,8 @@ def create_rag_qa_chain_with_response_analysis(
     folder_path, 
     embedding_model="mixedbread-ai/mxbai-embed-large-v1", 
     llm_model="meta-llama/Meta-Llama-3.1-8B-Instruct", #"microsoft/phi-2", 
-    device="cuda"
+    device="cuda",
+    device_num=0
 ):
     """
     Creates a RetrievalQA chain for analyzing responses based on history, query, and retrieved context.
@@ -90,54 +91,69 @@ def create_rag_qa_chain_with_response_analysis(
 
     # Step 4: Load the LLM
     def get_llm():
-
-
         # Initialize the LLM for text generation
-        callbacks = [StreamingStdOutCallbackHandler()]
-      #   llm1 = HuggingFacePipeline.from_model_id(
-      #       model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",#"deepseek-ai/DeepSeek-R1-Distill-Llama-8B", #
-      #       task="text-generation",
-      #       device=0,  # Use GPU if available
-      #       callbacks=callbacks,  # For streaming outputs
-      #       pipeline_kwargs=dict(
-      #           return_full_text=False,  # Return only the new tokens
-      #           max_new_tokens=1024,  # Limit the number of generated tokens
-      #           do_sample=True,  # Enable sampling for varied outputs
-      #           temperature=0.5,  # Balance randomness and coherence
-      #           repetition_penalty = 1.02,
-      #           min_new_tokens=2,
-      #       ),
-      #       #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
-      #   )
-        # llm2 = HuggingFacePipeline.from_model_id(
-        #     model_id="meta-llama/Meta-Llama-3.1-70B-Instruct",
-        #     task="text-generation",
-        #     device=1,  # Use GPU if available
-        #     callbacks=callbacks,  # For streaming outputs
-        #     pipeline_kwargs=dict(
-        #         return_full_text=True,  # Return only the new tokens
-        #         max_new_tokens=1024,  # Limit the number of generated tokens
-        #         do_sample=True,  # Enable sampling for varied outputs
-        #         temperature=0.7,  # Balance randomness and coherence
-        #     ),
-        # )
-
-        # Set pad_token_id to eos_token_id for proper padding
-
-        from langchain_google_genai import ChatGoogleGenerativeAI
-        llm1 = ChatGoogleGenerativeAI(
-            model="gemini-2.0-flash",
-            disable_streaming=True,
-            # cache=True,
-            temperature=0.5,  # Balance randomness and coherence
-            max_tokens=1024,  # Limit the number of generated tokens
-            timeout=None,
-            max_retries=2,
-            repetition_penalty=1.02,  # Apply repetition penalty
-            min_new_tokens=3,  # Ensure at least 3 tokens are generated
+        if llm_model == "llama3":
+         callbacks = [StreamingStdOutCallbackHandler()]
+         llm1 = HuggingFacePipeline.from_model_id(
+               model_id="meta-llama/Meta-Llama-3.1-8B-Instruct", #
+               task="text-generation",
+               device=device_num,  # Use GPU if available
+               callbacks=callbacks,  # For streaming outputs
+               pipeline_kwargs=dict(
+                  return_full_text=False,  # Return only the new tokens
+                  max_new_tokens=1024,  # Limit the number of generated tokens
+                  do_sample=True,  # Enable sampling for varied outputs
+                  temperature=0.5,  # Balance randomness and coherence
+                  repetition_penalty = 1.02,
+                  min_new_tokens=2,
+               ),
+               #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
+         )
+        elif llm_model == "deepseek":
+            callbacks = [StreamingStdOutCallbackHandler()]
+            llm1 = HuggingFacePipeline.from_model_id(
+                  model_id="deepseek-ai/DeepSeek-R1-Distill-Llama-8B", #
+                  task="text-generation",
+                  device=device_num,  # Use GPU if available
+                  callbacks=callbacks,  # For streaming outputs
+                  pipeline_kwargs=dict(
+                     return_full_text=False,  # Return only the new tokens
+                     max_new_tokens=1024,  # Limit the number of generated tokens
+                     do_sample=True,  # Enable sampling for varied outputs
+                     temperature=0.5,  # Balance randomness and coherence
+                     repetition_penalty = 1.02,
+                     min_new_tokens=2,
+                  ),
+                  #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
+            )
+        elif llm_model == "gemini":
+            from langchain_google_genai import ChatGoogleGenerativeAI
+            llm1 = ChatGoogleGenerativeAI(
+                  model="gemini-2.0-flash",
+                  disable_streaming=True,
+                  # cache=True,
+                  temperature=0.5,  # Balance randomness and coherence
+                  max_tokens=1024,  # Limit the number of generated tokens
+                  timeout=None,
+                  max_retries=500,
+                  repetition_penalty=1.02,  # Apply repetition penalty
+                  min_new_tokens=3,  # Ensure at least 3 tokens are generated
+               )
+        elif llm_model == "gpt4omini":
+            from langchain_openai import OpenAI 
+            callbacks = [StreamingStdOutCallbackHandler()]
+            llm1 = OpenAI(
+            model_name="gpt-4o-mini",
+            temperature=0.5,
+            max_tokens=1024,
+            openai_api_key="",
+            streaming=False,  # Optional
+            callbacks=callbacks  # Optional
          )
       #   llm1.pipeline.tokenizer.pad_token_id = llm1.pipeline.tokenizer.eos_token_id
         # llm2.pipeline.tokenizer.pad_token_id = llm2.pipeline.tokenizer.eos_token_id
+        else:
+            raise ValueError(f"Unsupported LLM model: {llm_model}")
 
         return llm1, llm1
 
@@ -872,8 +888,10 @@ Input:
             analysis = []
             analysis_test = []
             outputs = {"turns": {}}
+            # print("Inputs:", inputs)
             for i, chat_triple in enumerate(chat, start=1):
                 results_dict = chain(chat_triple)
+                # print("Result:", results_dict)
                 result = results_dict["analysis"]
                 if(result.strip().startswith("Inconsistencies Present: No") or result.strip().startswith("Inconsistency Present: No")):
                     print("No inconsistencies found in turn ", i)
@@ -1037,6 +1055,12 @@ Inconsistencies detected: No.
 
             outputs["analysis_combined"] = analysis_text
             outputs["result"] = resul
+            # print("OUTPUTS   abcdefg\n")
+            # print(outputs)
+            # if len(outputs["turns"])==0:
+            #     print("ERROR TURN IS MISSING\n")
+            #     print("Analysis Total: abcdefg\n", analysis)
+            #     print("Analysis Test: abcdefg\n", analysis_test)
             return outputs
             # return {"analysis": analysis_text,"result": }
         # Return a chain wrapping the transformation function
@@ -1067,7 +1091,7 @@ def split_chat_into_elements(chat_sequence):
     """
     # Split the chat sequence into segments using "Human:" and "AI:" as boundaries
     elements = re.split(r"(?<=\n)(?=Human:|AI:)", chat_sequence.strip())
-    return [element.strip().replace("Human:", "User:").replace("AI:", "Chatbot:") for element in elements if element.strip()]
+    return [element.strip().replace("Consumer Grievance Redressal Chatbot:", "AI:").replace("Human:", "User:").replace("AI:", "Chatbot:") for element in elements if element.strip()]
 
 
 def build_history_query_pairs(elements):
@@ -1115,24 +1139,34 @@ def process_chat_sequence(chat_sequence):
 
 folder_path = "./hall_detect/rag"
 
-ver = "1"
+ver = "redone"
 # Example query
 data = pd.read_csv("./hall_detect/data1.csv", index_col=0)
 data.dropna(inplace=True, subset = ["Chat"])
 data.reset_index(inplace=True, drop=True)
+
+
+data_to_be_redone = pd.read_csv("./hall_detect/critic3_v10/result_df_v1.csv", index_col=0)
+data = data[data_to_be_redone["Turns"]=='[]']
+
 chats = data["Chat"].to_list()
+folder = "llama3"
 
-response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path)
-# output_file = "./hall_detect/critic3_v10_deepseek/file_output_v" +ver +".txt"
-# final_df_loc = "./hall_detect/critic3_v10_deepseek/result_df_v" +ver +".csv"
-# csv_file = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".csv"
-# final_var = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".pt"
+response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path, llm_model=folder, device_num=0)
+output_file = "./hall_detect/critic3_v10_deepseek/file_output_v" +ver +".txt"
+final_df_loc = "./hall_detect/critic3_v10_deepseek/result_df_v" +ver +".csv"
+csv_file = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".csv"
+final_var = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".pt"
 
-output_file = "./hall_detect/critic3_v10_gemini/file_output_v" +ver +".txt"
-final_df_loc = "./hall_detect/critic3_v10_gemini/result_df_v" +ver +".csv"
-csv_file = "./hall_detect/critic3_v10_gemini/output_df_v" +ver +".csv"
-final_var = "./hall_detect/critic3_v10_gemini/output_df_v" +ver +".pt"
+# output_file = "./hall_detect/critic3_v10_gemini/file_output_v" +ver +".txt"
+# final_df_loc = "./hall_detect/critic3_v10_gemini/result_df_v" +ver +".csv"
+# csv_file = "./hall_detect/critic3_v10_gemini/output_df_v" +ver +".csv"
+# final_var = "./hall_detect/critic3_v10_gemini/output_df_v" +ver +".pt"
 
+# output_file = "./hall_detect/critic3_v10/file_output_v" +ver +".txt"
+# final_df_loc = "./hall_detect/critic3_v10/result_df_v" +ver +".csv"
+# csv_file = "./hall_detect/critic3_v10/output_df_v" +ver +".csv"
+# final_var = "./hall_detect/critic3_v10/output_df_v" +ver +".pt"
 
 with open(output_file, "a") as f:
     f.write("Start\n\n\n\n\n\n")  
@@ -1148,6 +1182,8 @@ for chat_no, chat in enumerate(chats[len(df_final):], start=len(df_final)):
     print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x")
     print("START CHAT " + str(chat_no))
     res = {'analysis': "Sample analysis text", 'result': "Sample result text", 'logs': "Sample logs text"}
+    # print("Chat: ", chat)
+    # print("Chat Triple: ", process_chat_sequence(chat))
     res = response_analysis_chain.invoke({"chat": process_chat_sequence(chat)})
     disp_dict({'Analysis':res['analysis_combined'], 'Result':res['result']})
     result.append(res['result'])
@@ -1158,8 +1194,7 @@ for chat_no, chat in enumerate(chats[len(df_final):], start=len(df_final)):
     with open(output_file, "a") as f:
             f.write("Chat:-\n" + chat + "\nResult:-" + res['result'] + "\n\n\n\n\n\n")  # Separate each string by a blank line
     print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x")
-   #  if len(res['turns'])==0:
-   #      raise ValueError("No turns found in the response.")
+    
 for r in result:
     print(r, "1234")
 

@@ -3057,19 +3057,19 @@ Human: Thank you!
 
 
 AI: It was my pleasure to assist you with your consumer grievance. I hope you get a resolution to your issue and the compensation you deserve. If you have any more questions or need further assistance, don't hesitate to reach out. Remember to also register your complaint with the National Consumer Helpline (1800-11-4000) for immediate assistance. Take care, and I wish you the best in resolving your issue."
-16,,https://docs.google.com/document/d/1c47ayKw0DUvFTvPjexvGvgqC9hopietiil11U1UPtsA/edit,"﻿Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
-What are the steps to get a refund for a defective product?
-To get a refund for a defective product, I'd like to guide you through the process.
+16,,https://docs.google.com/document/d/1c47ayKw0DUvFTvPjexvGvgqC9hopietiil11U1UPtsA/edit,"﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+Human: What are the steps to get a refund for a defective product?
+AI: To get a refund for a defective product, I'd like to guide you through the process.
 
 
 Can you please tell me what led to the issue with the defective product? Was it damaged during shipping, or was it defective upon delivery, or something else?
-during usage
-So the product became defective during usage. That helps narrow it down.
+Human: during usage
+AI: So the product became defective during usage. That helps narrow it down.
 
 
 Can you please tell me about the product itself? What is the brand name, model number, and approximate purchase date?
-brand name philips. model number BT3101/15. purchase date one week ago
-You purchased a Philips product, model number BT3101/15, about a week ago.
+Human: brand name philips. model number BT3101/15. purchase date one week ago
+AI: You purchased a Philips product, model number BT3101/15, about a week ago.
 
 
 Since the product became defective during usage, you may want to try contacting the customer care of Philips first to report the issue and see if they can assist you with a repair or replacement. If not, we can explore other options.
@@ -3079,8 +3079,8 @@ Can you please tell me what kind of issue is the product experiencing? Is it not
 
 
 Also, do you have the receipt or invoice for the purchase?
-customer care not reachable. it blew a fuse when i was using it. i have the receipt
-I'm sorry to hear that the customer care is unreachable, and the product blew a fuse while in use.
+Human: customer care not reachable. it blew a fuse when i was using it. i have the receipt
+AI: I'm sorry to hear that the customer care is unreachable, and the product blew a fuse while in use.
 
 
 Having the receipt is a good start. Since the product is a Philips item, you can try contacting the Philips customer care through their website or social media channels. If that doesn't work, we can proceed with filing a complaint.
@@ -3090,8 +3090,8 @@ You can also consider visiting the National Consumer Helpline (1800-11-4000) for
 
 
 Before we proceed, I'd like to know what kind of relief are you seeking? Are you looking for a replacement, refund, or something else?
-either replacement or full refund.
-You're seeking either a replacement or a full refund for the defective product.
+Human: either replacement or full refund.
+AI: You're seeking either a replacement or a full refund for the defective product.
 
 
 As the customer care is unreachable, we can consider filing a complaint with the National Consumer Disputes Redressal Commission (NCDRC) or the State Consumer Dispute Redressal Commission (SCDRC) depending on the location.
@@ -3104,25 +3104,25 @@ Additionally, I can also provide you with the contact details of the National Co
 
 
 Please let me know which option you prefer.
-ok provide me the details first.
-Here are the details:
+Human: ok provide me the details first.
+AI: Here are the details:
 
 
-**Draft of a Legal Notice:**
+*Draft of a Legal Notice:*
 
 
 A legal notice is a formal communication that notifies the opposing party (in this case, Philips) of your intention to file a complaint. Here's a sample draft:
 
 
-**To:**
+*To:*
 [Philips Customer Care/Philips India Pvt. Ltd.]
 [Address]
 
 
-**Subject: Defective Product - Replacement or Refund Request**
+*Subject: Defective Product - Replacement or Refund Request*
 
 
-**Date:** [Current Date]
+*Date:* [Current Date]
 
 
 Dear Sir/Madam,
@@ -3141,22 +3141,22 @@ Sincerely,
 [Your Name]
 
 
-**Please note that this is a sample draft, and you should modify it according to your specific situation.**
+*Please note that this is a sample draft, and you should modify it according to your specific situation.*
 
 
-**National Consumer Helpline (NCH):**
+*National Consumer Helpline (NCH):*
 
 
 You can contact the NCH at 1800-11-4000 (available 24/7) or 1915 (available on all days except national holidays, 8:00 AM to 8:00 PM). They can guide you on the next steps to take.
 
 
-**e-daakhil Portal:**
+*e-daakhil Portal:*
 
 
 You can file your complaint online at edaakhil.nic.in/user/signup.php. You will need to create an account and follow the online process to file your complaint.
 
 
-**State Consumer Dispute Redressal Commission (SCDRC):**
+*State Consumer Dispute Redressal Commission (SCDRC):*
 
 
 You can contact your state's SCDRC for further assistance. Here are the contact details for some states:
@@ -3172,11 +3172,11 @@ Please note that these numbers are subject to change, and you should verify them
 
 
 Let me know if you have any questions or if you'd like me to help with anything else.
-No provide me details of National Consumer Helpline and edaakhil first
-Here are the details of the National Consumer Helpline and the e-daakhil portal:
+Human: No provide me details of National Consumer Helpline and edaakhil first
+AI: Here are the details of the National Consumer Helpline and the e-daakhil portal:
 
 
-**National Consumer Helpline:**
+*National Consumer Helpline:*
 
 
 * Phone Number: 1800-11-4000 (toll-free)
@@ -3188,7 +3188,7 @@ Here are the details of the National Consumer Helpline and the e-daakhil portal:
 You can contact the National Consumer Helpline for immediate assistance with your consumer-related issues.
 
 
-**e-daakhil Portal:**
+*e-daakhil Portal:*
 
 
 * Website: edaakhil.nic.in/user/signup.php
@@ -3211,11 +3211,11 @@ Please note that the e-daakhil portal is a government initiative to facilitate o
 
 
 Let me know if you need any further assistance or if you'd like to proceed with filing a complaint on the e-daakhil portal.
-can you show me example of edaakhil complaint
-Here's an example of a complaint that you can file on the e-daakhil portal:
+Human: can you show me example of edaakhil complaint
+AI: Here's an example of a complaint that you can file on the e-daakhil portal:
 
 
-**Complainant's Details:**
+*Complainant's Details:*
 
 
 * Name: [Your Name]
@@ -3224,7 +3224,7 @@ Here's an example of a complaint that you can file on the e-daakhil portal:
 * Email ID: [Your Email ID]
 
 
-**Opposite Party's Details:**
+*Opposite Party's Details:*
 
 
 * Name: Philips India Pvt. Ltd.
@@ -3233,7 +3233,7 @@ Here's an example of a complaint that you can file on the e-daakhil portal:
 * District: [District]
 
 
-**Complaint Details:**
+*Complaint Details:*
 
 
 * Product/Service: Philips BT3101/15 (Soundbar)
@@ -3243,13 +3243,13 @@ Here's an example of a complaint that you can file on the e-daakhil portal:
 * Amount Paid: [Amount Paid]
 
 
-**Description of the Complaint:**
+*Description of the Complaint:*
 
 
 I, [Your Name], am filing this complaint against Philips India Pvt. Ltd. for the defective product BT3101/15 (Soundbar). The product blew a fuse while in use and is not functional. Despite multiple attempts to contact the customer care, I have been unable to reach them. I request that the company replace the defective product or provide a full refund.
 
 
-**Attachments:**
+*Attachments:*
 
 
 * Copy of the receipt
@@ -3257,26 +3257,26 @@ I, [Your Name], am filing this complaint against Philips India Pvt. Ltd. for the
 * Any other relevant documents
 
 
-**Relief Sought:**
+*Relief Sought:*
 
 
 * Replacement of the defective product
 * Full refund of the amount paid
 
 
-**Verification:**
+*Verification:*
 
 
 I, [Your Name], hereby verify that the information provided in this complaint is true to the best of my knowledge and belief.
 
 
-**Signature:**
+*Signature:*
 
 
 [Your Signature]
 
 
-**Note:**
+*Note:*
 
 
 Please note that this is just an example, and you should fill in the details accordingly. You can also attach any other relevant documents or evidence to support your complaint.
@@ -3286,8 +3286,8 @@ Also, please keep in mind that the e-daakhil portal may have its own format and 
 
 
 Let me know if you need any further assistance or if you'd like to proceed with filing a complaint on the e-daakhil portal.
-how do i track the status of my complaint. and is there any in-person process after filing edaakhil?
-**Tracking the Status of Your Complaint:**
+Human: how do i track the status of my complaint. and is there any in-person process after filing edaakhil?
+AI: *Tracking the Status of Your Complaint:*
 
 
 After filing a complaint on the e-daakhil portal, you can track the status of your complaint online. Here's how:
@@ -3303,7 +3303,7 @@ After filing a complaint on the e-daakhil portal, you can track the status of yo
 You can also receive updates on your complaint through SMS or email, if you have provided your mobile number and email ID while filing the complaint.
 
 
-**In-Person Process:**
+*In-Person Process:*
 
 
 Yes, there is an in-person process after filing a complaint on the e-daakhil portal. Once your complaint is filed, you may be required to appear in person at the District Consumer Dispute Redressal Forum (DCDRF) or the State Consumer Dispute Redressal Commission (SCDRC) for further proceedings.
@@ -3319,7 +3319,7 @@ Here's a general outline of the in-person process:
 5. The DCDRF or SCDRC will then pass an order, which may be in your favor or against you.
 
 
-**Physical Hearing at the DCDRF or SCDRC:**
+*Physical Hearing at the DCDRF or SCDRC:*
 
 
 If you are required to appear in person at the DCDRF or SCDRC, you should:
@@ -3335,7 +3335,7 @@ If you are required to appear in person at the DCDRF or SCDRC, you should:
 Please note that the in-person process may vary depending on the specific case and the jurisdiction. It's always a good idea to check with the DCDRF or SCDRC for specific instructions and requirements.
 
 
-Let me know if you have any further questions or if there's anything else I can help you with."
+Let me know if you have any further questions or if there's anything else I can help you with."
 17,"No It keeps asking me if I'd like to draft a complaint for the national consumer helpline, instead of the procedure on edaakhil",,
 18,"made up the website, address, email and phone of the bengaluru district consumer disputes redressal forum gave a slightly wrong website for filing consumer grienance at the fssai portal",https://docs.google.com/document/d/1-0nFp9OffwhycjF9rsjAzmYGxZBZZWryOuqOmnPgyqI/edit?usp=sharing,"﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
@@ -15570,47 +15570,47 @@ Remember, you can also contact the National Consumer Helpline (1800-11-4000) or 
 
 
 Have a great day!"
-94,"I provided a made-up delivery tracking number and the bot reported back that it was ""out for delivery since the last three days"". No",https://docs.google.com/document/d/10jY_ajBZ0as9vMZdZESQ7N_biH5e3PrcgsT8WqxOPK0/edit?usp=sharing,"﻿Consumer Grievance Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+94,"I provided a made-up delivery tracking number and the bot reported back that it was ""out for delivery since the last three days"". No",https://docs.google.com/document/d/10jY_ajBZ0as9vMZdZESQ7N_biH5e3PrcgsT8WqxOPK0/edit?usp=sharing,"﻿Consumer Grievance Redressal Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: I sent a birthday gift through DTDC Speed Post from Mumbai to Delhi last week, but my friend has still not received it. The tracking status shows 'out for delivery' for the past three days. What should I do?
-Consumer Grievance Chatbot: Thank you for sharing your concern. I'd be happy to help you with this issue.
+Consumer Grievance Redressal Chatbot: Thank you for sharing your concern. I'd be happy to help you with this issue.
 To better assist you, can you please provide me with the tracking ID of the consignment so that I can help you track the status more accurately? Additionally, have you tried contacting DTDC's customer care yet?
 User: The tracking ID is 1289437748941. I have contacted the customer service, but they don’t pick up.
-Consumer Grievance Chatbot: I apologize for the inconvenience you're facing with the unresponsive customer service.
+Consumer Grievance Redressal Chatbot: I apologize for the inconvenience you're facing with the unresponsive customer service.
 Given that the tracking status is showing ""out for delivery"" for the past three days, it's likely that there's an issue with the delivery. Since you've already contacted the customer service and they're not responding, let's explore other options.
 You can try sending a complaint to the concerned Post Office in Delhi where your friend is supposed to receive the package. You can also consider approaching the Chief Postmaster General of the respective circle of the state. Would you like me to provide you with the contact information for the same?
 User: Yes, please.
-Consumer Grievance Chatbot: To file a complaint, you can visit the concerned Post Office in Delhi where your friend is supposed to receive the package. You can also register a complaint online on the India Post website: India Post Complaint Registration.
+Consumer Grievance Redressal Chatbot: To file a complaint, you can visit the concerned Post Office in Delhi where your friend is supposed to receive the package. You can also register a complaint online on the India Post website: India Post Complaint Registration.
 If the complaint is not resolved, you can approach the Chief Postmaster General of the respective circle of the state. You can find the contact details of the Chief Postmaster General of various states on the following link: Chief Postmaster General Contact Information
 Additionally, you can also contact the National Consumer Helpline (1800-11-4000) for immediate assistance. They can guide you on the next steps to take.
 Before we proceed further, is there anything else you'd like help with or any other questions you have regarding this issue?"
-95,No.  No. ,https://docs.google.com/document/d/10lpS4wOzfW_mHlNphxCJ1wydSPjPPD5xOXAM--e2blk/edit?usp=sharing,"﻿Consumer Grievance Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+95,No.  No. ,https://docs.google.com/document/d/10lpS4wOzfW_mHlNphxCJ1wydSPjPPD5xOXAM--e2blk/edit?usp=sharing,"﻿Consumer Grievance Redressal Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: I ordered a new laptop online and chose express delivery with DTDC, but it's been a week and the parcel hasn't arrived yet. The tracking system shows it’s still at the Mumbai sorting center.
-Consumer Grievance Chatbot: Thank you for sharing your concern. To help me better understand the issue, can you please tell me what led to this problem? Was there a specific reason you chose DTDC for express delivery, and did you receive any updates from them regarding the delay?
+Consumer Grievance Redressal Chatbot: Thank you for sharing your concern. To help me better understand the issue, can you please tell me what led to this problem? Was there a specific reason you chose DTDC for express delivery, and did you receive any updates from them regarding the delay?
 User: I chose DTDC for express delivery because they offered the fastest shipping option available, and I needed the laptop urgently for a work project. I haven't received any updates from them about the delay; the last update was that the parcel was at the Mumbai sorting center, but that was five days ago.
-Consumer Grievance Chatbot: It seems like the delay has caused you inconvenience, especially since you needed the laptop urgently for a work project.
+Consumer Grievance Redressal Chatbot: It seems like the delay has caused you inconvenience, especially since you needed the laptop urgently for a work project.
 Can you please provide me with the contact details of DTDC, such as their physical address and landline telephone number? Also, have you tried contacting their customer care or tracking the parcel again to see if there's any update on its status?
 User: No update on the same. I don’t have the contact details of DTDC.
-Consumer Grievance Chatbot: Not having the contact details can make it challenging to reach out to them directly.
+Consumer Grievance Redressal Chatbot: Not having the contact details can make it challenging to reach out to them directly.
 In this case, I would suggest you try contacting DTDC's customer care through their website or social media handles. You can also try checking their website for a contact page or a customer care number.
 Additionally, you can try contacting the e-commerce website where you ordered the laptop from, as they may be able to assist you in resolving the issue or escalating it to DTDC.
 If you're not satisfied with the response from DTDC, you can also consider filing a complaint with the National Consumer Helpline (1800-11-4000) for assistance.
 Would you like me to provide you with more information on how to file a complaint with the National Consumer Helpline or the e-daakhil portal?"
-96,No.  No. ,https://docs.google.com/document/d/11Jen1LFgQQAYpKsWOqeTuD9O_3a4LaTMJ5igoNpZHf8/edit?usp=sharing,"﻿Consumer Grievance Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+96,No.  No. ,https://docs.google.com/document/d/11Jen1LFgQQAYpKsWOqeTuD9O_3a4LaTMJ5igoNpZHf8/edit?usp=sharing,"﻿Consumer Grievance Redressal Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: Last month, I sent a crucial business contract via India Post’s registered mail from Hyderabad to Chennai. The recipient received an empty envelope with no contract inside. What steps can I take to resolve this issue?
-Consumer Grievance Chatbot: Thank you for sharing your concern. I'd like to help you resolve this issue.
+Consumer Grievance Redressal Chatbot: Thank you for sharing your concern. I'd like to help you resolve this issue.
 To start, can you please provide me with the tracking ID of the registered mail you sent, so I can help you track the status of the shipment and guide you further?
 User: The tracking ID is TAS783223264.
-Consumer Grievance Chatbot: I've noted down the tracking ID.
+Consumer Grievance Redressal Chatbot: I've noted down the tracking ID.
 Next, since the recipient received an empty envelope, I would recommend that you contact the concerned Post Office where you sent the registered mail from Hyderabad. They might be able to help you locate the missing contract or provide more information about the shipment. You can also try contacting the Customer Care Center of the Circle or Zonal area for further assistance.
 Would you like me to provide you with the link to register a complaint on the India Post website, or would you like me to guide you on how to contact the Post Office directly?
 User: I already talked to them - they were super unresponsive and unhelpful.
-Consumer Grievance Chatbot: It can be frustrating when dealing with unresponsive customer service.
+Consumer Grievance Redressal Chatbot: It can be frustrating when dealing with unresponsive customer service.
 In that case, let's explore other options. You can register a complaint on the India Post website using the link: India Post Complaint Registration. This will help create a record of your issue and may prompt a more formal investigation.
 Additionally, you can also reach out to the Chief Post Master General of the concerned state, as they may be able to provide more assistance. The contact details of the Chief Post Master General of various states can be found on the following link: Chief Post Master General Contact Information
 If the issue is not resolved even after these steps, you can consider taking the matter to the national level by contacting the Deputy Director General (DDG) in the Central Office, DAK Bhavan. The contact details of the various officers can be found on the following link: Directory of Employees
 Before we proceed further, would you like me to help you draft a complaint letter or notice to be sent to the concerned authorities?
 User: Yeah, could you draft a complaint that I can use to reach out to the Chief Post Master General?
-Consumer Grievance Chatbot: Here's a draft complaint letter you can use as a template:
+Consumer Grievance Redressal Chatbot: Here's a draft complaint letter you can use as a template:
 Complaint Letter
 [Your Name]
 [Your Address]
@@ -15639,22 +15639,22 @@ Sincerely,
 Please note that you should fill in the brackets with your actual details. Also, you may want to keep a copy of the complaint letter for your records.
 Before sending the complaint, would you like me to provide you with the contact details of the Chief Post Master General of the concerned state?
 User: Yes, please provide me with the details.
-Consumer Grievance Chatbot: You can find the contact details of the Chief Post Master General of various states on the following link: Chief Post Master General Contact Information
+Consumer Grievance Redressal Chatbot: You can find the contact details of the Chief Post Master General of various states on the following link: Chief Post Master General Contact Information
 Please select your state from the list and click on the link to find the contact details of the Chief Post Master General.
 Additionally, you can also reach out to the National Consumer Helpline (1800-11-4000) or use the UMANG App for immediate assistance. If you need a location-based helpline number, I can provide that as well.
 Is there anything else I can help you with?"
-97,No.  No. ,https://docs.google.com/document/d/12l0VliSMZUNngJHN64obJCjhhnxG-4grTRll30DTqoA/edit?usp=sharing,"﻿Consumer Grievance Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+97,No.  No. ,https://docs.google.com/document/d/12l0VliSMZUNngJHN64obJCjhhnxG-4grTRll30DTqoA/edit?usp=sharing,"﻿Consumer Grievance Redressal Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: After upgrading to a new broadband plan promising 100 Mbps speeds, my connection barely reaches 20 Mbps, and the service provider has not responded to my complaints. What can I do to address this issue?
-Consumer Grievance Chatbot: Thank you for sharing your concern. To better understand the situation, can you please tell me what led to this issue? Was it a recent change in your plan, or was it always slow?
+Consumer Grievance Redressal Chatbot: Thank you for sharing your concern. To better understand the situation, can you please tell me what led to this issue? Was it a recent change in your plan, or was it always slow?
 User: No change in plan. Initially worked fine, but randomly became slow.
-Consumer Grievance Chatbot: It's possible that there's an issue with the service provider's network or equipment. Have you contacted the service provider's customer care number or visited their office to report the issue, and if so, what was their response?
+Consumer Grievance Redressal Chatbot: It's possible that there's an issue with the service provider's network or equipment. Have you contacted the service provider's customer care number or visited their office to report the issue, and if so, what was their response?
 User: Yes, but they have not been responsive and dismissed my concern.
-Consumer Grievance Chatbot: That's frustrating. In this case, you may want to consider filing a formal complaint with the service provider. I can help you with that. Before we proceed, would you like me to guide you through drafting a complaint letter or would you like to file a complaint through the National Consumer Helpline (1800-11-4000) or the UMANG App?
+Consumer Grievance Redressal Chatbot: That's frustrating. In this case, you may want to consider filing a formal complaint with the service provider. I can help you with that. Before we proceed, would you like me to guide you through drafting a complaint letter or would you like to file a complaint through the National Consumer Helpline (1800-11-4000) or the UMANG App?
 User: Sure.
-Consumer Grievance Chatbot: I can assist you in drafting a complaint letter. To begin with, I'll need some more information. Can you please provide me with the service provider's name, your account details (if you're comfortable sharing), and any communication you've had with them so far (e.g., dates, times, and the specific responses they've given)? This will help me create a clear and effective complaint letter.
+Consumer Grievance Redressal Chatbot: I can assist you in drafting a complaint letter. To begin with, I'll need some more information. Can you please provide me with the service provider's name, your account details (if you're comfortable sharing), and any communication you've had with them so far (e.g., dates, times, and the specific responses they've given)? This will help me create a clear and effective complaint letter.
 Also, what kind of relief are you seeking from the service provider? For example, do you want them to upgrade your plan, provide a refund, or ensure that your speeds are restored to the promised level?
 User: Airtel, it’s registered on my phone number 9817236733. I called them twice last week.
-Consumer Grievance Chatbot: I've noted down the details. Based on the information you've provided, I'll draft a sample complaint letter that you can use as a template. Here's a draft:
+Consumer Grievance Redressal Chatbot: I've noted down the details. Based on the information you've provided, I'll draft a sample complaint letter that you can use as a template. Here's a draft:
 Complaint Letter
 [Your Name]
 [Your Address]
@@ -15680,31 +15680,31 @@ Sincerely,
 Please review and modify the draft as per your requirements. If you're satisfied, you can use this as a template to send a formal complaint to Airtel.
 Additionally, I would recommend filing a complaint through the National Consumer Helpline (1800-11-4000) or the UMANG App for immediate assistance.
 Would you like me to guide you through the process of filing a complaint through the National Consumer Helpline or the UMANG App?"
-98,"No.  Yes, since this problem would fall outside the scope of consumer law - it should not have asked me to reach out to consumer law tribunals.",https://docs.google.com/document/d/13DGplCqyOtqDdZ4bb_esrDVALOihVdxnvqbFLLV5E1Q/edit?usp=sharing,"﻿Consumer Grievance Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+98,"No.  Yes, since this problem would fall outside the scope of consumer law - it should not have asked me to reach out to consumer law tribunals.",https://docs.google.com/document/d/13DGplCqyOtqDdZ4bb_esrDVALOihVdxnvqbFLLV5E1Q/edit?usp=sharing,"﻿Consumer Grievance Redressal Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: I recently updated my address in my Aadhaar profile, but my Aadhaar letter still has the old address and I haven't received any confirmation of the update.
-Consumer Grievance Chatbot: Thank you for sharing your concern. To better assist you, can you please tell me what led to this issue? Was the update done online, through a physical visit to the enrollment center, or through some other means?
+Consumer Grievance Redressal Chatbot: Thank you for sharing your concern. To better assist you, can you please tell me what led to this issue? Was the update done online, through a physical visit to the enrollment center, or through some other means?
 User: I submitted the address update request online through the UIDAI website about three weeks ago. I received a confirmation email with a reference number, but the Aadhaar letter still shows my old address and I haven't received any further info.
-Consumer Grievance Chatbot: It seems like there might be some delay or issue with the update. Can you please provide me with the reference number you received in the confirmation email? This will help me assist you better. Additionally, have you tried contacting the UIDAI helpline number (1800-300-1947) to see if they can provide any update on your request?
+Consumer Grievance Redressal Chatbot: It seems like there might be some delay or issue with the update. Can you please provide me with the reference number you received in the confirmation email? This will help me assist you better. Additionally, have you tried contacting the UIDAI helpline number (1800-300-1947) to see if they can provide any update on your request?
 User: The reference number is 1234-5678-9101.
-Consumer Grievance Chatbot: Thank you for providing the reference number. Since you've already contacted the UIDAI helpline number, I'd like to suggest that you follow up with them again to inquire about the status of your address update request. You can also try contacting them through email at help@uidai.gov.in or through their website.
+Consumer Grievance Redressal Chatbot: Thank you for providing the reference number. Since you've already contacted the UIDAI helpline number, I'd like to suggest that you follow up with them again to inquire about the status of your address update request. You can also try contacting them through email at help@uidai.gov.in or through their website.
 User: I have already contacted them on mail. Nobody responded.
-Consumer Grievance Chatbot: It's unfortunate that you haven't received a response from UIDAI via email. In this case, you may want to consider filing a complaint with the National Consumer Helpline (1800-11-4000) or through the UMANG App, as they can assist you in escalating your issue and provide further guidance. They may also be able to help you reach out to the relevant authorities at UIDAI.
+Consumer Grievance Redressal Chatbot: It's unfortunate that you haven't received a response from UIDAI via email. In this case, you may want to consider filing a complaint with the National Consumer Helpline (1800-11-4000) or through the UMANG App, as they can assist you in escalating your issue and provide further guidance. They may also be able to help you reach out to the relevant authorities at UIDAI.
 Additionally, if you're not satisfied with the response from UIDAI, you may want to consider taking your issue to the State Consumer Dispute Redressal Commission (SCDRC) or the National Consumer Dispute Redressal Commission (NCDRC) for further assistance.
 Would you like me to guide you through the process of filing a complaint with the National Consumer Helpline or the SCDRC/NCDRC?"
-99,No.  No.,https://docs.google.com/document/d/13Ws2ox2N2MmGWHWELrtJlYtUneB1reXmXrAb15gqsWI/edit?usp=sharing,"﻿Consumer Grievance Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+99,No.  No.,https://docs.google.com/document/d/13Ws2ox2N2MmGWHWELrtJlYtUneB1reXmXrAb15gqsWI/edit?usp=sharing,"﻿Consumer Grievance Redressal Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: I subscribed to a software suite advertised as offering advanced data analytics tools, but after purchasing, I discovered that these features are only available in a higher-tier plan. The advertisement did not specify this limitation.
-Consumer Grievance Chatbot: Thank you for sharing your concern. I'd be happy to help you with this issue. Can you please tell me what you would like to do about this situation? Would you like to seek a refund or compensation, or would you like to ask the company to upgrade your plan to the higher tier?
+Consumer Grievance Redressal Chatbot: Thank you for sharing your concern. I'd be happy to help you with this issue. Can you please tell me what you would like to do about this situation? Would you like to seek a refund or compensation, or would you like to ask the company to upgrade your plan to the higher tier?
 User: I would like them to give me those features, otherwise refund.
-Consumer Grievance Chatbot: You're seeking the promised features or a refund. That's a valid expectation. Can you please provide me with more information about the company, such as their name and contact details? And also, have you already reached out to them regarding this issue, and if so, what was their response?
+Consumer Grievance Redressal Chatbot: You're seeking the promised features or a refund. That's a valid expectation. Can you please provide me with more information about the company, such as their name and contact details? And also, have you already reached out to them regarding this issue, and if so, what was their response?
 User: The company’s name is TechPro Solutions, and their contact details are as follows:
 * Phone Number: 1800-555-1234
 * Email: support@techprosolutions.in
 * Website: www.techprosolutions.in
 I contacted them last week via email to report the issue, but I received an automated response stating that my query is being processed, and I have not heard back from a representative since.
-Consumer Grievance Chatbot: It seems like you've already made a good start by reaching out to the company via email. However, not receiving a response from a representative can be frustrating.
+Consumer Grievance Redressal Chatbot: It seems like you've already made a good start by reaching out to the company via email. However, not receiving a response from a representative can be frustrating.
 Considering this, I would recommend drafting a formal complaint letter to TechPro Solutions, stating the issue and the expected resolution. Would you like me to help you draft a sample letter? This will help you clearly communicate your concern and provide a paper trail for future reference.
 User: Sure.
-Consumer Grievance Chatbot: Here’s a sample draft letter:
+Consumer Grievance Redressal Chatbot: Here’s a sample draft letter:
 ________________
 
 
@@ -18838,7 +18838,9 @@ Human: No, thank you
 
 
 Consumer Grievance Redressal Chatbot: It was my pleasure to assist you. I hope you're able to resolve the issue with the library successfully. If you have any other consumer-related issues or concerns in the future, don't hesitate to reach out. Have a great day!"
-127,No No,https://docs.google.com/document/d/1y8rkJMdO0Lqc9hH5TNsPvyMlSZfhIQB5Y3tJ5PqF-aE/edit,"﻿Human: i bought a stove 5 years ago and it stopped working in 2020. we didnt use it back then so it wasnt an issue but i want a replacement now
+127,No No,https://docs.google.com/document/d/1y8rkJMdO0Lqc9hH5TNsPvyMlSZfhIQB5Y3tJ5PqF-aE/edit,"﻿Consumer Grievance Redressal Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+
+Human: i bought a stove 5 years ago and it stopped working in 2020. we didnt use it back then so it wasnt an issue but i want a replacement now
 
 
 Consumer Grievance Redressal Chatbot: It seems like you're facing an issue with a stove you purchased 5 years ago, which stopped working in 2020. However, since it wasn't being used at that time, it wasn't an issue then.

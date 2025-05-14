@@ -1,0 +1,309 @@
+nohup: ignoring input
+/raid/nlp/common_user/spandan/legalLLM/chatbot/chat_generation/critic3_v10.py:858: LangChainDeprecationWarning: The method `BaseRetriever.get_relevant_documents` was deprecated in langchain-core 0.1.46 and will be removed in 1.0. Use :meth:`~invoke` instead.
+  context_docs = self.retriever.get_relevant_documents(reformulated_query)
+Start Time:  2025-05-14 13:24:53.289331
+Starting from 0
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+START CHAT 0
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+can   take   the   following   steps   to   claim   compensation: Send   a   Notice:   The   individual   can   send   a   formal   notice   to   the   service   provider   or   seller .   This   notice   should   detail: ● The   defects   in   the   goods   or   services   or   the   deficiencies   in   the   service ● The   individual's   intention   to   pursue   legal   action   if   the   service   provider   fails   to   offer   compensation This   step   allows   the   service   provider   an   opportunity   to   rectify   the   issue   or   offer   compensation,   potentially   resolving   the   dispute   without   the   need   for   litigation.”_ Questions:   “Can   I   be   asked   to   waive   the   claim   under   the   Act?”   Answer:   “   Waiving   a   claim   under   the   Consumer   Protection   Act,   2019   (CPA   2019),   may   be   deemed   unfair   as   per   the   broad   definition   of   unfair   contracts   outlined   in   the   Act.   Additionally ,
+Document 1:
+the   Consumer   Protection   Act,   2019   (CPA   2019),   may   be   deemed   unfair   as   per   the   broad   definition   of   unfair   contracts   outlined   in   the   Act.   Additionally ,   agreements   that   restrict   legal   proceedings,   such   as   those   preventing   parties   from   enforcing   their   rights   or   limiting   the   time   to   do   so,   are   void   under   the   Indian   Contract   Act,   1872,   and   thus   unenforceable.   While   the   issue   of   waiving   claims   has   not   been   tested   in   court,   contractual   language   regarding   such   waivers   should   be   carefully   examined   to   avoid   potential   unenforceability   under   both   the   CPA   2019   and   Indian   contract   law.”   — Question:   “How   do   I   get   my   consumer   grievances   addressed?” Answer:    “To   address   your   consumer   grievance,   you   have   a   few   options.   You   can: ● Directly   send   a   notice   to   the   product
+Document 2:
+The service provide time of booking can be varied and depend upon its availability with the company. The same is usually declared on the website by the company at the time of providing services. 7. If a consumer hired the agency but didn’t make payment, can he complain against it? If the work order is accepted by the company and assured the consumer for completion, even if the amount is not paid but it was “promise to pay” he can complain to the company in writing, and if no response received, he may move to the consumer commission. 8. What will you suggest if the consumer has booked the banquet hall before lockdown and after lockdown the agency denies to refund? In that case, the consumer needs to go through the guidelines of the particular state for the same, whether the booking has been cancelled and the amount has to be refunded to the consumer, or, booking will be extended till a specific time period. 9. If a consumer is not satisfied with the company response/not responding in
+Document 3:
+fails to comply with the terms and conditions mentioned in the legal notice or disagrees to compensate for the loss caused, the complainant has the right to file a legal complaint in the Consumer forum. It is pertinent to state that, sending of legal notice is not mandatory and therefore, a complainant has the right to directly approach respective consumer forum for filing of complaint. When complaints won’t be accepted? Limitation period to file Consumer Complaint- As per Section 35 of the Act, a consumer complaint must be filed to respective District Forum within a span of two years from the date on which the cause of action or deficiency in service or defect in goods arises. Nevertheless, the law permits the Consumer or aggrieved to file a complaint even after the statutory period of two years if the District Forum is satisfied that the complainant has genuine and valid reasons for not filing the complaint within the specified time period. What is the regulatory body? Consumer
+Document 4:
+to redress such complaint within one month from the receipt date of the complaint. And such e-commerce entities have to appoint a grievance officer for the purpose of consumer grievance redressal. 2. Approaching the National Consumer Helpline https://consumerhelpline.gov .in/#:~:text=%232990100%20%2D%20Excellent.,and%20resolving %20at%20the%20earliest . For Grievances Related to Cyber Financial Fraud Only - 1930 or visit www.cybercrime.gov .in For Grievance Related to Bureau of Indian Standards (BIS) www.bis.gov.in . 3. Approaching any other appropriate judicial or quasi-judicial body: The complainant is free to take the service provider to a court or any other suitable venue (judicial or quasi-judicial). The proceedings in consumer commissions are not mired by the niceties of procedure, allowing the complainant to file a complaint for himself. As a consumer, the aggrieved party can take the service provider to the appropriate consumer commission, based on the pecuniary and
+Document 5:
+the   deficiency   in   service   or   defect   in   goods   is   detected.   It's   also   referred   to   as   the   limitation   period.   However ,   the   law   allows   consumers   to   file   complaints   even   after   this   period   if   the   District   Forum   deems   the   reasons   for   the   delay   genuine   and   valid.”   _ Question:   “How   to   make   the   payment   of   the   Court   fee?”   Answer:   “The   court   fee   for   every   complaint   filed   before   the   District   Commission,   State   Commission,   or   National   Commission   must   be   accompanied   by   a   fee   specified.   This   fee   should   be   in   the   form   of   a   crossed   Demand   Draft   drawn   on   a   nationalized   bank   or   through   a   crossed   Indian   Postal   Order   drawn   in   favor   of   the   Registrar   of   the   respective   Commission.   The   payment   should   be   payable   at   the   place   where   the   Commission   is   situated.   The
+Document 6:
+Order   drawn   in   favor   of   the   Registrar   of   the   respective   Commission.   The   payment   should   be   payable   at   the   place   where   the   Commission   is   situated.   The   concerned   District   Commission   shall   deposit   the   received   amount.” _Question:   “   What   reliefs   or   remedies   are   provided   by   the   consumer   commission?” Answer:   “Consumer   commissions   can   provide   the   following   reliefs   and   remedies   under   the   Consumer   Protection   Act,   2019: 1. Compensation:   Grant   compensation   to   consumers   for   harm   caused   by   product   liability   issues. 2. Directive   to   Manufacturers,   Service   Providers,   and   Sellers:   Issue   directives   to: ○ Remove   defects   from   goods. ○ Replace   goods. ○ Refund   the   price   paid   along   with   any   interest. ○ Remove   defects   or   deficiencies   in   services. ○ Award   compensation   for   loss   or   injury . ○ Discontinue   and   not
+Document 7:
+lock image’ in its URL. ● Read the fine print (terms and conditions) carefully before hiring an agency. 4. If a consumer has paid for a service but the agency did not provide it, can he apply for a refund? If the consumer applied and paid the amount then Company is not providing the services properly as promised, in that case, the consumer can demand a refund, as per the company policy.5. Can one ask for compensation if services are provided later than asked for? If one is faced with an immediate or actual loss due to the services not being provided, he can seek compensation under Consumer Protection Act by filing a complaint in a consumer commission, as there is no regulatory body in India which handles consumer grievances in this sector. 6. Is there any time limit to provide the services? The service provide time of booking can be varied and depend upon its availability with the company. The same is usually declared on the website by the company at the time of providing services. 7.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+chat_history    abcdefghijk
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The chatbot introduces itself as a consumer grievance assistance tool and asks the user how it can help. The user states that they are an employee whose salary hasn't been paid for two months and asks if the Consumer Protection Act can be used to resolve the issue.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+I am an employee at a company, and my salary hasn't been paid for two months. Can I use the Consumer Protection Act to resolve this issue?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+Can an employee use the Consumer Protection Act to resolve an issue where their salary hasn't been paid for two months?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+I can't answer that. I can help you with consumer-related issues. Can you please share your concern as a consumer, or would you like to discuss a different consumer grievance?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No
+Inconsistencies:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+No inconsistencies found in turn  1
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+can   take   the   following   steps   to   claim   compensation: Send   a   Notice:   The   individual   can   send   a   formal   notice   to   the   service   provider   or   seller .   This   notice   should   detail: ● The   defects   in   the   goods   or   services   or   the   deficiencies   in   the   service ● The   individual's   intention   to   pursue   legal   action   if   the   service   provider   fails   to   offer   compensation This   step   allows   the   service   provider   an   opportunity   to   rectify   the   issue   or   offer   compensation,   potentially   resolving   the   dispute   without   the   need   for   litigation.”_ Questions:   “Can   I   be   asked   to   waive   the   claim   under   the   Act?”   Answer:   “   Waiving   a   claim   under   the   Consumer   Protection   Act,   2019   (CPA   2019),   may   be   deemed   unfair   as   per   the   broad   definition   of   unfair   contracts   outlined   in   the   Act.   Additionally ,
+Document 1:
+the   Consumer   Protection   Act,   2019   (CPA   2019),   may   be   deemed   unfair   as   per   the   broad   definition   of   unfair   contracts   outlined   in   the   Act.   Additionally ,   agreements   that   restrict   legal   proceedings,   such   as   those   preventing   parties   from   enforcing   their   rights   or   limiting   the   time   to   do   so,   are   void   under   the   Indian   Contract   Act,   1872,   and   thus   unenforceable.   While   the   issue   of   waiving   claims   has   not   been   tested   in   court,   contractual   language   regarding   such   waivers   should   be   carefully   examined   to   avoid   potential   unenforceability   under   both   the   CPA   2019   and   Indian   contract   law.”   — Question:   “How   do   I   get   my   consumer   grievances   addressed?” Answer:    “To   address   your   consumer   grievance,   you   have   a   few   options.   You   can: ● Directly   send   a   notice   to   the   product
+Document 2:
+follows- a) District Commission: The aggrieved consumer can reach out to the District Commission under section 34 of the CPA, 2019, which provides that the district commission shall entertain matters where the value of the goods or services paid as consideration does not exceed more than one crore rupees. b) State Commission: In cases where the value of the goods or services paid as consideration is more than one crore, but less than 10 crores, the consumer can approach the State Commission. Moreover, in cases of unfair contracts, the State Commission has original jurisdiction and theconsumer can be directly approached. An appeal against the order of the District Commission can also be made under section 47 of the CPA, 2019. c) National Commission: The National Commission can entertain matters where the value of goods or services paid as consideration exceeds 10 crores. Section 58 also provides that complaints against unfair contracts can be entertained by NCDRC when the amount of
+Document 3:
+○ Refund   the   price   paid   along   with   any   interest. ○ Remove   defects   or   deficiencies   in   services. ○ Award   compensation   for   loss   or   injury . ○ Discontinue   and   not   repeat   unfair   trade   practices   or   restrictive   trade   practices. ○ Withdraw   hazardous   goods   from   being   offered   for   sale. ○ Cease   manufacture   of   hazardous   goods   and   desist   from   offering   hazardous   services. ○ Pay   a   sum   determined   by   the   Commission   for   loss   or   injury   suffered   by   a   large   number   of   consumers. ○ Issue   corrective   advertisement   to   neutralize   the   effect   of   misleading   advertisement. ○ Provide   adequate   costs   to   parties. These   reliefs   and   remedies   are   aimed   at   protecting   and   compensating   consumers   for   any   harm   caused   by   products   or   services.” — Question:   “What   are   the   details   of   fees   to   be   paid   while   filing   a   complaint
+Document 4:
+allowing the complainant to file a complaint for himself. As a consumer , the aggrieved party can take the service provider to the appropriate consumer commission, based on the pecuniary and territorial jurisdiction. The jurisdictions of the various consumer commissions are as follows- a) District Commission: The aggrieved consumer can reach out to the District Commission under section 34 of the CPA, 2019, which provides that the district commission shall entertain matters where the value of the goods or services paid as consideration does not exceed more than one crore rupees. b) State Commission: In cases where the value of the goods or services paid as consideration is more than one crore, but less than 10 crores, the consumer can approach the State Commission. Moreover , in cases of unfair contracts, the State Commission has original jurisdiction and the consumer can be directly approached. An appeal against the order of the District Commission can also be made under section 47 of
+Document 5:
+allowing the complainant to file a complaint for himself. As a consumer, the aggrieved party can take the service provider to the appropriate consumer commission, based on the pecuniary and territorial jurisdiction. The jurisdictions of the various consumer commissions are as follows-a) District Commission: The aggrieved consumer can reach out to the District Commission under section 34 of the CPA, 2019, which provides that the district commission shall entertain matters where the value of the goods or services paid as consideration does not exceed more than one crore rupees. b) State Commission: In cases where the value of the goods or services paid as consideration is more than one crore, but less than 10 crores, the consumer can approach the State Commission. Moreover, in cases of unfair contracts, the State Commission has original jurisdiction and the consumer can be directly approached. An appeal against the order of the District Commission can also be made under section 47 of
+Document 6:
+The service provide time of booking can be varied and depend upon its availability with the company. The same is usually declared on the website by the company at the time of providing services. 7. If a consumer hired the agency but didn’t make payment, can he complain against it? If the work order is accepted by the company and assured the consumer for completion, even if the amount is not paid but it was “promise to pay” he can complain to the company in writing, and if no response received, he may move to the consumer commission. 8. What will you suggest if the consumer has booked the banquet hall before lockdown and after lockdown the agency denies to refund? In that case, the consumer needs to go through the guidelines of the particular state for the same, whether the booking has been cancelled and the amount has to be refunded to the consumer, or, booking will be extended till a specific time period. 9. If a consumer is not satisfied with the company response/not responding in
+Document 7:
+your   email   address   by   clicking   the   link   sent   to   your   registered   email. 3. Login:   Use   your   credentials   to   log   in   to   the   portal. 4. Start   New   Case:   Click   on   'File   a   New   Case'   from   the   Filing   dropdown   menu   and   select   'Consumer   Complaint'. 5. Accept   Disclaimer:   Read   the   disclaimer   and   click   “accept”. 6. Enter   Claim   Amount:   Enter   the   compensation   amount   you   are   claiming. 7. Select   District:   Choose   your   district   and   click   continue. 8. Enter   Personal   Details:   Enter   your   name,   address,   mobile   number ,   and   email   address   (optional)   in   the   complainant's   section. 9. Enter   Opposite   Party   Details:   Enter   the   name,   address,   state,   and   district   of   the   registered   address   of   the   opposite   party . 10. Complainant   Advocate   Details:   Enter   details   of   your   advocate   or   leave   it   blank. 11. Complaint
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+chat_history    abcdefghijk
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User: I am an employee at a company, and my salary hasn't been paid for two months. Can I use the Consumer Protection Act to resolve this issue?
+Chatbot: I can't answer that. I can help you with consumer-related issues. Can you please share your concern as a consumer, or would you like to discuss a different consumer grievance?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user states that they are an employee whose salary has not been paid for two months and asks if the Consumer Protection Act can be used to resolve the issue. The chatbot responds that it can only assist with consumer-related issues. The user then clarifies that they are facing a salary issue with their employer and wants to know if any consumer laws can be used to resolve it, seeking guidance on how to proceed.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+I've been facing a salary issue with my employer. I'd like to know if there are any consumer laws that I can use to resolve this issue. I'm not sure if I can consider myself as a consumer in this case or if there are other laws that apply. Can you guide me on how to proceed?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user has been facing a salary issue with their employer and wants to know if there are any consumer laws that they can use to resolve this issue and is asking for guidance on how to proceed.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+As an employee, you are not considered a consumer under the Consumer Protection Act, 2019, as you are receiving services under a contract of service. This situation is typically governed by employment laws rather than consumer protection laws.
+
+However, if you are using goods or services for personal business purposes to sustain your livelihood through self-employment, you might be considered a consumer under the Act.
+
+Can you please clarify your situation further? Are you using any goods or services for personal business purposes, or is this solely related to your employment?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: No
+Inconsistencies:
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: No
+Explanation for Correction: No inconsistencies present
+Inconsistencies:
+Degree of Inconsistency: 1
+Explanation: No inconsistencies present.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+No inconsistencies found in turn  2
+Start Dictionary
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+context    abcdefghijk
+
+Document 0:
+the   Consumer   Protection   Act,   2019   (CPA   2019),   may   be   deemed   unfair   as   per   the   broad   definition   of   unfair   contracts   outlined   in   the   Act.   Additionally ,   agreements   that   restrict   legal   proceedings,   such   as   those   preventing   parties   from   enforcing   their   rights   or   limiting   the   time   to   do   so,   are   void   under   the   Indian   Contract   Act,   1872,   and   thus   unenforceable.   While   the   issue   of   waiving   claims   has   not   been   tested   in   court,   contractual   language   regarding   such   waivers   should   be   carefully   examined   to   avoid   potential   unenforceability   under   both   the   CPA   2019   and   Indian   contract   law.”   — Question:   “How   do   I   get   my   consumer   grievances   addressed?” Answer:    “To   address   your   consumer   grievance,   you   have   a   few   options.   You   can: ● Directly   send   a   notice   to   the   product
+Document 1:
+These   situations   are   typically   governed   by   employment   laws   rather   than   consumer   protection   laws. ● Clarification   on   commercial   purposes:   It   is   important   to   note   that   the   Act   specifies   an   exception   to   the   exclusion   for   commercial   purposes.   If   a   person   buys   and   uses   goods   exclusively   for   the   purpose   of   earning   their   livelihood   through   self-employment,   they   are   still   considered   a   consumer .   This   means   that   small   business   owners,   artisans,   or   individuals   using   goods   for   personal   business   activities   to   sustain   their   livelihood   are   protected   under   the   Act.” — Question:   “What   are   goods?” Answer:   “Goods   refer   to   every   kind   of   movable   property .   This   definition   encompasses   all   items   that   can   be   physically   moved,   regardless   of   their   nature   or   purpose.   Additionally ,   "goods"
+Document 2:
+can   take   the   following   steps   to   claim   compensation: Send   a   Notice:   The   individual   can   send   a   formal   notice   to   the   service   provider   or   seller .   This   notice   should   detail: ● The   defects   in   the   goods   or   services   or   the   deficiencies   in   the   service ● The   individual's   intention   to   pursue   legal   action   if   the   service   provider   fails   to   offer   compensation This   step   allows   the   service   provider   an   opportunity   to   rectify   the   issue   or   offer   compensation,   potentially   resolving   the   dispute   without   the   need   for   litigation.”_ Questions:   “Can   I   be   asked   to   waive   the   claim   under   the   Act?”   Answer:   “   Waiving   a   claim   under   the   Consumer   Protection   Act,   2019   (CPA   2019),   may   be   deemed   unfair   as   per   the   broad   definition   of   unfair   contracts   outlined   in   the   Act.   Additionally ,
+Document 3:
+follows- a) District Commission: The aggrieved consumer can reach out to the District Commission under section 34 of the CPA, 2019, which provides that the district commission shall entertain matters where the value of the goods or services paid as consideration does not exceed more than one crore rupees. b) State Commission: In cases where the value of the goods or services paid as consideration is more than one crore, but less than 10 crores, the consumer can approach the State Commission. Moreover, in cases of unfair contracts, the State Commission has original jurisdiction and theconsumer can be directly approached. An appeal against the order of the District Commission can also be made under section 47 of the CPA, 2019. c) National Commission: The National Commission can entertain matters where the value of goods or services paid as consideration exceeds 10 crores. Section 58 also provides that complaints against unfair contracts can be entertained by NCDRC when the amount of
+Document 4:
+or   1800   4254   732. 12. Legal   Metrology:   Lodge   a   complaint   with   the   District   Legal   Metrology   Officer   or   the   Commissioner   of   the   respective   states.   For   more   information,   visit   http://consumeraf fairs.nic.in/forms/contentpage.aspx?lid=639 13. Non-Banking   Financial   Companies   (NBFCs):   RBI   Banking   Ombudsman   ( https://rbi.or g.in/Scripts/Complaints.aspx ) 14. Pension   Funds:   Central   Pension   Accounting   Office   ( https://cpao.nic.in/grievance_sql/Grievance_form_all.php ) 15. Telecom:   Telecom   Consumer   Complaints   Monitoring   System   (TCCMS)   ( https://tccms.trai.gov .in/Queries.aspx?cid=1 ) Consumers   can   explore   these   avenues   to   seek   redressal   for   grievances   related   to   specific   sectors.” — Question:   “Can   I   file   a   consumer   complaint   using   my   phone?” Answer:   “Yes,   you   can   file   a   consumer   complaint   online   using   your   phone.   One   way   to   do   this
+Document 5:
+ensuring   fair   treatment,   and   upholding   their   rights   in   commercial   transactions.A   complaint   about   violations   of   consumer   rights,   unfair   trade   practices,   or   misleading   advertisements   can   be   made   to   the   District   Collector ,   Commissioner   of   a   regional   office,   or   the   Central   Authority .   Grievances   Against   Misleading   Advertisements   (GAMA)   -   You   can   register   a   complaint   along   with   a   copy   /   video   /   audio   of   such   advertisement   through   the   web   portal   of   the   GOI   at   http://gama.gov .in   to   bring   it   to   the   notice   of   the   Government”   — Question:   “Can   a   person   buying   goods   or   services   for   a   business   purpose   make   a   complaint   ?” Answer:   “   Under   the   Consumer   Protection   Act   of   2019,   individuals   purchasing   goods   or   services   for   business   purposes   cannot   file   complaints   unless   they
+Document 6:
+matters where the value of goods or services paid as consideration exceeds 10 crores. Section 58 also provides that complaints against unfair contracts can be entertained by NCDRC when the amount of value paid exceeds 10 crores. The NCDRC also has appellate jurisdiction against the orders of any State Commission and Central Authority. Moreover, it must also be kept in mind, that section 100 of the CPA, 2019 provides that the remedy under CPA is in addition and not in derogation of other available remedies. Another remedy available to consumers is mediation. Chapter 5 of the Consumer Protection Act provides for establishing mediation cells and resolving consumer complaints using mediation. The following link could be used to file complaints online: https://consumerhelpline.gov .in/ (v) Central Consumer Protection Authority If the commission finds violations of rights of consumers or in notice of trade practices which is unfair it can inquire or cause an inquiry, either on receipt of
+Document 7:
+allowing the complainant to file a complaint for himself. As a consumer , the aggrieved party can take the service provider to the appropriate consumer commission, based on the pecuniary and territorial jurisdiction. The jurisdictions of the various consumer commissions are as follows- a) District Commission: The aggrieved consumer can reach out to the District Commission under section 34 of the CPA, 2019, which provides that the district commission shall entertain matters where the value of the goods or services paid as consideration does not exceed more than one crore rupees. b) State Commission: In cases where the value of the goods or services paid as consideration is more than one crore, but less than 10 crores, the consumer can approach the State Commission. Moreover , in cases of unfair contracts, the State Commission has original jurisdiction and the consumer can be directly approached. An appeal against the order of the District Commission can also be made under section 47 of
+Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 15
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+].
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+chat_history    abcdefghijk
+Chatbot: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
+User: I am an employee at a company, and my salary hasn't been paid for two months. Can I use the Consumer Protection Act to resolve this issue?
+Chatbot: I can't answer that. I can help you with consumer-related issues. Can you please share your concern as a consumer, or would you like to discuss a different consumer grievance?
+User: I've been facing a salary issue with my employer. I'd like to know if there are any consumer laws that I can use to resolve this issue. I'm not sure if I can consider myself as a consumer in this case or if there are other laws that apply. Can you guide me on how to proceed?
+Chatbot: As an employee, you are not considered a consumer under the Consumer Protection Act, 2019, as you are receiving services under a contract of service. This situation is typically governed by employment laws rather than consumer protection laws.
+
+However, if you are using goods or services for personal business purposes to sustain your livelihood through self-employment, you might be considered a consumer under the Act.
+
+Can you please clarify your situation further? Are you using any goods or services for personal business purposes, or is this solely related to your employment?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+history    abcdefghijk
+The user states that they are an employee whose salary has not been paid for two months and asks if the Consumer Protection Act can be used to resolve this issue. The chatbot responds that it can only help with consumer-related issues. The user reiterates their salary issue and seeks guidance on whether consumer laws apply to their situation and how to proceed. The chatbot clarifies that as an employee receiving services under a contract, the user is not considered a consumer under the Consumer Protection Act, 2019, and that employment laws typically govern such situations. The chatbot asks the user to clarify if they are using any goods or services for personal business purposes. The user confirms that they are solely an employee receiving a salary and asks for guidance on which employment laws or regulations can be used to resolve the salary issue.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+query    abcdefghijk
+I'm just an employee, and I don't have any business or self-employment activities. I'm solely receiving a salary from my employer. So, it seems that consumer laws might not be applicable in this case. 
+
+But I'd like to know what employment laws or other regulations I can use to resolve my salary issue. Can you guide me on how to proceed with this?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+reformulated    abcdefghijk
+The user is an employee facing a salary issue and wants to know what employment laws or other regulations they can use to resolve their salary issue, as consumer laws may not be applicable.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+response    abcdefghijk
+As an employee, you can approach this situation under employment laws. In India, the primary laws that govern employment are the Industrial Disputes Act, 1947, and the Payment of Wages Act, 1936.
+
+You can start by speaking with your HR department or supervisor to understand the reason for the delay in salary payment. If the issue is not resolved, you can consider filing a complaint with the local labor department or the Employees' State Insurance Corporation (ESIC).
+
+You can also consider filing a complaint with the National Commission or the State Commission under the Consumer Protection Act, 1986, but only if you have purchased goods or services from your employer and the delay in salary payment is related to those goods or services.
+
+However, since you're an employee, it's recommended to approach this situation under employment laws. Can you please tell me if you have any documentation or evidence related to your employment, such as a contract or proof of salary payment?
+
+Also, have you tried to speak with your HR department or supervisor about this issue?
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis_temp    abcdefghijk
+Inconsistencies Present: Yes
+Inconsistencies:
+1. You can also consider filing a complaint with the National Commission or the State Commission under the Consumer Protection Act, 1986, but only if you have purchased goods or services from your employer and the delay in salary payment is related to those goods or services.
+Reason: The context refers to the Consumer Protection Act, 2019, not 1986.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+analysis    abcdefghijk
+Inconsistency Present: Yes
+Explanation for Correction: No removals made.
+Inconsistencies:
+1. Inconsistency: You can also consider filing a complaint with the National Commission or the State Commission under the Consumer Protection Act, 1986, but only if you have purchased goods or services from your employer and the delay in salary payment is related to those goods or services.
+   Reason: The context refers to the Consumer Protection Act, 2019, not 1986.
+Degree of Inconsistency: 4
+Explanation: Referring to the incorrect Consumer Protection Act could mislead the user about the current legal framework.
+----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+End Dictionary
+Traceback (most recent call last):
+  File "/raid/nlp/common_user/spandan/legalLLM/chatbot/chat_generation/critic3_v10.py", line 1175, in <module>
+    res = response_analysis_chain.invoke({"chat": process_chat_sequence(chat)})
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/langchain/chains/transform.py", line 70, in _call
+    return self.transform_cb(inputs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/spandan/legalLLM/chatbot/chat_generation/critic3_v10.py", line 893, in transform_fn
+    results_dict = chain(chat_triple)
+                   ^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/spandan/legalLLM/chatbot/chat_generation/critic3_v10.py", line 849, in __call__
+    reformulated_query = self.reformulate_chain.invoke({"history": history, "query": query}) 
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/langchain_core/runnables/base.py", line 3034, in invoke
+    input = context.run(step.invoke, input, config)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/langchain_core/language_models/chat_models.py", line 370, in invoke
+    self.generate_prompt(
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/langchain_core/language_models/chat_models.py", line 947, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/langchain_core/language_models/chat_models.py", line 766, in generate
+    self._generate_with_cache(
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/langchain_core/language_models/chat_models.py", line 1012, in _generate_with_cache
+    result = self._generate(
+             ^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/langchain_google_genai/chat_models.py", line 961, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+                                        ^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/langchain_google_genai/chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/tenacity/__init__.py", line 336, in wrapped_f
+    return copy(f, *args, **kw)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/tenacity/__init__.py", line 475, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/tenacity/__init__.py", line 376, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/tenacity/__init__.py", line 418, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/tenacity/__init__.py", line 185, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/tenacity/__init__.py", line 478, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/langchain_google_genai/chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/langchain_google_genai/chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/google/ai/generativelanguage_v1beta/services/generative_service/client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/google/api_core/gapic_v1/method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/google/api_core/retry/retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/google/api_core/retry/retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/google/api_core/retry/retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/google/api_core/retry/retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/google/api_core/timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/google/api_core/grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 15
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]

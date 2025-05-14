@@ -92,22 +92,22 @@ def create_rag_qa_chain_with_response_analysis(
 
         # Initialize the LLM for text generation
       callbacks = [StreamingStdOutCallbackHandler()]
-      llm1 = HuggingFacePipeline.from_model_id(
-         model_id="Qwen/Qwen3-14B", #"meta-llama/Meta-Llama-3.1-8B-Instruct",
-         task="text-generation",
-         device=0,  # Use GPU if available
-         callbacks=callbacks,  # For streaming outputs
-         pipeline_kwargs=dict(
-               return_full_text=False,  # Return only the new tokens
-               max_new_tokens=1024,  # Limit the number of generated tokens
-               do_sample=True,  # Enable sampling for varied outputs
-               temperature=0.5,  # Balance randomness and coherence
-               repetition_penalty = 1.02,
-               min_new_tokens=3,
-         ),
-         #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
-      )
-      import os
+      # llm1 = HuggingFacePipeline.from_model_id(
+      #    model_id="Qwen/Qwen3-14B", #"meta-llama/Meta-Llama-3.1-8B-Instruct",
+      #    task="text-generation",
+      #    device=0,  # Use GPU if available
+      #    callbacks=callbacks,  # For streaming outputs
+      #    pipeline_kwargs=dict(
+      #          return_full_text=False,  # Return only the new tokens
+      #          max_new_tokens=1024,  # Limit the number of generated tokens
+      #          do_sample=True,  # Enable sampling for varied outputs
+      #          temperature=0.5,  # Balance randomness and coherence
+      #          repetition_penalty = 1.02,
+      #          min_new_tokens=3,
+      #    ),
+      #    #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
+      # )
+      # import os
 
       # if "GOOGLE_API_KEY" not in os.environ:
       #    os.environ["GOOGLE_API_KEY"] = "AIzaSyD5HAUn40LGB9V3DvnKaBKwuDZTq8l47yM"
@@ -141,6 +141,18 @@ def create_rag_qa_chain_with_response_analysis(
         # Set pad_token_id to eos_token_id for proper padding
       #   llm1.pipeline.tokenizer.pad_token_id = llm1.pipeline.tokenizer.eos_token_id
         # llm2.pipeline.tokenizer.pad_token_id = llm2.pipeline.tokenizer.eos_token_id
+
+      from langchain.llms import OpenAI
+      from langchain.llms import openai
+      from langchain_openai import OpenAI 
+      llm1 = OpenAI(
+         model_name="gpt-4o-mini",
+         temperature=0.5,
+         max_tokens=1024,
+         openai_api_key="",
+         streaming=False,  # Optional
+         callbacks=callbacks  # Optional
+      )
 
       return llm1, llm1
 

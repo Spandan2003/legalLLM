@@ -13,6 +13,7 @@ from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain_community.llms import HuggingFacePipeline
 from transformers import pipeline
 from datetime import datetime
+import copy
 start_time = datetime.now()
 print("Start Time: ", start_time)
 
@@ -30,7 +31,8 @@ def create_rag_qa_chain_with_response_analysis(
     folder_path, 
     embedding_model="mixedbread-ai/mxbai-embed-large-v1", 
     llm_model="meta-llama/Meta-Llama-3.1-8B-Instruct", #"microsoft/phi-2", 
-    device="cuda"
+    device="cuda",
+    device_num=0
 ):
     """
     Creates a RetrievalQA chain for analyzing responses based on history, query, and retrieved context.
@@ -49,6 +51,12 @@ def create_rag_qa_chain_with_response_analysis(
         """
         Truncates the response at the first occurrence of the stop token.
         """
+        if isinstance(response, str):
+            response = response.strip()
+        elif hasattr(response, "content"):
+            response = response.content.strip()
+        else:
+            raise TypeError(f"Unsupported response type: {type(response)}")
         if stop_token in response:
             return response.split(stop_token)[0].strip()
         return response.strip()
@@ -83,41 +91,69 @@ def create_rag_qa_chain_with_response_analysis(
 
     # Step 4: Load the LLM
     def get_llm():
-
-
         # Initialize the LLM for text generation
-        callbacks = [StreamingStdOutCallbackHandler()]
-        llm1 = HuggingFacePipeline.from_model_id(
-            model_id="meta-llama/Meta-Llama-3.1-8B-Instruct",
-            task="text-generation",
-            device=0,  # Use GPU if available
-            callbacks=callbacks,  # For streaming outputs
-            pipeline_kwargs=dict(
-                return_full_text=False,  # Return only the new tokens
-                max_new_tokens=1024,  # Limit the number of generated tokens
-                do_sample=True,  # Enable sampling for varied outputs
-                temperature=0.5,  # Balance randomness and coherence
-                repetition_penalty = 1.02,
-                min_new_tokens=2,
-            ),
-            #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
-        )
-        # llm2 = HuggingFacePipeline.from_model_id(
-        #     model_id="meta-llama/Meta-Llama-3.1-70B-Instruct",
-        #     task="text-generation",
-        #     device=1,  # Use GPU if available
-        #     callbacks=callbacks,  # For streaming outputs
-        #     pipeline_kwargs=dict(
-        #         return_full_text=True,  # Return only the new tokens
-        #         max_new_tokens=1024,  # Limit the number of generated tokens
-        #         do_sample=True,  # Enable sampling for varied outputs
-        #         temperature=0.7,  # Balance randomness and coherence
-        #     ),
-        # )
-
-        # Set pad_token_id to eos_token_id for proper padding
-        llm1.pipeline.tokenizer.pad_token_id = llm1.pipeline.tokenizer.eos_token_id
+        if llm_model == "llama3":
+         callbacks = [StreamingStdOutCallbackHandler()]
+         llm1 = HuggingFacePipeline.from_model_id(
+               model_id="meta-llama/Meta-Llama-3.1-8B-Instruct", #
+               task="text-generation",
+               device=device_num,  # Use GPU if available
+               callbacks=callbacks,  # For streaming outputs
+               pipeline_kwargs=dict(
+                  return_full_text=False,  # Return only the new tokens
+                  max_new_tokens=1024,  # Limit the number of generated tokens
+                  do_sample=True,  # Enable sampling for varied outputs
+                  temperature=0.5,  # Balance randomness and coherence
+                  repetition_penalty = 1.02,
+                  min_new_tokens=2,
+               ),
+               #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
+         )
+        elif llm_model == "deepseek":
+            callbacks = [StreamingStdOutCallbackHandler()]
+            llm1 = HuggingFacePipeline.from_model_id(
+                  model_id="deepseek-ai/DeepSeek-R1-Distill-Llama-8B", #
+                  task="text-generation",
+                  device=device_num,  # Use GPU if available
+                  callbacks=callbacks,  # For streaming outputs
+                  pipeline_kwargs=dict(
+                     return_full_text=False,  # Return only the new tokens
+                     max_new_tokens=1024,  # Limit the number of generated tokens
+                     do_sample=True,  # Enable sampling for varied outputs
+                     temperature=0.5,  # Balance randomness and coherence
+                     repetition_penalty = 1.02,
+                     min_new_tokens=2,
+                  ),
+                  #model_kwargs=dict(load_in_8bit=True) # Add stop tokens here
+            )
+        elif llm_model == "gemini":
+            from langchain_google_genai import ChatGoogleGenerativeAI
+            llm1 = ChatGoogleGenerativeAI(
+                  model="gemini-2.0-flash",
+                  disable_streaming=True,
+                  # cache=True,
+                  temperature=0.5,  # Balance randomness and coherence
+                  max_tokens=1024,  # Limit the number of generated tokens
+                  timeout=None,
+                  max_retries=500,
+                  repetition_penalty=1.02,  # Apply repetition penalty
+                  min_new_tokens=3,  # Ensure at least 3 tokens are generated
+               )
+        elif llm_model == "gpt4omini":
+            from langchain_openai import OpenAI 
+            callbacks = [StreamingStdOutCallbackHandler()]
+            llm1 = OpenAI(
+            model_name="gpt-4o-mini",
+            temperature=0.5,
+            max_tokens=1024,
+            openai_api_key="",
+            streaming=False,  # Optional
+            callbacks=callbacks  # Optional
+         )
+      #   llm1.pipeline.tokenizer.pad_token_id = llm1.pipeline.tokenizer.eos_token_id
         # llm2.pipeline.tokenizer.pad_token_id = llm2.pipeline.tokenizer.eos_token_id
+        else:
+            raise ValueError(f"Unsupported LLM model: {llm_model}")
 
         return llm1, llm1
 
@@ -369,6 +405,8 @@ No inconsistency should be given for the following categories as these do not co
 9. Repeated Inconsistencies  
    If the same inconsistency is repeated multiple times, whether in exact words or with slight modifications, it should be counted as one inconsistency only, and the excess inconsistencies should be removed.
 
+10. Placeholders
+   If the response contains placeholders like [Your Name] or [Your Address], these should not be considered inconsistencies as they are meant to be filled in by the user. However, if the placeholders are used in a way that implies specific information that contradicts the context or history, then it should be flagged as an inconsistency.
 ---
 
 Output Format:
@@ -567,12 +605,16 @@ An inconsistency must be removed if it falls under any of the following conditio
 8. Special details
 - Consumer can also contact the National Consumer Helpline at 1800-11-4000 or UMANG App for for immediate assistance with their consumer grievance. If none of these options work, you can consider filing a complaint with the District Consumer Commission or the State Consumer Dispute Redressal Commission. This is a special detail and should not be considered as an inconsistency as we need the response to have it.
 
+9. Placeholders
+   If the response contains placeholders like [Your Name] or [Your Address], these should not be considered inconsistencies as they are meant to be filled in by the user. However, if the placeholders are used in a way that implies specific information that contradicts the context or history, then it should be flagged as an inconsistency.
+
 Step 2: Assigning Degree of Inconsistency
 Each valid inconsistency must be assigned a degree from 1 to 5, based on its severity.
 
 Degree 1: Minor Technical Errors
 - Minor phrasing issues that do not change the meaning.
 - Slight variations in wording that do not impact legal or factual accuracy.
+- Placeholders mean that the user needs to fill in the details and should not be considered as an inconsistency
 
 Degree 2: Slightly Misleading but Not Harmful
 - Minor misinterpretations that do not affect the overall correctness.
@@ -846,13 +888,15 @@ Input:
             analysis = []
             analysis_test = []
             outputs = {"turns": {}}
+            # print("Inputs:", inputs)
             for i, chat_triple in enumerate(chat, start=1):
                 results_dict = chain(chat_triple)
+                # print("Result:", results_dict)
                 result = results_dict["analysis"]
                 if(result.strip().startswith("Inconsistencies Present: No") or result.strip().startswith("Inconsistency Present: No")):
                     print("No inconsistencies found in turn ", i)
                     results_dict["modified_analysis"] = ""
-                    outputs["turns"][i] = results_dict
+                    outputs["turns"][i] = copy.deepcopy(results_dict)
                     continue
                 analysis_test.append("\nTurn "+str(i)+ ":\n"+result)
                 # Extract the degree of inconsistency from the result (assuming it's explicitly stated in the result text).
@@ -883,7 +927,7 @@ Input:
                 if found==True:
                     analysis.append(analysis_turn)
                 results_dict["modified_analysis"] = analysis_turn
-                outputs["turns"][i] = results_dict
+                outputs["turns"][i] = copy.deepcopy(results_dict)
             if len(analysis)==0:
                 analysis.append("Turn 1\nInconsistencies Present: No\nTurn 2\nInconsistencies Present: No\n")
             analysis_text = "\n".join(analysis)
@@ -1011,6 +1055,12 @@ Inconsistencies detected: No.
 
             outputs["analysis_combined"] = analysis_text
             outputs["result"] = resul
+            # print("OUTPUTS   abcdefg\n")
+            # print(outputs)
+            # if len(outputs["turns"])==0:
+            #     print("ERROR TURN IS MISSING\n")
+            #     print("Analysis Total: abcdefg\n", analysis)
+            #     print("Analysis Test: abcdefg\n", analysis_test)
             return outputs
             # return {"analysis": analysis_text,"result": }
         # Return a chain wrapping the transformation function
@@ -1089,20 +1139,23 @@ def process_chat_sequence(chat_sequence):
 
 folder_path = "./hall_detect/rag"
 
-ver = "2"
+ver = "1"
 # Example query
-data = pd.read_csv("./chatbot/chat_generation/results2/app_hall5_mod.csv")
+data = pd.read_csv("./chatbot/chat_generation/results2/combined_new.csv")
 data.rename(columns={"Simulated Chat":"Chat"}, inplace=True)
 data.dropna(inplace=True, subset = ["Chat"])
 data.reset_index(inplace=True, drop=True)
 chats = data["Chat"].to_list()
 chatbot_version = data["Chatbot_version"].to_list()
+folder = "deepseek" 
+folder = "gemini"
+# folder = "gpt4omini"
 
-response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path)
-output_file = "./chatbot/chat_generation/critic_v10/file_output_v" +ver +".txt"
-final_df_loc = "./chatbot/chat_generation/critic_v10/result_df_v" +ver +".csv"
-csv_file = "./chatbot/chat_generation/critic_v10/output_df_v" +ver +".csv"
-final_var = "./chatbot/chat_generation/critic_v10/output_df_v" +ver +".pt"
+response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path, llm_model=folder, device=0)
+output_file = "./chatbot/chat_generation/critic3_v10_" + folder + "/file_output_v" +ver +".txt"
+final_df_loc = "./chatbot/chat_generation/critic3_v10_" + folder + "/result_df_v" +ver +".csv"
+csv_file = "./chatbot/chat_generation/critic3_v10_" + folder + "/output_df_v" +ver +".csv"
+final_var = "./chatbot/chat_generation/critic3_v10_" + folder + "/output_df_v" +ver +".pt"
 
 
 with open(output_file, "a") as f:
@@ -1147,3 +1200,13 @@ df.to_csv(csv_file)
 end_time = datetime.now()
 print("End Time: ", end_time)
 print("Time Taken: ", (end_time-start_time))
+
+
+# n/legalLLM/chatbot/chat_generation/critic3_v10.py > ./chatbot/chat_generation/critic3_v10_deepseek/std_output_v1.txt 2>&1
+# [1] 2051264
+# (legalllm) (base) common_user@iitb-dgx6:~/spandan/legalLLM$ nohup /raid/nlp/common_user/miniconda3/envs/legalllm/bin/python3 /raid/nlp/common_user/spandan/legalLLM/chatbot/chat_generation/critic3_v10.py > ./chatbot/chat_generation/critic3_v10_gpt4omini/std_output_v1.txt 2>&1 &
+# [2] 2167141
+# bash: ./chatbot/chat_generation/critic3_v10_gpt4omini/std_output_v1.txt: No such file or directory
+# [2]+  Exit 1                  nohup /raid/nlp/common_user/miniconda3/envs/legalllm/bin/python3 /raid/nlp/common_user/spandan/legalLLM/chatbot/chat_generation/critic3_v10.py > ./chatbot/chat_generation/critic3_v10_gpt4omini/std_output_v1.txt 2>&1
+# (legalllm) (base) common_user@iitb-dgx6:~/spandan/legalLLM$ nohup /raid/nlp/common_user/miniconda3/envs/legalllm/bin/python3 /raid/nlp/common_user/spandan/legalLLM/chatbot/chat_generation/critic3_v10.py > ./chatbot/chat_generation/critic3_v10_gpt4omini/std_output_v1.txt 2>&1 &
+# [2] 2168069
