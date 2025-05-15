@@ -1090,8 +1090,9 @@ def split_chat_into_elements(chat_sequence):
         list of str: A list of messages, each starting with "AI:" or "Human:".
     """
     # Split the chat sequence into segments using "Human:" and "AI:" as boundaries
+    chat_sequence = chat_sequence.replace("Consumer Grievance Redressal Chatbot:", "AI:")
     elements = re.split(r"(?<=\n)(?=Human:|AI:)", chat_sequence.strip())
-    return [element.strip().replace("Consumer Grievance Redressal Chatbot:", "AI:").replace("Human:", "User:").replace("AI:", "Chatbot:") for element in elements if element.strip()]
+    return [element.strip().replace("Human:", "User:").replace("AI:", "Chatbot:") for element in elements if element.strip()]
 
 
 def build_history_query_pairs(elements):
@@ -1146,17 +1147,27 @@ data.dropna(inplace=True, subset = ["Chat"])
 data.reset_index(inplace=True, drop=True)
 
 
-data_to_be_redone = pd.read_csv("./hall_detect/critic3_v10/result_df_v1.csv", index_col=0)
-data = data[data_to_be_redone["Turns"]=='[]']
+# data_to_be_redone = pd.read_csv("./hall_detect/critic3_v10/result_df_v1.csv", index_col=0)
+# data = data[data_to_be_redone["Turns"]=='[]']
 
 chats = data["Chat"].to_list()
-folder = "llama3"
+# folder = "llama3"
+folder = "deepseek"
+# folder = "gemini"
+folder = "gpt4omini"
+print("CHAT LENGTH :", len(chats))
+print([len(process_chat_sequence(chat)) for chat in chats])
+order = data.index.to_list()
+print(order)
 
-response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path, llm_model=folder, device_num=0)
-output_file = "./hall_detect/critic3_v10_deepseek/file_output_v" +ver +".txt"
-final_df_loc = "./hall_detect/critic3_v10_deepseek/result_df_v" +ver +".csv"
-csv_file = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".csv"
-final_var = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".pt"
+# raise ValueError("No chats to process.")
+
+
+response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path, llm_model=folder, device_num=1)
+# output_file = "./hall_detect/critic3_v10_deepseek/file_output_v" +ver +".txt"
+# final_df_loc = "./hall_detect/critic3_v10_deepseek/result_df_v" +ver +".csv"
+# csv_file = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".csv"
+# final_var = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".pt"
 
 # output_file = "./hall_detect/critic3_v10_gemini/file_output_v" +ver +".txt"
 # final_df_loc = "./hall_detect/critic3_v10_gemini/result_df_v" +ver +".csv"
@@ -1168,6 +1179,11 @@ final_var = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".pt"
 # csv_file = "./hall_detect/critic3_v10/output_df_v" +ver +".csv"
 # final_var = "./hall_detect/critic3_v10/output_df_v" +ver +".pt"
 
+output_file = "./hall_detect/critic3_v10_gpt4omini/file_output_v" +ver +".txt"
+final_df_loc = "./hall_detect/critic3_v10_gpt4omini/result_df_v" +ver +".csv"
+csv_file = "./hall_detect/critic3_v10_gpt4omini/output_df_v" +ver +".csv"
+final_var = "./hall_detect/critic3_v10_gpt4omini/output_df_v" +ver +".pt"
+
 with open(output_file, "a") as f:
     f.write("Start\n\n\n\n\n\n")  
 result = []
@@ -1178,7 +1194,8 @@ except:
     df_final = pd.DataFrame(columns=["Chat", "Turns", "Result"])
     print("Starting from 0")
 df_final_list = df_final.to_dict("records")
-for chat_no, chat in enumerate(chats[len(df_final):], start=len(df_final)):
+for chat_no_, chat in enumerate(chats[len(df_final):], start=len(df_final)):
+    chat_no = order[chat_no_]
     print("----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x----x")
     print("START CHAT " + str(chat_no))
     res = {'analysis': "Sample analysis text", 'result': "Sample result text", 'logs': "Sample logs text"}

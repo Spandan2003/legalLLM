@@ -1,0 +1,19 @@
+nohup: ignoring input
+Start Time:  2025-05-14 16:56:35.838713
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.93it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.31it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:02<00:00,  1.22it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.37it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.36it/s]
+Device set to use cuda:1
+Starting from  23
+Traceback (most recent call last):
+  File "/raid/nlp/common_user/spandan/legalLLM/hall_detect/critic3_v10.py", line 1208, in <module>
+    
+    ^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/pandas/core/frame.py", line 4311, in __setitem__
+    self._set_item(key, value)
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/pandas/core/frame.py", line 4524, in _set_item
+    value, refs = self._sanitize_column(value)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/pandas/core/frame.py", line 5266, in _sanitize_column
+    com.require_length_match(value, self.index)
+  File "/raid/nlp/common_user/miniconda3/envs/legalllm/lib/python3.12/site-packages/pandas/core/common.py", line 573, in require_length_match
+    raise ValueError(
+ValueError: Length of values (0) does not match length of index (23)

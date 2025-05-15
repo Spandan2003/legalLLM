@@ -14,6 +14,8 @@ from langchain_community.llms import HuggingFacePipeline
 from transformers import pipeline
 from datetime import datetime
 import copy
+import time 
+
 start_time = datetime.now()
 print("Start Time: ", start_time)
 
@@ -841,6 +843,7 @@ Input:
 
             def __call__(self, inputs):
                 # Extract inputs
+                start_time_llm = time.time()
                 query = inputs["query"]
                 history = inputs["history"]
                 response = inputs["response"]
@@ -877,6 +880,10 @@ Input:
                 # final_inputs.pop('history')
                 # final_inputs.pop('reformulated')
                 disp_dict(final_inputs)
+                elapsed = time.time() - start_time_llm
+                print("Sleeping for time: ", 24 - elapsed)
+                sleep_time_llm = max(0, 24 - elapsed)  # Wait so total time is 15s
+                time.sleep(sleep_time_llm)
                 return final_inputs
 
         return ResponseAnalysisChain(retriever, reformulate_chain, analysis_chain, analysis_chain2, memory_chain)
@@ -1150,8 +1157,8 @@ chatbot_version = data["Chatbot_version"].to_list()
 folder = "deepseek" 
 folder = "gemini"
 # folder = "gpt4omini"
-
-response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path, llm_model=folder, device=0)
+# REMEMBER TO REMOVE SLEEP LOGIC IF NOT USING GEMINI
+response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path, llm_model=folder, device=1)
 output_file = "./chatbot/chat_generation/critic3_v10_" + folder + "/file_output_v" +ver +".txt"
 final_df_loc = "./chatbot/chat_generation/critic3_v10_" + folder + "/result_df_v" +ver +".csv"
 csv_file = "./chatbot/chat_generation/critic3_v10_" + folder + "/output_df_v" +ver +".csv"
