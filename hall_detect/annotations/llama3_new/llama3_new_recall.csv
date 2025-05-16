@@ -1,4 +1,4 @@
-Chat,Turns,Analysis_Combined,Result,Recall Annotation,Index
+Chat,Turns,Analysis_Combined,Result,chat_no,Recall Annotation
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 Human: What are the steps to get a refund for a defective product?
 AI: To get a refund for a defective product, I'd like to guide you through the process.
@@ -337,7 +337,7 @@ The following information is inconsistent:
 12. You will see the current status of your complaint, which may be ""Received"", ""Under Investigation"", ""Disposed"", or ""Closed"".
     Reason: Context does not mention that the status can be ""Disposed"" or ""Closed"". The context mentions that the status can be tracked through the Bima Bharosa System. Degree of Inconsistency is 4
 13. After filing a complaint on the e-daakhil portal, you can track the status of your complaint online. Here's how: 
-    Reason: Context does not mention that the status can be tracked online. The context mentions that the status can be tracked through the Bima Bharosa System. Degree of Inconsistency is 4",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,0
+    Reason: Context does not mention that the status can be tracked online. The context mentions that the status can be tracked through the Bima Bharosa System. Degree of Inconsistency is 4",0,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -541,7 +541,7 @@ The following information is inconsistent:
 8. Please find attached a copy of the medical report and other relevant documents.
    Reason: Context does not mention the user attaching any documents. Degree of Inconsistency is 4
 9. You can also file a complaint online through the e-daakhil portal (http://edaakhil.nic.in/).
-   Reason: Context does not mention the user filing a complaint online. Degree of Inconsistency is 5",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,1
+   Reason: Context does not mention the user filing a complaint online. Degree of Inconsistency is 5",1,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -907,7 +907,7 @@ The following information is inconsistent:
    Reason: Context does not mention an email address of Sharan Hegde. Degree of Inconsistency is 5 
 21. Phone: +91 9880433432 
    Reason: Context does not mention a phone number of Sharan Hegde. Degree of Inconsistency is 5 
-22. Address: [Insert Address, if available]",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,2
+22. Address: [Insert Address, if available]",2,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -1236,7 +1236,7 @@ The following information is inconsistent:
 4. The response includes a notice template with details not present in the context.
    Reason: Context does not mention a template for the notice and the provided template includes details that are not in the context. Degree of Inconsistency is 5
 5. The response assumes that the issue would be covered under warranty.
-   Reason: Context states that the user purchased the laptop in January 2022, but the response does not mention the warranty period. Degree of Inconsistency is 4",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,3
+   Reason: Context states that the user purchased the laptop in January 2022, but the response does not mention the warranty period. Degree of Inconsistency is 4",3,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -1485,7 +1485,7 @@ The following information is inconsistent:
 5. If I do not receive a satisfactory response or refund within the stipulated time, I will be forced to take further action under the Consumer Protection Act, 1986.
    Reason: Context does not mention that the user will be forced to take further action under the Consumer Protection Act, 1986. Degree of Inconsistency is 4
 6. Here are the contact details of the Karnataka State Consumer Commission.
-   Reason: Context does not mention the contact details of the Karnataka State Consumer Commission. Degree of Inconsistency is 5",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,4
+   Reason: Context does not mention the contact details of the Karnataka State Consumer Commission. Degree of Inconsistency is 5",4,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -1728,7 +1728,7 @@ Have a great day, and I hope you get the resolution you deserve!","{1: {'context
 Inconsistencies Present: No
 Turn 2
 Inconsistencies Present: No
-",Inconsistencies detected: No.,UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,5
+",Inconsistencies detected: No.,5,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -2151,7 +2151,7 @@ The following information is inconsistent:
 4. However, despite my clear instructions, he filed a plaint seeking divorce as a relief without my consent. 
    Reason: History states that the user had requested the lawyer to seek restitution of conjugal rights instead of divorce. Degree of Inconsistency is 4 
 5. Compensation for the harm and distress caused to me 
-   Reason: History states that the user is seeking compensation for the harm caused by the lawyer's deficiency in service. Degree of Inconsistency is 4",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,6
+   Reason: History states that the user is seeking compensation for the harm caused by the lawyer's deficiency in service. Degree of Inconsistency is 4",6,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -2349,7 +2349,7 @@ The following information is inconsistent:
    Reason: Context states the cost of the laptops is ₹75 lakhs, which is above ₹50 lakhs, not ₹2 lakhs. Hence, the complaint should be filed with the State Consumer Disputes Redressal Commission (SDRC) in Karnataka. Degree of Inconsistency is 4
 3. Dell India Private Limited
 Address: [Dell's Address in Bengaluru]
-   Reason: Context does not mention Dell's address in Bengaluru. Degree of Inconsistency is 5",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,7
+   Reason: Context does not mention Dell's address in Bengaluru. Degree of Inconsistency is 5",7,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -2755,7 +2755,7 @@ The following information is inconsistent:
 1. However, the act does specify that consumers should make a complaint within a ""reasonable time"" after discovering the defect or issue.
    Reason: History does not support the claim that the 30-day time limit is a strict rule under the Consumer Protection Act, 2019. The Act specifies that consumers should make a complaint within a ""reasonable time"" after discovering the defect or issue. Degree of Inconsistency is 4
 2. I had contacted your customer care team on [Date of Contact] to request a replacement, but I was informed that it was too late to replace the product since 30 days had passed from the date of delivery.
-   Reason: History states that the user contacted Amazon's customer care, but they denied the request, citing the 30-day time frame for replacements. However, the chatbot later explains that under the Consumer Protection Act, 2019, the time limit for filing a complaint is not strictly 30 days, but rather a ""reasonable time"" after discovering the defect. This inconsistency arises from the chatbot's initial statement that the user contacted Amazon's customer care and was denied, which is not an inconsistency, but the subsequent statement that the time limit is 30 days is an inconsistency with the correct information provided later. Degree of Inconsistency is 4",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,8
+   Reason: History states that the user contacted Amazon's customer care, but they denied the request, citing the 30-day time frame for replacements. However, the chatbot later explains that under the Consumer Protection Act, 2019, the time limit for filing a complaint is not strictly 30 days, but rather a ""reasonable time"" after discovering the defect. This inconsistency arises from the chatbot's initial statement that the user contacted Amazon's customer care and was denied, which is not an inconsistency, but the subsequent statement that the time limit is 30 days is an inconsistency with the correct information provided later. Degree of Inconsistency is 4",8,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: I sent a birthday gift through DTDC Speed Post from Mumbai to Delhi last week, but my friend has still not received it. The tracking status shows 'out for delivery' for the past three days. What should I do?
 AI: Thank you for sharing your concern. I'd be happy to help you with this issue.
@@ -2792,7 +2792,7 @@ The following information is inconsistent:
 3. If the complaint is not resolved, you can approach the Chief Postmaster General of the respective circle of the state. 
    Reason: Context states the package was sent via DTDC Speed Post, not India Post. Degree of Inconsistency is 4 
 4. You can find the contact details of the Chief Postmaster General of various states on the following link: Chief Postmaster General Contact Information 
-   Reason: Context states the package was sent via DTDC Speed Post, not India Post. Degree of Inconsistency is 5",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,9
+   Reason: Context states the package was sent via DTDC Speed Post, not India Post. Degree of Inconsistency is 5",9,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: I ordered a new laptop online and chose express delivery with DTDC, but it's been a week and the parcel hasn't arrived yet. The tracking system shows it’s still at the Mumbai sorting center.
 AI: Thank you for sharing your concern. To help me better understand the issue, can you please tell me what led to this problem? Was there a specific reason you chose DTDC for express delivery, and did you receive any updates from them regarding the delay?
@@ -2812,7 +2812,7 @@ Inconsistencies:
 ","Inconsistencies detected: Yes.
 The following information is inconsistent:
 1. you can also try contacting the e-commerce website where you ordered the laptop from, as they may be able to assist you in resolving the issue or escalating it to DTDC.
-   Reason: Context does not mention the e-commerce website providing assistance in resolving the issue or escalating it to DTDC.",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,10
+   Reason: Context does not mention the e-commerce website providing assistance in resolving the issue or escalating it to DTDC.",10,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: Last month, I sent a crucial business contract via India Post’s registered mail from Hyderabad to Chennai. The recipient received an empty envelope with no contract inside. What steps can I take to resolve this issue?
 AI: Thank you for sharing your concern. I'd like to help you resolve this issue.
@@ -2880,7 +2880,7 @@ The following information is inconsistent:
 2. The contact details of the various officers can be found on the following link: Directory of Employees
    Reason: Context does not mention Directory of Employees.
 3. The contact details of the Chief Post Master General of various states can be found on the following link: Chief Post Master General Contact Information
-   Reason: Context does not mention the Chief Post Master General Contact Information link.",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,11
+   Reason: Context does not mention the Chief Post Master General Contact Information link.",11,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: After upgrading to a new broadband plan promising 100 Mbps speeds, my connection barely reaches 20 Mbps, and the service provider has not responded to my complaints. What can I do to address this issue?
 AI: Thank you for sharing your concern. To better understand the situation, can you please tell me what led to this issue? Was it a recent change in your plan, or was it always slow?
@@ -2933,7 +2933,7 @@ The following information is inconsistent:
 1. The service provider's customer care number is +91-9823141241.
    Reason: The context does not specify this. Degree of Inconsistency is 5
 2. User: Airtel, it’s registered on my phone number 9817236733. I called them twice last week.
-   Reason: Context does not mention a phone number 9817236733. Degree of Inconsistency is 5",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,12
+   Reason: Context does not mention a phone number 9817236733. Degree of Inconsistency is 5",12,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: I recently updated my address in my Aadhaar profile, but my Aadhaar letter still has the old address and I haven't received any confirmation of the update.
 AI: Thank you for sharing your concern. To better assist you, can you please tell me what led to this issue? Was the update done online, through a physical visit to the enrollment center, or through some other means?
@@ -2968,7 +2968,7 @@ The following information is inconsistent:
 2. Additionally, have you tried contacting the UIDAI helpline number (1800-300-1947) to see if they can provide any update on your request?
    Reason: History already shows that the user has tried contacting the National Consumer Helpline (1800-11-4000) and the UMANG App for assistance, but there is no mention of the UIDAI helpline number. Degree of Inconsistency is 4  
 3. Additionally, if you're not satisfied with the response from UIDAI, you may want to consider taking your issue to the State Consumer Dispute Redressal Commission (SCDRC) or the National Consumer Dispute Redressal Commission (NCDRC) for further assistance.
-   Reason: History states that the user has already contacted the UIDAI helpline number via email but didn't receive a response. Hence, the response should have suggested contacting the UIDAI helpline number again instead of suggesting taking the issue to the SCDRC or NCDRC. Degree of Inconsistency is 4",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,13
+   Reason: History states that the user has already contacted the UIDAI helpline number via email but didn't receive a response. Hence, the response should have suggested contacting the UIDAI helpline number again instead of suggesting taking the issue to the SCDRC or NCDRC. Degree of Inconsistency is 4",13,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: I subscribed to a software suite advertised as offering advanced data analytics tools, but after purchasing, I discovered that these features are only available in a higher-tier plan. The advertisement did not specify this limitation.
 AI: Thank you for sharing your concern. I'd be happy to help you with this issue. Can you please tell me what you would like to do about this situation? Would you like to seek a refund or compensation, or would you like to ask the company to upgrade your plan to the higher tier?
@@ -3012,7 +3012,7 @@ Once you've reviewed and modified the letter, I can guide you on the next steps,
 Inconsistencies Present: No
 Turn 2
 Inconsistencies Present: No
-",Inconsistencies detected: No.,UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,14
+",Inconsistencies detected: No.,14,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -3080,7 +3080,7 @@ Human: No, thank you!","{1: {'context': '\nDocument 0:\nto the National Consumer
 Inconsistencies Present: No
 Turn 2
 Inconsistencies Present: No
-",Inconsistencies detected: No.,UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,15
+",Inconsistencies detected: No.,15,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -3189,7 +3189,7 @@ Human: No, thank you","{1: {'context': ""\nDocument 0:\nmy   consumer   grievanc
 Inconsistencies Present: No
 Turn 2
 Inconsistencies Present: No
-",Inconsistencies detected: No.,UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,16
+",Inconsistencies detected: No.,16,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -3282,7 +3282,7 @@ The following information is inconsistent:
 3. You can also consider filing a complaint with the National Consumer Helpline (NCH) or the District Consumer Disputes Redressal Forum.
    Reason: History states the user is a retailer and not the end-consumer, which affects their options. The user cannot file a complaint with the National Consumer Helpline (NCH) or the District Consumer Disputes Redressal Forum. Degree of Inconsistency is 4
 4. Would you like me to help you draft a complaint letter or notice to send to Farma?
-   Reason: History states the user is a retailer and not the end-consumer, which affects their options. The user cannot draft a complaint letter or notice to send to Farma. Degree of Inconsistency is 4",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,17
+   Reason: History states the user is a retailer and not the end-consumer, which affects their options. The user cannot draft a complaint letter or notice to send to Farma. Degree of Inconsistency is 4",17,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -3423,7 +3423,7 @@ The following information is inconsistent:
 5. I am willing to cooperate and provide any additional information or evidence that might be required to resolve this issue.
    Reason: Context does not mention any issue.
 6. Thank you for your attention to this matter.
-   Reason: Context does not mention any matter.",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,18
+   Reason: Context does not mention any matter.",18,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 Human: i bought a stove 5 years ago and it stopped working in 2020. we didnt use it back then so it wasnt an issue but i want a replacement now
@@ -3478,7 +3478,7 @@ Inconsistencies:
 ","Inconsistencies detected: Yes.
 The following information is inconsistent:
 1. Since you purchased the stove from Siemens, you can try contacting their customer service or warranty department to see if they can provide you with a replacement or repair the stove.
-   Reason: Context does not state that Siemens offers warranty and after-sales support for their products. Degree of Inconsistency is 4",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,19
+   Reason: Context does not state that Siemens offers warranty and after-sales support for their products. Degree of Inconsistency is 4",19,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -3636,7 +3636,7 @@ The following information is inconsistent:
 4. In your case, since you're dealing with a hospital that is allegedly responsible for leaving a foreign object inside your grandmother during surgery, you may want to consider filing a complaint with the State Medical Council of your state.
    Reason: Context states that the incident happened last week and the hospital apologized but said it was necessary, but the response implies that the hospital is responsible for leaving a foreign object inside the user's grandmother during surgery which is a serious breach of medical standards and can be considered negligence. Degree of Inconsistency is 5
 5. You can also use the information provided in the following links to file a complaint
-   Reason: Context does not mention the link https://www.india.gov.in/official-website-medical-council-india Degree of Inconsistency is 4",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,20
+   Reason: Context does not mention the link https://www.india.gov.in/official-website-medical-council-india Degree of Inconsistency is 4",20,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -3693,7 +3693,7 @@ Inconsistencies:
 ","Inconsistencies detected: Yes. 
 The following information is inconsistent: 
 1. I'd suggest considering filing a consumer complaint. 
-   Reason: History already indicates the user has been trying to file a complaint but has been unresponsive to their provider. Degree of Inconsistency is 4",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,21
+   Reason: History already indicates the user has been trying to file a complaint but has been unresponsive to their provider. Degree of Inconsistency is 4",21,Unknown
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -3833,4 +3833,4 @@ The following information is inconsistent:
 3. The response states that the Food Safety and Standards Authority handles restaurant billing disputes.
    Reason: This is not stated in the context.
 4. The response states that users can email complaints to fssaicomplaints@india.org.
-   Reason: This email is not given in the context.",UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,22
+   Reason: This email is not given in the context.",22,Unknown

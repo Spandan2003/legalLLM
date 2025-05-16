@@ -1,4 +1,4 @@
-Chat,Turns,Analysis_Combined,Result,Recall Annotation,Index,Precision Annotation
+Chat,Turns,Analysis_Combined,Result,chat_no,Precision Annotation
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -241,7 +241,7 @@ Have a great day, and I hope you get the resolution you deserve!","{1: {'context
 Inconsistencies Present: No
 Turn 2
 Inconsistencies Present: No
-",Inconsistencies detected: No.,UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,5,[][][][]
+",Inconsistencies detected: No.,5,[]
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 User: I subscribed to a software suite advertised as offering advanced data analytics tools, but after purchasing, I discovered that these features are only available in a higher-tier plan. The advertisement did not specify this limitation.
 AI: Thank you for sharing your concern. I'd be happy to help you with this issue. Can you please tell me what you would like to do about this situation? Would you like to seek a refund or compensation, or would you like to ask the company to upgrade your plan to the higher tier?
@@ -285,7 +285,7 @@ Once you've reviewed and modified the letter, I can guide you on the next steps,
 Inconsistencies Present: No
 Turn 2
 Inconsistencies Present: No
-",Inconsistencies detected: No.,UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,14,[][][][]
+",Inconsistencies detected: No.,14,[]
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -353,7 +353,7 @@ Human: No, thank you!","{1: {'context': '\nDocument 0:\nto the National Consumer
 Inconsistencies Present: No
 Turn 2
 Inconsistencies Present: No
-",Inconsistencies detected: No.,UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,15,[][][][]
+",Inconsistencies detected: No.,15,[]
 "﻿AI: Hi! I am your consumer grievance assistance tool. Kindly let me know how I can help you.
 
 
@@ -462,4 +462,4 @@ Human: No, thank you","{1: {'context': ""\nDocument 0:\nmy   consumer   grievanc
 Inconsistencies Present: No
 Turn 2
 Inconsistencies Present: No
-",Inconsistencies detected: No.,UnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknownUnknown,16,[][][][]
+",Inconsistencies detected: No.,16,[]
