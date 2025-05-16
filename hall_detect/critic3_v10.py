@@ -14,6 +14,7 @@ from langchain_community.llms import HuggingFacePipeline
 from transformers import pipeline
 from datetime import datetime
 import copy
+import time
 start_time = datetime.now()
 print("Start Time: ", start_time)
 
@@ -841,6 +842,7 @@ Input:
 
             def __call__(self, inputs):
                 # Extract inputs
+                start_time_llm = time.time()
                 query = inputs["query"]
                 history = inputs["history"]
                 response = inputs["response"]
@@ -877,6 +879,10 @@ Input:
                 # final_inputs.pop('history')
                 # final_inputs.pop('reformulated')
                 disp_dict(final_inputs)
+                elapsed = time.time() - start_time_llm
+                print("Sleeping for time: ", 24 - elapsed)
+                sleep_time_llm = max(0, 24 - elapsed)  # Wait so total time is 15s
+                time.sleep(sleep_time_llm)
                 return final_inputs
 
         return ResponseAnalysisChain(retriever, reformulate_chain, analysis_chain, analysis_chain2, memory_chain)
@@ -1147,14 +1153,14 @@ data.dropna(inplace=True, subset = ["Chat"])
 data.reset_index(inplace=True, drop=True)
 
 
-# data_to_be_redone = pd.read_csv("./hall_detect/critic3_v10/result_df_v1.csv", index_col=0)
-# data = data[data_to_be_redone["Turns"]=='[]']
+data_to_be_redone = pd.read_csv("./hall_detect/critic3_v10/result_df_v1.csv", index_col=0)
+data = data[data_to_be_redone["Turns"]=='[]']
 
 chats = data["Chat"].to_list()
 # folder = "llama3"
-folder = "deepseek"
-# folder = "gemini"
-folder = "gpt4omini"
+# folder = "deepseek"
+folder = "gemini"
+# folder = "gpt4omini"
 print("CHAT LENGTH :", len(chats))
 print([len(process_chat_sequence(chat)) for chat in chats])
 order = data.index.to_list()
@@ -1163,26 +1169,26 @@ print(order)
 # raise ValueError("No chats to process.")
 
 
-response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path, llm_model=folder, device_num=1)
+response_analysis_chain = create_rag_qa_chain_with_response_analysis(folder_path, llm_model=folder, device_num=0)
 # output_file = "./hall_detect/critic3_v10_deepseek/file_output_v" +ver +".txt"
 # final_df_loc = "./hall_detect/critic3_v10_deepseek/result_df_v" +ver +".csv"
 # csv_file = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".csv"
 # final_var = "./hall_detect/critic3_v10_deepseek/output_df_v" +ver +".pt"
 
-# output_file = "./hall_detect/critic3_v10_gemini/file_output_v" +ver +".txt"
-# final_df_loc = "./hall_detect/critic3_v10_gemini/result_df_v" +ver +".csv"
-# csv_file = "./hall_detect/critic3_v10_gemini/output_df_v" +ver +".csv"
-# final_var = "./hall_detect/critic3_v10_gemini/output_df_v" +ver +".pt"
+output_file = "./hall_detect/critic3_v10_gemini/file_output_v" +ver +".txt"
+final_df_loc = "./hall_detect/critic3_v10_gemini/result_df_v" +ver +".csv"
+csv_file = "./hall_detect/critic3_v10_gemini/output_df_v" +ver +".csv"
+final_var = "./hall_detect/critic3_v10_gemini/output_df_v" +ver +".pt"
 
 # output_file = "./hall_detect/critic3_v10/file_output_v" +ver +".txt"
 # final_df_loc = "./hall_detect/critic3_v10/result_df_v" +ver +".csv"
 # csv_file = "./hall_detect/critic3_v10/output_df_v" +ver +".csv"
 # final_var = "./hall_detect/critic3_v10/output_df_v" +ver +".pt"
 
-output_file = "./hall_detect/critic3_v10_gpt4omini/file_output_v" +ver +".txt"
-final_df_loc = "./hall_detect/critic3_v10_gpt4omini/result_df_v" +ver +".csv"
-csv_file = "./hall_detect/critic3_v10_gpt4omini/output_df_v" +ver +".csv"
-final_var = "./hall_detect/critic3_v10_gpt4omini/output_df_v" +ver +".pt"
+# output_file = "./hall_detect/critic3_v10_gpt4omini/file_output_v" +ver +".txt"
+# final_df_loc = "./hall_detect/critic3_v10_gpt4omini/result_df_v" +ver +".csv"
+# csv_file = "./hall_detect/critic3_v10_gpt4omini/output_df_v" +ver +".csv"
+# final_var = "./hall_detect/critic3_v10_gpt4omini/output_df_v" +ver +".pt"
 
 with open(output_file, "a") as f:
     f.write("Start\n\n\n\n\n\n")  

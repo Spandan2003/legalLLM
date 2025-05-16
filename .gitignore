@@ -1,3 +1,5 @@
 *.safetensors
 /cache/
 .env
+/baselines/hhem/results.csv
+/baselines/hhem/results1.csv

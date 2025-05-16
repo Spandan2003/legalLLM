@@ -1,0 +1,18 @@
+name: legalllm
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12
+  - langchain-community==0.3.16
+  - langchain-core==0.3.33
+  - langchain-huggingface==0.1.2
+  - langchain==0.3.17
+  - matplotlib
+  - numpy
+  - pandas
+  - pypdf2==3.0.1
+  - transformers==4.48.2
+  - faiss
+  - ipykernel
+prefix: /raid/nlp/common_user/miniconda3/envs/legalllm

@@ -18,3 +18,53 @@ faiss
 # langchain-core           0.3.33
 # langchain-huggingface    0.1.2
 # langchain-text-splitters 0.3.5
+
+
+Retrieving notices: done
+Channels:
+ - conda-forge
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): done
+Solving environment: done
+
+## Package Plan ##
+
+#   environment location: /raid/nlp/common_user/miniconda3/envs/legalllm
+
+#   added / updated specs:
+#     - sqlite
+
+
+# The following packages will be downloaded:
+
+#     package                    |            build
+#     ---------------------------|-----------------
+#     certifi-2025.4.26          |     pyhd8ed1ab_0         154 KB  conda-forge
+#     langchain-google-genai-2.0.9|     pyhd8ed1ab_0          38 KB  conda-forge
+#     langchain-openai-0.3.3     |     pyhd8ed1ab_0          40 KB  conda-forge
+#     libsqlite-3.49.2           |       hee588c1_0         895 KB  conda-forge
+#     ncurses-6.5                |       h2d0b736_3         871 KB  conda-forge
+#     pillow-10.4.0              |  py312h56024de_1        40.7 MB  conda-forge
+#     sqlite-3.49.2              |       h9eae976_0         840 KB  conda-forge
+#     ------------------------------------------------------------
+#                                            Total:        43.5 MB
+
+# The following packages will be UPDATED:
+
+#   ca-certificates    conda-forge/linux-64::ca-certificates~ --> conda-forge/noarch::ca-certificates-2025.4.26-hbd8a1cb_0 
+#   certifi                           2024.12.14-pyhd8ed1ab_0 --> 2025.4.26-pyhd8ed1ab_0 
+#   libsqlite                               3.48.0-hee588c1_1 --> 3.49.2-hee588c1_0 
+#   ncurses                 pkgs/main::ncurses-6.4-h6a678d5_0 --> conda-forge::ncurses-6.5-h2d0b736_3 
+#   openssl                                  3.4.0-h7b32b05_1 --> 3.5.0-h7b32b05_1 
+#   sqlite                                  3.32.3-hcee41ef_1 --> 3.49.2-h9eae976_0 
+
+# The following packages will be SUPERSEDED by a higher-priority channel:
+
+#   langchain-core     pypi/pypi::langchain-core-0.3.59-pypi~ --> conda-forge/noarch::langchain-core-0.3.33-pyhd8ed1ab_0 
+#   langchain-google-~ pypi/pypi::langchain-google-genai-2.0~ --> conda-forge/noarch::langchain-google-genai-2.0.9-pyhd8ed1ab_0 
+#   langchain-openai   pypi/pypi::langchain-openai-0.3.6-pyp~ --> conda-forge/noarch::langchain-openai-0.3.3-pyhd8ed1ab_0 
+
+# The following packages will be DOWNGRADED:
+
+#   pillow                             11.1.0-py312h80c1187_0 --> 10.4.0-py312h56024de_1 
